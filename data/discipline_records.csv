@@ -1,0 +1,234 @@
+record_id,person_id,department,year,month,record_type,severity,reason
+D0001,AO07216,Alpha,2025,5,Reprimand,Minor,Insubordination
+D0002,AO12605,Alpha,2023,2,Warning,Minor,Uniform/Regulation Violation
+D0003,AO12605,Alpha,2026,5,Commendation,,Exemplary Conduct
+D0004,G22139,Alpha,2022,6,Warning,Minor,Unauthorized Absence
+D0005,AO18976,Alpha,2025,4,Reprimand,Minor,Unauthorized Absence
+D0006,AO13357,Alpha,2025,10,Commendation,,Outstanding Duty Performance
+D0007,AO16547,Alpha,2026,1,Warning,Minor,Late Arrival
+D0008,AO21458,Alpha,2025,12,Commendation,,Outstanding Duty Performance
+D0009,AO16636,Alpha,2021,4,Reprimand,Minor,Insubordination
+D0010,AO25389,Alpha,2026,1,Reprimand,Minor,Equipment Mishandling
+D0011,AO25228,Alpha,2025,3,Reprimand,Major,Equipment Mishandling
+D0012,AO25228,Alpha,2024,7,Warning,Minor,Late Arrival
+D0013,AO22646,Alpha,2026,5,Warning,Minor,Equipment Mishandling
+D0014,AO22646,Alpha,2025,11,Commendation,,Exemplary Conduct
+D0015,AO22585,Alpha,2024,10,Warning,Minor,Unauthorized Absence
+D0016,AO22585,Alpha,2021,6,Commendation,,Exemplary Conduct
+D0017,AO11628,Alpha,2022,6,Commendation,,Exemplary Conduct
+D0018,AO15635,Alpha,2025,11,Warning,Minor,Equipment Mishandling
+D0019,G23402,Alpha,2024,3,Warning,Minor,Late Arrival
+D0020,G18673,Alpha,2024,5,Reprimand,Major,Late Arrival
+D0021,G23944,Alpha,2026,1,Warning,Minor,Late Arrival
+D0022,G25596,Alpha,2026,2,Warning,Minor,Unauthorized Absence
+D0023,G23288,Alpha,2026,4,Warning,Minor,Insubordination
+D0024,G23288,Alpha,2026,1,Warning,Minor,Unauthorized Absence
+D0025,G23288,Alpha,2023,1,Reprimand,Minor,Equipment Mishandling
+D0026,G23288,Alpha,2023,5,Commendation,,Outstanding Duty Performance
+D0027,G25956,Alpha,2025,9,Warning,Minor,Equipment Mishandling
+D0028,G22091,Alpha,2025,2,Reprimand,Minor,Late Arrival
+D0029,G22153,Alpha,2022,1,Reprimand,Major,Uniform/Regulation Violation
+D0030,G24197,Alpha,2024,5,Warning,Minor,Unauthorized Absence
+D0031,G22314,Alpha,2022,3,Warning,Minor,Uniform/Regulation Violation
+D0032,G13885,Alpha,2025,12,Warning,Minor,Uniform/Regulation Violation
+D0033,G08643,Alpha,2024,7,Warning,Minor,Equipment Mishandling
+D0034,G08693,Alpha,2024,4,Warning,Minor,Equipment Mishandling
+D0035,G08693,Alpha,2026,3,Commendation,,Outstanding Duty Performance
+D0036,G24293,Alpha,2025,6,Reprimand,Minor,Insubordination
+D0037,G22075,Alpha,2023,3,Warning,Minor,Unauthorized Absence
+D0038,G23253,Alpha,2026,6,Warning,Minor,Equipment Mishandling
+D0039,G22206,Alpha,2026,1,Commendation,,Exemplary Conduct
+D0040,G25276,Alpha,2026,1,Reprimand,Minor,Insubordination
+D0041,G22585,Alpha,2024,5,Commendation,,Outstanding Duty Performance
+D0042,G23995,Alpha,2024,5,Warning,Minor,Equipment Mishandling
+D0043,G23995,Alpha,2024,4,Reprimand,Major,Equipment Mishandling
+D0044,G17797,Alpha,2025,3,Reprimand,Minor,Insubordination
+D0045,G22249,Alpha,2022,12,Commendation,,Outstanding Duty Performance
+D0046,G22769,Alpha,2023,3,Warning,Minor,Uniform/Regulation Violation
+D0047,G11223,Alpha,2024,7,Commendation,,Exemplary Conduct
+D0048,G25102,Alpha,2026,3,Commendation,,Outstanding Duty Performance
+D0049,G23338,Alpha,2022,3,Commendation,,Exemplary Conduct
+D0050,G25255,Alpha,2025,9,Reprimand,Major,Insubordination
+D0051,G25255,Alpha,2025,12,Commendation,,Outstanding Duty Performance
+D0052,AO21460,Beta,2026,5,Warning,Minor,Uniform/Regulation Violation
+D0053,AO21460,Beta,2022,6,Reprimand,Major,Late Arrival
+D0054,AO21945,Beta,2024,3,Reprimand,Minor,Late Arrival
+D0055,AO22715,Beta,2023,12,Warning,Minor,Uniform/Regulation Violation
+D0056,AO16664,Beta,2024,6,Warning,Minor,Equipment Mishandling
+D0057,AO16664,Beta,2024,2,Warning,Minor,Unauthorized Absence
+D0058,AO15870,Beta,2025,10,Commendation,,Exemplary Conduct
+D0059,AO17162,Beta,2021,7,Warning,Minor,Unauthorized Absence
+D0060,AO24225,Beta,2025,2,Commendation,,Outstanding Duty Performance
+D0061,AO24225,Beta,2025,4,Commendation,,Outstanding Duty Performance
+D0062,AO12508,Beta,2023,12,Reprimand,Minor,Uniform/Regulation Violation
+D0063,AO12508,Beta,2023,8,Commendation,,Outstanding Duty Performance
+D0064,AO20690,Beta,2025,9,Commendation,,Outstanding Duty Performance
+D0065,AO20211,Beta,2026,5,Reprimand,Major,Uniform/Regulation Violation
+D0066,AO23728,Beta,2023,9,Commendation,,Exemplary Conduct
+D0067,AO22709,Beta,2025,7,Reprimand,Minor,Unauthorized Absence
+D0068,AO18592,Beta,2023,6,Reprimand,Minor,Uniform/Regulation Violation
+D0069,AO18592,Beta,2021,2,Warning,Minor,Equipment Mishandling
+D0070,AO24602,Beta,2026,3,Commendation,,Outstanding Duty Performance
+D0071,AO23143,Beta,2026,4,Commendation,,Exemplary Conduct
+D0072,AO24756,Beta,2026,2,Reprimand,Minor,Unauthorized Absence
+D0073,AO23430,Beta,2026,6,Reprimand,Minor,Uniform/Regulation Violation
+D0074,AO24998,Beta,2024,9,Commendation,,Outstanding Duty Performance
+D0075,G11589,Beta,2022,11,Warning,Minor,Uniform/Regulation Violation
+D0076,G11589,Beta,2022,9,Warning,Minor,Insubordination
+D0077,G23771,Beta,2024,9,Warning,Minor,Equipment Mishandling
+D0078,G24483,Beta,2025,8,Reprimand,Minor,Uniform/Regulation Violation
+D0079,G24819,Beta,2024,10,Warning,Minor,Insubordination
+D0080,G25161,Beta,2025,12,Commendation,,Outstanding Duty Performance
+D0081,G08986,Beta,2025,6,Commendation,,Outstanding Duty Performance
+D0082,G25990,Beta,2026,1,Warning,Minor,Uniform/Regulation Violation
+D0083,G24128,Beta,2023,1,Warning,Minor,Equipment Mishandling
+D0084,G24128,Beta,2026,1,Commendation,,Outstanding Duty Performance
+D0085,G25915,Beta,2026,5,Warning,Minor,Unauthorized Absence
+D0086,G24309,Beta,2026,4,Warning,Minor,Uniform/Regulation Violation
+D0087,G24309,Beta,2023,5,Warning,Minor,Late Arrival
+D0088,G24284,Beta,2026,3,Warning,Minor,Unauthorized Absence
+D0089,G24284,Beta,2025,1,Reprimand,Major,Late Arrival
+D0090,G14731,Beta,2026,3,Reprimand,Minor,Uniform/Regulation Violation
+D0091,G12593,Beta,2024,11,Warning,Minor,Equipment Mishandling
+D0092,G25778,Beta,2026,2,Reprimand,Minor,Late Arrival
+D0093,G24580,Beta,2025,7,Warning,Minor,Equipment Mishandling
+D0094,G23226,Beta,2025,9,Commendation,,Exemplary Conduct
+D0095,AO12824,Delta,2021,3,Commendation,,Exemplary Conduct
+D0096,AO18342,Delta,2024,5,Commendation,,Outstanding Duty Performance
+D0097,AO23991,Delta,2025,12,Warning,Minor,Equipment Mishandling
+D0098,AO23991,Delta,2026,5,Warning,Minor,Insubordination
+D0099,AO21963,Delta,2024,10,Warning,Minor,Unauthorized Absence
+D0100,AO12189,Delta,2025,10,Warning,Minor,Uniform/Regulation Violation
+D0101,AO15573,Delta,2026,2,Warning,Minor,Equipment Mishandling
+D0102,AO18127,Delta,2025,5,Warning,Minor,Uniform/Regulation Violation
+D0103,AO13278,Delta,2024,3,Warning,Minor,Equipment Mishandling
+D0104,AO13278,Delta,2024,5,Commendation,,Exemplary Conduct
+D0105,AO15860,Delta,2026,4,Warning,Minor,Uniform/Regulation Violation
+D0106,AO23574,Delta,2025,2,Reprimand,Major,Insubordination
+D0107,AO24631,Delta,2024,3,Warning,Minor,Late Arrival
+D0108,AO15583,Delta,2024,1,Warning,Minor,Late Arrival
+D0109,AO24190,Delta,2026,3,Commendation,,Outstanding Duty Performance
+D0110,AO13289,Delta,2022,1,Warning,Minor,Unauthorized Absence
+D0111,AO21091,Delta,2026,3,Warning,Minor,Equipment Mishandling
+D0112,AO23405,Delta,2023,12,Commendation,,Outstanding Duty Performance
+D0113,G24868,Delta,2026,5,Warning,Minor,Equipment Mishandling
+D0114,G22662,Delta,2023,5,Commendation,,Outstanding Duty Performance
+D0115,G21369,Delta,2025,12,Commendation,,Outstanding Duty Performance
+D0116,G23804,Delta,2024,7,Warning,Minor,Insubordination
+D0117,G07820,Delta,2023,2,Commendation,,Outstanding Duty Performance
+D0118,G09841,Delta,2026,4,Reprimand,Minor,Insubordination
+D0119,G09841,Delta,2026,1,Commendation,,Exemplary Conduct
+D0120,G25584,Delta,2024,11,Warning,Minor,Uniform/Regulation Violation
+D0121,G23810,Delta,2026,1,Warning,Minor,Unauthorized Absence
+D0122,G23810,Delta,2024,12,Warning,Minor,Late Arrival
+D0123,G23810,Delta,2026,3,Warning,Minor,Insubordination
+D0124,G25456,Delta,2026,4,Warning,Minor,Insubordination
+D0125,G25456,Delta,2025,3,Warning,Minor,Uniform/Regulation Violation
+D0126,G25456,Delta,2025,1,Reprimand,Minor,Unauthorized Absence
+D0127,G22037,Delta,2024,12,Warning,Minor,Insubordination
+D0128,G07673,Delta,2025,8,Commendation,,Exemplary Conduct
+D0129,G07673,Delta,2025,10,Commendation,,Outstanding Duty Performance
+D0130,G22535,Delta,2025,2,Commendation,,Exemplary Conduct
+D0131,G23918,Delta,2025,12,Warning,Minor,Equipment Mishandling
+D0132,G22220,Delta,2024,1,Reprimand,Minor,Equipment Mishandling
+D0133,G22168,Delta,2025,5,Commendation,,Outstanding Duty Performance
+D0134,G13401,Delta,2026,2,Commendation,,Outstanding Duty Performance
+D0135,G22436,Delta,2026,3,Warning,Minor,Insubordination
+D0136,G22436,Delta,2022,5,Warning,Minor,Equipment Mishandling
+D0137,G22436,Delta,2025,2,Commendation,,Outstanding Duty Performance
+D0138,G13194,Delta,2024,10,Reprimand,Minor,Equipment Mishandling
+D0139,G07405,Delta,2026,2,Reprimand,Minor,Equipment Mishandling
+D0140,G11903,Delta,2024,8,Reprimand,Minor,Uniform/Regulation Violation
+D0141,G23626,Delta,2023,7,Commendation,,Exemplary Conduct
+D0142,AO17072,Gamma,2025,2,Warning,Minor,Equipment Mishandling
+D0143,AO21429,Gamma,2021,10,Commendation,,Exemplary Conduct
+D0144,AO21429,Gamma,2024,8,Commendation,,Outstanding Duty Performance
+D0145,AO16860,Gamma,2023,10,Commendation,,Outstanding Duty Performance
+D0146,AO23313,Gamma,2024,10,Commendation,,Exemplary Conduct
+D0147,AO17887,Gamma,2025,9,Warning,Minor,Equipment Mishandling
+D0148,AO18123,Gamma,2022,9,Commendation,,Outstanding Duty Performance
+D0149,AO18123,Gamma,2022,5,Commendation,,Exemplary Conduct
+D0150,AO18600,Gamma,2021,1,Commendation,,Exemplary Conduct
+D0151,AO24112,Gamma,2025,4,Reprimand,Minor,Unauthorized Absence
+D0152,AO18070,Gamma,2022,4,Warning,Minor,Equipment Mishandling
+D0153,AO16652,Gamma,2026,5,Warning,Minor,Uniform/Regulation Violation
+D0154,AO21394,Gamma,2025,6,Warning,Minor,Uniform/Regulation Violation
+D0155,AO21394,Gamma,2022,5,Warning,Minor,Uniform/Regulation Violation
+D0156,AO25008,Gamma,2024,5,Commendation,,Outstanding Duty Performance
+D0157,AO13655,Gamma,2025,6,Reprimand,Minor,Unauthorized Absence
+D0158,AO13655,Gamma,2022,10,Warning,Minor,Uniform/Regulation Violation
+D0159,AO19192,Gamma,2024,9,Warning,Minor,Insubordination
+D0160,AO22118,Gamma,2024,9,Reprimand,Minor,Late Arrival
+D0161,AO22118,Gamma,2025,12,Warning,Minor,Equipment Mishandling
+D0162,AO22118,Gamma,2024,12,Reprimand,Major,Uniform/Regulation Violation
+D0163,AO22118,Gamma,2024,9,Commendation,,Outstanding Duty Performance
+D0164,AO12488,Gamma,2023,7,Commendation,,Exemplary Conduct
+D0165,AO21355,Gamma,2026,5,Commendation,,Outstanding Duty Performance
+D0166,AO21355,Gamma,2026,2,Commendation,,Exemplary Conduct
+D0167,AO16958,Gamma,2022,10,Reprimand,Minor,Insubordination
+D0168,AO23557,Gamma,2026,5,Warning,Minor,Uniform/Regulation Violation
+D0169,AO23557,Gamma,2023,2,Warning,Minor,Equipment Mishandling
+D0170,G08994,Gamma,2022,8,Commendation,,Outstanding Duty Performance
+D0171,G21712,Gamma,2025,9,Commendation,,Outstanding Duty Performance
+D0172,G21712,Gamma,2023,7,Commendation,,Outstanding Duty Performance
+D0173,G24625,Gamma,2024,9,Warning,Minor,Late Arrival
+D0174,G08825,Gamma,2024,10,Warning,Minor,Late Arrival
+D0175,G08825,Gamma,2025,7,Commendation,,Exemplary Conduct
+D0176,G24228,Gamma,2024,5,Reprimand,Minor,Unauthorized Absence
+D0177,G24228,Gamma,2026,5,Commendation,,Outstanding Duty Performance
+D0178,G22914,Gamma,2026,4,Warning,Minor,Unauthorized Absence
+D0179,G21335,Gamma,2025,6,Warning,Minor,Insubordination
+D0180,G18607,Gamma,2023,7,Commendation,,Outstanding Duty Performance
+D0181,G22236,Gamma,2024,3,Commendation,,Exemplary Conduct
+D0182,G23603,Gamma,2023,3,Warning,Minor,Equipment Mishandling
+D0183,G23603,Gamma,2026,3,Warning,Minor,Equipment Mishandling
+D0184,G23250,Gamma,2025,2,Reprimand,Minor,Insubordination
+D0185,G09851,Gamma,2024,2,Warning,Minor,Equipment Mishandling
+D0186,G24028,Gamma,2025,7,Warning,Minor,Equipment Mishandling
+D0187,G22616,Gamma,2024,3,Warning,Minor,Insubordination
+D0188,G22788,Gamma,2026,4,Reprimand,Minor,Uniform/Regulation Violation
+D0189,G24144,Gamma,2026,4,Commendation,,Exemplary Conduct
+D0190,G24144,Gamma,2025,3,Commendation,,Exemplary Conduct
+D0191,AO12830,Sigma,2025,7,Warning,Minor,Equipment Mishandling
+D0192,AO22617,Sigma,2026,2,Commendation,,Exemplary Conduct
+D0193,AO21436,Sigma,2024,11,Warning,Minor,Late Arrival
+D0194,AO25376,Sigma,2025,4,Warning,Minor,Uniform/Regulation Violation
+D0195,AO25376,Sigma,2025,5,Warning,Minor,Uniform/Regulation Violation
+D0196,AO23780,Sigma,2023,12,Warning,Minor,Unauthorized Absence
+D0197,AO14671,Sigma,2023,8,Commendation,,Outstanding Duty Performance
+D0198,AO11537,Sigma,2023,11,Commendation,,Exemplary Conduct
+D0199,AO12140,Sigma,2025,4,Commendation,,Outstanding Duty Performance
+D0200,AO14110,Sigma,2026,2,Warning,Minor,Insubordination
+D0201,AO14110,Sigma,2022,7,Commendation,,Outstanding Duty Performance
+D0202,AO23508,Sigma,2023,8,Commendation,,Outstanding Duty Performance
+D0203,AO22645,Sigma,2023,6,Warning,Minor,Equipment Mishandling
+D0204,AO21878,Sigma,2023,1,Commendation,,Exemplary Conduct
+D0205,AO20873,Sigma,2026,3,Commendation,,Outstanding Duty Performance
+D0206,AO17508,Sigma,2023,9,Reprimand,Major,Insubordination
+D0207,AO13943,Sigma,2024,9,Warning,Minor,Late Arrival
+D0208,AO25541,Sigma,2024,4,Warning,Minor,Equipment Mishandling
+D0209,AO22788,Sigma,2024,2,Warning,Minor,Late Arrival
+D0210,AO22788,Sigma,2023,6,Commendation,,Outstanding Duty Performance
+D0211,AO21338,Sigma,2026,1,Warning,Minor,Uniform/Regulation Violation
+D0212,G21956,Sigma,2024,4,Warning,Minor,Equipment Mishandling
+D0213,G24754,Sigma,2024,11,Warning,Minor,Equipment Mishandling
+D0214,G21555,Sigma,2025,7,Reprimand,Minor,Unauthorized Absence
+D0215,G23967,Sigma,2023,1,Commendation,,Exemplary Conduct
+D0216,G13345,Sigma,2025,10,Commendation,,Exemplary Conduct
+D0217,G22782,Sigma,2026,1,Warning,Minor,Late Arrival
+D0218,G22028,Sigma,2026,5,Commendation,,Outstanding Duty Performance
+D0219,G21049,Sigma,2023,12,Reprimand,Minor,Uniform/Regulation Violation
+D0220,G21049,Sigma,2024,5,Reprimand,Minor,Unauthorized Absence
+D0221,G22471,Sigma,2024,8,Warning,Minor,Equipment Mishandling
+D0222,G18512,Sigma,2024,6,Commendation,,Outstanding Duty Performance
+D0223,G23291,Sigma,2026,6,Warning,Minor,Uniform/Regulation Violation
+D0224,G23231,Sigma,2024,10,Reprimand,Minor,Uniform/Regulation Violation
+D0225,G23588,Sigma,2024,6,Commendation,,Exemplary Conduct
+D0226,G09565,Sigma,2024,1,Commendation,,Exemplary Conduct
+D0227,G21906,Sigma,2026,4,Commendation,,Outstanding Duty Performance
+D0228,G17879,Sigma,2022,4,Commendation,,Exemplary Conduct
+D0229,G22590,Sigma,2023,11,Reprimand,Minor,Uniform/Regulation Violation
+D0230,G23419,Sigma,2026,4,Warning,Minor,Insubordination
+D0231,G23419,Sigma,2022,12,Reprimand,Minor,Equipment Mishandling
+D0232,G23419,Sigma,2026,3,Reprimand,Major,Insubordination
+D0233,G25531,Sigma,2024,12,Commendation,,Outstanding Duty Performance

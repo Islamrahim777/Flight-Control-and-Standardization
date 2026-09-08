@@ -1,0 +1,21 @@
+aircraft_id,department,model,in_service_date,base_condition_score
+TB2-A01,Alpha,Bayraktar TB2,2022-01-24,93.6
+TB2-A02,Alpha,Bayraktar TB2,2023-06-14,84.7
+TB2-A03,Alpha,Bayraktar TB2,2020-03-06,92.2
+TB2-A04,Alpha,Bayraktar TB2,2023-03-12,87.0
+TB2-B01,Beta,Bayraktar TB2,2023-11-01,88.1
+TB2-B02,Beta,Bayraktar TB2,2020-09-13,90.0
+TB2-B03,Beta,Bayraktar TB2,2023-01-08,94.4
+TB2-B04,Beta,Bayraktar TB2,2020-03-06,91.3
+TB2-D01,Delta,Bayraktar TB2,2023-04-21,83.7
+TB2-D02,Delta,Bayraktar TB2,2022-08-25,93.3
+TB2-D03,Delta,Bayraktar TB2,2023-07-04,83.9
+TB2-D04,Delta,Bayraktar TB2,2020-10-13,93.3
+TB2-G01,Gamma,Bayraktar TB2,2020-10-13,91.1
+TB2-G02,Gamma,Bayraktar TB2,2022-09-05,92.5
+TB2-G03,Gamma,Bayraktar TB2,2021-07-17,94.9
+TB2-G04,Gamma,Bayraktar TB2,2021-05-03,88.2
+TB2-S01,Sigma,Bayraktar TB2,2022-03-26,80.1
+TB2-S02,Sigma,Bayraktar TB2,2023-10-22,82.8
+TB2-S03,Sigma,Bayraktar TB2,2023-10-01,79.8
+TB2-S04,Sigma,Bayraktar TB2,2021-01-07,75.3

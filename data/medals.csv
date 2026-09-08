@@ -1,0 +1,872 @@
+medal_id,person_id,department,medal_type,award_date,reason
+M0001,AO12605,Alpha,Meritorious Service Medal,2023-02-08,Sustained high standard of duty performance
+M0002,AO12605,Alpha,International Cooperation Medal,2026-05-29,Contribution to joint/NATO training exercises
+M0003,AO17018,Alpha,Meritorious Service Medal,2022-10-25,Sustained high standard of duty performance
+M0004,AO17018,Alpha,Unit Commendation,2024-02-10,Contribution to unit-level achievement
+M0005,G22139,Alpha,Years of Service Medal,2022-10-06,Long and continuous military service
+M0006,G22139,Alpha,Presidential Commendation,2022-09-26,Distinguished service recognized at command level
+M0007,G22139,Alpha,Unit Commendation,2024-01-13,Contribution to unit-level achievement
+M0008,G22139,Alpha,Distinguished Marksmanship Medal,2025-01-13,Recognized shooting proficiency
+M0009,AO16543,Alpha,Presidential Commendation,2021-04-15,Distinguished service recognized at command level
+M0010,AO16543,Alpha,Presidential Commendation,2024-02-05,Distinguished service recognized at command level
+M0011,AO22963,Alpha,Years of Service Medal,2023-04-14,Long and continuous military service
+M0012,AO22963,Alpha,Unit Commendation,2025-06-08,Contribution to unit-level achievement
+M0013,AO22963,Alpha,Operational Excellence Medal,2025-04-09,Exceptional performance during operational missions
+M0014,AO19391,Alpha,Operational Excellence Medal,2024-12-22,Exceptional performance during operational missions
+M0015,AO19391,Alpha,Meritorious Service Medal,2024-07-20,Sustained high standard of duty performance
+M0016,AO19391,Alpha,Presidential Commendation,2024-03-29,Distinguished service recognized at command level
+M0017,AO18976,Alpha,Meritorious Service Medal,2025-02-13,Sustained high standard of duty performance
+M0018,AO13357,Alpha,Presidential Commendation,2024-01-24,Distinguished service recognized at command level
+M0019,AO13357,Alpha,Operational Excellence Medal,2026-04-14,Exceptional performance during operational missions
+M0020,AO13357,Alpha,Operational Excellence Medal,2023-06-17,Exceptional performance during operational missions
+M0021,AO13357,Alpha,Presidential Commendation,2024-03-10,Distinguished service recognized at command level
+M0022,AO13357,Alpha,Years of Service Medal,2025-06-07,Long and continuous military service
+M0023,AO13357,Alpha,Meritorious Service Medal,2025-08-30,Sustained high standard of duty performance
+M0024,AO23290,Alpha,International Cooperation Medal,2025-09-25,Contribution to joint/NATO training exercises
+M0025,AO13497,Alpha,Years of Service Medal,2025-11-06,Long and continuous military service
+M0026,AO13497,Alpha,Distinguished Marksmanship Medal,2026-01-18,Recognized shooting proficiency
+M0027,AO21304,Alpha,Unit Commendation,2026-03-08,Contribution to unit-level achievement
+M0028,AO21304,Alpha,Meritorious Service Medal,2024-03-29,Sustained high standard of duty performance
+M0029,AO24033,Alpha,Operational Excellence Medal,2026-06-06,Exceptional performance during operational missions
+M0030,AO24033,Alpha,Years of Service Medal,2026-05-29,Long and continuous military service
+M0031,AO24033,Alpha,Operational Excellence Medal,2025-04-17,Exceptional performance during operational missions
+M0032,AO25712,Alpha,International Cooperation Medal,2025-08-09,Contribution to joint/NATO training exercises
+M0033,AO25712,Alpha,Operational Excellence Medal,2025-08-26,Exceptional performance during operational missions
+M0034,AO25712,Alpha,Years of Service Medal,2025-11-27,Long and continuous military service
+M0035,AO25712,Alpha,Years of Service Medal,2025-12-24,Long and continuous military service
+M0036,AO21586,Alpha,Presidential Commendation,2025-09-14,Distinguished service recognized at command level
+M0037,AO21586,Alpha,International Cooperation Medal,2026-01-17,Contribution to joint/NATO training exercises
+M0038,AO24023,Alpha,International Cooperation Medal,2025-09-20,Contribution to joint/NATO training exercises
+M0039,AO24023,Alpha,Unit Commendation,2025-01-10,Contribution to unit-level achievement
+M0040,AO24023,Alpha,Years of Service Medal,2025-05-20,Long and continuous military service
+M0041,AO24023,Alpha,Meritorious Service Medal,2025-07-11,Sustained high standard of duty performance
+M0042,AO21458,Alpha,Meritorious Service Medal,2026-05-30,Sustained high standard of duty performance
+M0043,AO21458,Alpha,Unit Commendation,2024-11-12,Contribution to unit-level achievement
+M0044,AO18524,Alpha,Meritorious Service Medal,2023-02-04,Sustained high standard of duty performance
+M0045,AO18524,Alpha,Presidential Commendation,2024-11-22,Distinguished service recognized at command level
+M0046,AO18524,Alpha,Presidential Commendation,2023-02-14,Distinguished service recognized at command level
+M0047,AO12328,Alpha,International Cooperation Medal,2023-12-22,Contribution to joint/NATO training exercises
+M0048,AO12328,Alpha,Unit Commendation,2022-07-20,Contribution to unit-level achievement
+M0049,AO12328,Alpha,International Cooperation Medal,2023-03-21,Contribution to joint/NATO training exercises
+M0050,AO12328,Alpha,Unit Commendation,2024-07-11,Contribution to unit-level achievement
+M0051,AO12328,Alpha,Operational Excellence Medal,2026-02-26,Exceptional performance during operational missions
+M0052,AO25328,Alpha,International Cooperation Medal,2025-06-13,Contribution to joint/NATO training exercises
+M0053,AO25328,Alpha,Operational Excellence Medal,2026-03-28,Exceptional performance during operational missions
+M0054,AO24416,Alpha,Operational Excellence Medal,2024-08-13,Exceptional performance during operational missions
+M0055,AO24416,Alpha,Meritorious Service Medal,2026-05-01,Sustained high standard of duty performance
+M0056,AO24416,Alpha,International Cooperation Medal,2025-09-16,Contribution to joint/NATO training exercises
+M0057,AO24416,Alpha,Unit Commendation,2025-08-09,Contribution to unit-level achievement
+M0058,AO22701,Alpha,Presidential Commendation,2024-03-02,Distinguished service recognized at command level
+M0059,AO22701,Alpha,Presidential Commendation,2025-08-10,Distinguished service recognized at command level
+M0060,AO24250,Alpha,Meritorious Service Medal,2026-01-22,Sustained high standard of duty performance
+M0061,AO24250,Alpha,Distinguished Marksmanship Medal,2024-12-05,Recognized shooting proficiency
+M0062,AO24250,Alpha,International Cooperation Medal,2025-03-13,Contribution to joint/NATO training exercises
+M0063,AO24250,Alpha,Years of Service Medal,2025-10-29,Long and continuous military service
+M0064,AO22585,Alpha,Unit Commendation,2022-06-02,Contribution to unit-level achievement
+M0065,AO22585,Alpha,Presidential Commendation,2023-05-14,Distinguished service recognized at command level
+M0066,AO22585,Alpha,Operational Excellence Medal,2024-05-20,Exceptional performance during operational missions
+M0067,AO22585,Alpha,Meritorious Service Medal,2025-10-22,Sustained high standard of duty performance
+M0068,AO12461,Alpha,Unit Commendation,2025-01-22,Contribution to unit-level achievement
+M0069,AO19336,Alpha,Meritorious Service Medal,2021-12-23,Sustained high standard of duty performance
+M0070,AO22921,Alpha,Years of Service Medal,2023-10-16,Long and continuous military service
+M0071,AO20473,Alpha,Unit Commendation,2025-08-11,Contribution to unit-level achievement
+M0072,AO20473,Alpha,International Cooperation Medal,2022-09-20,Contribution to joint/NATO training exercises
+M0073,AO20473,Alpha,Operational Excellence Medal,2024-04-13,Exceptional performance during operational missions
+M0074,AO24361,Alpha,Presidential Commendation,2026-05-23,Distinguished service recognized at command level
+M0075,AO24361,Alpha,Presidential Commendation,2025-12-11,Distinguished service recognized at command level
+M0076,AO24361,Alpha,Presidential Commendation,2024-11-14,Distinguished service recognized at command level
+M0077,AO11628,Alpha,International Cooperation Medal,2026-05-09,Contribution to joint/NATO training exercises
+M0078,AO21607,Alpha,Meritorious Service Medal,2025-06-23,Sustained high standard of duty performance
+M0079,AO17445,Alpha,International Cooperation Medal,2026-06-16,Contribution to joint/NATO training exercises
+M0080,AO23491,Alpha,Distinguished Marksmanship Medal,2025-09-30,Recognized shooting proficiency
+M0081,AO23491,Alpha,Years of Service Medal,2023-10-14,Long and continuous military service
+M0082,AO18742,Alpha,Operational Excellence Medal,2026-05-13,Exceptional performance during operational missions
+M0083,AO15635,Alpha,Meritorious Service Medal,2023-03-19,Sustained high standard of duty performance
+M0084,AO15635,Alpha,Years of Service Medal,2024-06-16,Long and continuous military service
+M0085,AO15635,Alpha,Operational Excellence Medal,2023-08-30,Exceptional performance during operational missions
+M0086,AO15635,Alpha,Presidential Commendation,2024-12-03,Distinguished service recognized at command level
+M0087,G23402,Alpha,Years of Service Medal,2026-06-03,Long and continuous military service
+M0088,G23402,Alpha,Unit Commendation,2026-06-15,Contribution to unit-level achievement
+M0089,G19017,Alpha,Presidential Commendation,2026-02-25,Distinguished service recognized at command level
+M0090,G19017,Alpha,Distinguished Marksmanship Medal,2021-01-18,Recognized shooting proficiency
+M0091,G22746,Alpha,Distinguished Marksmanship Medal,2025-04-17,Recognized shooting proficiency
+M0092,G22746,Alpha,Operational Excellence Medal,2025-05-09,Exceptional performance during operational missions
+M0093,G18673,Alpha,International Cooperation Medal,2026-01-08,Contribution to joint/NATO training exercises
+M0094,G18673,Alpha,Operational Excellence Medal,2023-09-02,Exceptional performance during operational missions
+M0095,G18673,Alpha,International Cooperation Medal,2026-05-22,Contribution to joint/NATO training exercises
+M0096,G18673,Alpha,Operational Excellence Medal,2024-02-25,Exceptional performance during operational missions
+M0097,G18673,Alpha,International Cooperation Medal,2024-09-22,Contribution to joint/NATO training exercises
+M0098,G11740,Alpha,Unit Commendation,2022-08-20,Contribution to unit-level achievement
+M0099,G23944,Alpha,International Cooperation Medal,2024-02-11,Contribution to joint/NATO training exercises
+M0100,G22677,Alpha,Operational Excellence Medal,2025-10-31,Exceptional performance during operational missions
+M0101,G22677,Alpha,Distinguished Marksmanship Medal,2025-02-06,Recognized shooting proficiency
+M0102,G22677,Alpha,Years of Service Medal,2024-11-01,Long and continuous military service
+M0103,G25596,Alpha,Unit Commendation,2025-08-03,Contribution to unit-level achievement
+M0104,G25878,Alpha,Unit Commendation,2025-08-18,Contribution to unit-level achievement
+M0105,G22091,Alpha,Years of Service Medal,2026-06-03,Long and continuous military service
+M0106,G22091,Alpha,Operational Excellence Medal,2025-08-16,Exceptional performance during operational missions
+M0107,G18716,Alpha,Distinguished Marksmanship Medal,2022-05-20,Recognized shooting proficiency
+M0108,G18716,Alpha,Meritorious Service Medal,2024-07-10,Sustained high standard of duty performance
+M0109,G18716,Alpha,Meritorious Service Medal,2026-01-21,Sustained high standard of duty performance
+M0110,G18716,Alpha,Meritorious Service Medal,2022-08-17,Sustained high standard of duty performance
+M0111,G18716,Alpha,Meritorious Service Medal,2024-12-20,Sustained high standard of duty performance
+M0112,G22153,Alpha,International Cooperation Medal,2023-10-07,Contribution to joint/NATO training exercises
+M0113,G22153,Alpha,Years of Service Medal,2024-03-14,Long and continuous military service
+M0114,G22153,Alpha,Operational Excellence Medal,2023-09-19,Exceptional performance during operational missions
+M0115,G11488,Alpha,International Cooperation Medal,2023-06-19,Contribution to joint/NATO training exercises
+M0116,G11488,Alpha,Presidential Commendation,2026-01-30,Distinguished service recognized at command level
+M0117,G11488,Alpha,Operational Excellence Medal,2022-10-03,Exceptional performance during operational missions
+M0118,G11488,Alpha,Presidential Commendation,2025-11-25,Distinguished service recognized at command level
+M0119,G24197,Alpha,Meritorious Service Medal,2025-07-13,Sustained high standard of duty performance
+M0120,G24197,Alpha,Presidential Commendation,2025-03-31,Distinguished service recognized at command level
+M0121,G17139,Alpha,Unit Commendation,2024-08-13,Contribution to unit-level achievement
+M0122,G22314,Alpha,Presidential Commendation,2024-07-09,Distinguished service recognized at command level
+M0123,G22314,Alpha,Distinguished Marksmanship Medal,2023-04-30,Recognized shooting proficiency
+M0124,G22314,Alpha,Meritorious Service Medal,2023-03-22,Sustained high standard of duty performance
+M0125,G22314,Alpha,Presidential Commendation,2024-07-30,Distinguished service recognized at command level
+M0126,G13885,Alpha,Meritorious Service Medal,2025-07-04,Sustained high standard of duty performance
+M0127,G13885,Alpha,International Cooperation Medal,2025-12-08,Contribution to joint/NATO training exercises
+M0128,G13885,Alpha,Presidential Commendation,2024-06-07,Distinguished service recognized at command level
+M0129,G13885,Alpha,Meritorious Service Medal,2026-03-06,Sustained high standard of duty performance
+M0130,G13885,Alpha,Presidential Commendation,2024-06-01,Distinguished service recognized at command level
+M0131,G13885,Alpha,Operational Excellence Medal,2025-04-01,Exceptional performance during operational missions
+M0132,G23673,Alpha,Operational Excellence Medal,2024-01-14,Exceptional performance during operational missions
+M0133,G23673,Alpha,Unit Commendation,2024-04-24,Contribution to unit-level achievement
+M0134,G23673,Alpha,Presidential Commendation,2025-06-19,Distinguished service recognized at command level
+M0135,G24293,Alpha,Unit Commendation,2026-04-20,Contribution to unit-level achievement
+M0136,G23445,Alpha,Meritorious Service Medal,2024-07-17,Sustained high standard of duty performance
+M0137,G23445,Alpha,Meritorious Service Medal,2024-03-12,Sustained high standard of duty performance
+M0138,G23445,Alpha,Meritorious Service Medal,2025-03-30,Sustained high standard of duty performance
+M0139,G23445,Alpha,Meritorious Service Medal,2025-11-27,Sustained high standard of duty performance
+M0140,G22206,Alpha,Distinguished Marksmanship Medal,2024-02-25,Recognized shooting proficiency
+M0141,G23305,Alpha,Operational Excellence Medal,2026-05-14,Exceptional performance during operational missions
+M0142,G23305,Alpha,International Cooperation Medal,2025-05-03,Contribution to joint/NATO training exercises
+M0143,G23305,Alpha,Operational Excellence Medal,2024-09-06,Exceptional performance during operational missions
+M0144,G23305,Alpha,Operational Excellence Medal,2023-11-22,Exceptional performance during operational missions
+M0145,G24645,Alpha,Distinguished Marksmanship Medal,2025-08-31,Recognized shooting proficiency
+M0146,G24645,Alpha,Operational Excellence Medal,2025-07-21,Exceptional performance during operational missions
+M0147,G25276,Alpha,Meritorious Service Medal,2026-05-16,Sustained high standard of duty performance
+M0148,G25276,Alpha,Meritorious Service Medal,2026-04-01,Sustained high standard of duty performance
+M0149,G25276,Alpha,International Cooperation Medal,2025-08-09,Contribution to joint/NATO training exercises
+M0150,G25276,Alpha,International Cooperation Medal,2026-02-26,Contribution to joint/NATO training exercises
+M0151,G25276,Alpha,Presidential Commendation,2026-04-20,Distinguished service recognized at command level
+M0152,G22585,Alpha,Presidential Commendation,2023-01-30,Distinguished service recognized at command level
+M0153,G22585,Alpha,Meritorious Service Medal,2026-05-07,Sustained high standard of duty performance
+M0154,G22585,Alpha,Presidential Commendation,2022-07-07,Distinguished service recognized at command level
+M0155,G22585,Alpha,Unit Commendation,2025-02-19,Contribution to unit-level achievement
+M0156,G22585,Alpha,Meritorious Service Medal,2023-11-29,Sustained high standard of duty performance
+M0157,G18574,Alpha,Presidential Commendation,2026-03-07,Distinguished service recognized at command level
+M0158,G18574,Alpha,Distinguished Marksmanship Medal,2026-01-21,Recognized shooting proficiency
+M0159,G24422,Alpha,International Cooperation Medal,2025-03-18,Contribution to joint/NATO training exercises
+M0160,G24379,Alpha,Years of Service Medal,2025-02-04,Long and continuous military service
+M0161,G20209,Alpha,Distinguished Marksmanship Medal,2025-11-06,Recognized shooting proficiency
+M0162,G20209,Alpha,Operational Excellence Medal,2022-03-05,Exceptional performance during operational missions
+M0163,G20209,Alpha,Meritorious Service Medal,2023-02-07,Sustained high standard of duty performance
+M0164,G20209,Alpha,Operational Excellence Medal,2023-09-21,Exceptional performance during operational missions
+M0165,G15195,Alpha,Meritorious Service Medal,2023-12-11,Sustained high standard of duty performance
+M0166,G15195,Alpha,Distinguished Marksmanship Medal,2025-11-14,Recognized shooting proficiency
+M0167,G17797,Alpha,Presidential Commendation,2025-12-27,Distinguished service recognized at command level
+M0168,G17797,Alpha,Operational Excellence Medal,2025-06-30,Exceptional performance during operational missions
+M0169,G17797,Alpha,Distinguished Marksmanship Medal,2026-04-16,Recognized shooting proficiency
+M0170,G17797,Alpha,International Cooperation Medal,2026-04-10,Contribution to joint/NATO training exercises
+M0171,G17797,Alpha,Meritorious Service Medal,2026-02-10,Sustained high standard of duty performance
+M0172,G19538,Alpha,Distinguished Marksmanship Medal,2025-10-24,Recognized shooting proficiency
+M0173,G24344,Alpha,International Cooperation Medal,2025-08-17,Contribution to joint/NATO training exercises
+M0174,G24344,Alpha,Meritorious Service Medal,2025-09-16,Sustained high standard of duty performance
+M0175,G24344,Alpha,Years of Service Medal,2024-07-10,Long and continuous military service
+M0176,G22249,Alpha,Distinguished Marksmanship Medal,2025-08-13,Recognized shooting proficiency
+M0177,G11223,Alpha,International Cooperation Medal,2022-12-27,Contribution to joint/NATO training exercises
+M0178,G25102,Alpha,Unit Commendation,2025-06-05,Contribution to unit-level achievement
+M0179,G25102,Alpha,Years of Service Medal,2025-08-06,Long and continuous military service
+M0180,G25102,Alpha,Distinguished Marksmanship Medal,2026-05-13,Recognized shooting proficiency
+M0181,G25102,Alpha,Meritorious Service Medal,2026-02-04,Sustained high standard of duty performance
+M0182,G25102,Alpha,Meritorious Service Medal,2025-07-30,Sustained high standard of duty performance
+M0183,G13541,Alpha,Meritorious Service Medal,2025-11-07,Sustained high standard of duty performance
+M0184,G21587,Alpha,Operational Excellence Medal,2024-12-03,Exceptional performance during operational missions
+M0185,G21587,Alpha,Meritorious Service Medal,2023-03-11,Sustained high standard of duty performance
+M0186,G21587,Alpha,Presidential Commendation,2026-01-25,Distinguished service recognized at command level
+M0187,G21587,Alpha,Years of Service Medal,2024-11-17,Long and continuous military service
+M0188,G08482,Alpha,Presidential Commendation,2023-10-14,Distinguished service recognized at command level
+M0189,G08482,Alpha,Meritorious Service Medal,2023-09-20,Sustained high standard of duty performance
+M0190,AO97199,Beta,Meritorious Service Medal,2022-07-25,Sustained high standard of duty performance
+M0191,AO97199,Beta,Presidential Commendation,2026-02-15,Distinguished service recognized at command level
+M0192,AO16486,Beta,Unit Commendation,2025-11-28,Contribution to unit-level achievement
+M0193,AO16486,Beta,Distinguished Marksmanship Medal,2025-08-27,Recognized shooting proficiency
+M0194,G15848,Beta,International Cooperation Medal,2024-04-19,Contribution to joint/NATO training exercises
+M0195,AO21460,Beta,International Cooperation Medal,2025-07-08,Contribution to joint/NATO training exercises
+M0196,AO21460,Beta,International Cooperation Medal,2025-12-28,Contribution to joint/NATO training exercises
+M0197,AO21460,Beta,Years of Service Medal,2025-01-21,Long and continuous military service
+M0198,AO21460,Beta,Operational Excellence Medal,2024-06-29,Exceptional performance during operational missions
+M0199,AO21460,Beta,Distinguished Marksmanship Medal,2026-02-20,Recognized shooting proficiency
+M0200,AO18804,Beta,Unit Commendation,2025-09-02,Contribution to unit-level achievement
+M0201,AO18804,Beta,Distinguished Marksmanship Medal,2025-10-19,Recognized shooting proficiency
+M0202,AO17999,Beta,Meritorious Service Medal,2025-10-24,Sustained high standard of duty performance
+M0203,AO17999,Beta,Presidential Commendation,2026-04-02,Distinguished service recognized at command level
+M0204,AO21945,Beta,International Cooperation Medal,2024-11-19,Contribution to joint/NATO training exercises
+M0205,AO22715,Beta,Meritorious Service Medal,2026-04-07,Sustained high standard of duty performance
+M0206,AO22715,Beta,Years of Service Medal,2025-11-18,Long and continuous military service
+M0207,AO22715,Beta,Years of Service Medal,2022-02-24,Long and continuous military service
+M0208,AO22715,Beta,Presidential Commendation,2026-06-19,Distinguished service recognized at command level
+M0209,AO22715,Beta,Presidential Commendation,2025-10-12,Distinguished service recognized at command level
+M0210,AO22715,Beta,Years of Service Medal,2024-02-24,Long and continuous military service
+M0211,AO16664,Beta,Distinguished Marksmanship Medal,2024-08-25,Recognized shooting proficiency
+M0212,AO24322,Beta,Distinguished Marksmanship Medal,2024-02-07,Recognized shooting proficiency
+M0213,AO24322,Beta,Operational Excellence Medal,2025-02-16,Exceptional performance during operational missions
+M0214,AO24322,Beta,Presidential Commendation,2024-12-10,Distinguished service recognized at command level
+M0215,AO24322,Beta,Distinguished Marksmanship Medal,2024-05-29,Recognized shooting proficiency
+M0216,AO24715,Beta,Operational Excellence Medal,2026-05-11,Exceptional performance during operational missions
+M0217,AO24715,Beta,Presidential Commendation,2025-06-20,Distinguished service recognized at command level
+M0218,AO24715,Beta,Years of Service Medal,2026-05-09,Long and continuous military service
+M0219,AO24715,Beta,International Cooperation Medal,2026-06-23,Contribution to joint/NATO training exercises
+M0220,AO16557,Beta,International Cooperation Medal,2023-05-16,Contribution to joint/NATO training exercises
+M0221,AO16557,Beta,Years of Service Medal,2023-06-30,Long and continuous military service
+M0222,AO16557,Beta,Years of Service Medal,2023-09-06,Long and continuous military service
+M0223,AO20423,Beta,Unit Commendation,2024-06-12,Contribution to unit-level achievement
+M0224,AO20423,Beta,Distinguished Marksmanship Medal,2024-01-09,Recognized shooting proficiency
+M0225,AO20423,Beta,Distinguished Marksmanship Medal,2025-10-27,Recognized shooting proficiency
+M0226,AO15870,Beta,Years of Service Medal,2023-07-31,Long and continuous military service
+M0227,AO24225,Beta,Years of Service Medal,2024-10-27,Long and continuous military service
+M0228,AO24225,Beta,Presidential Commendation,2026-04-22,Distinguished service recognized at command level
+M0229,AO24225,Beta,Operational Excellence Medal,2025-07-08,Exceptional performance during operational missions
+M0230,AO24225,Beta,Unit Commendation,2025-01-06,Contribution to unit-level achievement
+M0231,AO24481,Beta,Unit Commendation,2025-08-06,Contribution to unit-level achievement
+M0232,AO23007,Beta,Presidential Commendation,2025-07-04,Distinguished service recognized at command level
+M0233,AO21316,Beta,Unit Commendation,2023-01-17,Contribution to unit-level achievement
+M0234,AO24203,Beta,Operational Excellence Medal,2025-02-15,Exceptional performance during operational missions
+M0235,AO20690,Beta,Distinguished Marksmanship Medal,2025-07-11,Recognized shooting proficiency
+M0236,AO20690,Beta,Unit Commendation,2025-12-13,Contribution to unit-level achievement
+M0237,AO19316,Beta,Operational Excellence Medal,2022-04-07,Exceptional performance during operational missions
+M0238,AO19316,Beta,Operational Excellence Medal,2026-01-16,Exceptional performance during operational missions
+M0239,AO19316,Beta,International Cooperation Medal,2024-11-10,Contribution to joint/NATO training exercises
+M0240,AO20211,Beta,Operational Excellence Medal,2023-11-20,Exceptional performance during operational missions
+M0241,AO14299,Beta,Presidential Commendation,2025-06-28,Distinguished service recognized at command level
+M0242,AO22709,Beta,International Cooperation Medal,2025-08-31,Contribution to joint/NATO training exercises
+M0243,AO18592,Beta,Presidential Commendation,2025-08-22,Distinguished service recognized at command level
+M0244,AO18652,Beta,Unit Commendation,2026-04-25,Contribution to unit-level achievement
+M0245,AO18652,Beta,Distinguished Marksmanship Medal,2026-01-07,Recognized shooting proficiency
+M0246,AO18652,Beta,Presidential Commendation,2025-09-01,Distinguished service recognized at command level
+M0247,AO18652,Beta,Operational Excellence Medal,2025-12-13,Exceptional performance during operational missions
+M0248,AO24038,Beta,International Cooperation Medal,2026-02-17,Contribution to joint/NATO training exercises
+M0249,AO24038,Beta,Meritorious Service Medal,2026-02-18,Sustained high standard of duty performance
+M0250,AO24038,Beta,Years of Service Medal,2026-04-09,Long and continuous military service
+M0251,AO25050,Beta,International Cooperation Medal,2025-08-06,Contribution to joint/NATO training exercises
+M0252,AO25050,Beta,Unit Commendation,2026-01-02,Contribution to unit-level achievement
+M0253,AO25050,Beta,Unit Commendation,2026-05-02,Contribution to unit-level achievement
+M0254,AO25050,Beta,Presidential Commendation,2025-08-01,Distinguished service recognized at command level
+M0255,AO25050,Beta,Distinguished Marksmanship Medal,2026-01-27,Recognized shooting proficiency
+M0256,AO24602,Beta,International Cooperation Medal,2025-07-06,Contribution to joint/NATO training exercises
+M0257,AO16430,Beta,Meritorious Service Medal,2024-01-06,Sustained high standard of duty performance
+M0258,AO16430,Beta,Meritorious Service Medal,2026-06-09,Sustained high standard of duty performance
+M0259,AO16430,Beta,Operational Excellence Medal,2023-07-03,Exceptional performance during operational missions
+M0260,AO23143,Beta,International Cooperation Medal,2024-03-20,Contribution to joint/NATO training exercises
+M0261,AO24756,Beta,Years of Service Medal,2024-09-28,Long and continuous military service
+M0262,AO24756,Beta,International Cooperation Medal,2025-08-23,Contribution to joint/NATO training exercises
+M0263,AO24395,Beta,Meritorious Service Medal,2024-09-16,Sustained high standard of duty performance
+M0264,AO24395,Beta,International Cooperation Medal,2026-04-11,Contribution to joint/NATO training exercises
+M0265,AO24395,Beta,International Cooperation Medal,2026-05-23,Contribution to joint/NATO training exercises
+M0266,AO24395,Beta,Operational Excellence Medal,2024-08-02,Exceptional performance during operational missions
+M0267,AO24395,Beta,Presidential Commendation,2025-02-10,Distinguished service recognized at command level
+M0268,AO23430,Beta,Operational Excellence Medal,2025-02-09,Exceptional performance during operational missions
+M0269,AO23430,Beta,International Cooperation Medal,2023-12-31,Contribution to joint/NATO training exercises
+M0270,AO24998,Beta,Years of Service Medal,2026-05-29,Long and continuous military service
+M0271,AO24998,Beta,Operational Excellence Medal,2025-08-11,Exceptional performance during operational missions
+M0272,G22440,Beta,Operational Excellence Medal,2026-06-06,Exceptional performance during operational missions
+M0273,G22440,Beta,Unit Commendation,2022-09-29,Contribution to unit-level achievement
+M0274,G22440,Beta,Unit Commendation,2026-01-22,Contribution to unit-level achievement
+M0275,G23771,Beta,Unit Commendation,2025-02-04,Contribution to unit-level achievement
+M0276,G23771,Beta,Years of Service Medal,2025-11-22,Long and continuous military service
+M0277,G23771,Beta,Unit Commendation,2024-06-01,Contribution to unit-level achievement
+M0278,G23771,Beta,International Cooperation Medal,2025-09-01,Contribution to joint/NATO training exercises
+M0279,G23771,Beta,Unit Commendation,2024-05-29,Contribution to unit-level achievement
+M0280,G23771,Beta,International Cooperation Medal,2025-07-20,Contribution to joint/NATO training exercises
+M0281,G17117,Beta,Operational Excellence Medal,2022-09-18,Exceptional performance during operational missions
+M0282,G15417,Beta,Unit Commendation,2025-06-03,Contribution to unit-level achievement
+M0283,G15417,Beta,Operational Excellence Medal,2025-02-26,Exceptional performance during operational missions
+M0284,G24483,Beta,Meritorious Service Medal,2025-05-09,Sustained high standard of duty performance
+M0285,G24483,Beta,Unit Commendation,2025-05-19,Contribution to unit-level achievement
+M0286,G22927,Beta,Operational Excellence Medal,2024-10-21,Exceptional performance during operational missions
+M0287,G22927,Beta,Presidential Commendation,2024-09-24,Distinguished service recognized at command level
+M0288,G22927,Beta,Meritorious Service Medal,2023-03-05,Sustained high standard of duty performance
+M0289,G22927,Beta,Years of Service Medal,2022-09-26,Long and continuous military service
+M0290,G22927,Beta,Years of Service Medal,2025-10-06,Long and continuous military service
+M0291,G22927,Beta,Presidential Commendation,2024-06-11,Distinguished service recognized at command level
+M0292,G24599,Beta,Years of Service Medal,2024-09-06,Long and continuous military service
+M0293,G25161,Beta,Unit Commendation,2025-10-09,Contribution to unit-level achievement
+M0294,G25161,Beta,Operational Excellence Medal,2025-12-02,Exceptional performance during operational missions
+M0295,G25161,Beta,Distinguished Marksmanship Medal,2025-08-21,Recognized shooting proficiency
+M0296,G13723,Beta,Unit Commendation,2023-02-02,Contribution to unit-level achievement
+M0297,G24135,Beta,International Cooperation Medal,2025-10-16,Contribution to joint/NATO training exercises
+M0298,G21624,Beta,Unit Commendation,2023-07-15,Contribution to unit-level achievement
+M0299,G21223,Beta,Unit Commendation,2025-08-03,Contribution to unit-level achievement
+M0300,G23268,Beta,Meritorious Service Medal,2024-05-14,Sustained high standard of duty performance
+M0301,G23268,Beta,Years of Service Medal,2026-06-30,Long and continuous military service
+M0302,G23268,Beta,Years of Service Medal,2024-06-21,Long and continuous military service
+M0303,G23268,Beta,Presidential Commendation,2025-09-06,Distinguished service recognized at command level
+M0304,G23268,Beta,Presidential Commendation,2025-12-19,Distinguished service recognized at command level
+M0305,G23268,Beta,Years of Service Medal,2024-03-28,Long and continuous military service
+M0306,G25106,Beta,Distinguished Marksmanship Medal,2025-08-17,Recognized shooting proficiency
+M0307,G25106,Beta,Years of Service Medal,2025-10-02,Long and continuous military service
+M0308,G25106,Beta,Operational Excellence Medal,2025-07-16,Exceptional performance during operational missions
+M0309,G25106,Beta,Distinguished Marksmanship Medal,2025-12-14,Recognized shooting proficiency
+M0310,G25990,Beta,Meritorious Service Medal,2026-04-20,Sustained high standard of duty performance
+M0311,G25990,Beta,Meritorious Service Medal,2026-02-01,Sustained high standard of duty performance
+M0312,G25990,Beta,Presidential Commendation,2025-07-13,Distinguished service recognized at command level
+M0313,G25990,Beta,Years of Service Medal,2025-07-17,Long and continuous military service
+M0314,G15161,Beta,Meritorious Service Medal,2022-07-04,Sustained high standard of duty performance
+M0315,G15161,Beta,Operational Excellence Medal,2024-07-02,Exceptional performance during operational missions
+M0316,G15161,Beta,Meritorious Service Medal,2025-05-01,Sustained high standard of duty performance
+M0317,G15161,Beta,Meritorious Service Medal,2025-03-13,Sustained high standard of duty performance
+M0318,G15161,Beta,Unit Commendation,2026-05-22,Contribution to unit-level achievement
+M0319,G15161,Beta,Unit Commendation,2023-12-05,Contribution to unit-level achievement
+M0320,G24879,Beta,International Cooperation Medal,2025-08-27,Contribution to joint/NATO training exercises
+M0321,G24879,Beta,Operational Excellence Medal,2024-05-16,Exceptional performance during operational missions
+M0322,G24879,Beta,Distinguished Marksmanship Medal,2026-02-19,Recognized shooting proficiency
+M0323,G16019,Beta,Unit Commendation,2024-06-11,Contribution to unit-level achievement
+M0324,G16019,Beta,International Cooperation Medal,2023-06-16,Contribution to joint/NATO training exercises
+M0325,G21967,Beta,Meritorious Service Medal,2026-03-02,Sustained high standard of duty performance
+M0326,G21967,Beta,Years of Service Medal,2025-03-20,Long and continuous military service
+M0327,G21967,Beta,Distinguished Marksmanship Medal,2026-06-17,Recognized shooting proficiency
+M0328,G17208,Beta,Unit Commendation,2022-11-28,Contribution to unit-level achievement
+M0329,G17208,Beta,Meritorious Service Medal,2025-06-08,Sustained high standard of duty performance
+M0330,G23922,Beta,International Cooperation Medal,2024-08-27,Contribution to joint/NATO training exercises
+M0331,G23922,Beta,Years of Service Medal,2025-11-13,Long and continuous military service
+M0332,G11685,Beta,Operational Excellence Medal,2023-04-16,Exceptional performance during operational missions
+M0333,G11685,Beta,Presidential Commendation,2021-12-11,Distinguished service recognized at command level
+M0334,G11685,Beta,Unit Commendation,2024-12-08,Contribution to unit-level achievement
+M0335,G24038,Beta,Distinguished Marksmanship Medal,2025-03-06,Recognized shooting proficiency
+M0336,G24038,Beta,International Cooperation Medal,2026-03-06,Contribution to joint/NATO training exercises
+M0337,G10758,Beta,Years of Service Medal,2023-03-09,Long and continuous military service
+M0338,G08002,Beta,International Cooperation Medal,2026-01-13,Contribution to joint/NATO training exercises
+M0339,G08002,Beta,Distinguished Marksmanship Medal,2025-04-10,Recognized shooting proficiency
+M0340,G08002,Beta,Years of Service Medal,2023-01-20,Long and continuous military service
+M0341,G08002,Beta,International Cooperation Medal,2025-09-27,Contribution to joint/NATO training exercises
+M0342,G08002,Beta,Meritorious Service Medal,2024-05-21,Sustained high standard of duty performance
+M0343,G24010,Beta,Years of Service Medal,2026-06-20,Long and continuous military service
+M0344,G24043,Beta,Meritorious Service Medal,2025-02-05,Sustained high standard of duty performance
+M0345,G24043,Beta,Presidential Commendation,2025-10-24,Distinguished service recognized at command level
+M0346,G24043,Beta,Distinguished Marksmanship Medal,2024-03-22,Recognized shooting proficiency
+M0347,G24043,Beta,Unit Commendation,2025-11-08,Contribution to unit-level achievement
+M0348,G22635,Beta,International Cooperation Medal,2025-02-15,Contribution to joint/NATO training exercises
+M0349,G22413,Beta,Distinguished Marksmanship Medal,2023-04-12,Recognized shooting proficiency
+M0350,G22413,Beta,Distinguished Marksmanship Medal,2024-09-13,Recognized shooting proficiency
+M0351,G22413,Beta,Years of Service Medal,2023-06-20,Long and continuous military service
+M0352,G23299,Beta,Unit Commendation,2023-05-31,Contribution to unit-level achievement
+M0353,G23299,Beta,Operational Excellence Medal,2024-06-22,Exceptional performance during operational missions
+M0354,G25915,Beta,Years of Service Medal,2025-02-26,Long and continuous military service
+M0355,G25915,Beta,Meritorious Service Medal,2025-06-01,Sustained high standard of duty performance
+M0356,G22473,Beta,Presidential Commendation,2023-03-10,Distinguished service recognized at command level
+M0357,G22473,Beta,Meritorious Service Medal,2025-11-15,Sustained high standard of duty performance
+M0358,G22473,Beta,Meritorious Service Medal,2022-11-01,Sustained high standard of duty performance
+M0359,G24309,Beta,Meritorious Service Medal,2024-05-19,Sustained high standard of duty performance
+M0360,G24309,Beta,Unit Commendation,2024-07-12,Contribution to unit-level achievement
+M0361,G10138,Beta,International Cooperation Medal,2024-09-06,Contribution to joint/NATO training exercises
+M0362,G10138,Beta,Years of Service Medal,2023-12-05,Long and continuous military service
+M0363,G10138,Beta,International Cooperation Medal,2025-01-26,Contribution to joint/NATO training exercises
+M0364,G24284,Beta,Operational Excellence Medal,2025-02-22,Exceptional performance during operational missions
+M0365,G24284,Beta,Unit Commendation,2025-09-17,Contribution to unit-level achievement
+M0366,G22544,Beta,Operational Excellence Medal,2023-09-24,Exceptional performance during operational missions
+M0367,G22544,Beta,Unit Commendation,2025-12-06,Contribution to unit-level achievement
+M0368,G22544,Beta,Presidential Commendation,2023-07-29,Distinguished service recognized at command level
+M0369,G22544,Beta,Operational Excellence Medal,2026-03-05,Exceptional performance during operational missions
+M0370,G22544,Beta,Years of Service Medal,2023-07-18,Long and continuous military service
+M0371,G22544,Beta,Unit Commendation,2026-01-16,Contribution to unit-level achievement
+M0372,G23763,Beta,International Cooperation Medal,2025-10-08,Contribution to joint/NATO training exercises
+M0373,G12593,Beta,Distinguished Marksmanship Medal,2025-07-16,Recognized shooting proficiency
+M0374,G12593,Beta,Years of Service Medal,2024-08-25,Long and continuous military service
+M0375,G12425,Beta,Meritorious Service Medal,2024-08-17,Sustained high standard of duty performance
+M0376,G12425,Beta,Distinguished Marksmanship Medal,2024-02-19,Recognized shooting proficiency
+M0377,G12425,Beta,International Cooperation Medal,2024-10-16,Contribution to joint/NATO training exercises
+M0378,G13609,Beta,Unit Commendation,2024-06-11,Contribution to unit-level achievement
+M0379,G13609,Beta,Distinguished Marksmanship Medal,2023-02-13,Recognized shooting proficiency
+M0380,G24580,Beta,Meritorious Service Medal,2025-05-02,Sustained high standard of duty performance
+M0381,G24580,Beta,Presidential Commendation,2026-01-17,Distinguished service recognized at command level
+M0382,G24580,Beta,Operational Excellence Medal,2026-05-14,Exceptional performance during operational missions
+M0383,G21267,Beta,International Cooperation Medal,2026-05-17,Contribution to joint/NATO training exercises
+M0384,G21267,Beta,Unit Commendation,2025-07-16,Contribution to unit-level achievement
+M0385,G21267,Beta,Operational Excellence Medal,2023-10-15,Exceptional performance during operational missions
+M0386,G21267,Beta,Operational Excellence Medal,2024-04-07,Exceptional performance during operational missions
+M0387,G21267,Beta,Operational Excellence Medal,2025-04-15,Exceptional performance during operational missions
+M0388,G23226,Beta,Meritorious Service Medal,2024-06-23,Sustained high standard of duty performance
+M0389,G23226,Beta,Meritorious Service Medal,2025-06-09,Sustained high standard of duty performance
+M0390,G23226,Beta,Presidential Commendation,2024-07-01,Distinguished service recognized at command level
+M0391,AO12824,Delta,Distinguished Marksmanship Medal,2022-11-01,Recognized shooting proficiency
+M0392,AO18342,Delta,Unit Commendation,2026-05-17,Contribution to unit-level achievement
+M0393,AO23991,Delta,International Cooperation Medal,2025-10-12,Contribution to joint/NATO training exercises
+M0394,AO24278,Delta,Unit Commendation,2025-08-11,Contribution to unit-level achievement
+M0395,AO24278,Delta,Distinguished Marksmanship Medal,2026-05-09,Recognized shooting proficiency
+M0396,AO24278,Delta,Meritorious Service Medal,2025-12-09,Sustained high standard of duty performance
+M0397,AO24278,Delta,Years of Service Medal,2026-05-29,Long and continuous military service
+M0398,AO21963,Delta,International Cooperation Medal,2026-02-04,Contribution to joint/NATO training exercises
+M0399,AO21963,Delta,Years of Service Medal,2024-08-05,Long and continuous military service
+M0400,AO24578,Delta,Presidential Commendation,2025-04-14,Distinguished service recognized at command level
+M0401,AO24578,Delta,Operational Excellence Medal,2025-06-26,Exceptional performance during operational missions
+M0402,AO24578,Delta,International Cooperation Medal,2025-12-04,Contribution to joint/NATO training exercises
+M0403,AO25711,Delta,International Cooperation Medal,2026-06-03,Contribution to joint/NATO training exercises
+M0404,AO25711,Delta,Operational Excellence Medal,2025-12-02,Exceptional performance during operational missions
+M0405,AO22316,Delta,Years of Service Medal,2023-11-23,Long and continuous military service
+M0406,AO18186,Delta,Meritorious Service Medal,2023-12-27,Sustained high standard of duty performance
+M0407,AO18186,Delta,Presidential Commendation,2023-06-09,Distinguished service recognized at command level
+M0408,AO18238,Delta,Presidential Commendation,2025-11-21,Distinguished service recognized at command level
+M0409,AO18238,Delta,Distinguished Marksmanship Medal,2024-08-04,Recognized shooting proficiency
+M0410,AO18238,Delta,Presidential Commendation,2025-06-22,Distinguished service recognized at command level
+M0411,AO25379,Delta,Years of Service Medal,2025-04-20,Long and continuous military service
+M0412,AO25379,Delta,Unit Commendation,2026-06-20,Contribution to unit-level achievement
+M0413,AO25379,Delta,Years of Service Medal,2025-10-20,Long and continuous military service
+M0414,AO25379,Delta,Unit Commendation,2025-01-18,Contribution to unit-level achievement
+M0415,AO25379,Delta,Unit Commendation,2026-05-15,Contribution to unit-level achievement
+M0416,AO12189,Delta,Operational Excellence Medal,2023-11-27,Exceptional performance during operational missions
+M0417,AO12189,Delta,Years of Service Medal,2023-07-01,Long and continuous military service
+M0418,AO15573,Delta,Presidential Commendation,2025-02-23,Distinguished service recognized at command level
+M0419,AO13278,Delta,Meritorious Service Medal,2025-11-02,Sustained high standard of duty performance
+M0420,AO13278,Delta,Operational Excellence Medal,2026-02-12,Exceptional performance during operational missions
+M0421,AO15860,Delta,Meritorious Service Medal,2021-10-07,Sustained high standard of duty performance
+M0422,AO24436,Delta,Meritorious Service Medal,2024-09-21,Sustained high standard of duty performance
+M0423,AO15781,Delta,Unit Commendation,2022-11-20,Contribution to unit-level achievement
+M0424,AO12061,Delta,Years of Service Medal,2026-06-12,Long and continuous military service
+M0425,AO12061,Delta,Distinguished Marksmanship Medal,2026-06-28,Recognized shooting proficiency
+M0426,AO18148,Delta,Operational Excellence Medal,2025-10-13,Exceptional performance during operational missions
+M0427,AO23475,Delta,Unit Commendation,2024-10-12,Contribution to unit-level achievement
+M0428,AO23475,Delta,International Cooperation Medal,2024-10-28,Contribution to joint/NATO training exercises
+M0429,AO25607,Delta,Years of Service Medal,2026-06-26,Long and continuous military service
+M0430,AO25607,Delta,International Cooperation Medal,2025-11-24,Contribution to joint/NATO training exercises
+M0431,AO25607,Delta,Operational Excellence Medal,2025-07-09,Exceptional performance during operational missions
+M0432,AO21091,Delta,Distinguished Marksmanship Medal,2025-07-01,Recognized shooting proficiency
+M0433,AO21091,Delta,International Cooperation Medal,2025-09-02,Contribution to joint/NATO training exercises
+M0434,AO21091,Delta,Meritorious Service Medal,2022-11-04,Sustained high standard of duty performance
+M0435,AO22207,Delta,Presidential Commendation,2024-05-31,Distinguished service recognized at command level
+M0436,AO22207,Delta,Operational Excellence Medal,2025-07-21,Exceptional performance during operational missions
+M0437,AO22207,Delta,Presidential Commendation,2025-09-17,Distinguished service recognized at command level
+M0438,AO17682,Delta,Unit Commendation,2022-07-23,Contribution to unit-level achievement
+M0439,AO17015,Delta,Unit Commendation,2025-12-31,Contribution to unit-level achievement
+M0440,AO17015,Delta,Distinguished Marksmanship Medal,2023-06-21,Recognized shooting proficiency
+M0441,AO13576,Delta,Distinguished Marksmanship Medal,2025-08-29,Recognized shooting proficiency
+M0442,AO13576,Delta,Presidential Commendation,2024-12-29,Distinguished service recognized at command level
+M0443,AO20306,Delta,Unit Commendation,2025-03-17,Contribution to unit-level achievement
+M0444,AO20306,Delta,Operational Excellence Medal,2024-11-16,Exceptional performance during operational missions
+M0445,AO20306,Delta,Presidential Commendation,2026-02-28,Distinguished service recognized at command level
+M0446,AO20306,Delta,Presidential Commendation,2025-04-20,Distinguished service recognized at command level
+M0447,AO20306,Delta,Years of Service Medal,2025-02-22,Long and continuous military service
+M0448,AO16242,Delta,Years of Service Medal,2021-07-17,Long and continuous military service
+M0449,AO16242,Delta,Operational Excellence Medal,2024-07-30,Exceptional performance during operational missions
+M0450,AO16242,Delta,Unit Commendation,2022-11-03,Contribution to unit-level achievement
+M0451,AO16242,Delta,Distinguished Marksmanship Medal,2021-07-14,Recognized shooting proficiency
+M0452,AO16242,Delta,International Cooperation Medal,2025-06-18,Contribution to joint/NATO training exercises
+M0453,AO23405,Delta,Years of Service Medal,2026-02-26,Long and continuous military service
+M0454,AO23405,Delta,Meritorious Service Medal,2025-10-28,Sustained high standard of duty performance
+M0455,AO23405,Delta,Unit Commendation,2024-12-07,Contribution to unit-level achievement
+M0456,AO23405,Delta,International Cooperation Medal,2025-05-20,Contribution to joint/NATO training exercises
+M0457,G12516,Delta,Meritorious Service Medal,2023-12-07,Sustained high standard of duty performance
+M0458,G12516,Delta,Meritorious Service Medal,2024-09-02,Sustained high standard of duty performance
+M0459,G12516,Delta,Distinguished Marksmanship Medal,2025-10-14,Recognized shooting proficiency
+M0460,G12516,Delta,Unit Commendation,2025-10-26,Contribution to unit-level achievement
+M0461,G12516,Delta,Unit Commendation,2021-09-29,Contribution to unit-level achievement
+M0462,G11545,Delta,Years of Service Medal,2026-04-25,Long and continuous military service
+M0463,G23314,Delta,Years of Service Medal,2025-09-12,Long and continuous military service
+M0464,G19777,Delta,Years of Service Medal,2023-12-16,Long and continuous military service
+M0465,G19777,Delta,Operational Excellence Medal,2025-11-11,Exceptional performance during operational missions
+M0466,G19777,Delta,Meritorious Service Medal,2026-03-10,Sustained high standard of duty performance
+M0467,G08440,Delta,International Cooperation Medal,2026-01-28,Contribution to joint/NATO training exercises
+M0468,G08440,Delta,International Cooperation Medal,2025-05-09,Contribution to joint/NATO training exercises
+M0469,G08440,Delta,International Cooperation Medal,2022-05-31,Contribution to joint/NATO training exercises
+M0470,G23726,Delta,Presidential Commendation,2024-04-19,Distinguished service recognized at command level
+M0471,G23726,Delta,Years of Service Medal,2026-01-07,Long and continuous military service
+M0472,G23726,Delta,Unit Commendation,2026-06-25,Contribution to unit-level achievement
+M0473,G23726,Delta,International Cooperation Medal,2026-02-22,Contribution to joint/NATO training exercises
+M0474,G21722,Delta,International Cooperation Medal,2025-09-19,Contribution to joint/NATO training exercises
+M0475,G21722,Delta,Presidential Commendation,2025-05-05,Distinguished service recognized at command level
+M0476,G23263,Delta,International Cooperation Medal,2026-04-22,Contribution to joint/NATO training exercises
+M0477,G22662,Delta,Distinguished Marksmanship Medal,2024-10-27,Recognized shooting proficiency
+M0478,G22662,Delta,Unit Commendation,2025-11-18,Contribution to unit-level achievement
+M0479,G22464,Delta,Meritorious Service Medal,2025-11-09,Sustained high standard of duty performance
+M0480,G22464,Delta,Presidential Commendation,2025-05-10,Distinguished service recognized at command level
+M0481,G22464,Delta,Presidential Commendation,2024-12-02,Distinguished service recognized at command level
+M0482,G23804,Delta,Distinguished Marksmanship Medal,2026-04-05,Recognized shooting proficiency
+M0483,G23804,Delta,Operational Excellence Medal,2026-01-10,Exceptional performance during operational missions
+M0484,G23804,Delta,Years of Service Medal,2025-06-27,Long and continuous military service
+M0485,G23804,Delta,Unit Commendation,2025-05-23,Contribution to unit-level achievement
+M0486,G23804,Delta,Unit Commendation,2026-01-13,Contribution to unit-level achievement
+M0487,G23804,Delta,Years of Service Medal,2026-04-29,Long and continuous military service
+M0488,G24311,Delta,Presidential Commendation,2025-07-11,Distinguished service recognized at command level
+M0489,G24311,Delta,Meritorious Service Medal,2025-09-03,Sustained high standard of duty performance
+M0490,G07820,Delta,Years of Service Medal,2023-07-11,Long and continuous military service
+M0491,G07820,Delta,Distinguished Marksmanship Medal,2023-03-29,Recognized shooting proficiency
+M0492,G07820,Delta,International Cooperation Medal,2024-11-13,Contribution to joint/NATO training exercises
+M0493,G07820,Delta,International Cooperation Medal,2026-05-03,Contribution to joint/NATO training exercises
+M0494,G24390,Delta,International Cooperation Medal,2025-12-26,Contribution to joint/NATO training exercises
+M0495,G24390,Delta,International Cooperation Medal,2024-12-23,Contribution to joint/NATO training exercises
+M0496,G24390,Delta,Operational Excellence Medal,2026-06-15,Exceptional performance during operational missions
+M0497,G24390,Delta,Presidential Commendation,2026-05-09,Distinguished service recognized at command level
+M0498,G09841,Delta,Distinguished Marksmanship Medal,2026-02-17,Recognized shooting proficiency
+M0499,G21565,Delta,Unit Commendation,2026-03-08,Contribution to unit-level achievement
+M0500,G21565,Delta,Meritorious Service Medal,2025-07-22,Sustained high standard of duty performance
+M0501,G21565,Delta,International Cooperation Medal,2025-11-12,Contribution to joint/NATO training exercises
+M0502,G20187,Delta,Years of Service Medal,2026-06-19,Long and continuous military service
+M0503,G20187,Delta,Years of Service Medal,2025-07-05,Long and continuous military service
+M0504,G24951,Delta,Distinguished Marksmanship Medal,2025-09-14,Recognized shooting proficiency
+M0505,G21305,Delta,Meritorious Service Medal,2024-04-03,Sustained high standard of duty performance
+M0506,G22415,Delta,Operational Excellence Medal,2023-08-10,Exceptional performance during operational missions
+M0507,G22415,Delta,Distinguished Marksmanship Medal,2024-08-13,Recognized shooting proficiency
+M0508,G22415,Delta,Years of Service Medal,2022-10-02,Long and continuous military service
+M0509,G22415,Delta,International Cooperation Medal,2026-03-02,Contribution to joint/NATO training exercises
+M0510,G22579,Delta,Meritorious Service Medal,2023-01-19,Sustained high standard of duty performance
+M0511,G22579,Delta,Presidential Commendation,2025-01-16,Distinguished service recognized at command level
+M0512,G22579,Delta,Distinguished Marksmanship Medal,2026-06-25,Recognized shooting proficiency
+M0513,G22579,Delta,Meritorious Service Medal,2023-05-22,Sustained high standard of duty performance
+M0514,G22977,Delta,Distinguished Marksmanship Medal,2025-04-16,Recognized shooting proficiency
+M0515,G24065,Delta,International Cooperation Medal,2025-09-28,Contribution to joint/NATO training exercises
+M0516,G24065,Delta,International Cooperation Medal,2025-01-06,Contribution to joint/NATO training exercises
+M0517,G24065,Delta,Distinguished Marksmanship Medal,2024-05-06,Recognized shooting proficiency
+M0518,G24065,Delta,Meritorious Service Medal,2024-04-08,Sustained high standard of duty performance
+M0519,G24065,Delta,Presidential Commendation,2025-12-18,Distinguished service recognized at command level
+M0520,G24065,Delta,Years of Service Medal,2025-10-27,Long and continuous military service
+M0521,G07673,Delta,Distinguished Marksmanship Medal,2025-10-09,Recognized shooting proficiency
+M0522,G07673,Delta,Operational Excellence Medal,2024-07-25,Exceptional performance during operational missions
+M0523,G07673,Delta,Distinguished Marksmanship Medal,2025-05-29,Recognized shooting proficiency
+M0524,G07673,Delta,Distinguished Marksmanship Medal,2024-01-18,Recognized shooting proficiency
+M0525,G23918,Delta,Distinguished Marksmanship Medal,2025-08-24,Recognized shooting proficiency
+M0526,G22485,Delta,Meritorious Service Medal,2026-02-19,Sustained high standard of duty performance
+M0527,G22220,Delta,Years of Service Medal,2024-12-30,Long and continuous military service
+M0528,G22168,Delta,Distinguished Marksmanship Medal,2024-07-07,Recognized shooting proficiency
+M0529,G13401,Delta,International Cooperation Medal,2025-05-25,Contribution to joint/NATO training exercises
+M0530,G13401,Delta,International Cooperation Medal,2024-07-15,Contribution to joint/NATO training exercises
+M0531,G13401,Delta,Years of Service Medal,2023-12-22,Long and continuous military service
+M0532,G13401,Delta,International Cooperation Medal,2025-01-05,Contribution to joint/NATO training exercises
+M0533,G13401,Delta,Operational Excellence Medal,2025-02-12,Exceptional performance during operational missions
+M0534,G13401,Delta,Presidential Commendation,2024-06-03,Distinguished service recognized at command level
+M0535,G25062,Delta,Meritorious Service Medal,2026-06-22,Sustained high standard of duty performance
+M0536,G13194,Delta,Unit Commendation,2023-06-01,Contribution to unit-level achievement
+M0537,G13194,Delta,Presidential Commendation,2021-07-01,Distinguished service recognized at command level
+M0538,G24151,Delta,International Cooperation Medal,2026-04-15,Contribution to joint/NATO training exercises
+M0539,G24151,Delta,Unit Commendation,2025-04-27,Contribution to unit-level achievement
+M0540,G07405,Delta,Distinguished Marksmanship Medal,2024-09-20,Recognized shooting proficiency
+M0541,G23626,Delta,Distinguished Marksmanship Medal,2024-05-12,Recognized shooting proficiency
+M0542,G23626,Delta,Meritorious Service Medal,2025-03-11,Sustained high standard of duty performance
+M0543,G09553,Delta,Operational Excellence Medal,2021-10-12,Exceptional performance during operational missions
+M0544,G09553,Delta,International Cooperation Medal,2022-10-15,Contribution to joint/NATO training exercises
+M0545,G09553,Delta,Distinguished Marksmanship Medal,2023-05-14,Recognized shooting proficiency
+M0546,G25177,Delta,Meritorious Service Medal,2025-10-02,Sustained high standard of duty performance
+M0547,G25177,Delta,Operational Excellence Medal,2025-07-03,Exceptional performance during operational missions
+M0548,G25177,Delta,Operational Excellence Medal,2026-05-22,Exceptional performance during operational missions
+M0549,AO97317,Gamma,Distinguished Marksmanship Medal,2026-05-03,Recognized shooting proficiency
+M0550,AO97317,Gamma,Presidential Commendation,2025-12-23,Distinguished service recognized at command level
+M0551,AO97317,Gamma,International Cooperation Medal,2025-11-16,Contribution to joint/NATO training exercises
+M0552,AO97317,Gamma,Years of Service Medal,2024-06-17,Long and continuous military service
+M0553,AO97317,Gamma,Unit Commendation,2024-03-17,Contribution to unit-level achievement
+M0554,AO97317,Gamma,Presidential Commendation,2022-09-15,Distinguished service recognized at command level
+M0555,AO14416,Gamma,Years of Service Medal,2024-06-22,Long and continuous military service
+M0556,AO14416,Gamma,Unit Commendation,2025-01-19,Contribution to unit-level achievement
+M0557,AO14416,Gamma,Years of Service Medal,2024-06-13,Long and continuous military service
+M0558,AO14416,Gamma,Meritorious Service Medal,2026-01-07,Sustained high standard of duty performance
+M0559,AO14212,Gamma,Operational Excellence Medal,2025-03-16,Exceptional performance during operational missions
+M0560,AO14212,Gamma,Distinguished Marksmanship Medal,2025-05-31,Recognized shooting proficiency
+M0561,AO14212,Gamma,Distinguished Marksmanship Medal,2026-05-05,Recognized shooting proficiency
+M0562,G23124,Gamma,Years of Service Medal,2025-09-26,Long and continuous military service
+M0563,G23124,Gamma,Years of Service Medal,2026-01-12,Long and continuous military service
+M0564,G23124,Gamma,Unit Commendation,2024-02-08,Contribution to unit-level achievement
+M0565,G23124,Gamma,Meritorious Service Medal,2024-05-28,Sustained high standard of duty performance
+M0566,AO18162,Gamma,Unit Commendation,2025-11-04,Contribution to unit-level achievement
+M0567,AO18162,Gamma,Distinguished Marksmanship Medal,2024-03-30,Recognized shooting proficiency
+M0568,AO18162,Gamma,International Cooperation Medal,2025-09-17,Contribution to joint/NATO training exercises
+M0569,AO18162,Gamma,Unit Commendation,2022-11-08,Contribution to unit-level achievement
+M0570,AO18162,Gamma,Presidential Commendation,2024-07-03,Distinguished service recognized at command level
+M0571,AO18162,Gamma,Operational Excellence Medal,2026-03-16,Exceptional performance during operational missions
+M0572,AO17072,Gamma,Distinguished Marksmanship Medal,2025-08-16,Recognized shooting proficiency
+M0573,AO17072,Gamma,Meritorious Service Medal,2026-02-12,Sustained high standard of duty performance
+M0574,AO17072,Gamma,Unit Commendation,2022-12-17,Contribution to unit-level achievement
+M0575,AO24985,Gamma,Years of Service Medal,2025-01-26,Long and continuous military service
+M0576,AO24985,Gamma,International Cooperation Medal,2025-12-01,Contribution to joint/NATO training exercises
+M0577,AO24985,Gamma,International Cooperation Medal,2024-10-03,Contribution to joint/NATO training exercises
+M0578,AO21429,Gamma,Distinguished Marksmanship Medal,2022-02-27,Recognized shooting proficiency
+M0579,AO21429,Gamma,International Cooperation Medal,2025-10-17,Contribution to joint/NATO training exercises
+M0580,AO21429,Gamma,Unit Commendation,2026-04-22,Contribution to unit-level achievement
+M0581,AO20240,Gamma,Operational Excellence Medal,2023-11-10,Exceptional performance during operational missions
+M0582,AO20240,Gamma,Presidential Commendation,2022-11-13,Distinguished service recognized at command level
+M0583,AO16860,Gamma,International Cooperation Medal,2024-08-24,Contribution to joint/NATO training exercises
+M0584,AO16860,Gamma,Presidential Commendation,2024-08-01,Distinguished service recognized at command level
+M0585,AO16860,Gamma,Presidential Commendation,2025-03-09,Distinguished service recognized at command level
+M0586,AO16860,Gamma,Unit Commendation,2024-12-17,Contribution to unit-level achievement
+M0587,AO16860,Gamma,Unit Commendation,2023-11-18,Contribution to unit-level achievement
+M0588,AO16860,Gamma,Operational Excellence Medal,2025-12-08,Exceptional performance during operational missions
+M0589,AO24475,Gamma,International Cooperation Medal,2024-12-26,Contribution to joint/NATO training exercises
+M0590,AO24475,Gamma,International Cooperation Medal,2025-10-06,Contribution to joint/NATO training exercises
+M0591,AO24451,Gamma,Years of Service Medal,2025-05-12,Long and continuous military service
+M0592,AO24451,Gamma,Presidential Commendation,2026-02-02,Distinguished service recognized at command level
+M0593,AO24451,Gamma,Presidential Commendation,2025-03-17,Distinguished service recognized at command level
+M0594,AO25736,Gamma,Unit Commendation,2025-09-26,Contribution to unit-level achievement
+M0595,AO24080,Gamma,Presidential Commendation,2025-07-20,Distinguished service recognized at command level
+M0596,AO17637,Gamma,Distinguished Marksmanship Medal,2025-03-17,Recognized shooting proficiency
+M0597,AO23313,Gamma,Presidential Commendation,2025-07-17,Distinguished service recognized at command level
+M0598,AO23313,Gamma,Unit Commendation,2026-01-21,Contribution to unit-level achievement
+M0599,AO23313,Gamma,Unit Commendation,2023-12-25,Contribution to unit-level achievement
+M0600,AO23313,Gamma,Presidential Commendation,2024-03-04,Distinguished service recognized at command level
+M0601,AO23316,Gamma,Years of Service Medal,2024-03-12,Long and continuous military service
+M0602,AO17887,Gamma,International Cooperation Medal,2026-04-08,Contribution to joint/NATO training exercises
+M0603,AO15343,Gamma,Presidential Commendation,2021-07-23,Distinguished service recognized at command level
+M0604,AO15343,Gamma,Distinguished Marksmanship Medal,2025-05-19,Recognized shooting proficiency
+M0605,AO18600,Gamma,Unit Commendation,2023-06-21,Contribution to unit-level achievement
+M0606,AO18600,Gamma,Presidential Commendation,2025-05-04,Distinguished service recognized at command level
+M0607,AO18600,Gamma,Unit Commendation,2022-08-24,Contribution to unit-level achievement
+M0608,AO24112,Gamma,Meritorious Service Medal,2025-03-02,Sustained high standard of duty performance
+M0609,AO24112,Gamma,Unit Commendation,2024-11-23,Contribution to unit-level achievement
+M0610,AO18070,Gamma,Operational Excellence Medal,2023-11-27,Exceptional performance during operational missions
+M0611,AO18070,Gamma,Meritorious Service Medal,2026-05-15,Sustained high standard of duty performance
+M0612,AO21835,Gamma,Operational Excellence Medal,2024-05-23,Exceptional performance during operational missions
+M0613,AO21835,Gamma,Operational Excellence Medal,2025-12-27,Exceptional performance during operational missions
+M0614,AO21835,Gamma,Unit Commendation,2025-08-02,Contribution to unit-level achievement
+M0615,AO21206,Gamma,International Cooperation Medal,2025-01-27,Contribution to joint/NATO training exercises
+M0616,AO21206,Gamma,Years of Service Medal,2025-01-08,Long and continuous military service
+M0617,AO15626,Gamma,Unit Commendation,2025-04-29,Contribution to unit-level achievement
+M0618,AO15626,Gamma,Years of Service Medal,2026-02-20,Long and continuous military service
+M0619,AO16652,Gamma,Years of Service Medal,2023-10-12,Long and continuous military service
+M0620,AO21394,Gamma,Operational Excellence Medal,2026-01-28,Exceptional performance during operational missions
+M0621,AO21394,Gamma,Presidential Commendation,2022-05-20,Distinguished service recognized at command level
+M0622,AO17667,Gamma,Years of Service Medal,2021-12-26,Long and continuous military service
+M0623,AO17667,Gamma,Unit Commendation,2023-12-15,Contribution to unit-level achievement
+M0624,AO17667,Gamma,Meritorious Service Medal,2026-02-21,Sustained high standard of duty performance
+M0625,AO21911,Gamma,International Cooperation Medal,2023-02-22,Contribution to joint/NATO training exercises
+M0626,AO21911,Gamma,Operational Excellence Medal,2024-08-04,Exceptional performance during operational missions
+M0627,AO21911,Gamma,Unit Commendation,2024-08-23,Contribution to unit-level achievement
+M0628,AO24650,Gamma,Distinguished Marksmanship Medal,2025-01-01,Recognized shooting proficiency
+M0629,AO24650,Gamma,International Cooperation Medal,2024-09-25,Contribution to joint/NATO training exercises
+M0630,AO22118,Gamma,Presidential Commendation,2026-02-23,Distinguished service recognized at command level
+M0631,AO22118,Gamma,Meritorious Service Medal,2025-12-25,Sustained high standard of duty performance
+M0632,AO12488,Gamma,Meritorious Service Medal,2026-02-11,Sustained high standard of duty performance
+M0633,AO12488,Gamma,Unit Commendation,2026-06-05,Contribution to unit-level achievement
+M0634,AO12488,Gamma,Meritorious Service Medal,2025-02-04,Sustained high standard of duty performance
+M0635,AO12488,Gamma,Meritorious Service Medal,2024-01-29,Sustained high standard of duty performance
+M0636,AO12488,Gamma,Presidential Commendation,2026-06-24,Distinguished service recognized at command level
+M0637,AO12488,Gamma,Operational Excellence Medal,2024-11-01,Exceptional performance during operational missions
+M0638,AO24665,Gamma,Presidential Commendation,2025-09-22,Distinguished service recognized at command level
+M0639,AO24665,Gamma,Operational Excellence Medal,2026-06-07,Exceptional performance during operational missions
+M0640,AO24665,Gamma,Years of Service Medal,2026-03-27,Long and continuous military service
+M0641,AO24665,Gamma,Operational Excellence Medal,2025-07-28,Exceptional performance during operational missions
+M0642,AO24665,Gamma,Unit Commendation,2024-08-14,Contribution to unit-level achievement
+M0643,AO24665,Gamma,Operational Excellence Medal,2025-04-26,Exceptional performance during operational missions
+M0644,AO18360,Gamma,Unit Commendation,2025-09-01,Contribution to unit-level achievement
+M0645,AO18360,Gamma,Distinguished Marksmanship Medal,2024-04-30,Recognized shooting proficiency
+M0646,AO11938,Gamma,Meritorious Service Medal,2022-09-23,Sustained high standard of duty performance
+M0647,AO11938,Gamma,Presidential Commendation,2024-08-20,Distinguished service recognized at command level
+M0648,AO11938,Gamma,Meritorious Service Medal,2023-08-31,Sustained high standard of duty performance
+M0649,AO11938,Gamma,Meritorious Service Medal,2022-08-04,Sustained high standard of duty performance
+M0650,AO11938,Gamma,Distinguished Marksmanship Medal,2025-04-06,Recognized shooting proficiency
+M0651,AO11938,Gamma,International Cooperation Medal,2021-05-29,Contribution to joint/NATO training exercises
+M0652,AO16958,Gamma,Years of Service Medal,2022-09-16,Long and continuous military service
+M0653,AO16958,Gamma,Years of Service Medal,2023-11-25,Long and continuous military service
+M0654,AO16958,Gamma,Years of Service Medal,2022-12-02,Long and continuous military service
+M0655,G21193,Gamma,Distinguished Marksmanship Medal,2023-06-03,Recognized shooting proficiency
+M0656,G21193,Gamma,Meritorious Service Medal,2024-08-09,Sustained high standard of duty performance
+M0657,G23405,Gamma,International Cooperation Medal,2024-01-18,Contribution to joint/NATO training exercises
+M0658,G23405,Gamma,International Cooperation Medal,2023-08-31,Contribution to joint/NATO training exercises
+M0659,G23405,Gamma,Years of Service Medal,2025-01-10,Long and continuous military service
+M0660,G21265,Gamma,Unit Commendation,2024-04-02,Contribution to unit-level achievement
+M0661,G21265,Gamma,International Cooperation Medal,2022-07-17,Contribution to joint/NATO training exercises
+M0662,G21265,Gamma,Meritorious Service Medal,2025-08-05,Sustained high standard of duty performance
+M0663,G21265,Gamma,Presidential Commendation,2023-07-30,Distinguished service recognized at command level
+M0664,G16237,Gamma,Presidential Commendation,2025-10-05,Distinguished service recognized at command level
+M0665,G16237,Gamma,International Cooperation Medal,2021-12-02,Contribution to joint/NATO training exercises
+M0666,G16237,Gamma,Operational Excellence Medal,2024-03-09,Exceptional performance during operational missions
+M0667,G12759,Gamma,Operational Excellence Medal,2025-06-10,Exceptional performance during operational missions
+M0668,G12759,Gamma,Distinguished Marksmanship Medal,2024-01-26,Recognized shooting proficiency
+M0669,G21712,Gamma,Operational Excellence Medal,2024-05-18,Exceptional performance during operational missions
+M0670,G21712,Gamma,Operational Excellence Medal,2024-05-23,Exceptional performance during operational missions
+M0671,G11534,Gamma,Presidential Commendation,2025-01-19,Distinguished service recognized at command level
+M0672,G24740,Gamma,Presidential Commendation,2025-10-15,Distinguished service recognized at command level
+M0673,G24740,Gamma,Distinguished Marksmanship Medal,2025-11-09,Recognized shooting proficiency
+M0674,G24740,Gamma,Meritorious Service Medal,2026-01-06,Sustained high standard of duty performance
+M0675,G24625,Gamma,International Cooperation Medal,2025-10-23,Contribution to joint/NATO training exercises
+M0676,G24625,Gamma,Presidential Commendation,2025-05-09,Distinguished service recognized at command level
+M0677,G24625,Gamma,Operational Excellence Medal,2026-06-07,Exceptional performance during operational missions
+M0678,G24625,Gamma,Operational Excellence Medal,2025-07-08,Exceptional performance during operational missions
+M0679,G08825,Gamma,Operational Excellence Medal,2026-01-22,Exceptional performance during operational missions
+M0680,G24228,Gamma,Operational Excellence Medal,2025-07-15,Exceptional performance during operational missions
+M0681,G24228,Gamma,Distinguished Marksmanship Medal,2025-05-08,Recognized shooting proficiency
+M0682,G23950,Gamma,Distinguished Marksmanship Medal,2025-03-02,Recognized shooting proficiency
+M0683,G18229,Gamma,Meritorious Service Medal,2022-04-04,Sustained high standard of duty performance
+M0684,G18229,Gamma,Unit Commendation,2022-10-01,Contribution to unit-level achievement
+M0685,G10034,Gamma,Operational Excellence Medal,2025-02-05,Exceptional performance during operational missions
+M0686,G10034,Gamma,Years of Service Medal,2024-12-09,Long and continuous military service
+M0687,G10034,Gamma,Distinguished Marksmanship Medal,2024-12-12,Recognized shooting proficiency
+M0688,G10034,Gamma,Unit Commendation,2024-12-11,Contribution to unit-level achievement
+M0689,G10034,Gamma,Unit Commendation,2026-04-14,Contribution to unit-level achievement
+M0690,G24055,Gamma,Unit Commendation,2025-05-29,Contribution to unit-level achievement
+M0691,G24055,Gamma,Distinguished Marksmanship Medal,2026-04-19,Recognized shooting proficiency
+M0692,G24055,Gamma,Unit Commendation,2025-08-04,Contribution to unit-level achievement
+M0693,G24055,Gamma,Presidential Commendation,2025-01-05,Distinguished service recognized at command level
+M0694,G23617,Gamma,Unit Commendation,2025-11-01,Contribution to unit-level achievement
+M0695,G23617,Gamma,Unit Commendation,2025-05-01,Contribution to unit-level achievement
+M0696,G18607,Gamma,Operational Excellence Medal,2024-07-03,Exceptional performance during operational missions
+M0697,G18607,Gamma,Distinguished Marksmanship Medal,2025-11-07,Recognized shooting proficiency
+M0698,G18607,Gamma,Presidential Commendation,2023-02-01,Distinguished service recognized at command level
+M0699,G18607,Gamma,Unit Commendation,2025-09-22,Contribution to unit-level achievement
+M0700,G18607,Gamma,Distinguished Marksmanship Medal,2025-10-02,Recognized shooting proficiency
+M0701,G22495,Gamma,International Cooperation Medal,2025-02-06,Contribution to joint/NATO training exercises
+M0702,G22236,Gamma,Years of Service Medal,2023-03-21,Long and continuous military service
+M0703,G22236,Gamma,Years of Service Medal,2024-10-06,Long and continuous military service
+M0704,G22081,Gamma,International Cooperation Medal,2025-04-23,Contribution to joint/NATO training exercises
+M0705,G22081,Gamma,Distinguished Marksmanship Medal,2026-01-24,Recognized shooting proficiency
+M0706,G22081,Gamma,Presidential Commendation,2023-04-04,Distinguished service recognized at command level
+M0707,G22081,Gamma,Distinguished Marksmanship Medal,2026-01-13,Recognized shooting proficiency
+M0708,G22081,Gamma,Operational Excellence Medal,2024-03-29,Exceptional performance during operational missions
+M0709,G22081,Gamma,International Cooperation Medal,2024-10-02,Contribution to joint/NATO training exercises
+M0710,G23250,Gamma,Unit Commendation,2023-08-11,Contribution to unit-level achievement
+M0711,G23250,Gamma,Years of Service Medal,2023-04-08,Long and continuous military service
+M0712,G21406,Gamma,Operational Excellence Medal,2022-09-27,Exceptional performance during operational missions
+M0713,G21406,Gamma,International Cooperation Medal,2022-12-11,Contribution to joint/NATO training exercises
+M0714,G21406,Gamma,Years of Service Medal,2025-10-28,Long and continuous military service
+M0715,G24842,Gamma,Operational Excellence Medal,2024-09-17,Exceptional performance during operational missions
+M0716,G24842,Gamma,Operational Excellence Medal,2025-01-14,Exceptional performance during operational missions
+M0717,G24842,Gamma,Presidential Commendation,2025-08-24,Distinguished service recognized at command level
+M0718,G24842,Gamma,Meritorious Service Medal,2024-12-10,Sustained high standard of duty performance
+M0719,G09851,Gamma,International Cooperation Medal,2025-09-24,Contribution to joint/NATO training exercises
+M0720,G09851,Gamma,Meritorious Service Medal,2025-12-03,Sustained high standard of duty performance
+M0721,G09851,Gamma,Meritorious Service Medal,2026-03-14,Sustained high standard of duty performance
+M0722,G09851,Gamma,Meritorious Service Medal,2025-07-31,Sustained high standard of duty performance
+M0723,G09851,Gamma,Meritorious Service Medal,2025-07-23,Sustained high standard of duty performance
+M0724,G17884,Gamma,Presidential Commendation,2026-01-18,Distinguished service recognized at command level
+M0725,G25117,Gamma,Presidential Commendation,2025-06-03,Distinguished service recognized at command level
+M0726,G25117,Gamma,Operational Excellence Medal,2026-03-16,Exceptional performance during operational missions
+M0727,G25117,Gamma,International Cooperation Medal,2025-09-25,Contribution to joint/NATO training exercises
+M0728,G22817,Gamma,Meritorious Service Medal,2025-08-02,Sustained high standard of duty performance
+M0729,G22817,Gamma,Meritorious Service Medal,2025-03-07,Sustained high standard of duty performance
+M0730,G22817,Gamma,Operational Excellence Medal,2026-04-01,Exceptional performance during operational missions
+M0731,G21397,Gamma,Distinguished Marksmanship Medal,2022-11-03,Recognized shooting proficiency
+M0732,G21397,Gamma,Meritorious Service Medal,2022-09-08,Sustained high standard of duty performance
+M0733,G25490,Gamma,Meritorious Service Medal,2026-03-08,Sustained high standard of duty performance
+M0734,G25490,Gamma,Presidential Commendation,2025-08-20,Distinguished service recognized at command level
+M0735,G22189,Gamma,Years of Service Medal,2024-09-23,Long and continuous military service
+M0736,G21086,Gamma,International Cooperation Medal,2024-08-19,Contribution to joint/NATO training exercises
+M0737,G08080,Gamma,Operational Excellence Medal,2023-07-05,Exceptional performance during operational missions
+M0738,G25779,Gamma,International Cooperation Medal,2026-01-10,Contribution to joint/NATO training exercises
+M0739,G25779,Gamma,Distinguished Marksmanship Medal,2025-09-30,Recognized shooting proficiency
+M0740,G25779,Gamma,Operational Excellence Medal,2026-04-09,Exceptional performance during operational missions
+M0741,G16461,Gamma,Meritorious Service Medal,2026-06-14,Sustained high standard of duty performance
+M0742,G16461,Gamma,Meritorious Service Medal,2022-09-13,Sustained high standard of duty performance
+M0743,G16461,Gamma,Operational Excellence Medal,2025-03-06,Exceptional performance during operational missions
+M0744,G22135,Gamma,International Cooperation Medal,2025-05-02,Contribution to joint/NATO training exercises
+M0745,G22135,Gamma,Operational Excellence Medal,2025-11-30,Exceptional performance during operational missions
+M0746,G22448,Gamma,Distinguished Marksmanship Medal,2022-08-15,Recognized shooting proficiency
+M0747,G22448,Gamma,Distinguished Marksmanship Medal,2025-12-28,Recognized shooting proficiency
+M0748,AO12000,Sigma,Distinguished Marksmanship Medal,2025-06-06,Recognized shooting proficiency
+M0749,AO12000,Sigma,Meritorious Service Medal,2024-12-02,Sustained high standard of duty performance
+M0750,AO13467,Sigma,Distinguished Marksmanship Medal,2023-03-02,Recognized shooting proficiency
+M0751,AO12830,Sigma,Unit Commendation,2024-05-31,Contribution to unit-level achievement
+M0752,AO12830,Sigma,Meritorious Service Medal,2023-04-14,Sustained high standard of duty performance
+M0753,AO12830,Sigma,Operational Excellence Medal,2024-08-29,Exceptional performance during operational missions
+M0754,AO12830,Sigma,Meritorious Service Medal,2024-01-06,Sustained high standard of duty performance
+M0755,AO22617,Sigma,Unit Commendation,2025-06-21,Contribution to unit-level achievement
+M0756,AO25376,Sigma,Meritorious Service Medal,2025-10-13,Sustained high standard of duty performance
+M0757,AO25376,Sigma,Years of Service Medal,2025-05-20,Long and continuous military service
+M0758,AO22093,Sigma,International Cooperation Medal,2025-02-28,Contribution to joint/NATO training exercises
+M0759,AO23780,Sigma,Unit Commendation,2025-06-16,Contribution to unit-level achievement
+M0760,AO12140,Sigma,International Cooperation Medal,2022-04-16,Contribution to joint/NATO training exercises
+M0761,AO20080,Sigma,Years of Service Medal,2022-06-07,Long and continuous military service
+M0762,AO19031,Sigma,Presidential Commendation,2023-11-26,Distinguished service recognized at command level
+M0763,AO18862,Sigma,Presidential Commendation,2025-05-16,Distinguished service recognized at command level
+M0764,AO18862,Sigma,Operational Excellence Medal,2022-02-26,Exceptional performance during operational missions
+M0765,AO18862,Sigma,Meritorious Service Medal,2021-04-13,Sustained high standard of duty performance
+M0766,AO14110,Sigma,Presidential Commendation,2025-07-24,Distinguished service recognized at command level
+M0767,AO23445,Sigma,Presidential Commendation,2025-08-14,Distinguished service recognized at command level
+M0768,AO23445,Sigma,Meritorious Service Medal,2025-04-13,Sustained high standard of duty performance
+M0769,AO13818,Sigma,Presidential Commendation,2025-07-08,Distinguished service recognized at command level
+M0770,AO23508,Sigma,Years of Service Medal,2025-04-22,Long and continuous military service
+M0771,AO23508,Sigma,Presidential Commendation,2024-06-28,Distinguished service recognized at command level
+M0772,AO23410,Sigma,International Cooperation Medal,2025-07-14,Contribution to joint/NATO training exercises
+M0773,AO18024,Sigma,Distinguished Marksmanship Medal,2025-11-10,Recognized shooting proficiency
+M0774,AO18024,Sigma,Distinguished Marksmanship Medal,2024-11-26,Recognized shooting proficiency
+M0775,AO18024,Sigma,Presidential Commendation,2025-02-04,Distinguished service recognized at command level
+M0776,AO16212,Sigma,International Cooperation Medal,2026-01-03,Contribution to joint/NATO training exercises
+M0777,AO16212,Sigma,International Cooperation Medal,2025-12-20,Contribution to joint/NATO training exercises
+M0778,AO21707,Sigma,Presidential Commendation,2025-11-08,Distinguished service recognized at command level
+M0779,AO22645,Sigma,Distinguished Marksmanship Medal,2023-02-26,Recognized shooting proficiency
+M0780,AO22645,Sigma,Unit Commendation,2025-10-03,Contribution to unit-level achievement
+M0781,AO21263,Sigma,Operational Excellence Medal,2021-12-03,Exceptional performance during operational missions
+M0782,AO21878,Sigma,Distinguished Marksmanship Medal,2023-04-03,Recognized shooting proficiency
+M0783,AO21878,Sigma,Years of Service Medal,2026-06-16,Long and continuous military service
+M0784,AO20873,Sigma,Distinguished Marksmanship Medal,2026-06-06,Recognized shooting proficiency
+M0785,AO20873,Sigma,Meritorious Service Medal,2024-03-18,Sustained high standard of duty performance
+M0786,AO24366,Sigma,Operational Excellence Medal,2024-05-29,Exceptional performance during operational missions
+M0787,AO24366,Sigma,Meritorious Service Medal,2025-06-28,Sustained high standard of duty performance
+M0788,AO24366,Sigma,Meritorious Service Medal,2025-07-10,Sustained high standard of duty performance
+M0789,AO24366,Sigma,Unit Commendation,2026-05-03,Contribution to unit-level achievement
+M0790,AO17508,Sigma,Unit Commendation,2024-10-04,Contribution to unit-level achievement
+M0791,AO17508,Sigma,Distinguished Marksmanship Medal,2022-08-25,Recognized shooting proficiency
+M0792,AO17508,Sigma,Years of Service Medal,2024-05-02,Long and continuous military service
+M0793,AO20321,Sigma,International Cooperation Medal,2025-04-16,Contribution to joint/NATO training exercises
+M0794,AO20321,Sigma,Unit Commendation,2025-02-20,Contribution to unit-level achievement
+M0795,AO13943,Sigma,Meritorious Service Medal,2023-08-14,Sustained high standard of duty performance
+M0796,AO13943,Sigma,International Cooperation Medal,2025-08-25,Contribution to joint/NATO training exercises
+M0797,AO13943,Sigma,Years of Service Medal,2023-03-02,Long and continuous military service
+M0798,AO13943,Sigma,Meritorious Service Medal,2023-02-01,Sustained high standard of duty performance
+M0799,AO25541,Sigma,Distinguished Marksmanship Medal,2025-06-09,Recognized shooting proficiency
+M0800,AO22788,Sigma,Presidential Commendation,2024-03-17,Distinguished service recognized at command level
+M0801,AO22788,Sigma,Meritorious Service Medal,2024-02-29,Sustained high standard of duty performance
+M0802,AO24582,Sigma,Presidential Commendation,2025-05-02,Distinguished service recognized at command level
+M0803,AO24582,Sigma,Years of Service Medal,2025-10-01,Long and continuous military service
+M0804,AO24582,Sigma,Unit Commendation,2026-06-10,Contribution to unit-level achievement
+M0805,AO24582,Sigma,Meritorious Service Medal,2026-05-21,Sustained high standard of duty performance
+M0806,AO21338,Sigma,Distinguished Marksmanship Medal,2026-05-31,Recognized shooting proficiency
+M0807,G21228,Sigma,Operational Excellence Medal,2023-12-28,Exceptional performance during operational missions
+M0808,G21228,Sigma,Unit Commendation,2025-08-08,Contribution to unit-level achievement
+M0809,G23248,Sigma,International Cooperation Medal,2025-06-03,Contribution to joint/NATO training exercises
+M0810,G23248,Sigma,Distinguished Marksmanship Medal,2023-07-19,Recognized shooting proficiency
+M0811,G23248,Sigma,Operational Excellence Medal,2025-08-01,Exceptional performance during operational missions
+M0812,G17472,Sigma,Unit Commendation,2021-10-21,Contribution to unit-level achievement
+M0813,G17472,Sigma,Unit Commendation,2022-12-31,Contribution to unit-level achievement
+M0814,G17472,Sigma,International Cooperation Medal,2024-07-03,Contribution to joint/NATO training exercises
+M0815,G25334,Sigma,Operational Excellence Medal,2025-06-29,Exceptional performance during operational missions
+M0816,G25334,Sigma,Operational Excellence Medal,2025-06-02,Exceptional performance during operational missions
+M0817,G24918,Sigma,Operational Excellence Medal,2026-06-27,Exceptional performance during operational missions
+M0818,G24918,Sigma,Unit Commendation,2024-11-19,Contribution to unit-level achievement
+M0819,G24918,Sigma,Years of Service Medal,2025-08-25,Long and continuous military service
+M0820,G22667,Sigma,Unit Commendation,2022-07-29,Contribution to unit-level achievement
+M0821,G22398,Sigma,Operational Excellence Medal,2024-10-05,Exceptional performance during operational missions
+M0822,G21555,Sigma,Distinguished Marksmanship Medal,2026-05-15,Recognized shooting proficiency
+M0823,G17341,Sigma,Distinguished Marksmanship Medal,2021-04-17,Recognized shooting proficiency
+M0824,G17341,Sigma,Distinguished Marksmanship Medal,2023-06-04,Recognized shooting proficiency
+M0825,G23878,Sigma,Unit Commendation,2026-01-17,Contribution to unit-level achievement
+M0826,G23264,Sigma,Distinguished Marksmanship Medal,2024-12-25,Recognized shooting proficiency
+M0827,G23264,Sigma,Presidential Commendation,2025-08-13,Distinguished service recognized at command level
+M0828,G23264,Sigma,Years of Service Medal,2023-04-29,Long and continuous military service
+M0829,G23264,Sigma,Presidential Commendation,2025-07-17,Distinguished service recognized at command level
+M0830,G22782,Sigma,Distinguished Marksmanship Medal,2023-07-18,Recognized shooting proficiency
+M0831,G22782,Sigma,Operational Excellence Medal,2024-09-25,Exceptional performance during operational missions
+M0832,G22782,Sigma,Years of Service Medal,2024-10-31,Long and continuous military service
+M0833,G22782,Sigma,Meritorious Service Medal,2025-04-21,Sustained high standard of duty performance
+M0834,G22782,Sigma,International Cooperation Medal,2024-07-25,Contribution to joint/NATO training exercises
+M0835,G22782,Sigma,Distinguished Marksmanship Medal,2023-02-07,Recognized shooting proficiency
+M0836,G22028,Sigma,Distinguished Marksmanship Medal,2024-06-07,Recognized shooting proficiency
+M0837,G21049,Sigma,Distinguished Marksmanship Medal,2024-08-25,Recognized shooting proficiency
+M0838,G21049,Sigma,Presidential Commendation,2024-02-18,Distinguished service recognized at command level
+M0839,G21049,Sigma,Years of Service Medal,2025-03-10,Long and continuous military service
+M0840,G21049,Sigma,Meritorious Service Medal,2024-03-13,Sustained high standard of duty performance
+M0841,G21049,Sigma,International Cooperation Medal,2024-06-04,Contribution to joint/NATO training exercises
+M0842,G21049,Sigma,Operational Excellence Medal,2024-02-26,Exceptional performance during operational missions
+M0843,G23282,Sigma,Meritorious Service Medal,2026-03-03,Sustained high standard of duty performance
+M0844,G22471,Sigma,Distinguished Marksmanship Medal,2023-05-01,Recognized shooting proficiency
+M0845,G24364,Sigma,Operational Excellence Medal,2025-12-22,Exceptional performance during operational missions
+M0846,G24364,Sigma,Presidential Commendation,2025-01-10,Distinguished service recognized at command level
+M0847,G23461,Sigma,Operational Excellence Medal,2025-01-03,Exceptional performance during operational missions
+M0848,G23461,Sigma,International Cooperation Medal,2024-03-22,Contribution to joint/NATO training exercises
+M0849,G23461,Sigma,Presidential Commendation,2025-07-24,Distinguished service recognized at command level
+M0850,G23461,Sigma,International Cooperation Medal,2024-03-30,Contribution to joint/NATO training exercises
+M0851,G23461,Sigma,Unit Commendation,2026-05-01,Contribution to unit-level achievement
+M0852,G23231,Sigma,Meritorious Service Medal,2026-01-31,Sustained high standard of duty performance
+M0853,G23231,Sigma,Presidential Commendation,2024-01-21,Distinguished service recognized at command level
+M0854,G23231,Sigma,Distinguished Marksmanship Medal,2024-02-02,Recognized shooting proficiency
+M0855,G21906,Sigma,Years of Service Medal,2023-11-04,Long and continuous military service
+M0856,G22712,Sigma,Meritorious Service Medal,2025-02-12,Sustained high standard of duty performance
+M0857,G22712,Sigma,Meritorious Service Medal,2024-12-08,Sustained high standard of duty performance
+M0858,G22712,Sigma,International Cooperation Medal,2024-07-28,Contribution to joint/NATO training exercises
+M0859,G23902,Sigma,International Cooperation Medal,2026-04-14,Contribution to joint/NATO training exercises
+M0860,G23902,Sigma,Unit Commendation,2026-05-31,Contribution to unit-level achievement
+M0861,G18430,Sigma,Presidential Commendation,2025-09-08,Distinguished service recognized at command level
+M0862,G17879,Sigma,Distinguished Marksmanship Medal,2026-01-11,Recognized shooting proficiency
+M0863,G17879,Sigma,Distinguished Marksmanship Medal,2025-10-30,Recognized shooting proficiency
+M0864,G23898,Sigma,Unit Commendation,2025-02-16,Contribution to unit-level achievement
+M0865,G23898,Sigma,International Cooperation Medal,2026-03-23,Contribution to joint/NATO training exercises
+M0866,G25531,Sigma,Unit Commendation,2025-11-14,Contribution to unit-level achievement
+M0867,G25531,Sigma,International Cooperation Medal,2025-09-11,Contribution to joint/NATO training exercises
+M0868,G18619,Sigma,Distinguished Marksmanship Medal,2024-12-22,Recognized shooting proficiency
+M0869,G17402,Sigma,Presidential Commendation,2024-09-18,Distinguished service recognized at command level
+M0870,G25356,Sigma,Operational Excellence Medal,2025-08-01,Exceptional performance during operational missions
+M0871,G25356,Sigma,Presidential Commendation,2025-09-26,Distinguished service recognized at command level

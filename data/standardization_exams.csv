@@ -1,0 +1,1154 @@
+person_id,department,exam_year,standardization_score,flight_clearance,retake_required,retake_score,final_clearance_status,evaluator_id
+AO05709,Delta,2022,82.5,Cleared,False,,Cleared,AO13387
+AO05709,Delta,2023,100.0,Cleared,False,,Cleared,AO13387
+AO05709,Delta,2024,100.0,Cleared,False,,Cleared,AO13387
+AO05709,Delta,2025,97.4,Cleared,False,,Cleared,AO13387
+AO05709,Delta,2026,80.5,Cleared,False,,Cleared,AO13387
+AO07216,Alpha,2024,95.0,Cleared,False,,Cleared,AO16543
+AO07216,Alpha,2025,66.9,Not Cleared,True,83.0,Cleared,AO16543
+AO07216,Alpha,2026,74.1,Cleared,False,,Cleared,AO16543
+AO11296,Delta,2022,69.6,Not Cleared,True,74.6,Cleared,AO13387
+AO11296,Delta,2023,86.5,Cleared,False,,Cleared,AO13387
+AO11296,Delta,2024,66.2,Not Cleared,True,73.5,Cleared,AO13387
+AO11296,Delta,2025,79.9,Cleared,False,,Cleared,AO13387
+AO11296,Delta,2026,83.4,Cleared,False,,Cleared,AO13387
+AO11537,Sigma,2021,92.7,Cleared,False,,Cleared,AO12830
+AO11537,Sigma,2022,86.4,Cleared,False,,Cleared,AO12830
+AO11537,Sigma,2023,72.3,Cleared,False,,Cleared,AO12830
+AO11537,Sigma,2024,86.0,Cleared,False,,Cleared,AO12830
+AO11537,Sigma,2025,67.2,Not Cleared,True,80.8,Cleared,AO12830
+AO11537,Sigma,2026,90.3,Cleared,False,,Cleared,AO12830
+AO11628,Alpha,2022,75.2,Cleared,False,,Cleared,AO16543
+AO11628,Alpha,2023,64.9,Not Cleared,True,81.4,Cleared,AO16543
+AO11628,Alpha,2024,77.7,Cleared,False,,Cleared,AO16543
+AO11628,Alpha,2025,51.4,Not Cleared,True,55.1,Not Cleared,AO16543
+AO11938,Gamma,2021,86.7,Cleared,False,,Cleared,AO18162
+AO11938,Gamma,2022,78.9,Cleared,False,,Cleared,AO18162
+AO11938,Gamma,2023,72.7,Cleared,False,,Cleared,AO18162
+AO11938,Gamma,2024,80.4,Cleared,False,,Cleared,AO18162
+AO11938,Gamma,2025,73.3,Cleared,False,,Cleared,AO18162
+AO11938,Gamma,2026,88.5,Cleared,False,,Cleared,AO18162
+AO12000,Sigma,2021,83.2,Cleared,False,,Cleared,AO12830
+AO12000,Sigma,2022,84.0,Cleared,False,,Cleared,AO12830
+AO12000,Sigma,2023,71.8,Cleared,False,,Cleared,AO12830
+AO12000,Sigma,2024,64.4,Not Cleared,True,77.8,Cleared,AO12830
+AO12000,Sigma,2025,86.7,Cleared,False,,Cleared,AO12830
+AO12000,Sigma,2026,72.2,Cleared,False,,Cleared,AO12830
+AO12061,Delta,2025,85.1,Cleared,False,,Cleared,AO13387
+AO12061,Delta,2026,74.3,Cleared,False,,Cleared,AO13387
+AO12140,Sigma,2021,68.0,Not Cleared,True,79.0,Cleared,AO12830
+AO12140,Sigma,2022,95.2,Cleared,False,,Cleared,AO12830
+AO12140,Sigma,2023,83.7,Cleared,False,,Cleared,AO12830
+AO12140,Sigma,2024,64.9,Not Cleared,True,79.7,Cleared,AO12830
+AO12140,Sigma,2025,78.2,Cleared,False,,Cleared,AO12830
+AO12140,Sigma,2026,79.2,Cleared,False,,Cleared,AO12830
+AO12189,Delta,2022,81.5,Cleared,False,,Cleared,AO13387
+AO12189,Delta,2023,78.4,Cleared,False,,Cleared,AO13387
+AO12189,Delta,2024,58.6,Not Cleared,True,65.9,Not Cleared,AO13387
+AO12189,Delta,2025,82.3,Cleared,False,,Cleared,AO13387
+AO12189,Delta,2026,83.8,Cleared,False,,Cleared,AO13387
+AO12366,Beta,2021,87.7,Cleared,False,,Cleared,AO13826
+AO12366,Beta,2022,86.5,Cleared,False,,Cleared,AO13826
+AO12366,Beta,2023,64.3,Not Cleared,True,75.4,Cleared,AO13826
+AO12366,Beta,2024,96.2,Cleared,False,,Cleared,AO13826
+AO12366,Beta,2025,57.7,Not Cleared,True,72.5,Cleared,AO13826
+AO12366,Beta,2026,100.0,Cleared,False,,Cleared,AO13826
+AO12461,Alpha,2021,80.1,Cleared,False,,Cleared,AO16543
+AO12461,Alpha,2022,82.5,Cleared,False,,Cleared,AO16543
+AO12461,Alpha,2023,88.9,Cleared,False,,Cleared,AO16543
+AO12461,Alpha,2024,79.2,Cleared,False,,Cleared,AO16543
+AO12461,Alpha,2025,89.7,Cleared,False,,Cleared,AO16543
+AO12461,Alpha,2026,57.0,Not Cleared,True,67.0,Not Cleared,AO16543
+AO12488,Gamma,2023,100.0,Cleared,False,,Cleared,AO18162
+AO12488,Gamma,2024,99.6,Cleared,False,,Cleared,AO18162
+AO12488,Gamma,2025,93.8,Cleared,False,,Cleared,AO18162
+AO12488,Gamma,2026,90.4,Cleared,False,,Cleared,AO18162
+AO12560,Beta,2023,61.6,Not Cleared,True,73.2,Cleared,AO13826
+AO12560,Beta,2024,81.0,Cleared,False,,Cleared,AO13826
+AO12560,Beta,2025,73.4,Cleared,False,,Cleared,AO13826
+AO12560,Beta,2026,78.3,Cleared,False,,Cleared,AO13826
+AO12605,Alpha,2021,93.4,Cleared,False,,Cleared,AO16543
+AO12605,Alpha,2022,81.8,Cleared,False,,Cleared,AO16543
+AO12605,Alpha,2023,78.1,Cleared,False,,Cleared,AO16543
+AO12605,Alpha,2024,78.9,Cleared,False,,Cleared,AO16543
+AO12605,Alpha,2025,85.0,Cleared,False,,Cleared,AO16543
+AO12605,Alpha,2026,85.2,Cleared,False,,Cleared,AO16543
+AO12822,Gamma,2023,75.9,Cleared,False,,Cleared,AO18162
+AO12822,Gamma,2024,62.0,Not Cleared,True,76.6,Cleared,AO18162
+AO12822,Gamma,2025,78.3,Cleared,False,,Cleared,AO18162
+AO12822,Gamma,2026,74.4,Cleared,False,,Cleared,AO18162
+AO12824,Delta,2021,67.8,Not Cleared,True,78.3,Cleared,AO13387
+AO12824,Delta,2022,48.1,Not Cleared,True,65.0,Not Cleared,AO13387
+AO12824,Delta,2023,77.7,Cleared,False,,Cleared,AO13387
+AO12824,Delta,2024,75.3,Cleared,False,,Cleared,AO13387
+AO12824,Delta,2025,87.3,Cleared,False,,Cleared,AO13387
+AO12824,Delta,2026,59.7,Not Cleared,True,73.7,Cleared,AO13387
+AO13289,Delta,2021,88.8,Cleared,False,,Cleared,AO13387
+AO13289,Delta,2022,79.8,Cleared,False,,Cleared,AO13387
+AO13289,Delta,2023,83.1,Cleared,False,,Cleared,AO13387
+AO13289,Delta,2024,75.2,Cleared,False,,Cleared,AO13387
+AO13289,Delta,2025,86.9,Cleared,False,,Cleared,AO13387
+AO13289,Delta,2026,74.0,Cleared,False,,Cleared,AO13387
+AO13357,Alpha,2021,86.4,Cleared,False,,Cleared,AO16543
+AO13357,Alpha,2022,100.0,Cleared,False,,Cleared,AO16543
+AO13357,Alpha,2023,100.0,Cleared,False,,Cleared,AO16543
+AO13357,Alpha,2024,87.1,Cleared,False,,Cleared,AO16543
+AO13357,Alpha,2025,79.2,Cleared,False,,Cleared,AO16543
+AO13357,Alpha,2026,82.2,Cleared,False,,Cleared,AO16543
+AO13467,Sigma,2021,87.1,Cleared,False,,Cleared,AO12830
+AO13467,Sigma,2022,71.6,Cleared,False,,Cleared,AO12830
+AO13467,Sigma,2023,77.6,Cleared,False,,Cleared,AO12830
+AO13467,Sigma,2024,64.1,Not Cleared,True,73.7,Cleared,AO12830
+AO13467,Sigma,2025,73.2,Cleared,False,,Cleared,AO12830
+AO13497,Alpha,2022,96.3,Cleared,False,,Cleared,AO16543
+AO13497,Alpha,2023,100.0,Cleared,False,,Cleared,AO16543
+AO13497,Alpha,2024,77.4,Cleared,False,,Cleared,AO16543
+AO13497,Alpha,2025,75.4,Cleared,False,,Cleared,AO16543
+AO13497,Alpha,2026,74.4,Cleared,False,,Cleared,AO16543
+AO13576,Delta,2023,93.0,Cleared,False,,Cleared,AO13387
+AO13576,Delta,2024,90.5,Cleared,False,,Cleared,AO13387
+AO13576,Delta,2025,65.0,Not Cleared,True,76.9,Cleared,AO13387
+AO13576,Delta,2026,78.9,Cleared,False,,Cleared,AO13387
+AO13655,Gamma,2022,87.8,Cleared,False,,Cleared,AO18162
+AO13655,Gamma,2023,71.2,Cleared,False,,Cleared,AO18162
+AO13655,Gamma,2024,62.7,Not Cleared,True,68.9,Not Cleared,AO18162
+AO13655,Gamma,2025,100.0,Cleared,False,,Cleared,AO18162
+AO13655,Gamma,2026,88.5,Cleared,False,,Cleared,AO18162
+AO13943,Sigma,2021,83.3,Cleared,False,,Cleared,AO12830
+AO13943,Sigma,2022,81.0,Cleared,False,,Cleared,AO12830
+AO13943,Sigma,2023,75.8,Cleared,False,,Cleared,AO12830
+AO13943,Sigma,2024,81.1,Cleared,False,,Cleared,AO12830
+AO13943,Sigma,2025,84.4,Cleared,False,,Cleared,AO12830
+AO13943,Sigma,2026,85.5,Cleared,False,,Cleared,AO12830
+AO14110,Sigma,2021,84.4,Cleared,False,,Cleared,AO12830
+AO14110,Sigma,2022,69.3,Not Cleared,True,80.3,Cleared,AO12830
+AO14110,Sigma,2023,90.4,Cleared,False,,Cleared,AO12830
+AO14110,Sigma,2024,72.1,Cleared,False,,Cleared,AO12830
+AO14110,Sigma,2025,84.4,Cleared,False,,Cleared,AO12830
+AO14110,Sigma,2026,84.9,Cleared,False,,Cleared,AO12830
+AO14187,Delta,2021,86.5,Cleared,False,,Cleared,AO13387
+AO14187,Delta,2022,97.1,Cleared,False,,Cleared,AO13387
+AO14187,Delta,2023,81.0,Cleared,False,,Cleared,AO13387
+AO14187,Delta,2024,81.3,Cleared,False,,Cleared,AO13387
+AO14187,Delta,2025,79.7,Cleared,False,,Cleared,AO13387
+AO14187,Delta,2026,84.0,Cleared,False,,Cleared,AO13387
+AO14212,Gamma,2025,64.2,Not Cleared,True,77.3,Cleared,AO18162
+AO14212,Gamma,2026,67.7,Not Cleared,True,82.2,Cleared,AO18162
+AO14271,Delta,2022,77.8,Cleared,False,,Cleared,AO13387
+AO14271,Delta,2023,88.1,Cleared,False,,Cleared,AO13387
+AO14271,Delta,2024,83.9,Cleared,False,,Cleared,AO13387
+AO14271,Delta,2025,73.8,Cleared,False,,Cleared,AO13387
+AO14271,Delta,2026,86.1,Cleared,False,,Cleared,AO13387
+AO14299,Beta,2021,71.7,Cleared,False,,Cleared,AO13826
+AO14299,Beta,2022,98.3,Cleared,False,,Cleared,AO13826
+AO14299,Beta,2023,74.4,Cleared,False,,Cleared,AO13826
+AO14299,Beta,2024,100.0,Cleared,False,,Cleared,AO13826
+AO14299,Beta,2025,78.4,Cleared,False,,Cleared,AO13826
+AO14299,Beta,2026,100.0,Cleared,False,,Cleared,AO13826
+AO14416,Gamma,2023,79.7,Cleared,False,,Cleared,AO18162
+AO14416,Gamma,2024,87.2,Cleared,False,,Cleared,AO18162
+AO14416,Gamma,2025,81.4,Cleared,False,,Cleared,AO18162
+AO14416,Gamma,2026,84.0,Cleared,False,,Cleared,AO18162
+AO14671,Sigma,2022,67.0,Not Cleared,True,76.8,Cleared,AO12830
+AO14671,Sigma,2023,78.1,Cleared,False,,Cleared,AO12830
+AO14671,Sigma,2024,90.0,Cleared,False,,Cleared,AO12830
+AO14671,Sigma,2025,86.2,Cleared,False,,Cleared,AO12830
+AO14671,Sigma,2026,73.4,Cleared,False,,Cleared,AO12830
+AO15343,Gamma,2021,76.4,Cleared,False,,Cleared,AO18162
+AO15343,Gamma,2022,79.3,Cleared,False,,Cleared,AO18162
+AO15343,Gamma,2023,78.5,Cleared,False,,Cleared,AO18162
+AO15343,Gamma,2024,71.6,Cleared,False,,Cleared,AO18162
+AO15343,Gamma,2025,91.4,Cleared,False,,Cleared,AO18162
+AO15343,Gamma,2026,75.4,Cleared,False,,Cleared,AO18162
+AO15583,Delta,2024,53.3,Not Cleared,True,64.1,Not Cleared,AO13387
+AO15583,Delta,2025,62.9,Not Cleared,True,81.3,Cleared,AO13387
+AO15583,Delta,2026,71.7,Cleared,False,,Cleared,AO13387
+AO15626,Gamma,2022,70.9,Cleared,False,,Cleared,AO18162
+AO15626,Gamma,2023,77.8,Cleared,False,,Cleared,AO18162
+AO15626,Gamma,2024,80.1,Cleared,False,,Cleared,AO18162
+AO15626,Gamma,2025,63.8,Not Cleared,True,79.5,Cleared,AO18162
+AO15626,Gamma,2026,68.7,Not Cleared,True,82.5,Cleared,AO18162
+AO15635,Alpha,2021,65.8,Not Cleared,True,75.6,Cleared,AO16543
+AO15635,Alpha,2022,64.2,Not Cleared,True,80.3,Cleared,AO16543
+AO15635,Alpha,2023,57.7,Not Cleared,True,62.7,Not Cleared,AO16543
+AO15635,Alpha,2024,64.4,Not Cleared,True,74.2,Cleared,AO16543
+AO15635,Alpha,2025,49.1,Not Cleared,True,59.7,Not Cleared,AO16543
+AO15635,Alpha,2026,58.5,Not Cleared,True,70.6,Cleared,AO16543
+AO15781,Delta,2022,87.8,Cleared,False,,Cleared,AO13387
+AO15781,Delta,2023,67.8,Not Cleared,True,81.5,Cleared,AO13387
+AO15781,Delta,2024,90.2,Cleared,False,,Cleared,AO13387
+AO15781,Delta,2025,75.3,Cleared,False,,Cleared,AO13387
+AO15781,Delta,2026,61.5,Not Cleared,True,74.6,Cleared,AO13387
+AO15870,Beta,2022,94.0,Cleared,False,,Cleared,AO13826
+AO15870,Beta,2023,89.8,Cleared,False,,Cleared,AO13826
+AO15870,Beta,2024,96.5,Cleared,False,,Cleared,AO13826
+AO15870,Beta,2025,74.2,Cleared,False,,Cleared,AO13826
+AO15870,Beta,2026,65.9,Not Cleared,True,79.2,Cleared,AO13826
+AO16212,Sigma,2021,81.6,Cleared,False,,Cleared,AO12830
+AO16212,Sigma,2022,80.1,Cleared,False,,Cleared,AO12830
+AO16212,Sigma,2023,76.7,Cleared,False,,Cleared,AO12830
+AO16212,Sigma,2024,71.6,Cleared,False,,Cleared,AO12830
+AO16212,Sigma,2025,85.8,Cleared,False,,Cleared,AO12830
+AO16212,Sigma,2026,77.3,Cleared,False,,Cleared,AO12830
+AO16242,Delta,2021,79.1,Cleared,False,,Cleared,AO13387
+AO16242,Delta,2022,67.5,Not Cleared,True,88.8,Cleared,AO13387
+AO16242,Delta,2023,81.2,Cleared,False,,Cleared,AO13387
+AO16242,Delta,2024,67.0,Not Cleared,True,72.1,Cleared,AO13387
+AO16242,Delta,2025,74.5,Cleared,False,,Cleared,AO13387
+AO16242,Delta,2026,75.1,Cleared,False,,Cleared,AO13387
+AO16360,Delta,2021,88.6,Cleared,False,,Cleared,AO13387
+AO16360,Delta,2022,70.3,Cleared,False,,Cleared,AO13387
+AO16360,Delta,2023,51.9,Not Cleared,True,64.3,Not Cleared,AO13387
+AO16360,Delta,2024,74.7,Cleared,False,,Cleared,AO13387
+AO16360,Delta,2025,71.3,Cleared,False,,Cleared,AO13387
+AO16360,Delta,2026,64.6,Not Cleared,True,79.1,Cleared,AO13387
+AO16430,Beta,2021,60.1,Not Cleared,True,73.8,Cleared,AO13826
+AO16430,Beta,2022,91.6,Cleared,False,,Cleared,AO13826
+AO16430,Beta,2023,100.0,Cleared,False,,Cleared,AO13826
+AO16430,Beta,2024,70.9,Cleared,False,,Cleared,AO13826
+AO16430,Beta,2025,89.6,Cleared,False,,Cleared,AO13826
+AO16430,Beta,2026,95.9,Cleared,False,,Cleared,AO13826
+AO16486,Beta,2022,67.3,Not Cleared,True,72.8,Cleared,AO13826
+AO16486,Beta,2023,70.6,Cleared,False,,Cleared,AO13826
+AO16486,Beta,2024,78.6,Cleared,False,,Cleared,AO13826
+AO16486,Beta,2025,89.0,Cleared,False,,Cleared,AO13826
+AO16486,Beta,2026,72.5,Cleared,False,,Cleared,AO13826
+AO16547,Alpha,2024,83.1,Cleared,False,,Cleared,AO16543
+AO16547,Alpha,2025,71.9,Cleared,False,,Cleared,AO16543
+AO16547,Alpha,2026,66.7,Not Cleared,True,84.9,Cleared,AO16543
+AO16557,Beta,2022,80.9,Cleared,False,,Cleared,AO13826
+AO16557,Beta,2023,75.3,Cleared,False,,Cleared,AO13826
+AO16557,Beta,2024,81.3,Cleared,False,,Cleared,AO13826
+AO16557,Beta,2025,65.2,Not Cleared,True,76.8,Cleared,AO13826
+AO16557,Beta,2026,88.1,Cleared,False,,Cleared,AO13826
+AO16652,Gamma,2021,62.8,Not Cleared,True,72.2,Cleared,AO18162
+AO16652,Gamma,2022,77.6,Cleared,False,,Cleared,AO18162
+AO16652,Gamma,2023,83.9,Cleared,False,,Cleared,AO18162
+AO16652,Gamma,2024,55.7,Not Cleared,True,66.8,Not Cleared,AO18162
+AO16652,Gamma,2025,63.9,Not Cleared,True,67.6,Not Cleared,AO18162
+AO16652,Gamma,2026,84.9,Cleared,False,,Cleared,AO18162
+AO16664,Beta,2024,64.6,Not Cleared,True,75.1,Cleared,AO13826
+AO16664,Beta,2025,84.1,Cleared,False,,Cleared,AO13826
+AO16664,Beta,2026,78.9,Cleared,False,,Cleared,AO13826
+AO16860,Gamma,2023,87.9,Cleared,False,,Cleared,AO18162
+AO16860,Gamma,2024,87.1,Cleared,False,,Cleared,AO18162
+AO16860,Gamma,2025,88.7,Cleared,False,,Cleared,AO18162
+AO16860,Gamma,2026,79.6,Cleared,False,,Cleared,AO18162
+AO16958,Gamma,2021,88.4,Cleared,False,,Cleared,AO18162
+AO16958,Gamma,2022,65.9,Not Cleared,True,85.5,Cleared,AO18162
+AO16958,Gamma,2023,68.7,Not Cleared,True,84.2,Cleared,AO18162
+AO16958,Gamma,2024,84.2,Cleared,False,,Cleared,AO18162
+AO16958,Gamma,2025,79.3,Cleared,False,,Cleared,AO18162
+AO16958,Gamma,2026,77.7,Cleared,False,,Cleared,AO18162
+AO17015,Delta,2023,83.9,Cleared,False,,Cleared,AO13387
+AO17015,Delta,2024,89.8,Cleared,False,,Cleared,AO13387
+AO17015,Delta,2025,88.2,Cleared,False,,Cleared,AO13387
+AO17015,Delta,2026,63.9,Not Cleared,True,73.5,Cleared,AO13387
+AO17018,Alpha,2021,69.4,Not Cleared,True,80.6,Cleared,AO16543
+AO17018,Alpha,2022,75.5,Cleared,False,,Cleared,AO16543
+AO17018,Alpha,2023,73.9,Cleared,False,,Cleared,AO16543
+AO17018,Alpha,2024,77.9,Cleared,False,,Cleared,AO16543
+AO17018,Alpha,2025,87.1,Cleared,False,,Cleared,AO16543
+AO17018,Alpha,2026,63.9,Not Cleared,True,81.0,Cleared,AO16543
+AO17072,Gamma,2022,80.7,Cleared,False,,Cleared,AO18162
+AO17072,Gamma,2023,85.8,Cleared,False,,Cleared,AO18162
+AO17072,Gamma,2024,86.5,Cleared,False,,Cleared,AO18162
+AO17072,Gamma,2025,87.1,Cleared,False,,Cleared,AO18162
+AO17072,Gamma,2026,85.5,Cleared,False,,Cleared,AO18162
+AO17098,Sigma,2024,78.2,Cleared,False,,Cleared,AO12830
+AO17098,Sigma,2025,63.0,Not Cleared,True,79.9,Cleared,AO12830
+AO17098,Sigma,2026,84.6,Cleared,False,,Cleared,AO12830
+AO17162,Beta,2021,84.6,Cleared,False,,Cleared,AO13826
+AO17162,Beta,2022,82.3,Cleared,False,,Cleared,AO13826
+AO17162,Beta,2023,89.1,Cleared,False,,Cleared,AO13826
+AO17162,Beta,2024,81.8,Cleared,False,,Cleared,AO13826
+AO17162,Beta,2025,84.2,Cleared,False,,Cleared,AO13826
+AO17162,Beta,2026,82.2,Cleared,False,,Cleared,AO13826
+AO17172,Alpha,2024,92.4,Cleared,False,,Cleared,AO16543
+AO17172,Alpha,2025,94.6,Cleared,False,,Cleared,AO16543
+AO17172,Alpha,2026,70.8,Cleared,False,,Cleared,AO16543
+AO17259,Alpha,2022,93.6,Cleared,False,,Cleared,AO16543
+AO17259,Alpha,2023,77.5,Cleared,False,,Cleared,AO16543
+AO17259,Alpha,2024,85.3,Cleared,False,,Cleared,AO16543
+AO17259,Alpha,2025,79.6,Cleared,False,,Cleared,AO16543
+AO17259,Alpha,2026,75.8,Cleared,False,,Cleared,AO16543
+AO17445,Alpha,2024,78.0,Cleared,False,,Cleared,AO16543
+AO17445,Alpha,2025,78.5,Cleared,False,,Cleared,AO16543
+AO17445,Alpha,2026,87.6,Cleared,False,,Cleared,AO16543
+AO17508,Sigma,2021,78.0,Cleared,False,,Cleared,AO12830
+AO17508,Sigma,2022,64.5,Not Cleared,True,82.0,Cleared,AO12830
+AO17508,Sigma,2023,79.2,Cleared,False,,Cleared,AO12830
+AO17508,Sigma,2024,79.5,Cleared,False,,Cleared,AO12830
+AO17508,Sigma,2025,75.7,Cleared,False,,Cleared,AO12830
+AO17508,Sigma,2026,74.9,Cleared,False,,Cleared,AO12830
+AO17637,Gamma,2023,98.0,Cleared,False,,Cleared,AO18162
+AO17637,Gamma,2024,86.2,Cleared,False,,Cleared,AO18162
+AO17637,Gamma,2025,79.3,Cleared,False,,Cleared,AO18162
+AO17637,Gamma,2026,56.9,Not Cleared,True,63.4,Not Cleared,AO18162
+AO17667,Gamma,2021,91.9,Cleared,False,,Cleared,AO18162
+AO17667,Gamma,2022,83.5,Cleared,False,,Cleared,AO18162
+AO17667,Gamma,2023,58.9,Not Cleared,True,70.0,Cleared,AO18162
+AO17667,Gamma,2024,86.5,Cleared,False,,Cleared,AO18162
+AO17667,Gamma,2025,77.4,Cleared,False,,Cleared,AO18162
+AO17667,Gamma,2026,73.8,Cleared,False,,Cleared,AO18162
+AO17682,Delta,2021,79.0,Cleared,False,,Cleared,AO13387
+AO17682,Delta,2022,84.9,Cleared,False,,Cleared,AO13387
+AO17682,Delta,2023,89.4,Cleared,False,,Cleared,AO13387
+AO17682,Delta,2024,86.2,Cleared,False,,Cleared,AO13387
+AO17682,Delta,2025,82.1,Cleared,False,,Cleared,AO13387
+AO17682,Delta,2026,92.5,Cleared,False,,Cleared,AO13387
+AO17887,Gamma,2025,68.2,Not Cleared,True,88.1,Cleared,AO18162
+AO17887,Gamma,2026,66.0,Not Cleared,True,79.2,Cleared,AO18162
+AO17999,Beta,2025,69.0,Not Cleared,True,78.3,Cleared,AO13826
+AO17999,Beta,2026,67.4,Not Cleared,True,80.4,Cleared,AO13826
+AO18046,Delta,2023,89.2,Cleared,False,,Cleared,AO13387
+AO18046,Delta,2024,66.1,Not Cleared,True,81.2,Cleared,AO13387
+AO18046,Delta,2025,85.7,Cleared,False,,Cleared,AO13387
+AO18046,Delta,2026,67.4,Not Cleared,True,81.5,Cleared,AO13387
+AO18148,Delta,2023,62.4,Not Cleared,True,83.8,Cleared,AO13387
+AO18148,Delta,2024,88.9,Cleared,False,,Cleared,AO13387
+AO18148,Delta,2025,97.1,Cleared,False,,Cleared,AO13387
+AO18148,Delta,2026,84.8,Cleared,False,,Cleared,AO13387
+AO18186,Delta,2021,62.8,Not Cleared,True,82.8,Cleared,AO13387
+AO18186,Delta,2022,90.3,Cleared,False,,Cleared,AO13387
+AO18186,Delta,2023,66.8,Not Cleared,True,86.5,Cleared,AO13387
+AO18186,Delta,2024,64.5,Not Cleared,True,69.7,Not Cleared,AO13387
+AO18186,Delta,2025,97.5,Cleared,False,,Cleared,AO13387
+AO18186,Delta,2026,88.4,Cleared,False,,Cleared,AO13387
+AO18238,Delta,2021,90.4,Cleared,False,,Cleared,AO13387
+AO18238,Delta,2022,96.7,Cleared,False,,Cleared,AO13387
+AO18238,Delta,2023,87.9,Cleared,False,,Cleared,AO13387
+AO18238,Delta,2024,80.7,Cleared,False,,Cleared,AO13387
+AO18238,Delta,2025,83.8,Cleared,False,,Cleared,AO13387
+AO18238,Delta,2026,75.2,Cleared,False,,Cleared,AO13387
+AO18342,Delta,2022,66.4,Not Cleared,True,85.1,Cleared,AO13387
+AO18342,Delta,2023,78.0,Cleared,False,,Cleared,AO13387
+AO18342,Delta,2024,66.1,Not Cleared,True,84.4,Cleared,AO13387
+AO18342,Delta,2025,65.0,Not Cleared,True,78.2,Cleared,AO13387
+AO18342,Delta,2026,91.8,Cleared,False,,Cleared,AO13387
+AO18360,Gamma,2021,73.6,Cleared,False,,Cleared,AO18162
+AO18360,Gamma,2022,93.2,Cleared,False,,Cleared,AO18162
+AO18360,Gamma,2023,72.6,Cleared,False,,Cleared,AO18162
+AO18360,Gamma,2024,85.3,Cleared,False,,Cleared,AO18162
+AO18360,Gamma,2025,87.4,Cleared,False,,Cleared,AO18162
+AO18360,Gamma,2026,100.0,Cleared,False,,Cleared,AO18162
+AO18592,Beta,2021,78.1,Cleared,False,,Cleared,AO13826
+AO18592,Beta,2022,65.1,Not Cleared,True,70.3,Cleared,AO13826
+AO18592,Beta,2023,59.8,Not Cleared,True,68.8,Not Cleared,AO13826
+AO18592,Beta,2024,62.5,Not Cleared,True,81.2,Cleared,AO13826
+AO18592,Beta,2025,68.6,Not Cleared,True,79.5,Cleared,AO13826
+AO18592,Beta,2026,69.1,Not Cleared,True,83.8,Cleared,AO13826
+AO18652,Beta,2025,75.1,Cleared,False,,Cleared,AO13826
+AO18652,Beta,2026,85.4,Cleared,False,,Cleared,AO13826
+AO18742,Alpha,2023,87.3,Cleared,False,,Cleared,AO16543
+AO18742,Alpha,2024,88.1,Cleared,False,,Cleared,AO16543
+AO18742,Alpha,2025,96.8,Cleared,False,,Cleared,AO16543
+AO18742,Alpha,2026,81.9,Cleared,False,,Cleared,AO16543
+AO18793,Sigma,2023,63.4,Not Cleared,True,76.6,Cleared,AO12830
+AO18793,Sigma,2024,66.9,Not Cleared,True,72.8,Cleared,AO12830
+AO18793,Sigma,2025,69.7,Not Cleared,True,77.5,Cleared,AO12830
+AO18793,Sigma,2026,86.5,Cleared,False,,Cleared,AO12830
+AO18804,Beta,2025,76.3,Cleared,False,,Cleared,AO13826
+AO18804,Beta,2026,96.8,Cleared,False,,Cleared,AO13826
+AO18862,Sigma,2021,76.3,Cleared,False,,Cleared,AO12830
+AO18862,Sigma,2022,92.7,Cleared,False,,Cleared,AO12830
+AO18862,Sigma,2023,77.8,Cleared,False,,Cleared,AO12830
+AO18862,Sigma,2024,83.9,Cleared,False,,Cleared,AO12830
+AO18862,Sigma,2025,73.3,Cleared,False,,Cleared,AO12830
+AO18862,Sigma,2026,91.2,Cleared,False,,Cleared,AO12830
+AO18976,Alpha,2023,92.2,Cleared,False,,Cleared,AO16543
+AO18976,Alpha,2024,85.7,Cleared,False,,Cleared,AO16543
+AO18976,Alpha,2025,78.7,Cleared,False,,Cleared,AO16543
+AO18976,Alpha,2026,84.1,Cleared,False,,Cleared,AO16543
+AO19031,Sigma,2021,92.6,Cleared,False,,Cleared,AO12830
+AO19031,Sigma,2022,83.4,Cleared,False,,Cleared,AO12830
+AO19031,Sigma,2023,81.6,Cleared,False,,Cleared,AO12830
+AO19031,Sigma,2024,61.2,Not Cleared,True,77.0,Cleared,AO12830
+AO19031,Sigma,2025,86.2,Cleared,False,,Cleared,AO12830
+AO19031,Sigma,2026,90.2,Cleared,False,,Cleared,AO12830
+AO19192,Gamma,2022,75.5,Cleared,False,,Cleared,AO18162
+AO19192,Gamma,2023,74.2,Cleared,False,,Cleared,AO18162
+AO19192,Gamma,2024,83.0,Cleared,False,,Cleared,AO18162
+AO19192,Gamma,2025,77.4,Cleared,False,,Cleared,AO18162
+AO19192,Gamma,2026,60.3,Not Cleared,True,71.1,Cleared,AO18162
+AO19316,Beta,2021,72.3,Cleared,False,,Cleared,AO13826
+AO19316,Beta,2022,97.6,Cleared,False,,Cleared,AO13826
+AO19316,Beta,2023,88.9,Cleared,False,,Cleared,AO13826
+AO19316,Beta,2024,87.4,Cleared,False,,Cleared,AO13826
+AO19316,Beta,2025,72.6,Cleared,False,,Cleared,AO13826
+AO19316,Beta,2026,80.5,Cleared,False,,Cleared,AO13826
+AO19336,Alpha,2021,67.8,Not Cleared,True,84.4,Cleared,AO16543
+AO19336,Alpha,2022,66.9,Not Cleared,True,72.3,Cleared,AO16543
+AO19336,Alpha,2023,64.3,Not Cleared,True,74.1,Cleared,AO16543
+AO19336,Alpha,2024,77.6,Cleared,False,,Cleared,AO16543
+AO19336,Alpha,2025,71.3,Cleared,False,,Cleared,AO16543
+AO19336,Alpha,2026,80.6,Cleared,False,,Cleared,AO16543
+AO19391,Alpha,2023,92.8,Cleared,False,,Cleared,AO16543
+AO19391,Alpha,2024,85.3,Cleared,False,,Cleared,AO16543
+AO19391,Alpha,2025,100.0,Cleared,False,,Cleared,AO16543
+AO19391,Alpha,2026,95.5,Cleared,False,,Cleared,AO16543
+AO20080,Sigma,2021,74.4,Cleared,False,,Cleared,AO12830
+AO20080,Sigma,2022,80.3,Cleared,False,,Cleared,AO12830
+AO20080,Sigma,2023,74.2,Cleared,False,,Cleared,AO12830
+AO20080,Sigma,2024,87.4,Cleared,False,,Cleared,AO12830
+AO20080,Sigma,2025,72.4,Cleared,False,,Cleared,AO12830
+AO20080,Sigma,2026,100.0,Cleared,False,,Cleared,AO12830
+AO20164,Alpha,2021,70.0,Cleared,False,,Cleared,AO16543
+AO20164,Alpha,2022,87.9,Cleared,False,,Cleared,AO16543
+AO20164,Alpha,2023,69.0,Not Cleared,True,83.5,Cleared,AO16543
+AO20164,Alpha,2024,81.1,Cleared,False,,Cleared,AO16543
+AO20164,Alpha,2025,83.6,Cleared,False,,Cleared,AO16543
+AO20164,Alpha,2026,66.8,Not Cleared,True,76.6,Cleared,AO16543
+AO20211,Beta,2022,74.3,Cleared,False,,Cleared,AO13826
+AO20211,Beta,2023,73.4,Cleared,False,,Cleared,AO13826
+AO20211,Beta,2024,68.3,Not Cleared,True,87.2,Cleared,AO13826
+AO20211,Beta,2025,88.2,Cleared,False,,Cleared,AO13826
+AO20211,Beta,2026,80.9,Cleared,False,,Cleared,AO13826
+AO20240,Gamma,2022,69.3,Not Cleared,True,74.4,Cleared,AO18162
+AO20240,Gamma,2023,47.8,Not Cleared,True,70.7,Cleared,AO18162
+AO20240,Gamma,2024,74.7,Cleared,False,,Cleared,AO18162
+AO20240,Gamma,2025,80.0,Cleared,False,,Cleared,AO18162
+AO20240,Gamma,2026,80.8,Cleared,False,,Cleared,AO18162
+AO20306,Delta,2024,88.7,Cleared,False,,Cleared,AO13387
+AO20306,Delta,2025,71.5,Cleared,False,,Cleared,AO13387
+AO20306,Delta,2026,69.5,Not Cleared,True,93.3,Cleared,AO13387
+AO20321,Sigma,2024,74.5,Cleared,False,,Cleared,AO12830
+AO20321,Sigma,2025,66.9,Not Cleared,True,77.2,Cleared,AO12830
+AO20321,Sigma,2026,54.8,Not Cleared,True,74.7,Cleared,AO12830
+AO20423,Beta,2022,77.9,Cleared,False,,Cleared,AO13826
+AO20423,Beta,2023,62.9,Not Cleared,True,85.5,Cleared,AO13826
+AO20423,Beta,2024,81.4,Cleared,False,,Cleared,AO13826
+AO20423,Beta,2025,86.3,Cleared,False,,Cleared,AO13826
+AO20423,Beta,2026,70.8,Cleared,False,,Cleared,AO13826
+AO20436,Delta,2022,65.5,Not Cleared,True,73.7,Cleared,AO13387
+AO20436,Delta,2023,68.6,Not Cleared,True,77.6,Cleared,AO13387
+AO20436,Delta,2024,59.7,Not Cleared,True,67.9,Not Cleared,AO13387
+AO20436,Delta,2025,72.5,Cleared,False,,Cleared,AO13387
+AO20436,Delta,2026,83.1,Cleared,False,,Cleared,AO13387
+AO20473,Alpha,2022,80.2,Cleared,False,,Cleared,AO16543
+AO20473,Alpha,2023,77.3,Cleared,False,,Cleared,AO16543
+AO20473,Alpha,2024,71.5,Cleared,False,,Cleared,AO16543
+AO20473,Alpha,2025,73.8,Cleared,False,,Cleared,AO16543
+AO20473,Alpha,2026,70.6,Cleared,False,,Cleared,AO16543
+AO20873,Sigma,2022,72.5,Cleared,False,,Cleared,AO12830
+AO20873,Sigma,2023,56.5,Not Cleared,True,67.7,Not Cleared,AO12830
+AO20873,Sigma,2024,69.5,Not Cleared,True,78.9,Cleared,AO12830
+AO20873,Sigma,2025,84.5,Cleared,False,,Cleared,AO12830
+AO20873,Sigma,2026,72.7,Cleared,False,,Cleared,AO12830
+AO21034,Sigma,2022,72.8,Cleared,False,,Cleared,AO12830
+AO21034,Sigma,2023,45.6,Not Cleared,True,67.2,Not Cleared,AO12830
+AO21034,Sigma,2024,78.8,Cleared,False,,Cleared,AO12830
+AO21034,Sigma,2025,67.4,Not Cleared,True,80.4,Cleared,AO12830
+AO21034,Sigma,2026,82.1,Cleared,False,,Cleared,AO12830
+AO21091,Delta,2022,59.6,Not Cleared,True,73.3,Cleared,AO13387
+AO21091,Delta,2023,82.0,Cleared,False,,Cleared,AO13387
+AO21091,Delta,2024,68.4,Not Cleared,True,83.3,Cleared,AO13387
+AO21091,Delta,2025,74.4,Cleared,False,,Cleared,AO13387
+AO21091,Delta,2026,73.5,Cleared,False,,Cleared,AO13387
+AO21206,Gamma,2025,88.9,Cleared,False,,Cleared,AO18162
+AO21206,Gamma,2026,56.5,Not Cleared,True,71.1,Cleared,AO18162
+AO21263,Sigma,2021,74.6,Cleared,False,,Cleared,AO12830
+AO21263,Sigma,2022,83.3,Cleared,False,,Cleared,AO12830
+AO21263,Sigma,2023,80.1,Cleared,False,,Cleared,AO12830
+AO21263,Sigma,2024,64.0,Not Cleared,True,72.1,Cleared,AO12830
+AO21263,Sigma,2025,88.5,Cleared,False,,Cleared,AO12830
+AO21263,Sigma,2026,70.4,Cleared,False,,Cleared,AO12830
+AO21304,Alpha,2021,89.6,Cleared,False,,Cleared,AO16543
+AO21304,Alpha,2022,79.1,Cleared,False,,Cleared,AO16543
+AO21304,Alpha,2023,88.8,Cleared,False,,Cleared,AO16543
+AO21304,Alpha,2024,92.7,Cleared,False,,Cleared,AO16543
+AO21304,Alpha,2025,68.1,Not Cleared,True,82.7,Cleared,AO16543
+AO21304,Alpha,2026,80.2,Cleared,False,,Cleared,AO16543
+AO21338,Sigma,2024,91.3,Cleared,False,,Cleared,AO12830
+AO21338,Sigma,2025,80.2,Cleared,False,,Cleared,AO12830
+AO21338,Sigma,2026,87.6,Cleared,False,,Cleared,AO12830
+AO21355,Gamma,2025,75.5,Cleared,False,,Cleared,AO18162
+AO21355,Gamma,2026,79.2,Cleared,False,,Cleared,AO18162
+AO21394,Gamma,2022,73.8,Cleared,False,,Cleared,AO18162
+AO21394,Gamma,2023,81.2,Cleared,False,,Cleared,AO18162
+AO21394,Gamma,2024,71.1,Cleared,False,,Cleared,AO18162
+AO21394,Gamma,2025,82.0,Cleared,False,,Cleared,AO18162
+AO21394,Gamma,2026,77.1,Cleared,False,,Cleared,AO18162
+AO21429,Gamma,2021,94.5,Cleared,False,,Cleared,AO18162
+AO21429,Gamma,2022,68.2,Not Cleared,True,80.6,Cleared,AO18162
+AO21429,Gamma,2023,95.3,Cleared,False,,Cleared,AO18162
+AO21429,Gamma,2024,89.2,Cleared,False,,Cleared,AO18162
+AO21429,Gamma,2025,67.6,Not Cleared,True,84.8,Cleared,AO18162
+AO21429,Gamma,2026,100.0,Cleared,False,,Cleared,AO18162
+AO21436,Sigma,2021,78.5,Cleared,False,,Cleared,AO12830
+AO21436,Sigma,2022,69.8,Not Cleared,True,76.2,Cleared,AO12830
+AO21436,Sigma,2023,94.1,Cleared,False,,Cleared,AO12830
+AO21436,Sigma,2024,66.2,Not Cleared,True,78.9,Cleared,AO12830
+AO21436,Sigma,2025,86.7,Cleared,False,,Cleared,AO12830
+AO21436,Sigma,2026,76.7,Cleared,False,,Cleared,AO12830
+AO21458,Alpha,2024,83.9,Cleared,False,,Cleared,AO16543
+AO21458,Alpha,2025,77.1,Cleared,False,,Cleared,AO16543
+AO21458,Alpha,2026,87.7,Cleared,False,,Cleared,AO16543
+AO21460,Beta,2023,76.0,Cleared,False,,Cleared,AO13826
+AO21460,Beta,2024,77.5,Cleared,False,,Cleared,AO13826
+AO21460,Beta,2025,60.2,Not Cleared,True,73.6,Cleared,AO13826
+AO21460,Beta,2026,82.0,Cleared,False,,Cleared,AO13826
+AO21586,Alpha,2021,94.1,Cleared,False,,Cleared,AO16543
+AO21586,Alpha,2022,78.5,Cleared,False,,Cleared,AO16543
+AO21586,Alpha,2023,65.3,Not Cleared,True,72.2,Cleared,AO16543
+AO21586,Alpha,2024,81.8,Cleared,False,,Cleared,AO16543
+AO21586,Alpha,2025,76.3,Cleared,False,,Cleared,AO16543
+AO21586,Alpha,2026,94.8,Cleared,False,,Cleared,AO16543
+AO21607,Alpha,2022,71.5,Cleared,False,,Cleared,AO16543
+AO21607,Alpha,2023,91.7,Cleared,False,,Cleared,AO16543
+AO21607,Alpha,2024,73.7,Cleared,False,,Cleared,AO16543
+AO21607,Alpha,2025,75.8,Cleared,False,,Cleared,AO16543
+AO21607,Alpha,2026,84.5,Cleared,False,,Cleared,AO16543
+AO21707,Sigma,2025,69.2,Not Cleared,True,73.9,Cleared,AO12830
+AO21707,Sigma,2026,64.7,Not Cleared,True,74.3,Cleared,AO12830
+AO21878,Sigma,2022,80.8,Cleared,False,,Cleared,AO12830
+AO21878,Sigma,2023,65.6,Not Cleared,True,79.7,Cleared,AO12830
+AO21878,Sigma,2024,70.8,Cleared,False,,Cleared,AO12830
+AO21878,Sigma,2025,66.4,Not Cleared,True,80.9,Cleared,AO12830
+AO21878,Sigma,2026,67.0,Not Cleared,True,72.4,Cleared,AO12830
+AO21911,Gamma,2021,80.9,Cleared,False,,Cleared,AO18162
+AO21911,Gamma,2022,83.0,Cleared,False,,Cleared,AO18162
+AO21911,Gamma,2023,59.7,Not Cleared,True,68.6,Not Cleared,AO18162
+AO21911,Gamma,2024,64.4,Not Cleared,True,74.1,Cleared,AO18162
+AO21911,Gamma,2025,64.6,Not Cleared,True,73.4,Cleared,AO18162
+AO21911,Gamma,2026,67.1,Not Cleared,True,78.0,Cleared,AO18162
+AO21945,Beta,2023,60.0,Not Cleared,True,70.2,Cleared,AO13826
+AO21945,Beta,2024,72.8,Cleared,False,,Cleared,AO13826
+AO21945,Beta,2025,73.9,Cleared,False,,Cleared,AO13826
+AO21945,Beta,2026,85.0,Cleared,False,,Cleared,AO13826
+AO21963,Delta,2024,72.8,Cleared,False,,Cleared,AO13387
+AO21963,Delta,2025,61.2,Not Cleared,True,77.0,Cleared,AO13387
+AO21963,Delta,2026,86.6,Cleared,False,,Cleared,AO13387
+AO22093,Sigma,2022,73.6,Cleared,False,,Cleared,AO12830
+AO22093,Sigma,2023,93.2,Cleared,False,,Cleared,AO12830
+AO22093,Sigma,2024,73.6,Cleared,False,,Cleared,AO12830
+AO22093,Sigma,2025,69.2,Not Cleared,True,75.6,Cleared,AO12830
+AO22093,Sigma,2026,79.5,Cleared,False,,Cleared,AO12830
+AO22118,Gamma,2024,58.2,Not Cleared,True,62.1,Not Cleared,AO18162
+AO22118,Gamma,2025,81.3,Cleared,False,,Cleared,AO18162
+AO22118,Gamma,2026,74.5,Cleared,False,,Cleared,AO18162
+AO22207,Delta,2023,70.9,Cleared,False,,Cleared,AO13387
+AO22207,Delta,2024,54.5,Not Cleared,True,78.9,Cleared,AO13387
+AO22207,Delta,2025,70.9,Cleared,False,,Cleared,AO13387
+AO22207,Delta,2026,73.8,Cleared,False,,Cleared,AO13387
+AO22316,Delta,2022,98.5,Cleared,False,,Cleared,AO13387
+AO22316,Delta,2023,82.2,Cleared,False,,Cleared,AO13387
+AO22316,Delta,2024,81.1,Cleared,False,,Cleared,AO13387
+AO22316,Delta,2025,77.7,Cleared,False,,Cleared,AO13387
+AO22316,Delta,2026,100.0,Cleared,False,,Cleared,AO13387
+AO22585,Alpha,2022,100.0,Cleared,False,,Cleared,AO16543
+AO22585,Alpha,2023,74.5,Cleared,False,,Cleared,AO16543
+AO22585,Alpha,2024,71.9,Cleared,False,,Cleared,AO16543
+AO22585,Alpha,2025,91.5,Cleared,False,,Cleared,AO16543
+AO22585,Alpha,2026,86.6,Cleared,False,,Cleared,AO16543
+AO22617,Sigma,2022,64.5,Not Cleared,True,74.6,Cleared,AO12830
+AO22617,Sigma,2023,72.8,Cleared,False,,Cleared,AO12830
+AO22617,Sigma,2024,82.9,Cleared,False,,Cleared,AO12830
+AO22617,Sigma,2025,77.0,Cleared,False,,Cleared,AO12830
+AO22617,Sigma,2026,82.0,Cleared,False,,Cleared,AO12830
+AO22645,Sigma,2022,71.1,Cleared,False,,Cleared,AO12830
+AO22645,Sigma,2023,84.0,Cleared,False,,Cleared,AO12830
+AO22645,Sigma,2024,89.1,Cleared,False,,Cleared,AO12830
+AO22645,Sigma,2025,80.0,Cleared,False,,Cleared,AO12830
+AO22645,Sigma,2026,71.7,Cleared,False,,Cleared,AO12830
+AO22646,Alpha,2022,77.6,Cleared,False,,Cleared,AO16543
+AO22646,Alpha,2023,67.9,Not Cleared,True,81.7,Cleared,AO16543
+AO22646,Alpha,2024,69.0,Not Cleared,True,82.9,Cleared,AO16543
+AO22646,Alpha,2025,75.0,Cleared,False,,Cleared,AO16543
+AO22646,Alpha,2026,84.0,Cleared,False,,Cleared,AO16543
+AO22701,Alpha,2024,84.5,Cleared,False,,Cleared,AO16543
+AO22701,Alpha,2025,52.5,Not Cleared,True,60.8,Not Cleared,AO16543
+AO22701,Alpha,2026,86.9,Cleared,False,,Cleared,AO16543
+AO22709,Beta,2024,69.2,Not Cleared,True,83.4,Cleared,AO13826
+AO22709,Beta,2025,74.2,Cleared,False,,Cleared,AO13826
+AO22709,Beta,2026,59.2,Not Cleared,True,68.2,Not Cleared,AO13826
+AO22715,Beta,2022,91.5,Cleared,False,,Cleared,AO13826
+AO22715,Beta,2023,100.0,Cleared,False,,Cleared,AO13826
+AO22715,Beta,2024,78.4,Cleared,False,,Cleared,AO13826
+AO22715,Beta,2025,97.8,Cleared,False,,Cleared,AO13826
+AO22715,Beta,2026,91.5,Cleared,False,,Cleared,AO13826
+AO22788,Sigma,2023,79.6,Cleared,False,,Cleared,AO12830
+AO22788,Sigma,2024,73.6,Cleared,False,,Cleared,AO12830
+AO22788,Sigma,2025,76.6,Cleared,False,,Cleared,AO12830
+AO22788,Sigma,2026,80.8,Cleared,False,,Cleared,AO12830
+AO22921,Alpha,2022,74.9,Cleared,False,,Cleared,AO16543
+AO22921,Alpha,2023,60.5,Not Cleared,True,70.3,Cleared,AO16543
+AO22921,Alpha,2024,93.8,Cleared,False,,Cleared,AO16543
+AO22921,Alpha,2025,63.5,Not Cleared,True,77.5,Cleared,AO16543
+AO22921,Alpha,2026,69.4,Not Cleared,True,78.4,Cleared,AO16543
+AO22937,Alpha,2025,86.5,Cleared,False,,Cleared,AO16543
+AO22937,Alpha,2026,86.6,Cleared,False,,Cleared,AO16543
+AO22963,Alpha,2022,96.4,Cleared,False,,Cleared,AO16543
+AO22963,Alpha,2023,90.2,Cleared,False,,Cleared,AO16543
+AO22963,Alpha,2024,80.7,Cleared,False,,Cleared,AO16543
+AO22963,Alpha,2025,85.3,Cleared,False,,Cleared,AO16543
+AO22963,Alpha,2026,84.0,Cleared,False,,Cleared,AO16543
+AO23001,Beta,2023,69.2,Not Cleared,True,81.4,Cleared,AO13826
+AO23001,Beta,2024,79.1,Cleared,False,,Cleared,AO13826
+AO23001,Beta,2025,64.6,Not Cleared,True,72.9,Cleared,AO13826
+AO23001,Beta,2026,85.1,Cleared,False,,Cleared,AO13826
+AO23051,Beta,2023,90.3,Cleared,False,,Cleared,AO13826
+AO23051,Beta,2024,82.3,Cleared,False,,Cleared,AO13826
+AO23051,Beta,2025,74.5,Cleared,False,,Cleared,AO13826
+AO23051,Beta,2026,85.8,Cleared,False,,Cleared,AO13826
+AO23143,Beta,2024,89.1,Cleared,False,,Cleared,AO13826
+AO23143,Beta,2025,62.0,Not Cleared,True,71.2,Cleared,AO13826
+AO23143,Beta,2026,90.3,Cleared,False,,Cleared,AO13826
+AO23290,Alpha,2023,81.9,Cleared,False,,Cleared,AO16543
+AO23290,Alpha,2024,89.4,Cleared,False,,Cleared,AO16543
+AO23290,Alpha,2025,83.2,Cleared,False,,Cleared,AO16543
+AO23290,Alpha,2026,65.0,Not Cleared,True,72.3,Cleared,AO16543
+AO23313,Gamma,2023,76.4,Cleared,False,,Cleared,AO18162
+AO23313,Gamma,2024,67.1,Not Cleared,True,80.2,Cleared,AO18162
+AO23313,Gamma,2025,76.6,Cleared,False,,Cleared,AO18162
+AO23313,Gamma,2026,63.6,Not Cleared,True,77.6,Cleared,AO18162
+AO23316,Gamma,2024,81.9,Cleared,False,,Cleared,AO18162
+AO23316,Gamma,2025,90.8,Cleared,False,,Cleared,AO18162
+AO23316,Gamma,2026,74.7,Cleared,False,,Cleared,AO18162
+AO23405,Delta,2024,70.9,Cleared,False,,Cleared,AO13387
+AO23405,Delta,2025,69.6,Not Cleared,True,75.5,Cleared,AO13387
+AO23405,Delta,2026,74.6,Cleared,False,,Cleared,AO13387
+AO23430,Beta,2023,79.3,Cleared,False,,Cleared,AO13826
+AO23430,Beta,2024,68.5,Not Cleared,True,78.6,Cleared,AO13826
+AO23430,Beta,2025,64.8,Not Cleared,True,76.8,Cleared,AO13826
+AO23430,Beta,2026,68.9,Not Cleared,True,83.4,Cleared,AO13826
+AO23475,Delta,2023,80.4,Cleared,False,,Cleared,AO13387
+AO23475,Delta,2024,79.4,Cleared,False,,Cleared,AO13387
+AO23475,Delta,2025,84.2,Cleared,False,,Cleared,AO13387
+AO23475,Delta,2026,67.5,Not Cleared,True,74.7,Cleared,AO13387
+AO23491,Alpha,2023,79.5,Cleared,False,,Cleared,AO16543
+AO23491,Alpha,2024,77.8,Cleared,False,,Cleared,AO16543
+AO23491,Alpha,2025,67.0,Not Cleared,True,76.2,Cleared,AO16543
+AO23491,Alpha,2026,78.4,Cleared,False,,Cleared,AO16543
+AO23557,Gamma,2023,80.4,Cleared,False,,Cleared,AO18162
+AO23557,Gamma,2024,63.4,Not Cleared,True,76.0,Cleared,AO18162
+AO23557,Gamma,2025,69.9,Not Cleared,True,87.6,Cleared,AO18162
+AO23557,Gamma,2026,85.7,Cleared,False,,Cleared,AO18162
+AO23681,Sigma,2023,86.6,Cleared,False,,Cleared,AO12830
+AO23681,Sigma,2024,100.0,Cleared,False,,Cleared,AO12830
+AO23681,Sigma,2025,96.6,Cleared,False,,Cleared,AO12830
+AO23681,Sigma,2026,89.1,Cleared,False,,Cleared,AO12830
+AO23728,Beta,2023,90.6,Cleared,False,,Cleared,AO13826
+AO23728,Beta,2024,85.5,Cleared,False,,Cleared,AO13826
+AO23728,Beta,2025,81.3,Cleared,False,,Cleared,AO13826
+AO23728,Beta,2026,80.1,Cleared,False,,Cleared,AO13826
+AO23780,Sigma,2023,75.8,Cleared,False,,Cleared,AO12830
+AO23780,Sigma,2024,91.7,Cleared,False,,Cleared,AO12830
+AO23780,Sigma,2025,87.4,Cleared,False,,Cleared,AO12830
+AO23780,Sigma,2026,73.5,Cleared,False,,Cleared,AO12830
+AO23991,Delta,2023,54.9,Not Cleared,True,74.4,Cleared,AO13387
+AO23991,Delta,2024,71.7,Cleared,False,,Cleared,AO13387
+AO23991,Delta,2025,72.0,Cleared,False,,Cleared,AO13387
+AO23991,Delta,2026,79.5,Cleared,False,,Cleared,AO13387
+AO24023,Alpha,2024,80.9,Cleared,False,,Cleared,AO16543
+AO24023,Alpha,2025,83.2,Cleared,False,,Cleared,AO16543
+AO24023,Alpha,2026,65.0,Not Cleared,True,75.2,Cleared,AO16543
+AO24033,Alpha,2024,65.6,Not Cleared,True,77.5,Cleared,AO16543
+AO24033,Alpha,2025,97.8,Cleared,False,,Cleared,AO16543
+AO24033,Alpha,2026,74.3,Cleared,False,,Cleared,AO16543
+AO24038,Beta,2024,95.2,Cleared,False,,Cleared,AO13826
+AO24038,Beta,2025,70.1,Cleared,False,,Cleared,AO13826
+AO24038,Beta,2026,82.1,Cleared,False,,Cleared,AO13826
+AO24080,Gamma,2024,73.8,Cleared,False,,Cleared,AO18162
+AO24080,Gamma,2025,71.1,Cleared,False,,Cleared,AO18162
+AO24080,Gamma,2026,54.0,Not Cleared,True,60.4,Not Cleared,AO18162
+AO24140,Sigma,2024,100.0,Cleared,False,,Cleared,AO12830
+AO24140,Sigma,2025,74.7,Cleared,False,,Cleared,AO12830
+AO24140,Sigma,2026,78.9,Cleared,False,,Cleared,AO12830
+AO24190,Delta,2024,77.1,Cleared,False,,Cleared,AO13387
+AO24190,Delta,2025,74.7,Cleared,False,,Cleared,AO13387
+AO24190,Delta,2026,78.9,Cleared,False,,Cleared,AO13387
+AO24225,Beta,2024,77.3,Cleared,False,,Cleared,AO13826
+AO24225,Beta,2025,78.8,Cleared,False,,Cleared,AO13826
+AO24225,Beta,2026,91.1,Cleared,False,,Cleared,AO13826
+AO24250,Alpha,2024,71.8,Cleared,False,,Cleared,AO16543
+AO24250,Alpha,2025,73.0,Cleared,False,,Cleared,AO16543
+AO24250,Alpha,2026,73.5,Cleared,False,,Cleared,AO16543
+AO24278,Delta,2024,54.2,Not Cleared,True,62.3,Not Cleared,AO13387
+AO24278,Delta,2025,72.4,Cleared,False,,Cleared,AO13387
+AO24278,Delta,2026,73.9,Cleared,False,,Cleared,AO13387
+AO24322,Beta,2024,77.1,Cleared,False,,Cleared,AO13826
+AO24322,Beta,2025,81.4,Cleared,False,,Cleared,AO13826
+AO24322,Beta,2026,86.2,Cleared,False,,Cleared,AO13826
+AO24361,Alpha,2024,67.2,Not Cleared,True,72.7,Cleared,AO16543
+AO24361,Alpha,2025,83.3,Cleared,False,,Cleared,AO16543
+AO24361,Alpha,2026,80.4,Cleared,False,,Cleared,AO16543
+AO24366,Sigma,2024,73.5,Cleared,False,,Cleared,AO12830
+AO24366,Sigma,2025,65.5,Not Cleared,True,79.0,Cleared,AO12830
+AO24366,Sigma,2026,96.4,Cleared,False,,Cleared,AO12830
+AO24395,Beta,2024,81.0,Cleared,False,,Cleared,AO13826
+AO24395,Beta,2025,63.1,Not Cleared,True,72.0,Cleared,AO13826
+AO24395,Beta,2026,86.5,Cleared,False,,Cleared,AO13826
+AO24416,Alpha,2024,85.9,Cleared,False,,Cleared,AO16543
+AO24416,Alpha,2025,87.1,Cleared,False,,Cleared,AO16543
+AO24416,Alpha,2026,69.9,Not Cleared,True,86.1,Cleared,AO16543
+AO24451,Gamma,2024,83.1,Cleared,False,,Cleared,AO18162
+AO24451,Gamma,2025,98.3,Cleared,False,,Cleared,AO18162
+AO24451,Gamma,2026,86.2,Cleared,False,,Cleared,AO18162
+AO24475,Gamma,2024,84.3,Cleared,False,,Cleared,AO18162
+AO24475,Gamma,2025,90.5,Cleared,False,,Cleared,AO18162
+AO24475,Gamma,2026,74.4,Cleared,False,,Cleared,AO18162
+AO24481,Beta,2025,83.3,Cleared,False,,Cleared,AO13826
+AO24481,Beta,2026,72.3,Cleared,False,,Cleared,AO13826
+AO24578,Delta,2024,62.7,Not Cleared,True,82.9,Cleared,AO13387
+AO24578,Delta,2025,86.7,Cleared,False,,Cleared,AO13387
+AO24578,Delta,2026,76.8,Cleared,False,,Cleared,AO13387
+AO24579,Gamma,2024,91.1,Cleared,False,,Cleared,AO18162
+AO24579,Gamma,2025,64.6,Not Cleared,True,72.4,Cleared,AO18162
+AO24579,Gamma,2026,90.1,Cleared,False,,Cleared,AO18162
+AO24582,Sigma,2025,70.1,Cleared,False,,Cleared,AO12830
+AO24582,Sigma,2026,89.8,Cleared,False,,Cleared,AO12830
+AO24602,Beta,2024,95.0,Cleared,False,,Cleared,AO13826
+AO24602,Beta,2025,79.7,Cleared,False,,Cleared,AO13826
+AO24602,Beta,2026,87.0,Cleared,False,,Cleared,AO13826
+AO24631,Delta,2024,100.0,Cleared,False,,Cleared,AO13387
+AO24631,Delta,2025,83.8,Cleared,False,,Cleared,AO13387
+AO24631,Delta,2026,65.0,Not Cleared,True,72.8,Cleared,AO13387
+AO24650,Gamma,2024,94.2,Cleared,False,,Cleared,AO18162
+AO24650,Gamma,2025,80.1,Cleared,False,,Cleared,AO18162
+AO24650,Gamma,2026,74.9,Cleared,False,,Cleared,AO18162
+AO24665,Gamma,2024,66.6,Not Cleared,True,82.8,Cleared,AO18162
+AO24665,Gamma,2025,96.3,Cleared,False,,Cleared,AO18162
+AO24665,Gamma,2026,75.5,Cleared,False,,Cleared,AO18162
+AO24715,Beta,2024,85.5,Cleared,False,,Cleared,AO13826
+AO24715,Beta,2025,69.2,Not Cleared,True,72.8,Cleared,AO13826
+AO24715,Beta,2026,76.3,Cleared,False,,Cleared,AO13826
+AO24756,Beta,2024,70.4,Cleared,False,,Cleared,AO13826
+AO24756,Beta,2025,75.8,Cleared,False,,Cleared,AO13826
+AO24756,Beta,2026,88.9,Cleared,False,,Cleared,AO13826
+AO24985,Gamma,2024,74.9,Cleared,False,,Cleared,AO18162
+AO24985,Gamma,2025,86.9,Cleared,False,,Cleared,AO18162
+AO24985,Gamma,2026,83.1,Cleared,False,,Cleared,AO18162
+AO24998,Beta,2024,88.1,Cleared,False,,Cleared,AO13826
+AO24998,Beta,2025,87.8,Cleared,False,,Cleared,AO13826
+AO24998,Beta,2026,79.8,Cleared,False,,Cleared,AO13826
+AO25008,Gamma,2025,66.3,Not Cleared,True,82.4,Cleared,AO18162
+AO25008,Gamma,2026,90.4,Cleared,False,,Cleared,AO18162
+AO25050,Beta,2025,72.6,Cleared,False,,Cleared,AO13826
+AO25050,Beta,2026,78.6,Cleared,False,,Cleared,AO13826
+AO25112,Sigma,2025,74.8,Cleared,False,,Cleared,AO12830
+AO25112,Sigma,2026,75.1,Cleared,False,,Cleared,AO12830
+AO25165,Sigma,2025,92.6,Cleared,False,,Cleared,AO12830
+AO25165,Sigma,2026,63.1,Not Cleared,True,88.4,Cleared,AO12830
+AO25183,Sigma,2025,87.9,Cleared,False,,Cleared,AO12830
+AO25183,Sigma,2026,78.4,Cleared,False,,Cleared,AO12830
+AO25210,Beta,2025,72.2,Cleared,False,,Cleared,AO13826
+AO25210,Beta,2026,74.4,Cleared,False,,Cleared,AO13826
+AO25328,Alpha,2025,67.0,Not Cleared,True,77.0,Cleared,AO16543
+AO25328,Alpha,2026,78.8,Cleared,False,,Cleared,AO16543
+AO25376,Sigma,2025,78.1,Cleared,False,,Cleared,AO12830
+AO25376,Sigma,2026,86.3,Cleared,False,,Cleared,AO12830
+AO25379,Delta,2025,70.6,Cleared,False,,Cleared,AO13387
+AO25379,Delta,2026,73.5,Cleared,False,,Cleared,AO13387
+AO25477,Delta,2025,79.9,Cleared,False,,Cleared,AO13387
+AO25477,Delta,2026,63.2,Not Cleared,True,75.8,Cleared,AO13387
+AO25541,Sigma,2025,75.2,Cleared,False,,Cleared,AO12830
+AO25541,Sigma,2026,70.6,Cleared,False,,Cleared,AO12830
+AO25607,Delta,2025,76.7,Cleared,False,,Cleared,AO13387
+AO25607,Delta,2026,56.1,Not Cleared,True,65.6,Not Cleared,AO13387
+AO25711,Delta,2025,88.8,Cleared,False,,Cleared,AO13387
+AO25711,Delta,2026,72.7,Cleared,False,,Cleared,AO13387
+AO25712,Alpha,2025,77.6,Cleared,False,,Cleared,AO16543
+AO25712,Alpha,2026,90.2,Cleared,False,,Cleared,AO16543
+AO25736,Gamma,2025,67.5,Not Cleared,True,81.1,Cleared,AO18162
+AO25736,Gamma,2026,90.9,Cleared,False,,Cleared,AO18162
+AO97199,Beta,2021,71.5,Cleared,False,,Cleared,AO13826
+AO97199,Beta,2022,100.0,Cleared,False,,Cleared,AO13826
+AO97199,Beta,2023,87.5,Cleared,False,,Cleared,AO13826
+AO97199,Beta,2024,82.7,Cleared,False,,Cleared,AO13826
+AO97199,Beta,2025,76.7,Cleared,False,,Cleared,AO13826
+AO97199,Beta,2026,84.6,Cleared,False,,Cleared,AO13826
+AO97317,Gamma,2021,86.1,Cleared,False,,Cleared,AO18162
+AO97317,Gamma,2022,74.2,Cleared,False,,Cleared,AO18162
+AO97317,Gamma,2023,79.6,Cleared,False,,Cleared,AO18162
+AO97317,Gamma,2024,81.6,Cleared,False,,Cleared,AO18162
+AO97317,Gamma,2025,69.4,Not Cleared,True,84.7,Cleared,AO18162
+AO97317,Gamma,2026,82.3,Cleared,False,,Cleared,AO18162
+AO97468,Sigma,2024,84.4,Cleared,False,,Cleared,AO12830
+AO97468,Sigma,2025,100.0,Cleared,False,,Cleared,AO12830
+AO97468,Sigma,2026,94.1,Cleared,False,,Cleared,AO12830
+G07690,Delta,2025,65.4,Not Cleared,True,81.0,Cleared,AO13387
+G07690,Delta,2026,93.9,Cleared,False,,Cleared,AO13387
+G08440,Delta,2021,82.9,Cleared,False,,Cleared,AO13387
+G08440,Delta,2022,64.5,Not Cleared,True,66.2,Not Cleared,AO13387
+G08440,Delta,2023,64.8,Not Cleared,True,84.5,Cleared,AO13387
+G08440,Delta,2024,86.6,Cleared,False,,Cleared,AO13387
+G08440,Delta,2025,62.4,Not Cleared,True,70.6,Cleared,AO13387
+G08440,Delta,2026,87.3,Cleared,False,,Cleared,AO13387
+G08825,Gamma,2025,59.6,Not Cleared,True,75.6,Cleared,AO18162
+G08825,Gamma,2026,92.5,Cleared,False,,Cleared,AO18162
+G08986,Beta,2025,72.0,Cleared,False,,Cleared,AO13826
+G08986,Beta,2026,78.0,Cleared,False,,Cleared,AO13826
+G08994,Gamma,2021,70.8,Cleared,False,,Cleared,AO18162
+G08994,Gamma,2022,83.4,Cleared,False,,Cleared,AO18162
+G08994,Gamma,2023,91.4,Cleared,False,,Cleared,AO18162
+G08994,Gamma,2024,76.4,Cleared,False,,Cleared,AO18162
+G08994,Gamma,2025,81.3,Cleared,False,,Cleared,AO18162
+G08994,Gamma,2026,71.5,Cleared,False,,Cleared,AO18162
+G10034,Gamma,2024,64.2,Not Cleared,True,73.8,Cleared,AO18162
+G10034,Gamma,2025,90.7,Cleared,False,,Cleared,AO18162
+G10034,Gamma,2026,82.8,Cleared,False,,Cleared,AO18162
+G10878,Sigma,2022,69.5,Not Cleared,True,83.9,Cleared,AO12830
+G10878,Sigma,2023,65.4,Not Cleared,True,76.2,Cleared,AO12830
+G10878,Sigma,2024,69.4,Not Cleared,True,81.4,Cleared,AO12830
+G10878,Sigma,2025,70.1,Cleared,False,,Cleared,AO12830
+G10878,Sigma,2026,86.5,Cleared,False,,Cleared,AO12830
+G11488,Alpha,2021,94.8,Cleared,False,,Cleared,AO16543
+G11488,Alpha,2022,85.5,Cleared,False,,Cleared,AO16543
+G11488,Alpha,2023,83.1,Cleared,False,,Cleared,AO16543
+G11488,Alpha,2024,79.0,Cleared,False,,Cleared,AO16543
+G11488,Alpha,2025,95.4,Cleared,False,,Cleared,AO16543
+G11488,Alpha,2026,64.2,Not Cleared,True,79.4,Cleared,AO16543
+G11534,Gamma,2024,56.1,Not Cleared,True,67.7,Not Cleared,AO18162
+G11534,Gamma,2025,77.5,Cleared,False,,Cleared,AO18162
+G11534,Gamma,2026,62.4,Not Cleared,True,75.1,Cleared,AO18162
+G11545,Delta,2023,58.3,Not Cleared,True,72.6,Cleared,AO13387
+G11545,Delta,2024,62.0,Not Cleared,True,81.4,Cleared,AO13387
+G11545,Delta,2025,57.1,Not Cleared,True,63.8,Not Cleared,AO13387
+G11545,Delta,2026,67.9,Not Cleared,True,76.6,Cleared,AO13387
+G11589,Beta,2023,76.9,Cleared,False,,Cleared,AO13826
+G11589,Beta,2024,76.1,Cleared,False,,Cleared,AO13826
+G11589,Beta,2025,53.9,Not Cleared,True,71.3,Cleared,AO13826
+G11589,Beta,2026,64.4,Not Cleared,True,72.4,Cleared,AO13826
+G11657,Delta,2021,98.3,Cleared,False,,Cleared,AO13387
+G11657,Delta,2022,63.4,Not Cleared,True,73.6,Cleared,AO13387
+G11657,Delta,2023,73.5,Cleared,False,,Cleared,AO13387
+G11657,Delta,2024,80.9,Cleared,False,,Cleared,AO13387
+G11657,Delta,2025,58.4,Not Cleared,True,67.4,Not Cleared,AO13387
+G11657,Delta,2026,80.5,Cleared,False,,Cleared,AO13387
+G11740,Alpha,2022,75.1,Cleared,False,,Cleared,AO16543
+G11740,Alpha,2023,77.4,Cleared,False,,Cleared,AO16543
+G11740,Alpha,2024,74.6,Cleared,False,,Cleared,AO16543
+G11740,Alpha,2025,75.5,Cleared,False,,Cleared,AO16543
+G11740,Alpha,2026,95.7,Cleared,False,,Cleared,AO16543
+G12516,Delta,2021,82.2,Cleared,False,,Cleared,AO13387
+G12516,Delta,2022,100.0,Cleared,False,,Cleared,AO13387
+G12516,Delta,2023,92.7,Cleared,False,,Cleared,AO13387
+G12516,Delta,2024,92.2,Cleared,False,,Cleared,AO13387
+G12516,Delta,2025,96.6,Cleared,False,,Cleared,AO13387
+G12516,Delta,2026,90.3,Cleared,False,,Cleared,AO13387
+G12759,Gamma,2022,65.6,Not Cleared,True,77.2,Cleared,AO18162
+G12759,Gamma,2023,90.0,Cleared,False,,Cleared,AO18162
+G12759,Gamma,2024,71.3,Cleared,False,,Cleared,AO18162
+G12759,Gamma,2025,58.1,Not Cleared,True,65.3,Not Cleared,AO18162
+G12759,Gamma,2026,88.3,Cleared,False,,Cleared,AO18162
+G13338,Gamma,2023,55.8,Not Cleared,True,68.9,Not Cleared,AO18162
+G13338,Gamma,2024,68.4,Not Cleared,True,87.2,Cleared,AO18162
+G13338,Gamma,2025,81.8,Cleared,False,,Cleared,AO18162
+G13338,Gamma,2026,67.3,Not Cleared,True,81.6,Cleared,AO18162
+G13345,Sigma,2024,87.7,Cleared,False,,Cleared,AO12830
+G13345,Sigma,2025,83.0,Cleared,False,,Cleared,AO12830
+G13345,Sigma,2026,67.8,Not Cleared,True,76.5,Cleared,AO12830
+G13596,Sigma,2024,76.1,Cleared,False,,Cleared,AO12830
+G13596,Sigma,2025,86.3,Cleared,False,,Cleared,AO12830
+G13596,Sigma,2026,82.3,Cleared,False,,Cleared,AO12830
+G13723,Beta,2021,77.2,Cleared,False,,Cleared,AO13826
+G13723,Beta,2022,69.8,Not Cleared,True,74.4,Cleared,AO13826
+G13723,Beta,2023,90.5,Cleared,False,,Cleared,AO13826
+G13723,Beta,2024,72.3,Cleared,False,,Cleared,AO13826
+G13723,Beta,2025,70.2,Cleared,False,,Cleared,AO13826
+G13723,Beta,2026,74.9,Cleared,False,,Cleared,AO13826
+G15161,Beta,2021,70.9,Cleared,False,,Cleared,AO13826
+G15161,Beta,2022,87.4,Cleared,False,,Cleared,AO13826
+G15161,Beta,2023,82.5,Cleared,False,,Cleared,AO13826
+G15161,Beta,2024,79.5,Cleared,False,,Cleared,AO13826
+G15161,Beta,2025,100.0,Cleared,False,,Cleared,AO13826
+G15161,Beta,2026,83.4,Cleared,False,,Cleared,AO13826
+G15417,Beta,2025,64.1,Not Cleared,True,70.7,Cleared,AO13826
+G15417,Beta,2026,63.6,Not Cleared,True,65.0,Not Cleared,AO13826
+G16237,Gamma,2021,77.2,Cleared,False,,Cleared,AO18162
+G16237,Gamma,2022,77.1,Cleared,False,,Cleared,AO18162
+G16237,Gamma,2023,85.0,Cleared,False,,Cleared,AO18162
+G16237,Gamma,2024,68.0,Not Cleared,True,86.7,Cleared,AO18162
+G16237,Gamma,2025,63.3,Not Cleared,True,76.0,Cleared,AO18162
+G16237,Gamma,2026,93.5,Cleared,False,,Cleared,AO18162
+G16308,Delta,2023,87.6,Cleared,False,,Cleared,AO13387
+G16308,Delta,2024,56.8,Not Cleared,True,68.4,Not Cleared,AO13387
+G16308,Delta,2025,71.9,Cleared,False,,Cleared,AO13387
+G16308,Delta,2026,70.4,Cleared,False,,Cleared,AO13387
+G17117,Beta,2021,77.7,Cleared,False,,Cleared,AO13826
+G17117,Beta,2022,71.8,Cleared,False,,Cleared,AO13826
+G17117,Beta,2023,85.4,Cleared,False,,Cleared,AO13826
+G17117,Beta,2024,58.3,Not Cleared,True,62.4,Not Cleared,AO13826
+G17117,Beta,2025,78.7,Cleared,False,,Cleared,AO13826
+G17117,Beta,2026,96.0,Cleared,False,,Cleared,AO13826
+G17139,Alpha,2024,59.3,Not Cleared,True,68.6,Not Cleared,AO16543
+G17139,Alpha,2025,60.6,Not Cleared,True,74.4,Cleared,AO16543
+G17139,Alpha,2026,67.3,Not Cleared,True,81.0,Cleared,AO16543
+G17341,Sigma,2021,75.9,Cleared,False,,Cleared,AO12830
+G17341,Sigma,2022,69.8,Not Cleared,True,78.6,Cleared,AO12830
+G17341,Sigma,2023,77.0,Cleared,False,,Cleared,AO12830
+G17341,Sigma,2024,73.4,Cleared,False,,Cleared,AO12830
+G17341,Sigma,2025,84.1,Cleared,False,,Cleared,AO12830
+G17341,Sigma,2026,85.6,Cleared,False,,Cleared,AO12830
+G17472,Sigma,2021,68.9,Not Cleared,True,73.2,Cleared,AO12830
+G17472,Sigma,2022,92.0,Cleared,False,,Cleared,AO12830
+G17472,Sigma,2023,75.5,Cleared,False,,Cleared,AO12830
+G17472,Sigma,2024,63.5,Not Cleared,True,79.9,Cleared,AO12830
+G17472,Sigma,2025,64.7,Not Cleared,True,77.6,Cleared,AO12830
+G17472,Sigma,2026,56.7,Not Cleared,True,68.5,Not Cleared,AO12830
+G17751,Gamma,2021,76.3,Cleared,False,,Cleared,AO18162
+G17751,Gamma,2022,91.0,Cleared,False,,Cleared,AO18162
+G17751,Gamma,2023,84.7,Cleared,False,,Cleared,AO18162
+G17751,Gamma,2024,79.0,Cleared,False,,Cleared,AO18162
+G17751,Gamma,2025,86.3,Cleared,False,,Cleared,AO18162
+G17751,Gamma,2026,72.4,Cleared,False,,Cleared,AO18162
+G18149,Delta,2025,76.7,Cleared,False,,Cleared,AO13387
+G18149,Delta,2026,79.5,Cleared,False,,Cleared,AO13387
+G18229,Gamma,2021,67.2,Not Cleared,True,86.7,Cleared,AO18162
+G18229,Gamma,2022,68.3,Not Cleared,True,83.1,Cleared,AO18162
+G18229,Gamma,2023,62.2,Not Cleared,True,77.0,Cleared,AO18162
+G18229,Gamma,2024,75.7,Cleared,False,,Cleared,AO18162
+G18229,Gamma,2025,69.3,Not Cleared,True,72.4,Cleared,AO18162
+G18229,Gamma,2026,69.4,Not Cleared,True,78.2,Cleared,AO18162
+G18673,Alpha,2023,81.3,Cleared,False,,Cleared,AO16543
+G18673,Alpha,2024,94.9,Cleared,False,,Cleared,AO16543
+G18673,Alpha,2025,82.1,Cleared,False,,Cleared,AO16543
+G18673,Alpha,2026,80.8,Cleared,False,,Cleared,AO16543
+G18716,Alpha,2022,72.6,Cleared,False,,Cleared,AO16543
+G18716,Alpha,2023,66.4,Not Cleared,True,69.5,Not Cleared,AO16543
+G18716,Alpha,2024,63.9,Not Cleared,True,78.4,Cleared,AO16543
+G18716,Alpha,2025,72.6,Cleared,False,,Cleared,AO16543
+G18716,Alpha,2026,66.6,Not Cleared,True,77.0,Cleared,AO16543
+G19017,Alpha,2021,71.5,Cleared,False,,Cleared,AO16543
+G19017,Alpha,2022,98.5,Cleared,False,,Cleared,AO16543
+G19017,Alpha,2023,61.0,Not Cleared,True,66.7,Not Cleared,AO16543
+G19017,Alpha,2024,84.9,Cleared,False,,Cleared,AO16543
+G19017,Alpha,2025,75.6,Cleared,False,,Cleared,AO16543
+G19017,Alpha,2026,82.9,Cleared,False,,Cleared,AO16543
+G19777,Delta,2023,72.9,Cleared,False,,Cleared,AO13387
+G19777,Delta,2024,82.0,Cleared,False,,Cleared,AO13387
+G19777,Delta,2025,92.1,Cleared,False,,Cleared,AO13387
+G19777,Delta,2026,88.1,Cleared,False,,Cleared,AO13387
+G20303,Delta,2023,84.2,Cleared,False,,Cleared,AO13387
+G20303,Delta,2024,73.6,Cleared,False,,Cleared,AO13387
+G20303,Delta,2025,79.6,Cleared,False,,Cleared,AO13387
+G20303,Delta,2026,87.0,Cleared,False,,Cleared,AO13387
+G20911,Delta,2024,83.5,Cleared,False,,Cleared,AO13387
+G20911,Delta,2025,75.5,Cleared,False,,Cleared,AO13387
+G20911,Delta,2026,67.1,Not Cleared,True,82.6,Cleared,AO13387
+G21193,Gamma,2022,78.6,Cleared,False,,Cleared,AO18162
+G21193,Gamma,2023,77.2,Cleared,False,,Cleared,AO18162
+G21193,Gamma,2024,68.8,Not Cleared,True,79.9,Cleared,AO18162
+G21193,Gamma,2025,76.5,Cleared,False,,Cleared,AO18162
+G21193,Gamma,2026,74.5,Cleared,False,,Cleared,AO18162
+G21223,Beta,2024,76.4,Cleared,False,,Cleared,AO13826
+G21223,Beta,2025,74.1,Cleared,False,,Cleared,AO13826
+G21223,Beta,2026,72.7,Cleared,False,,Cleared,AO13826
+G21228,Sigma,2022,75.0,Cleared,False,,Cleared,AO12830
+G21228,Sigma,2023,81.5,Cleared,False,,Cleared,AO12830
+G21228,Sigma,2024,79.7,Cleared,False,,Cleared,AO12830
+G21228,Sigma,2025,72.9,Cleared,False,,Cleared,AO12830
+G21228,Sigma,2026,75.2,Cleared,False,,Cleared,AO12830
+G21265,Gamma,2022,58.2,Not Cleared,True,74.5,Cleared,AO18162
+G21265,Gamma,2023,61.9,Not Cleared,True,69.4,Not Cleared,AO18162
+G21265,Gamma,2024,60.7,Not Cleared,True,72.3,Cleared,AO18162
+G21265,Gamma,2025,83.3,Cleared,False,,Cleared,AO18162
+G21265,Gamma,2026,79.0,Cleared,False,,Cleared,AO18162
+G21369,Delta,2024,75.7,Cleared,False,,Cleared,AO13387
+G21369,Delta,2025,82.3,Cleared,False,,Cleared,AO13387
+G21369,Delta,2026,73.3,Cleared,False,,Cleared,AO13387
+G21379,Sigma,2021,76.6,Cleared,False,,Cleared,AO12830
+G21379,Sigma,2022,89.0,Cleared,False,,Cleared,AO12830
+G21379,Sigma,2023,63.7,Not Cleared,True,78.5,Cleared,AO12830
+G21379,Sigma,2024,75.1,Cleared,False,,Cleared,AO12830
+G21379,Sigma,2025,69.8,Not Cleared,True,77.9,Cleared,AO12830
+G21379,Sigma,2026,90.9,Cleared,False,,Cleared,AO12830
+G21555,Sigma,2024,88.4,Cleared,False,,Cleared,AO12830
+G21555,Sigma,2025,70.5,Cleared,False,,Cleared,AO12830
+G21555,Sigma,2026,95.1,Cleared,False,,Cleared,AO12830
+G21563,Sigma,2021,72.4,Cleared,False,,Cleared,AO12830
+G21563,Sigma,2022,68.9,Not Cleared,True,73.9,Cleared,AO12830
+G21563,Sigma,2023,68.9,Not Cleared,True,75.6,Cleared,AO12830
+G21563,Sigma,2024,67.3,Not Cleared,True,80.5,Cleared,AO12830
+G21563,Sigma,2025,78.9,Cleared,False,,Cleared,AO12830
+G21563,Sigma,2026,68.6,Not Cleared,True,83.6,Cleared,AO12830
+G21624,Beta,2022,80.8,Cleared,False,,Cleared,AO13826
+G21624,Beta,2023,60.7,Not Cleared,True,78.9,Cleared,AO13826
+G21624,Beta,2024,68.1,Not Cleared,True,70.2,Cleared,AO13826
+G21624,Beta,2025,74.6,Cleared,False,,Cleared,AO13826
+G21624,Beta,2026,79.9,Cleared,False,,Cleared,AO13826
+G21712,Gamma,2023,58.4,Not Cleared,True,73.4,Cleared,AO18162
+G21712,Gamma,2024,78.9,Cleared,False,,Cleared,AO18162
+G21712,Gamma,2025,76.1,Cleared,False,,Cleared,AO18162
+G21712,Gamma,2026,100.0,Cleared,False,,Cleared,AO18162
+G21722,Delta,2024,61.2,Not Cleared,True,84.0,Cleared,AO13387
+G21722,Delta,2025,61.2,Not Cleared,True,68.2,Not Cleared,AO13387
+G21722,Delta,2026,90.2,Cleared,False,,Cleared,AO13387
+G21956,Sigma,2023,78.3,Cleared,False,,Cleared,AO12830
+G21956,Sigma,2024,55.2,Not Cleared,True,69.2,Not Cleared,AO12830
+G21956,Sigma,2025,64.0,Not Cleared,True,66.9,Not Cleared,AO12830
+G21956,Sigma,2026,59.7,Not Cleared,True,65.6,Not Cleared,AO12830
+G22091,Alpha,2025,73.2,Cleared,False,,Cleared,AO16543
+G22091,Alpha,2026,85.9,Cleared,False,,Cleared,AO16543
+G22153,Alpha,2022,72.7,Cleared,False,,Cleared,AO16543
+G22153,Alpha,2023,70.6,Cleared,False,,Cleared,AO16543
+G22153,Alpha,2024,85.1,Cleared,False,,Cleared,AO16543
+G22153,Alpha,2025,84.3,Cleared,False,,Cleared,AO16543
+G22153,Alpha,2026,86.0,Cleared,False,,Cleared,AO16543
+G22314,Alpha,2022,68.9,Not Cleared,True,79.8,Cleared,AO16543
+G22314,Alpha,2023,87.9,Cleared,False,,Cleared,AO16543
+G22314,Alpha,2024,69.6,Not Cleared,True,78.7,Cleared,AO16543
+G22314,Alpha,2025,78.0,Cleared,False,,Cleared,AO16543
+G22314,Alpha,2026,82.7,Cleared,False,,Cleared,AO16543
+G22398,Sigma,2022,78.1,Cleared,False,,Cleared,AO12830
+G22398,Sigma,2023,64.8,Not Cleared,True,68.5,Not Cleared,AO12830
+G22398,Sigma,2024,70.0,Cleared,False,,Cleared,AO12830
+G22398,Sigma,2025,76.3,Cleared,False,,Cleared,AO12830
+G22398,Sigma,2026,91.2,Cleared,False,,Cleared,AO12830
+G22440,Beta,2022,71.4,Cleared,False,,Cleared,AO13826
+G22440,Beta,2023,68.6,Not Cleared,True,76.5,Cleared,AO13826
+G22440,Beta,2024,91.7,Cleared,False,,Cleared,AO13826
+G22440,Beta,2025,80.4,Cleared,False,,Cleared,AO13826
+G22440,Beta,2026,76.9,Cleared,False,,Cleared,AO13826
+G22464,Delta,2024,81.9,Cleared,False,,Cleared,AO13387
+G22464,Delta,2025,79.0,Cleared,False,,Cleared,AO13387
+G22464,Delta,2026,80.2,Cleared,False,,Cleared,AO13387
+G22580,Delta,2023,44.8,Not Cleared,True,59.4,Not Cleared,AO13387
+G22580,Delta,2024,66.3,Not Cleared,True,84.1,Cleared,AO13387
+G22580,Delta,2025,46.9,Not Cleared,True,56.2,Not Cleared,AO13387
+G22580,Delta,2026,83.1,Cleared,False,,Cleared,AO13387
+G22662,Delta,2023,66.4,Not Cleared,True,81.6,Cleared,AO13387
+G22662,Delta,2024,80.3,Cleared,False,,Cleared,AO13387
+G22662,Delta,2025,83.8,Cleared,False,,Cleared,AO13387
+G22662,Delta,2026,65.9,Not Cleared,True,79.3,Cleared,AO13387
+G22667,Sigma,2022,68.8,Not Cleared,True,82.1,Cleared,AO12830
+G22667,Sigma,2023,96.7,Cleared,False,,Cleared,AO12830
+G22667,Sigma,2024,72.0,Cleared,False,,Cleared,AO12830
+G22667,Sigma,2025,76.0,Cleared,False,,Cleared,AO12830
+G22667,Sigma,2026,63.5,Not Cleared,True,72.2,Cleared,AO12830
+G22677,Alpha,2023,84.9,Cleared,False,,Cleared,AO16543
+G22677,Alpha,2024,82.5,Cleared,False,,Cleared,AO16543
+G22677,Alpha,2025,75.3,Cleared,False,,Cleared,AO16543
+G22677,Alpha,2026,80.4,Cleared,False,,Cleared,AO16543
+G22746,Alpha,2025,85.8,Cleared,False,,Cleared,AO16543
+G22746,Alpha,2026,76.3,Cleared,False,,Cleared,AO16543
+G22914,Gamma,2025,78.2,Cleared,False,,Cleared,AO18162
+G22914,Gamma,2026,74.5,Cleared,False,,Cleared,AO18162
+G22927,Beta,2022,83.5,Cleared,False,,Cleared,AO13826
+G22927,Beta,2023,72.0,Cleared,False,,Cleared,AO13826
+G22927,Beta,2024,81.5,Cleared,False,,Cleared,AO13826
+G22927,Beta,2025,76.4,Cleared,False,,Cleared,AO13826
+G22927,Beta,2026,82.5,Cleared,False,,Cleared,AO13826
+G22969,Beta,2023,63.8,Not Cleared,True,79.3,Cleared,AO13826
+G22969,Beta,2024,63.1,Not Cleared,True,78.1,Cleared,AO13826
+G22969,Beta,2025,79.3,Cleared,False,,Cleared,AO13826
+G22969,Beta,2026,64.3,Not Cleared,True,69.8,Not Cleared,AO13826
+G23248,Sigma,2023,81.0,Cleared,False,,Cleared,AO12830
+G23248,Sigma,2024,74.4,Cleared,False,,Cleared,AO12830
+G23248,Sigma,2025,70.1,Cleared,False,,Cleared,AO12830
+G23248,Sigma,2026,76.6,Cleared,False,,Cleared,AO12830
+G23263,Delta,2024,84.5,Cleared,False,,Cleared,AO13387
+G23263,Delta,2025,66.6,Not Cleared,True,82.4,Cleared,AO13387
+G23263,Delta,2026,76.5,Cleared,False,,Cleared,AO13387
+G23268,Beta,2024,91.9,Cleared,False,,Cleared,AO13826
+G23268,Beta,2025,72.2,Cleared,False,,Cleared,AO13826
+G23268,Beta,2026,70.9,Cleared,False,,Cleared,AO13826
+G23288,Alpha,2023,90.3,Cleared,False,,Cleared,AO16543
+G23288,Alpha,2024,53.8,Not Cleared,True,68.7,Not Cleared,AO16543
+G23288,Alpha,2025,83.4,Cleared,False,,Cleared,AO16543
+G23288,Alpha,2026,81.8,Cleared,False,,Cleared,AO16543
+G23314,Delta,2023,92.5,Cleared,False,,Cleared,AO13387
+G23314,Delta,2024,69.5,Not Cleared,True,80.8,Cleared,AO13387
+G23314,Delta,2025,69.0,Not Cleared,True,86.5,Cleared,AO13387
+G23314,Delta,2026,85.1,Cleared,False,,Cleared,AO13387
+G23357,Alpha,2023,82.6,Cleared,False,,Cleared,AO16543
+G23357,Alpha,2024,54.3,Not Cleared,True,66.5,Not Cleared,AO16543
+G23357,Alpha,2025,76.3,Cleared,False,,Cleared,AO16543
+G23357,Alpha,2026,85.4,Cleared,False,,Cleared,AO16543
+G23402,Alpha,2024,100.0,Cleared,False,,Cleared,AO16543
+G23402,Alpha,2025,73.7,Cleared,False,,Cleared,AO16543
+G23402,Alpha,2026,86.7,Cleared,False,,Cleared,AO16543
+G23405,Gamma,2023,92.5,Cleared,False,,Cleared,AO18162
+G23405,Gamma,2024,91.9,Cleared,False,,Cleared,AO18162
+G23405,Gamma,2025,66.8,Not Cleared,True,76.2,Cleared,AO18162
+G23405,Gamma,2026,73.3,Cleared,False,,Cleared,AO18162
+G23423,Alpha,2023,74.1,Cleared,False,,Cleared,AO16543
+G23423,Alpha,2024,72.0,Cleared,False,,Cleared,AO16543
+G23423,Alpha,2025,77.4,Cleared,False,,Cleared,AO16543
+G23423,Alpha,2026,78.2,Cleared,False,,Cleared,AO16543
+G23583,Gamma,2024,73.9,Cleared,False,,Cleared,AO18162
+G23583,Gamma,2025,66.8,Not Cleared,True,76.6,Cleared,AO18162
+G23583,Gamma,2026,78.8,Cleared,False,,Cleared,AO18162
+G23722,Sigma,2023,88.8,Cleared,False,,Cleared,AO12830
+G23722,Sigma,2024,73.7,Cleared,False,,Cleared,AO12830
+G23722,Sigma,2025,80.1,Cleared,False,,Cleared,AO12830
+G23722,Sigma,2026,81.7,Cleared,False,,Cleared,AO12830
+G23726,Delta,2023,79.0,Cleared,False,,Cleared,AO13387
+G23726,Delta,2024,65.9,Not Cleared,True,77.7,Cleared,AO13387
+G23726,Delta,2025,87.3,Cleared,False,,Cleared,AO13387
+G23726,Delta,2026,81.1,Cleared,False,,Cleared,AO13387
+G23771,Beta,2023,58.9,Not Cleared,True,68.2,Not Cleared,AO13826
+G23771,Beta,2024,60.7,Not Cleared,True,75.9,Cleared,AO13826
+G23771,Beta,2025,79.0,Cleared,False,,Cleared,AO13826
+G23771,Beta,2026,63.0,Not Cleared,True,79.3,Cleared,AO13826
+G23853,Sigma,2023,64.8,Not Cleared,True,76.1,Cleared,AO12830
+G23853,Sigma,2024,89.0,Cleared,False,,Cleared,AO12830
+G23853,Sigma,2025,73.6,Cleared,False,,Cleared,AO12830
+G23853,Sigma,2026,90.2,Cleared,False,,Cleared,AO12830
+G23944,Alpha,2023,98.2,Cleared,False,,Cleared,AO16543
+G23944,Alpha,2024,79.1,Cleared,False,,Cleared,AO16543
+G23944,Alpha,2025,79.2,Cleared,False,,Cleared,AO16543
+G23944,Alpha,2026,76.1,Cleared,False,,Cleared,AO16543
+G23950,Gamma,2023,67.1,Not Cleared,True,82.3,Cleared,AO18162
+G23950,Gamma,2024,86.0,Cleared,False,,Cleared,AO18162
+G23950,Gamma,2025,75.4,Cleared,False,,Cleared,AO18162
+G23950,Gamma,2026,90.1,Cleared,False,,Cleared,AO18162
+G23967,Sigma,2024,61.4,Not Cleared,True,82.8,Cleared,AO12830
+G23967,Sigma,2025,59.8,Not Cleared,True,72.7,Cleared,AO12830
+G23967,Sigma,2026,57.2,Not Cleared,True,69.1,Not Cleared,AO12830
+G24055,Gamma,2024,83.3,Cleared,False,,Cleared,AO18162
+G24055,Gamma,2025,62.0,Not Cleared,True,77.4,Cleared,AO18162
+G24055,Gamma,2026,95.0,Cleared,False,,Cleared,AO18162
+G24135,Beta,2024,77.8,Cleared,False,,Cleared,AO13826
+G24135,Beta,2025,54.0,Not Cleared,True,71.9,Cleared,AO13826
+G24135,Beta,2026,99.2,Cleared,False,,Cleared,AO13826
+G24197,Alpha,2024,76.2,Cleared,False,,Cleared,AO16543
+G24197,Alpha,2025,78.7,Cleared,False,,Cleared,AO16543
+G24197,Alpha,2026,87.7,Cleared,False,,Cleared,AO16543
+G24228,Gamma,2024,88.1,Cleared,False,,Cleared,AO18162
+G24228,Gamma,2025,80.1,Cleared,False,,Cleared,AO18162
+G24228,Gamma,2026,59.6,Not Cleared,True,72.2,Cleared,AO18162
+G24443,Delta,2024,61.2,Not Cleared,True,75.9,Cleared,AO13387
+G24443,Delta,2025,87.3,Cleared,False,,Cleared,AO13387
+G24443,Delta,2026,86.9,Cleared,False,,Cleared,AO13387
+G24483,Beta,2024,71.5,Cleared,False,,Cleared,AO13826
+G24483,Beta,2025,82.6,Cleared,False,,Cleared,AO13826
+G24483,Beta,2026,54.9,Not Cleared,True,67.8,Not Cleared,AO13826
+G24599,Beta,2024,66.9,Not Cleared,True,73.4,Cleared,AO13826
+G24599,Beta,2025,83.9,Cleared,False,,Cleared,AO13826
+G24599,Beta,2026,82.9,Cleared,False,,Cleared,AO13826
+G24625,Gamma,2024,79.7,Cleared,False,,Cleared,AO18162
+G24625,Gamma,2025,87.6,Cleared,False,,Cleared,AO18162
+G24625,Gamma,2026,86.1,Cleared,False,,Cleared,AO18162
+G24740,Gamma,2024,65.4,Not Cleared,True,76.2,Cleared,AO18162
+G24740,Gamma,2025,86.0,Cleared,False,,Cleared,AO18162
+G24740,Gamma,2026,79.7,Cleared,False,,Cleared,AO18162
+G24754,Sigma,2024,91.5,Cleared,False,,Cleared,AO12830
+G24754,Sigma,2025,100.0,Cleared,False,,Cleared,AO12830
+G24754,Sigma,2026,66.6,Not Cleared,True,76.2,Cleared,AO12830
+G24819,Beta,2024,84.6,Cleared,False,,Cleared,AO13826
+G24819,Beta,2025,80.8,Cleared,False,,Cleared,AO13826
+G24819,Beta,2026,71.0,Cleared,False,,Cleared,AO13826
+G24868,Delta,2024,75.6,Cleared,False,,Cleared,AO13387
+G24868,Delta,2025,89.7,Cleared,False,,Cleared,AO13387
+G24868,Delta,2026,58.3,Not Cleared,True,76.8,Cleared,AO13387
+G24895,Sigma,2025,72.5,Cleared,False,,Cleared,AO12830
+G24895,Sigma,2026,83.9,Cleared,False,,Cleared,AO12830
+G24918,Sigma,2024,69.5,Not Cleared,True,75.4,Cleared,AO12830
+G24918,Sigma,2025,100.0,Cleared,False,,Cleared,AO12830
+G24918,Sigma,2026,68.9,Not Cleared,True,76.5,Cleared,AO12830
+G25106,Beta,2025,78.6,Cleared,False,,Cleared,AO13826
+G25106,Beta,2026,95.8,Cleared,False,,Cleared,AO13826
+G25161,Beta,2025,69.5,Not Cleared,True,81.3,Cleared,AO13826
+G25161,Beta,2026,85.7,Cleared,False,,Cleared,AO13826
+G25334,Sigma,2025,97.3,Cleared,False,,Cleared,AO12830
+G25334,Sigma,2026,90.8,Cleared,False,,Cleared,AO12830
+G25596,Alpha,2025,66.2,Not Cleared,True,69.7,Not Cleared,AO16543
+G25596,Alpha,2026,64.8,Not Cleared,True,69.8,Not Cleared,AO16543
+G25878,Alpha,2025,75.1,Cleared,False,,Cleared,AO16543
+G25878,Alpha,2026,63.3,Not Cleared,True,79.1,Cleared,AO16543
+G25956,Alpha,2025,81.9,Cleared,False,,Cleared,AO16543
+G25956,Alpha,2026,78.1,Cleared,False,,Cleared,AO16543
+G25990,Beta,2025,86.8,Cleared,False,,Cleared,AO13826
+G25990,Beta,2026,61.5,Not Cleared,True,76.4,Cleared,AO13826

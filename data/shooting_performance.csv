@@ -1,0 +1,2847 @@
+shot_id,person_id,department,shot_date,shot_sequence_number,is_first_shot,shot_type,outcome
+AO07216-S001,AO07216,Alpha,2024-11-01,1,True,Training,Successful
+AO07216-S002,AO07216,Alpha,2025-02-24,2,False,PUA,Successful
+AO07216-S003,AO07216,Alpha,2025-05-14,3,False,Artillery Spotting,Failed
+AO07216-S004,AO07216,Alpha,2025-11-05,4,False,PUA,Failed
+AO07216-S005,AO07216,Alpha,2026-03-04,5,False,Laser-guided,Failed
+AO07216-S006,AO07216,Alpha,2026-03-26,6,False,Training,Successful
+AO07216-S007,AO07216,Alpha,2026-05-12,7,False,Training,Successful
+AO07216-S008,AO07216,Alpha,2026-05-15,8,False,PUA,Successful
+AO07216-S009,AO07216,Alpha,2026-05-17,9,False,PUA,Failed
+AO17018-S001,AO17018,Alpha,2021-05-22,1,True,Training,Successful
+AO17018-S002,AO17018,Alpha,2021-08-07,2,False,PUA,Successful
+AO17018-S003,AO17018,Alpha,2021-08-13,3,False,PUA,Successful
+AO17018-S004,AO17018,Alpha,2021-11-10,4,False,PUA,Successful
+AO17018-S005,AO17018,Alpha,2022-04-09,5,False,Artillery Spotting,Successful
+AO17018-S006,AO17018,Alpha,2022-07-18,6,False,PUA,Successful
+AO17018-S007,AO17018,Alpha,2022-11-19,7,False,PUA,Successful
+AO17018-S008,AO17018,Alpha,2022-11-21,8,False,PUA,Successful
+AO17018-S009,AO17018,Alpha,2022-12-28,9,False,Laser-guided,Successful
+AO17018-S010,AO17018,Alpha,2023-06-06,10,False,PUA,Successful
+AO17018-S011,AO17018,Alpha,2023-06-29,11,False,PUA,Successful
+AO17018-S012,AO17018,Alpha,2023-08-01,12,False,Training,Successful
+AO17018-S013,AO17018,Alpha,2023-11-04,13,False,PUA,Successful
+AO17018-S014,AO17018,Alpha,2024-05-03,14,False,PUA,Successful
+AO17018-S015,AO17018,Alpha,2024-06-01,15,False,Laser-guided,Successful
+AO17018-S016,AO17018,Alpha,2025-01-07,16,False,PUA,Successful
+AO17018-S017,AO17018,Alpha,2025-05-14,17,False,PUA,Successful
+AO17018-S018,AO17018,Alpha,2025-12-01,18,False,PUA,Successful
+AO22963-S001,AO22963,Alpha,2022-04-14,1,True,PUA,Successful
+AO22963-S002,AO22963,Alpha,2022-10-18,2,False,PUA,Successful
+AO22963-S003,AO22963,Alpha,2022-10-26,3,False,PUA,Successful
+AO22963-S004,AO22963,Alpha,2022-11-22,4,False,Artillery Spotting,Successful
+AO22963-S005,AO22963,Alpha,2023-01-20,5,False,PUA,Successful
+AO22963-S006,AO22963,Alpha,2023-08-16,6,False,PUA,Successful
+AO22963-S007,AO22963,Alpha,2023-10-21,7,False,PUA,Successful
+AO22963-S008,AO22963,Alpha,2024-03-03,8,False,PUA,Successful
+AO22963-S009,AO22963,Alpha,2024-03-08,9,False,Training,Failed
+AO22963-S010,AO22963,Alpha,2024-03-10,10,False,Training,Successful
+AO22963-S011,AO22963,Alpha,2024-03-11,11,False,Artillery Spotting,Successful
+AO22963-S012,AO22963,Alpha,2024-03-16,12,False,Artillery Spotting,Successful
+AO22963-S013,AO22963,Alpha,2024-09-11,13,False,Training,Successful
+AO22963-S014,AO22963,Alpha,2025-02-04,14,False,PUA,Successful
+AO22963-S015,AO22963,Alpha,2025-09-14,15,False,Laser-guided,Successful
+AO22963-S016,AO22963,Alpha,2025-09-29,16,False,PUA,Successful
+AO22963-S017,AO22963,Alpha,2025-10-07,17,False,PUA,Successful
+AO22963-S018,AO22963,Alpha,2026-01-03,18,False,Laser-guided,Successful
+AO22963-S019,AO22963,Alpha,2026-02-19,19,False,PUA,Successful
+AO22963-S020,AO22963,Alpha,2026-04-27,20,False,Laser-guided,Successful
+AO22963-S021,AO22963,Alpha,2026-06-07,21,False,Laser-guided,Successful
+AO22963-S022,AO22963,Alpha,2026-06-27,22,False,PUA,Successful
+AO19391-S001,AO19391,Alpha,2023-11-23,1,True,PUA,Failed
+AO19391-S002,AO19391,Alpha,2024-03-10,2,False,Artillery Spotting,Failed
+AO19391-S003,AO19391,Alpha,2024-04-07,3,False,PUA,Successful
+AO19391-S004,AO19391,Alpha,2024-06-15,4,False,Training,Successful
+AO19391-S005,AO19391,Alpha,2024-11-19,5,False,PUA,Successful
+AO19391-S006,AO19391,Alpha,2024-12-31,6,False,PUA,Successful
+AO19391-S007,AO19391,Alpha,2025-07-20,7,False,Artillery Spotting,Successful
+AO19391-S008,AO19391,Alpha,2025-09-08,8,False,Laser-guided,Successful
+AO19391-S009,AO19391,Alpha,2025-09-10,9,False,Laser-guided,Successful
+AO19391-S010,AO19391,Alpha,2025-12-05,10,False,Laser-guided,Successful
+AO18976-S001,AO18976,Alpha,2024-06-09,1,True,PUA,Successful
+AO18976-S002,AO18976,Alpha,2025-02-15,2,False,PUA,Successful
+AO18976-S003,AO18976,Alpha,2025-02-23,3,False,PUA,Successful
+AO18976-S004,AO18976,Alpha,2025-06-02,4,False,PUA,Successful
+AO18976-S005,AO18976,Alpha,2025-07-10,5,False,Laser-guided,Successful
+AO18976-S006,AO18976,Alpha,2025-10-07,6,False,PUA,Successful
+AO18976-S007,AO18976,Alpha,2025-12-02,7,False,PUA,Successful
+AO18976-S008,AO18976,Alpha,2026-02-22,8,False,PUA,Successful
+AO18976-S009,AO18976,Alpha,2026-03-01,9,False,PUA,Successful
+AO18976-S010,AO18976,Alpha,2026-05-13,10,False,Training,Successful
+AO13357-S001,AO13357,Alpha,2022-11-25,1,True,Laser-guided,Failed
+AO13357-S002,AO13357,Alpha,2023-02-10,2,False,Laser-guided,Failed
+AO13357-S003,AO13357,Alpha,2023-08-21,3,False,Artillery Spotting,Successful
+AO13357-S004,AO13357,Alpha,2023-09-21,4,False,PUA,Failed
+AO13357-S005,AO13357,Alpha,2023-11-13,5,False,PUA,Successful
+AO13357-S006,AO13357,Alpha,2023-11-30,6,False,Laser-guided,Successful
+AO13357-S007,AO13357,Alpha,2023-12-02,7,False,PUA,Failed
+AO13357-S008,AO13357,Alpha,2024-04-20,8,False,PUA,Successful
+AO23290-S001,AO23290,Alpha,2023-10-24,1,True,Artillery Spotting,Failed
+AO23290-S002,AO23290,Alpha,2024-02-21,2,False,Laser-guided,Successful
+AO23290-S003,AO23290,Alpha,2024-05-01,3,False,Laser-guided,Successful
+AO23290-S004,AO23290,Alpha,2024-06-21,4,False,Training,Successful
+AO23290-S005,AO23290,Alpha,2024-07-06,5,False,PUA,Successful
+AO23290-S006,AO23290,Alpha,2024-09-23,6,False,PUA,Successful
+AO23290-S007,AO23290,Alpha,2024-10-27,7,False,PUA,Failed
+AO23290-S008,AO23290,Alpha,2025-02-19,8,False,Laser-guided,Successful
+AO23290-S009,AO23290,Alpha,2025-12-14,9,False,Artillery Spotting,Successful
+AO23290-S010,AO23290,Alpha,2025-12-21,10,False,PUA,Successful
+AO23290-S011,AO23290,Alpha,2026-04-02,11,False,Training,Successful
+AO23290-S012,AO23290,Alpha,2026-06-27,12,False,Training,Successful
+AO16547-S001,AO16547,Alpha,2024-07-31,1,True,PUA,Failed
+AO16547-S002,AO16547,Alpha,2025-04-15,2,False,Artillery Spotting,Successful
+AO16547-S003,AO16547,Alpha,2025-06-21,3,False,Laser-guided,Failed
+AO16547-S004,AO16547,Alpha,2025-08-08,4,False,PUA,Failed
+AO13497-S001,AO13497,Alpha,2022-08-13,1,True,Laser-guided,Successful
+AO13497-S002,AO13497,Alpha,2022-08-18,2,False,PUA,Successful
+AO13497-S003,AO13497,Alpha,2022-08-31,3,False,PUA,Successful
+AO13497-S004,AO13497,Alpha,2022-09-20,4,False,Laser-guided,Failed
+AO13497-S005,AO13497,Alpha,2022-12-29,5,False,Laser-guided,Successful
+AO13497-S006,AO13497,Alpha,2023-03-31,6,False,PUA,Successful
+AO13497-S007,AO13497,Alpha,2023-05-26,7,False,Laser-guided,Failed
+AO13497-S008,AO13497,Alpha,2023-10-24,8,False,Laser-guided,Failed
+AO13497-S009,AO13497,Alpha,2023-11-21,9,False,Artillery Spotting,Successful
+AO13497-S010,AO13497,Alpha,2024-01-03,10,False,Artillery Spotting,Successful
+AO13497-S011,AO13497,Alpha,2024-01-30,11,False,PUA,Successful
+AO13497-S012,AO13497,Alpha,2024-02-07,12,False,Artillery Spotting,Successful
+AO13497-S013,AO13497,Alpha,2024-02-20,13,False,Artillery Spotting,Successful
+AO13497-S014,AO13497,Alpha,2024-03-16,14,False,Laser-guided,Successful
+AO13497-S015,AO13497,Alpha,2024-08-05,15,False,PUA,Successful
+AO13497-S016,AO13497,Alpha,2024-09-28,16,False,PUA,Successful
+AO13497-S017,AO13497,Alpha,2025-02-09,17,False,Laser-guided,Successful
+AO13497-S018,AO13497,Alpha,2025-04-07,18,False,Training,Successful
+AO13497-S019,AO13497,Alpha,2025-11-26,19,False,Laser-guided,Successful
+AO17259-S001,AO17259,Alpha,2022-07-18,1,True,PUA,Successful
+AO17259-S002,AO17259,Alpha,2023-01-18,2,False,Laser-guided,Successful
+AO17259-S003,AO17259,Alpha,2023-08-23,3,False,PUA,Failed
+AO17259-S004,AO17259,Alpha,2023-10-28,4,False,PUA,Successful
+AO17259-S005,AO17259,Alpha,2024-04-10,5,False,Laser-guided,Successful
+AO17259-S006,AO17259,Alpha,2024-06-28,6,False,Training,Successful
+AO17259-S007,AO17259,Alpha,2024-08-24,7,False,Laser-guided,Successful
+AO17259-S008,AO17259,Alpha,2025-01-05,8,False,Laser-guided,Successful
+AO17259-S009,AO17259,Alpha,2025-05-23,9,False,Artillery Spotting,Successful
+AO17259-S010,AO17259,Alpha,2025-06-28,10,False,Laser-guided,Successful
+AO17259-S011,AO17259,Alpha,2025-08-30,11,False,Artillery Spotting,Failed
+AO17259-S012,AO17259,Alpha,2026-04-15,12,False,PUA,Successful
+AO21304-S001,AO21304,Alpha,2021-09-12,1,True,Training,Failed
+AO21304-S002,AO21304,Alpha,2021-12-25,2,False,PUA,Failed
+AO21304-S003,AO21304,Alpha,2022-01-28,3,False,Artillery Spotting,Successful
+AO21304-S004,AO21304,Alpha,2022-03-16,4,False,Training,Successful
+AO21304-S005,AO21304,Alpha,2022-03-20,5,False,PUA,Successful
+AO21304-S006,AO21304,Alpha,2022-08-26,6,False,Artillery Spotting,Successful
+AO21304-S007,AO21304,Alpha,2022-09-23,7,False,Artillery Spotting,Successful
+AO21304-S008,AO21304,Alpha,2022-12-18,8,False,PUA,Successful
+AO21304-S009,AO21304,Alpha,2023-04-21,9,False,PUA,Successful
+AO21304-S010,AO21304,Alpha,2023-04-24,10,False,PUA,Successful
+AO21304-S011,AO21304,Alpha,2023-07-02,11,False,PUA,Successful
+AO21304-S012,AO21304,Alpha,2023-08-08,12,False,Artillery Spotting,Successful
+AO21304-S013,AO21304,Alpha,2023-11-08,13,False,Training,Successful
+AO21304-S014,AO21304,Alpha,2023-12-02,14,False,PUA,Successful
+AO21304-S015,AO21304,Alpha,2024-03-22,15,False,Laser-guided,Successful
+AO21304-S016,AO21304,Alpha,2024-04-17,16,False,PUA,Successful
+AO21304-S017,AO21304,Alpha,2024-12-17,17,False,PUA,Successful
+AO21304-S018,AO21304,Alpha,2025-02-20,18,False,PUA,Successful
+AO21304-S019,AO21304,Alpha,2025-05-30,19,False,Training,Successful
+AO21304-S020,AO21304,Alpha,2026-05-25,20,False,PUA,Failed
+AO21304-S021,AO21304,Alpha,2026-06-15,21,False,Artillery Spotting,Successful
+AO21304-S022,AO21304,Alpha,2026-06-27,22,False,Artillery Spotting,Successful
+AO24033-S001,AO24033,Alpha,2025-08-14,1,True,PUA,Failed
+AO24033-S002,AO24033,Alpha,2025-09-23,2,False,Laser-guided,Successful
+AO24033-S003,AO24033,Alpha,2025-09-29,3,False,Laser-guided,Successful
+AO24033-S004,AO24033,Alpha,2025-12-09,4,False,PUA,Successful
+AO24033-S005,AO24033,Alpha,2026-01-25,5,False,Training,Successful
+AO24033-S006,AO24033,Alpha,2026-05-16,6,False,PUA,Successful
+AO24033-S007,AO24033,Alpha,2026-06-07,7,False,Artillery Spotting,Successful
+AO25712-S001,AO25712,Alpha,2025-06-14,1,True,PUA,Successful
+AO25712-S002,AO25712,Alpha,2025-06-21,2,False,PUA,Successful
+AO25712-S003,AO25712,Alpha,2025-08-16,3,False,PUA,Successful
+AO25712-S004,AO25712,Alpha,2025-09-04,4,False,PUA,Failed
+AO25712-S005,AO25712,Alpha,2025-09-24,5,False,PUA,Successful
+AO25712-S006,AO25712,Alpha,2026-04-09,6,False,Laser-guided,Successful
+AO25712-S007,AO25712,Alpha,2026-06-06,7,False,Artillery Spotting,Successful
+AO25712-S008,AO25712,Alpha,2026-06-18,8,False,PUA,Successful
+AO21586-S001,AO21586,Alpha,2021-11-12,1,True,Artillery Spotting,Failed
+AO21586-S002,AO21586,Alpha,2022-01-24,2,False,PUA,Failed
+AO21586-S003,AO21586,Alpha,2022-01-27,3,False,Artillery Spotting,Successful
+AO21586-S004,AO21586,Alpha,2022-02-25,4,False,PUA,Successful
+AO21586-S005,AO21586,Alpha,2022-04-05,5,False,Artillery Spotting,Successful
+AO21586-S006,AO21586,Alpha,2022-04-11,6,False,PUA,Failed
+AO21586-S007,AO21586,Alpha,2022-04-22,7,False,PUA,Successful
+AO21586-S008,AO21586,Alpha,2022-11-10,8,False,PUA,Successful
+AO21586-S009,AO21586,Alpha,2023-01-14,9,False,Artillery Spotting,Successful
+AO21586-S010,AO21586,Alpha,2023-02-13,10,False,PUA,Failed
+AO21586-S011,AO21586,Alpha,2023-10-10,11,False,PUA,Successful
+AO21586-S012,AO21586,Alpha,2023-12-30,12,False,Artillery Spotting,Successful
+AO21586-S013,AO21586,Alpha,2024-01-12,13,False,Laser-guided,Failed
+AO21586-S014,AO21586,Alpha,2024-05-27,14,False,PUA,Failed
+AO21586-S015,AO21586,Alpha,2024-06-07,15,False,Laser-guided,Successful
+AO21586-S016,AO21586,Alpha,2024-10-06,16,False,PUA,Failed
+AO21586-S017,AO21586,Alpha,2025-03-17,17,False,PUA,Failed
+AO21586-S018,AO21586,Alpha,2025-05-24,18,False,Training,Successful
+AO21586-S019,AO21586,Alpha,2025-10-12,19,False,Laser-guided,Successful
+AO21586-S020,AO21586,Alpha,2026-03-19,20,False,Laser-guided,Successful
+AO21586-S021,AO21586,Alpha,2026-05-27,21,False,PUA,Successful
+AO21458-S001,AO21458,Alpha,2024-02-11,1,True,Artillery Spotting,Failed
+AO21458-S002,AO21458,Alpha,2024-03-07,2,False,Laser-guided,Successful
+AO21458-S003,AO21458,Alpha,2024-04-27,3,False,Training,Successful
+AO21458-S004,AO21458,Alpha,2024-07-19,4,False,PUA,Successful
+AO21458-S005,AO21458,Alpha,2024-08-06,5,False,Artillery Spotting,Failed
+AO21458-S006,AO21458,Alpha,2024-10-08,6,False,Training,Failed
+AO21458-S007,AO21458,Alpha,2024-12-05,7,False,Artillery Spotting,Successful
+AO21458-S008,AO21458,Alpha,2024-12-27,8,False,Artillery Spotting,Successful
+AO21458-S009,AO21458,Alpha,2025-01-01,9,False,PUA,Successful
+AO21458-S010,AO21458,Alpha,2025-04-03,10,False,PUA,Successful
+AO21458-S011,AO21458,Alpha,2025-11-13,11,False,PUA,Failed
+AO21458-S012,AO21458,Alpha,2026-05-07,12,False,Laser-guided,Successful
+AO20164-S001,AO20164,Alpha,2021-03-13,1,True,PUA,Failed
+AO20164-S002,AO20164,Alpha,2021-04-27,2,False,Laser-guided,Failed
+AO20164-S003,AO20164,Alpha,2021-06-17,3,False,Artillery Spotting,Successful
+AO20164-S004,AO20164,Alpha,2021-09-12,4,False,Artillery Spotting,Successful
+AO20164-S005,AO20164,Alpha,2021-09-20,5,False,Laser-guided,Successful
+AO20164-S006,AO20164,Alpha,2022-01-30,6,False,Artillery Spotting,Failed
+AO20164-S007,AO20164,Alpha,2022-02-12,7,False,Artillery Spotting,Successful
+AO20164-S008,AO20164,Alpha,2022-06-21,8,False,PUA,Successful
+AO20164-S009,AO20164,Alpha,2022-09-29,9,False,PUA,Successful
+AO20164-S010,AO20164,Alpha,2022-10-25,10,False,PUA,Successful
+AO20164-S011,AO20164,Alpha,2022-12-13,11,False,Laser-guided,Successful
+AO20164-S012,AO20164,Alpha,2023-02-23,12,False,PUA,Successful
+AO20164-S013,AO20164,Alpha,2023-03-02,13,False,Laser-guided,Successful
+AO20164-S014,AO20164,Alpha,2023-09-06,14,False,PUA,Successful
+AO20164-S015,AO20164,Alpha,2023-09-23,15,False,Laser-guided,Successful
+AO20164-S016,AO20164,Alpha,2023-10-24,16,False,PUA,Successful
+AO20164-S017,AO20164,Alpha,2023-11-02,17,False,PUA,Successful
+AO20164-S018,AO20164,Alpha,2024-04-13,18,False,PUA,Successful
+AO20164-S019,AO20164,Alpha,2024-05-05,19,False,PUA,Successful
+AO20164-S020,AO20164,Alpha,2024-05-13,20,False,Laser-guided,Successful
+AO20164-S021,AO20164,Alpha,2024-08-03,21,False,PUA,Failed
+AO20164-S022,AO20164,Alpha,2024-08-20,22,False,Artillery Spotting,Successful
+AO20164-S023,AO20164,Alpha,2024-11-03,23,False,PUA,Successful
+AO20164-S024,AO20164,Alpha,2025-02-21,24,False,PUA,Successful
+AO20164-S025,AO20164,Alpha,2025-03-11,25,False,PUA,Successful
+AO20164-S026,AO20164,Alpha,2025-04-02,26,False,PUA,Successful
+AO20164-S027,AO20164,Alpha,2026-03-13,27,False,Artillery Spotting,Successful
+AO25328-S001,AO25328,Alpha,2025-05-20,1,True,PUA,Successful
+AO25328-S002,AO25328,Alpha,2025-10-23,2,False,PUA,Successful
+AO25328-S003,AO25328,Alpha,2026-02-01,3,False,PUA,Successful
+AO25328-S004,AO25328,Alpha,2026-06-23,4,False,PUA,Successful
+AO24416-S001,AO24416,Alpha,2024-05-31,1,True,PUA,Successful
+AO24416-S002,AO24416,Alpha,2024-07-29,2,False,PUA,Successful
+AO24416-S003,AO24416,Alpha,2024-09-24,3,False,Training,Successful
+AO24416-S004,AO24416,Alpha,2024-09-29,4,False,PUA,Successful
+AO24416-S005,AO24416,Alpha,2025-08-28,5,False,Laser-guided,Successful
+AO24416-S006,AO24416,Alpha,2026-04-21,6,False,Laser-guided,Successful
+AO24416-S007,AO24416,Alpha,2026-06-11,7,False,PUA,Successful
+AO22701-S001,AO22701,Alpha,2023-12-05,1,True,Artillery Spotting,Failed
+AO22701-S002,AO22701,Alpha,2024-02-14,2,False,Laser-guided,Successful
+AO22701-S003,AO22701,Alpha,2024-09-17,3,False,PUA,Successful
+AO22701-S004,AO22701,Alpha,2024-10-24,4,False,Laser-guided,Successful
+AO22701-S005,AO22701,Alpha,2025-03-04,5,False,Artillery Spotting,Successful
+AO22701-S006,AO22701,Alpha,2025-08-28,6,False,Laser-guided,Successful
+AO22701-S007,AO22701,Alpha,2025-11-03,7,False,Laser-guided,Successful
+AO22701-S008,AO22701,Alpha,2026-01-03,8,False,PUA,Successful
+AO22701-S009,AO22701,Alpha,2026-01-21,9,False,PUA,Successful
+AO22701-S010,AO22701,Alpha,2026-05-01,10,False,Laser-guided,Successful
+AO24250-S001,AO24250,Alpha,2025-05-07,1,True,PUA,Successful
+AO24250-S002,AO24250,Alpha,2025-05-27,2,False,Laser-guided,Successful
+AO24250-S003,AO24250,Alpha,2025-08-12,3,False,Artillery Spotting,Successful
+AO24250-S004,AO24250,Alpha,2025-09-04,4,False,PUA,Successful
+AO24250-S005,AO24250,Alpha,2025-12-09,5,False,PUA,Successful
+AO24250-S006,AO24250,Alpha,2026-06-26,6,False,PUA,Successful
+AO22585-S001,AO22585,Alpha,2022-10-15,1,True,PUA,Failed
+AO22585-S002,AO22585,Alpha,2022-11-26,2,False,PUA,Successful
+AO22585-S003,AO22585,Alpha,2022-12-08,3,False,Laser-guided,Successful
+AO22585-S004,AO22585,Alpha,2023-02-04,4,False,Laser-guided,Successful
+AO22585-S005,AO22585,Alpha,2023-03-25,5,False,Laser-guided,Successful
+AO22585-S006,AO22585,Alpha,2023-04-20,6,False,Artillery Spotting,Successful
+AO22585-S007,AO22585,Alpha,2023-04-27,7,False,PUA,Successful
+AO22585-S008,AO22585,Alpha,2023-06-07,8,False,PUA,Successful
+AO22585-S009,AO22585,Alpha,2023-08-24,9,False,PUA,Successful
+AO22585-S010,AO22585,Alpha,2023-11-14,10,False,PUA,Successful
+AO22585-S011,AO22585,Alpha,2024-07-21,11,False,PUA,Successful
+AO22585-S012,AO22585,Alpha,2024-08-16,12,False,PUA,Successful
+AO22585-S013,AO22585,Alpha,2024-09-01,13,False,Laser-guided,Successful
+AO22585-S014,AO22585,Alpha,2024-10-05,14,False,Training,Successful
+AO22585-S015,AO22585,Alpha,2026-01-06,15,False,PUA,Successful
+AO22585-S016,AO22585,Alpha,2026-05-06,16,False,Laser-guided,Successful
+AO22585-S017,AO22585,Alpha,2026-06-21,17,False,Training,Successful
+AO12461-S001,AO12461,Alpha,2021-01-20,1,True,PUA,Successful
+AO12461-S002,AO12461,Alpha,2021-11-25,2,False,PUA,Successful
+AO12461-S003,AO12461,Alpha,2023-03-18,3,False,Training,Successful
+AO12461-S004,AO12461,Alpha,2023-08-13,4,False,PUA,Successful
+AO12461-S005,AO12461,Alpha,2023-09-14,5,False,Laser-guided,Successful
+AO12461-S006,AO12461,Alpha,2024-02-16,6,False,PUA,Successful
+AO12461-S007,AO12461,Alpha,2024-05-22,7,False,PUA,Successful
+AO12461-S008,AO12461,Alpha,2024-06-21,8,False,PUA,Successful
+AO12461-S009,AO12461,Alpha,2024-07-07,9,False,Laser-guided,Successful
+AO12461-S010,AO12461,Alpha,2024-07-27,10,False,Laser-guided,Successful
+AO12461-S011,AO12461,Alpha,2024-11-29,11,False,PUA,Successful
+AO12461-S012,AO12461,Alpha,2025-08-02,12,False,PUA,Successful
+AO12461-S013,AO12461,Alpha,2025-08-21,13,False,PUA,Successful
+AO12461-S014,AO12461,Alpha,2025-12-30,14,False,Laser-guided,Successful
+AO12461-S015,AO12461,Alpha,2026-01-03,15,False,PUA,Successful
+AO12461-S016,AO12461,Alpha,2026-02-14,16,False,PUA,Successful
+AO12461-S017,AO12461,Alpha,2026-03-29,17,False,Artillery Spotting,Successful
+AO12461-S018,AO12461,Alpha,2026-05-08,18,False,PUA,Successful
+AO19336-S001,AO19336,Alpha,2021-01-13,1,True,PUA,Failed
+AO19336-S002,AO19336,Alpha,2021-03-01,2,False,PUA,Successful
+AO19336-S003,AO19336,Alpha,2021-03-31,3,False,Laser-guided,Successful
+AO19336-S004,AO19336,Alpha,2021-04-16,4,False,PUA,Successful
+AO19336-S005,AO19336,Alpha,2021-04-21,5,False,Laser-guided,Successful
+AO19336-S006,AO19336,Alpha,2021-10-24,6,False,Laser-guided,Successful
+AO19336-S007,AO19336,Alpha,2022-05-03,7,False,Artillery Spotting,Successful
+AO19336-S008,AO19336,Alpha,2022-05-17,8,False,Laser-guided,Successful
+AO19336-S009,AO19336,Alpha,2022-06-15,9,False,PUA,Successful
+AO19336-S010,AO19336,Alpha,2022-12-21,10,False,PUA,Successful
+AO19336-S011,AO19336,Alpha,2023-03-03,11,False,Laser-guided,Successful
+AO19336-S012,AO19336,Alpha,2023-04-03,12,False,PUA,Successful
+AO19336-S013,AO19336,Alpha,2023-07-17,13,False,PUA,Successful
+AO19336-S014,AO19336,Alpha,2023-09-15,14,False,PUA,Successful
+AO19336-S015,AO19336,Alpha,2023-09-25,15,False,Training,Successful
+AO19336-S016,AO19336,Alpha,2023-10-21,16,False,PUA,Successful
+AO19336-S017,AO19336,Alpha,2023-11-04,17,False,PUA,Successful
+AO19336-S018,AO19336,Alpha,2024-05-14,18,False,PUA,Successful
+AO19336-S019,AO19336,Alpha,2024-09-11,19,False,Laser-guided,Successful
+AO19336-S020,AO19336,Alpha,2024-11-12,20,False,PUA,Successful
+AO19336-S021,AO19336,Alpha,2024-12-12,21,False,Training,Successful
+AO19336-S022,AO19336,Alpha,2024-12-31,22,False,Laser-guided,Successful
+AO19336-S023,AO19336,Alpha,2025-03-19,23,False,Laser-guided,Successful
+AO19336-S024,AO19336,Alpha,2025-03-27,24,False,Laser-guided,Successful
+AO19336-S025,AO19336,Alpha,2026-05-11,25,False,Training,Successful
+AO19336-S026,AO19336,Alpha,2026-06-16,26,False,PUA,Successful
+AO17172-S001,AO17172,Alpha,2024-04-29,1,True,Laser-guided,Successful
+AO17172-S002,AO17172,Alpha,2024-10-10,2,False,Training,Successful
+AO17172-S003,AO17172,Alpha,2024-12-07,3,False,PUA,Successful
+AO17172-S004,AO17172,Alpha,2025-04-05,4,False,Laser-guided,Successful
+AO17172-S005,AO17172,Alpha,2025-09-16,5,False,Artillery Spotting,Successful
+AO22921-S001,AO22921,Alpha,2022-05-15,1,True,Laser-guided,Failed
+AO22921-S002,AO22921,Alpha,2022-09-11,2,False,Artillery Spotting,Successful
+AO22921-S003,AO22921,Alpha,2022-10-28,3,False,Artillery Spotting,Successful
+AO22921-S004,AO22921,Alpha,2023-01-15,4,False,PUA,Successful
+AO22921-S005,AO22921,Alpha,2023-04-28,5,False,Laser-guided,Successful
+AO22921-S006,AO22921,Alpha,2024-02-28,6,False,Training,Successful
+AO22921-S007,AO22921,Alpha,2024-11-25,7,False,PUA,Successful
+AO22921-S008,AO22921,Alpha,2024-12-26,8,False,Training,Successful
+AO22921-S009,AO22921,Alpha,2025-07-03,9,False,PUA,Successful
+AO20473-S001,AO20473,Alpha,2022-06-27,1,True,Laser-guided,Successful
+AO20473-S002,AO20473,Alpha,2023-03-08,2,False,Training,Successful
+AO20473-S003,AO20473,Alpha,2023-04-19,3,False,PUA,Successful
+AO20473-S004,AO20473,Alpha,2023-06-05,4,False,Laser-guided,Successful
+AO20473-S005,AO20473,Alpha,2023-06-28,5,False,Training,Successful
+AO20473-S006,AO20473,Alpha,2024-03-01,6,False,Laser-guided,Successful
+AO20473-S007,AO20473,Alpha,2024-10-02,7,False,Training,Successful
+AO20473-S008,AO20473,Alpha,2025-03-20,8,False,Artillery Spotting,Successful
+AO20473-S009,AO20473,Alpha,2025-05-25,9,False,PUA,Successful
+AO20473-S010,AO20473,Alpha,2026-01-06,10,False,PUA,Successful
+AO20473-S011,AO20473,Alpha,2026-03-10,11,False,Laser-guided,Successful
+AO20473-S012,AO20473,Alpha,2026-04-24,12,False,Training,Successful
+AO20473-S013,AO20473,Alpha,2026-05-06,13,False,PUA,Successful
+AO11628-S001,AO11628,Alpha,2022-11-15,1,True,PUA,Successful
+AO11628-S002,AO11628,Alpha,2023-09-04,2,False,PUA,Successful
+AO11628-S003,AO11628,Alpha,2023-11-01,3,False,Laser-guided,Successful
+AO11628-S004,AO11628,Alpha,2023-12-19,4,False,Artillery Spotting,Successful
+AO11628-S005,AO11628,Alpha,2024-01-26,5,False,Laser-guided,Successful
+AO11628-S006,AO11628,Alpha,2024-02-04,6,False,Artillery Spotting,Successful
+AO11628-S007,AO11628,Alpha,2024-03-22,7,False,PUA,Successful
+AO11628-S008,AO11628,Alpha,2024-08-22,8,False,PUA,Successful
+AO11628-S009,AO11628,Alpha,2024-08-28,9,False,Laser-guided,Successful
+AO11628-S010,AO11628,Alpha,2025-01-09,10,False,PUA,Successful
+AO11628-S011,AO11628,Alpha,2025-01-11,11,False,Artillery Spotting,Failed
+AO11628-S012,AO11628,Alpha,2026-04-23,12,False,PUA,Successful
+AO21607-S001,AO21607,Alpha,2023-03-16,1,True,Artillery Spotting,Failed
+AO21607-S002,AO21607,Alpha,2023-03-16,2,False,PUA,Successful
+AO21607-S003,AO21607,Alpha,2023-05-26,3,False,PUA,Successful
+AO21607-S004,AO21607,Alpha,2024-12-10,4,False,Artillery Spotting,Successful
+AO21607-S005,AO21607,Alpha,2025-02-03,5,False,Laser-guided,Successful
+AO21607-S006,AO21607,Alpha,2026-03-29,6,False,PUA,Successful
+AO21607-S007,AO21607,Alpha,2026-06-02,7,False,Laser-guided,Successful
+AO21607-S008,AO21607,Alpha,2026-06-10,8,False,PUA,Successful
+AO21607-S009,AO21607,Alpha,2026-06-23,9,False,Artillery Spotting,Successful
+AO17445-S001,AO17445,Alpha,2024-11-23,1,True,Laser-guided,Successful
+AO17445-S002,AO17445,Alpha,2025-06-07,2,False,Training,Successful
+AO17445-S003,AO17445,Alpha,2025-07-10,3,False,PUA,Successful
+AO17445-S004,AO17445,Alpha,2025-08-26,4,False,PUA,Successful
+AO22937-S001,AO22937,Alpha,2025-08-05,1,True,Training,Failed
+AO22937-S002,AO22937,Alpha,2025-08-08,2,False,PUA,Successful
+AO22937-S003,AO22937,Alpha,2025-08-10,3,False,Training,Successful
+AO22937-S004,AO22937,Alpha,2025-09-05,4,False,PUA,Successful
+AO22937-S005,AO22937,Alpha,2025-10-28,5,False,Training,Successful
+AO22937-S006,AO22937,Alpha,2025-11-02,6,False,Artillery Spotting,Successful
+AO22937-S007,AO22937,Alpha,2025-12-17,7,False,PUA,Successful
+AO22937-S008,AO22937,Alpha,2026-02-04,8,False,PUA,Successful
+AO18742-S001,AO18742,Alpha,2023-10-15,1,True,PUA,Successful
+AO18742-S002,AO18742,Alpha,2023-11-21,2,False,PUA,Successful
+AO18742-S003,AO18742,Alpha,2023-12-26,3,False,PUA,Successful
+AO18742-S004,AO18742,Alpha,2024-04-01,4,False,PUA,Successful
+AO18742-S005,AO18742,Alpha,2024-09-25,5,False,Laser-guided,Successful
+AO18742-S006,AO18742,Alpha,2024-12-08,6,False,Laser-guided,Successful
+AO18742-S007,AO18742,Alpha,2025-03-20,7,False,Artillery Spotting,Successful
+AO18742-S008,AO18742,Alpha,2025-04-14,8,False,PUA,Successful
+AO18742-S009,AO18742,Alpha,2025-08-16,9,False,Laser-guided,Successful
+AO18742-S010,AO18742,Alpha,2025-08-19,10,False,Artillery Spotting,Successful
+AO18742-S011,AO18742,Alpha,2025-10-17,11,False,Laser-guided,Successful
+AO18742-S012,AO18742,Alpha,2026-01-12,12,False,Laser-guided,Successful
+AO18742-S013,AO18742,Alpha,2026-03-19,13,False,PUA,Successful
+AO18742-S014,AO18742,Alpha,2026-04-06,14,False,Laser-guided,Successful
+AO18742-S015,AO18742,Alpha,2026-06-04,15,False,Training,Successful
+AO15635-S001,AO15635,Alpha,2021-09-14,1,True,Training,Failed
+AO15635-S002,AO15635,Alpha,2021-12-10,2,False,PUA,Successful
+AO15635-S003,AO15635,Alpha,2022-10-12,3,False,Training,Failed
+AO15635-S004,AO15635,Alpha,2023-01-11,4,False,Laser-guided,Failed
+AO15635-S005,AO15635,Alpha,2023-04-07,5,False,Laser-guided,Successful
+AO15635-S006,AO15635,Alpha,2023-05-06,6,False,PUA,Successful
+AO15635-S007,AO15635,Alpha,2023-08-13,7,False,Training,Successful
+AO15635-S008,AO15635,Alpha,2023-10-25,8,False,Laser-guided,Successful
+AO15635-S009,AO15635,Alpha,2024-01-24,9,False,PUA,Successful
+AO15635-S010,AO15635,Alpha,2024-05-05,10,False,Laser-guided,Successful
+AO15635-S011,AO15635,Alpha,2024-07-13,11,False,PUA,Failed
+AO15635-S012,AO15635,Alpha,2024-08-01,12,False,Laser-guided,Failed
+AO15635-S013,AO15635,Alpha,2024-10-26,13,False,PUA,Successful
+AO15635-S014,AO15635,Alpha,2025-03-01,14,False,Laser-guided,Successful
+AO15635-S015,AO15635,Alpha,2025-04-18,15,False,PUA,Successful
+AO15635-S016,AO15635,Alpha,2025-06-25,16,False,PUA,Failed
+AO15635-S017,AO15635,Alpha,2025-09-19,17,False,Training,Successful
+G23402-S001,G23402,Alpha,2025-04-18,1,True,PUA,Successful
+G23402-S002,G23402,Alpha,2025-05-05,2,False,Laser-guided,Successful
+G23402-S003,G23402,Alpha,2026-03-30,3,False,Training,Successful
+G22746-S001,G22746,Alpha,2025-04-10,1,True,PUA,Failed
+G22746-S002,G22746,Alpha,2025-06-01,2,False,Training,Successful
+G22746-S003,G22746,Alpha,2025-10-26,3,False,PUA,Successful
+G22746-S004,G22746,Alpha,2026-02-08,4,False,Artillery Spotting,Successful
+G22746-S005,G22746,Alpha,2026-03-19,5,False,PUA,Successful
+G22746-S006,G22746,Alpha,2026-05-31,6,False,Artillery Spotting,Successful
+G23357-S001,G23357,Alpha,2023-07-10,1,True,PUA,Successful
+G23357-S002,G23357,Alpha,2023-07-17,2,False,PUA,Failed
+G23357-S003,G23357,Alpha,2023-08-22,3,False,Training,Successful
+G23357-S004,G23357,Alpha,2024-11-12,4,False,Laser-guided,Failed
+G23357-S005,G23357,Alpha,2025-04-27,5,False,PUA,Successful
+G23357-S006,G23357,Alpha,2025-06-28,6,False,PUA,Successful
+G23357-S007,G23357,Alpha,2025-07-28,7,False,PUA,Failed
+G23357-S008,G23357,Alpha,2025-09-27,8,False,PUA,Failed
+G18673-S001,G18673,Alpha,2023-07-31,1,True,Artillery Spotting,Successful
+G18673-S002,G18673,Alpha,2023-08-07,2,False,Training,Successful
+G18673-S003,G18673,Alpha,2023-08-19,3,False,Artillery Spotting,Successful
+G18673-S004,G18673,Alpha,2023-10-12,4,False,PUA,Successful
+G18673-S005,G18673,Alpha,2023-11-15,5,False,PUA,Successful
+G18673-S006,G18673,Alpha,2024-01-23,6,False,PUA,Failed
+G18673-S007,G18673,Alpha,2024-09-04,7,False,PUA,Successful
+G18673-S008,G18673,Alpha,2025-06-20,8,False,Laser-guided,Successful
+G18673-S009,G18673,Alpha,2025-08-08,9,False,PUA,Failed
+G18673-S010,G18673,Alpha,2026-02-17,10,False,PUA,Successful
+G18673-S011,G18673,Alpha,2026-02-24,11,False,Laser-guided,Failed
+G18673-S012,G18673,Alpha,2026-06-05,12,False,Laser-guided,Successful
+G11740-S001,G11740,Alpha,2022-07-29,1,True,Artillery Spotting,Failed
+G11740-S002,G11740,Alpha,2022-08-13,2,False,PUA,Successful
+G11740-S003,G11740,Alpha,2022-09-22,3,False,Laser-guided,Successful
+G11740-S004,G11740,Alpha,2022-11-02,4,False,Training,Successful
+G11740-S005,G11740,Alpha,2023-08-03,5,False,PUA,Successful
+G11740-S006,G11740,Alpha,2023-11-06,6,False,PUA,Successful
+G11740-S007,G11740,Alpha,2024-05-12,7,False,Artillery Spotting,Failed
+G11740-S008,G11740,Alpha,2024-05-20,8,False,PUA,Successful
+G11740-S009,G11740,Alpha,2024-08-14,9,False,Laser-guided,Successful
+G11740-S010,G11740,Alpha,2024-10-20,10,False,Training,Successful
+G11740-S011,G11740,Alpha,2025-07-08,11,False,Training,Successful
+G11740-S012,G11740,Alpha,2025-08-09,12,False,PUA,Successful
+G11740-S013,G11740,Alpha,2025-10-08,13,False,PUA,Successful
+G11740-S014,G11740,Alpha,2025-12-04,14,False,PUA,Successful
+G11740-S015,G11740,Alpha,2026-05-04,15,False,Training,Successful
+G11740-S016,G11740,Alpha,2026-05-15,16,False,Training,Successful
+G22677-S001,G22677,Alpha,2023-12-05,1,True,Artillery Spotting,Failed
+G22677-S002,G22677,Alpha,2023-12-29,2,False,PUA,Successful
+G22677-S003,G22677,Alpha,2024-02-28,3,False,Laser-guided,Successful
+G22677-S004,G22677,Alpha,2024-06-03,4,False,PUA,Successful
+G22677-S005,G22677,Alpha,2025-05-21,5,False,Laser-guided,Failed
+G22677-S006,G22677,Alpha,2025-06-16,6,False,Laser-guided,Successful
+G22677-S007,G22677,Alpha,2025-10-20,7,False,Artillery Spotting,Successful
+G22677-S008,G22677,Alpha,2026-04-09,8,False,PUA,Successful
+G22677-S009,G22677,Alpha,2026-05-28,9,False,PUA,Failed
+G25596-S001,G25596,Alpha,2025-07-31,1,True,PUA,Failed
+G25596-S002,G25596,Alpha,2025-09-23,2,False,Artillery Spotting,Successful
+G25596-S003,G25596,Alpha,2025-11-22,3,False,Laser-guided,Successful
+G25596-S004,G25596,Alpha,2026-01-02,4,False,Laser-guided,Failed
+G25596-S005,G25596,Alpha,2026-04-03,5,False,Artillery Spotting,Successful
+G25596-S006,G25596,Alpha,2026-06-09,6,False,Training,Successful
+G25596-S007,G25596,Alpha,2026-06-28,7,False,PUA,Successful
+G23288-S001,G23288,Alpha,2024-01-14,1,True,Artillery Spotting,Failed
+G23288-S002,G23288,Alpha,2024-05-16,2,False,PUA,Successful
+G23288-S003,G23288,Alpha,2024-12-09,3,False,Artillery Spotting,Successful
+G23288-S004,G23288,Alpha,2024-12-16,4,False,PUA,Successful
+G23288-S005,G23288,Alpha,2024-12-24,5,False,PUA,Successful
+G23288-S006,G23288,Alpha,2025-01-21,6,False,Laser-guided,Successful
+G23288-S007,G23288,Alpha,2025-01-25,7,False,Artillery Spotting,Failed
+G23288-S008,G23288,Alpha,2025-03-26,8,False,PUA,Successful
+G23288-S009,G23288,Alpha,2025-05-17,9,False,Laser-guided,Successful
+G23288-S010,G23288,Alpha,2025-07-24,10,False,Training,Failed
+G23288-S011,G23288,Alpha,2025-08-22,11,False,Training,Successful
+G23288-S012,G23288,Alpha,2025-10-01,12,False,Artillery Spotting,Successful
+G23288-S013,G23288,Alpha,2025-10-22,13,False,Artillery Spotting,Successful
+G23288-S014,G23288,Alpha,2025-10-24,14,False,PUA,Successful
+G23288-S015,G23288,Alpha,2026-06-24,15,False,Laser-guided,Successful
+G25878-S001,G25878,Alpha,2025-01-24,1,True,Artillery Spotting,Failed
+G25878-S002,G25878,Alpha,2025-02-27,2,False,Artillery Spotting,Successful
+G25878-S003,G25878,Alpha,2025-04-07,3,False,PUA,Successful
+G25878-S004,G25878,Alpha,2025-12-09,4,False,PUA,Successful
+G25878-S005,G25878,Alpha,2026-01-02,5,False,Laser-guided,Successful
+G25878-S006,G25878,Alpha,2026-01-07,6,False,Artillery Spotting,Successful
+G25878-S007,G25878,Alpha,2026-02-22,7,False,PUA,Successful
+G25956-S001,G25956,Alpha,2025-04-09,1,True,PUA,Failed
+G25956-S002,G25956,Alpha,2025-07-07,2,False,Training,Successful
+G25956-S003,G25956,Alpha,2025-07-19,3,False,PUA,Successful
+G25956-S004,G25956,Alpha,2025-08-10,4,False,Laser-guided,Failed
+G25956-S005,G25956,Alpha,2026-02-15,5,False,PUA,Successful
+G25956-S006,G25956,Alpha,2026-03-12,6,False,PUA,Successful
+G22091-S001,G22091,Alpha,2025-03-10,1,True,PUA,Failed
+G22091-S002,G22091,Alpha,2025-04-17,2,False,Laser-guided,Successful
+G22091-S003,G22091,Alpha,2025-08-10,3,False,Artillery Spotting,Successful
+G22091-S004,G22091,Alpha,2025-08-17,4,False,Laser-guided,Successful
+G22091-S005,G22091,Alpha,2025-08-21,5,False,Training,Successful
+G22091-S006,G22091,Alpha,2025-10-11,6,False,Training,Successful
+G22091-S007,G22091,Alpha,2025-11-01,7,False,PUA,Successful
+G22091-S008,G22091,Alpha,2025-11-22,8,False,PUA,Successful
+G22091-S009,G22091,Alpha,2026-01-16,9,False,Laser-guided,Successful
+G22091-S010,G22091,Alpha,2026-02-13,10,False,Laser-guided,Successful
+G22091-S011,G22091,Alpha,2026-05-07,11,False,Training,Successful
+G18716-S001,G18716,Alpha,2022-02-17,1,True,PUA,Successful
+G18716-S002,G18716,Alpha,2022-03-09,2,False,PUA,Failed
+G18716-S003,G18716,Alpha,2022-06-01,3,False,Artillery Spotting,Successful
+G18716-S004,G18716,Alpha,2022-06-22,4,False,PUA,Successful
+G18716-S005,G18716,Alpha,2022-08-04,5,False,PUA,Failed
+G18716-S006,G18716,Alpha,2022-09-11,6,False,PUA,Successful
+G18716-S007,G18716,Alpha,2022-10-04,7,False,Laser-guided,Failed
+G18716-S008,G18716,Alpha,2022-12-23,8,False,PUA,Failed
+G18716-S009,G18716,Alpha,2023-01-11,9,False,Artillery Spotting,Successful
+G18716-S010,G18716,Alpha,2023-05-10,10,False,PUA,Successful
+G18716-S011,G18716,Alpha,2023-06-05,11,False,PUA,Successful
+G18716-S012,G18716,Alpha,2024-05-17,12,False,PUA,Successful
+G18716-S013,G18716,Alpha,2024-09-27,13,False,PUA,Successful
+G18716-S014,G18716,Alpha,2024-11-13,14,False,PUA,Successful
+G18716-S015,G18716,Alpha,2024-12-01,15,False,Laser-guided,Successful
+G18716-S016,G18716,Alpha,2025-08-18,16,False,Artillery Spotting,Successful
+G18716-S017,G18716,Alpha,2025-08-25,17,False,Artillery Spotting,Successful
+G18716-S018,G18716,Alpha,2025-10-10,18,False,Training,Successful
+G18716-S019,G18716,Alpha,2026-03-06,19,False,Laser-guided,Successful
+G22153-S001,G22153,Alpha,2022-09-30,1,True,Training,Successful
+G22153-S002,G22153,Alpha,2022-11-23,2,False,PUA,Successful
+G22153-S003,G22153,Alpha,2023-04-17,3,False,PUA,Failed
+G22153-S004,G22153,Alpha,2023-06-13,4,False,Laser-guided,Successful
+G22153-S005,G22153,Alpha,2024-01-23,5,False,PUA,Failed
+G22153-S006,G22153,Alpha,2024-04-10,6,False,Laser-guided,Successful
+G22153-S007,G22153,Alpha,2024-05-21,7,False,Laser-guided,Successful
+G22153-S008,G22153,Alpha,2024-06-10,8,False,PUA,Successful
+G22153-S009,G22153,Alpha,2024-07-01,9,False,Laser-guided,Successful
+G22153-S010,G22153,Alpha,2024-08-01,10,False,Laser-guided,Successful
+G22153-S011,G22153,Alpha,2024-08-18,11,False,Training,Successful
+G22153-S012,G22153,Alpha,2025-08-10,12,False,PUA,Failed
+G22153-S013,G22153,Alpha,2025-09-03,13,False,PUA,Successful
+G22153-S014,G22153,Alpha,2025-09-05,14,False,PUA,Successful
+G22153-S015,G22153,Alpha,2025-09-25,15,False,Artillery Spotting,Successful
+G22153-S016,G22153,Alpha,2026-06-14,16,False,Laser-guided,Successful
+G11488-S001,G11488,Alpha,2021-02-11,1,True,PUA,Failed
+G11488-S002,G11488,Alpha,2021-03-08,2,False,Training,Successful
+G11488-S003,G11488,Alpha,2021-09-26,3,False,Training,Successful
+G11488-S004,G11488,Alpha,2021-10-10,4,False,Artillery Spotting,Successful
+G11488-S005,G11488,Alpha,2021-11-01,5,False,PUA,Successful
+G11488-S006,G11488,Alpha,2021-11-30,6,False,Artillery Spotting,Successful
+G11488-S007,G11488,Alpha,2022-05-06,7,False,PUA,Successful
+G11488-S008,G11488,Alpha,2022-10-21,8,False,Training,Successful
+G11488-S009,G11488,Alpha,2023-03-27,9,False,Laser-guided,Successful
+G11488-S010,G11488,Alpha,2023-06-28,10,False,Artillery Spotting,Successful
+G11488-S011,G11488,Alpha,2023-08-01,11,False,PUA,Successful
+G11488-S012,G11488,Alpha,2023-08-12,12,False,PUA,Successful
+G11488-S013,G11488,Alpha,2023-08-26,13,False,Laser-guided,Successful
+G11488-S014,G11488,Alpha,2023-08-30,14,False,PUA,Successful
+G11488-S015,G11488,Alpha,2024-01-11,15,False,PUA,Successful
+G11488-S016,G11488,Alpha,2025-02-11,16,False,PUA,Successful
+G11488-S017,G11488,Alpha,2025-03-23,17,False,PUA,Successful
+G11488-S018,G11488,Alpha,2025-11-06,18,False,Laser-guided,Successful
+G11488-S019,G11488,Alpha,2026-04-15,19,False,PUA,Successful
+G24197-S001,G24197,Alpha,2024-09-17,1,True,Laser-guided,Successful
+G24197-S002,G24197,Alpha,2024-09-20,2,False,Training,Successful
+G24197-S003,G24197,Alpha,2025-05-11,3,False,Artillery Spotting,Successful
+G24197-S004,G24197,Alpha,2026-03-14,4,False,PUA,Successful
+G24197-S005,G24197,Alpha,2026-05-30,5,False,Laser-guided,Successful
+G17139-S001,G17139,Alpha,2024-04-22,1,True,PUA,Successful
+G17139-S002,G17139,Alpha,2024-09-07,2,False,Laser-guided,Successful
+G17139-S003,G17139,Alpha,2025-05-20,3,False,Laser-guided,Successful
+G17139-S004,G17139,Alpha,2025-09-16,4,False,Training,Successful
+G17139-S005,G17139,Alpha,2026-03-30,5,False,PUA,Successful
+G17139-S006,G17139,Alpha,2026-05-11,6,False,Artillery Spotting,Successful
+G22314-S001,G22314,Alpha,2023-02-06,1,True,PUA,Failed
+G22314-S002,G22314,Alpha,2023-05-06,2,False,PUA,Successful
+G22314-S003,G22314,Alpha,2023-05-16,3,False,PUA,Successful
+G22314-S004,G22314,Alpha,2023-05-19,4,False,Training,Successful
+G22314-S005,G22314,Alpha,2023-07-12,5,False,PUA,Successful
+G22314-S006,G22314,Alpha,2023-10-27,6,False,PUA,Successful
+G22314-S007,G22314,Alpha,2023-12-04,7,False,PUA,Successful
+G22314-S008,G22314,Alpha,2023-12-31,8,False,Laser-guided,Successful
+G22314-S009,G22314,Alpha,2024-04-11,9,False,Training,Successful
+G22314-S010,G22314,Alpha,2024-05-02,10,False,PUA,Successful
+G22314-S011,G22314,Alpha,2024-05-07,11,False,PUA,Successful
+G22314-S012,G22314,Alpha,2024-07-24,12,False,PUA,Successful
+G22314-S013,G22314,Alpha,2024-11-15,13,False,Artillery Spotting,Successful
+G22314-S014,G22314,Alpha,2024-12-09,14,False,PUA,Successful
+G22314-S015,G22314,Alpha,2025-01-22,15,False,PUA,Successful
+G22314-S016,G22314,Alpha,2025-03-12,16,False,Laser-guided,Successful
+G22314-S017,G22314,Alpha,2025-09-02,17,False,PUA,Successful
+G22314-S018,G22314,Alpha,2026-04-22,18,False,Laser-guided,Successful
+G22314-S019,G22314,Alpha,2026-06-07,19,False,Laser-guided,Successful
+G23423-S001,G23423,Alpha,2024-03-15,1,True,Laser-guided,Successful
+G23423-S002,G23423,Alpha,2024-03-31,2,False,PUA,Failed
+G23423-S003,G23423,Alpha,2024-09-26,3,False,Artillery Spotting,Successful
+G23423-S004,G23423,Alpha,2025-01-04,4,False,Artillery Spotting,Failed
+G23423-S005,G23423,Alpha,2025-04-29,5,False,Laser-guided,Successful
+G23423-S006,G23423,Alpha,2025-05-25,6,False,Laser-guided,Failed
+G23423-S007,G23423,Alpha,2025-05-29,7,False,Laser-guided,Successful
+G23423-S008,G23423,Alpha,2025-05-29,8,False,PUA,Successful
+G23423-S009,G23423,Alpha,2025-06-21,9,False,Training,Successful
+G23423-S010,G23423,Alpha,2025-07-29,10,False,Artillery Spotting,Successful
+G23423-S011,G23423,Alpha,2026-04-18,11,False,Laser-guided,Successful
+G23423-S012,G23423,Alpha,2026-05-07,12,False,Training,Successful
+AO97199-S001,AO97199,Beta,2022-12-20,1,True,PUA,Failed
+AO97199-S002,AO97199,Beta,2023-03-20,2,False,Laser-guided,Successful
+AO97199-S003,AO97199,Beta,2023-03-31,3,False,Training,Successful
+AO97199-S004,AO97199,Beta,2023-09-15,4,False,PUA,Successful
+AO97199-S005,AO97199,Beta,2024-04-10,5,False,PUA,Successful
+AO97199-S006,AO97199,Beta,2024-06-08,6,False,PUA,Successful
+AO97199-S007,AO97199,Beta,2024-09-26,7,False,Training,Successful
+AO97199-S008,AO97199,Beta,2025-03-12,8,False,PUA,Failed
+AO97199-S009,AO97199,Beta,2025-03-28,9,False,PUA,Successful
+AO97199-S010,AO97199,Beta,2025-12-15,10,False,Training,Successful
+AO97199-S011,AO97199,Beta,2026-01-17,11,False,Laser-guided,Successful
+AO97199-S012,AO97199,Beta,2026-03-25,12,False,Laser-guided,Successful
+AO97199-S013,AO97199,Beta,2026-04-01,13,False,PUA,Successful
+AO97199-S014,AO97199,Beta,2026-05-01,14,False,Training,Successful
+AO97199-S015,AO97199,Beta,2026-06-21,15,False,Training,Successful
+AO12560-S001,AO12560,Beta,2023-02-19,1,True,PUA,Failed
+AO12560-S002,AO12560,Beta,2023-04-01,2,False,PUA,Successful
+AO12560-S003,AO12560,Beta,2023-05-16,3,False,PUA,Successful
+AO12560-S004,AO12560,Beta,2023-11-08,4,False,PUA,Failed
+AO12560-S005,AO12560,Beta,2024-01-28,5,False,PUA,Successful
+AO12560-S006,AO12560,Beta,2024-04-19,6,False,PUA,Successful
+AO12560-S007,AO12560,Beta,2024-04-27,7,False,PUA,Successful
+AO12560-S008,AO12560,Beta,2024-05-27,8,False,PUA,Successful
+AO12560-S009,AO12560,Beta,2024-07-09,9,False,PUA,Successful
+AO12560-S010,AO12560,Beta,2024-07-25,10,False,Laser-guided,Successful
+AO12560-S011,AO12560,Beta,2024-09-18,11,False,Artillery Spotting,Successful
+AO12560-S012,AO12560,Beta,2025-03-23,12,False,Training,Successful
+AO12560-S013,AO12560,Beta,2025-04-09,13,False,Artillery Spotting,Successful
+AO12560-S014,AO12560,Beta,2025-10-21,14,False,PUA,Successful
+AO12560-S015,AO12560,Beta,2025-10-27,15,False,Laser-guided,Successful
+AO21460-S001,AO21460,Beta,2023-04-25,1,True,PUA,Failed
+AO21460-S002,AO21460,Beta,2023-07-10,2,False,Artillery Spotting,Successful
+AO21460-S003,AO21460,Beta,2024-05-07,3,False,Laser-guided,Failed
+AO21460-S004,AO21460,Beta,2024-07-23,4,False,Artillery Spotting,Successful
+AO21460-S005,AO21460,Beta,2024-08-11,5,False,PUA,Failed
+AO21460-S006,AO21460,Beta,2024-08-29,6,False,Training,Successful
+AO21460-S007,AO21460,Beta,2025-05-11,7,False,Training,Successful
+AO21460-S008,AO21460,Beta,2025-10-07,8,False,PUA,Failed
+AO21460-S009,AO21460,Beta,2026-01-06,9,False,Laser-guided,Failed
+AO21460-S010,AO21460,Beta,2026-01-11,10,False,Training,Successful
+AO21460-S011,AO21460,Beta,2026-04-15,11,False,Training,Successful
+AO21460-S012,AO21460,Beta,2026-05-13,12,False,PUA,Successful
+AO18804-S001,AO18804,Beta,2025-05-02,1,True,Artillery Spotting,Successful
+AO18804-S002,AO18804,Beta,2025-10-25,2,False,Laser-guided,Successful
+AO18804-S003,AO18804,Beta,2025-11-06,3,False,Training,Successful
+AO18804-S004,AO18804,Beta,2026-01-19,4,False,Training,Successful
+AO18804-S005,AO18804,Beta,2026-03-31,5,False,Training,Successful
+AO18804-S006,AO18804,Beta,2026-05-06,6,False,Laser-guided,Successful
+AO17999-S001,AO17999,Beta,2025-07-02,1,True,Training,Successful
+AO17999-S002,AO17999,Beta,2025-09-01,2,False,Artillery Spotting,Successful
+AO17999-S003,AO17999,Beta,2025-09-16,3,False,PUA,Failed
+AO17999-S004,AO17999,Beta,2025-11-03,4,False,PUA,Successful
+AO21945-S001,AO21945,Beta,2024-06-04,1,True,Laser-guided,Successful
+AO21945-S002,AO21945,Beta,2024-09-29,2,False,PUA,Successful
+AO21945-S003,AO21945,Beta,2025-07-29,3,False,PUA,Successful
+AO21945-S004,AO21945,Beta,2026-02-07,4,False,Artillery Spotting,Successful
+AO21945-S005,AO21945,Beta,2026-02-28,5,False,Artillery Spotting,Successful
+AO22715-S001,AO22715,Beta,2022-04-06,1,True,PUA,Failed
+AO22715-S002,AO22715,Beta,2022-10-06,2,False,Artillery Spotting,Successful
+AO22715-S003,AO22715,Beta,2023-01-21,3,False,Laser-guided,Successful
+AO22715-S004,AO22715,Beta,2024-03-10,4,False,PUA,Successful
+AO22715-S005,AO22715,Beta,2024-05-07,5,False,PUA,Successful
+AO22715-S006,AO22715,Beta,2025-01-09,6,False,PUA,Failed
+AO22715-S007,AO22715,Beta,2025-01-11,7,False,Laser-guided,Successful
+AO22715-S008,AO22715,Beta,2025-02-06,8,False,Artillery Spotting,Successful
+AO22715-S009,AO22715,Beta,2025-02-13,9,False,Artillery Spotting,Successful
+AO22715-S010,AO22715,Beta,2025-08-20,10,False,Training,Successful
+AO22715-S011,AO22715,Beta,2026-02-07,11,False,Laser-guided,Successful
+AO22715-S012,AO22715,Beta,2026-03-24,12,False,PUA,Successful
+AO22715-S013,AO22715,Beta,2026-04-24,13,False,Training,Successful
+AO16664-S001,AO16664,Beta,2024-08-17,1,True,PUA,Successful
+AO16664-S002,AO16664,Beta,2024-09-09,2,False,PUA,Failed
+AO16664-S003,AO16664,Beta,2024-11-12,3,False,Training,Successful
+AO16664-S004,AO16664,Beta,2024-11-18,4,False,Artillery Spotting,Successful
+AO16664-S005,AO16664,Beta,2024-12-04,5,False,Artillery Spotting,Successful
+AO16664-S006,AO16664,Beta,2024-12-23,6,False,PUA,Successful
+AO16664-S007,AO16664,Beta,2025-10-27,7,False,Laser-guided,Successful
+AO16664-S008,AO16664,Beta,2025-12-29,8,False,Laser-guided,Successful
+AO16664-S009,AO16664,Beta,2026-01-30,9,False,Training,Successful
+AO24322-S001,AO24322,Beta,2025-01-01,1,True,Training,Failed
+AO24322-S002,AO24322,Beta,2025-03-25,2,False,Artillery Spotting,Successful
+AO24322-S003,AO24322,Beta,2025-06-01,3,False,Training,Successful
+AO24322-S004,AO24322,Beta,2025-06-16,4,False,Training,Failed
+AO24322-S005,AO24322,Beta,2025-08-17,5,False,Laser-guided,Successful
+AO24322-S006,AO24322,Beta,2026-01-07,6,False,Laser-guided,Successful
+AO24322-S007,AO24322,Beta,2026-04-14,7,False,PUA,Successful
+AO16557-S001,AO16557,Beta,2022-07-23,1,True,PUA,Successful
+AO16557-S002,AO16557,Beta,2022-09-26,2,False,PUA,Successful
+AO16557-S003,AO16557,Beta,2022-10-02,3,False,PUA,Successful
+AO16557-S004,AO16557,Beta,2022-10-14,4,False,Training,Successful
+AO16557-S005,AO16557,Beta,2023-08-13,5,False,PUA,Successful
+AO16557-S006,AO16557,Beta,2023-09-10,6,False,Laser-guided,Successful
+AO16557-S007,AO16557,Beta,2023-10-31,7,False,Laser-guided,Successful
+AO16557-S008,AO16557,Beta,2024-01-15,8,False,Training,Successful
+AO16557-S009,AO16557,Beta,2024-02-24,9,False,PUA,Failed
+AO16557-S010,AO16557,Beta,2024-06-30,10,False,Training,Successful
+AO16557-S011,AO16557,Beta,2024-10-29,11,False,Laser-guided,Failed
+AO16557-S012,AO16557,Beta,2025-04-07,12,False,PUA,Successful
+AO16557-S013,AO16557,Beta,2025-08-28,13,False,Laser-guided,Successful
+AO16557-S014,AO16557,Beta,2026-01-22,14,False,Laser-guided,Successful
+AO16557-S015,AO16557,Beta,2026-03-14,15,False,Laser-guided,Failed
+AO20423-S001,AO20423,Beta,2023-05-05,1,True,PUA,Successful
+AO20423-S002,AO20423,Beta,2024-03-01,2,False,Laser-guided,Successful
+AO20423-S003,AO20423,Beta,2024-09-10,3,False,Laser-guided,Successful
+AO20423-S004,AO20423,Beta,2025-02-17,4,False,Training,Successful
+AO20423-S005,AO20423,Beta,2025-03-03,5,False,Training,Successful
+AO20423-S006,AO20423,Beta,2025-04-09,6,False,Laser-guided,Successful
+AO20423-S007,AO20423,Beta,2025-05-16,7,False,Laser-guided,Successful
+AO20423-S008,AO20423,Beta,2025-09-30,8,False,Laser-guided,Successful
+AO20423-S009,AO20423,Beta,2025-11-11,9,False,PUA,Successful
+AO20423-S010,AO20423,Beta,2025-11-17,10,False,Laser-guided,Successful
+AO20423-S011,AO20423,Beta,2026-02-07,11,False,PUA,Successful
+AO15870-S001,AO15870,Beta,2022-10-12,1,True,Training,Failed
+AO15870-S002,AO15870,Beta,2022-12-11,2,False,PUA,Successful
+AO15870-S003,AO15870,Beta,2023-01-09,3,False,PUA,Failed
+AO15870-S004,AO15870,Beta,2023-11-19,4,False,Training,Successful
+AO15870-S005,AO15870,Beta,2024-02-09,5,False,PUA,Successful
+AO15870-S006,AO15870,Beta,2024-04-26,6,False,PUA,Successful
+AO15870-S007,AO15870,Beta,2024-05-02,7,False,Training,Successful
+AO15870-S008,AO15870,Beta,2024-05-28,8,False,Training,Successful
+AO15870-S009,AO15870,Beta,2024-06-07,9,False,Laser-guided,Successful
+AO15870-S010,AO15870,Beta,2025-01-06,10,False,PUA,Failed
+AO15870-S011,AO15870,Beta,2025-03-30,11,False,PUA,Successful
+AO15870-S012,AO15870,Beta,2025-05-27,12,False,Laser-guided,Successful
+AO15870-S013,AO15870,Beta,2025-08-03,13,False,Laser-guided,Failed
+AO15870-S014,AO15870,Beta,2025-09-26,14,False,PUA,Failed
+AO15870-S015,AO15870,Beta,2025-10-12,15,False,PUA,Successful
+AO15870-S016,AO15870,Beta,2025-11-29,16,False,Laser-guided,Failed
+AO15870-S017,AO15870,Beta,2026-04-21,17,False,PUA,Failed
+AO17162-S001,AO17162,Beta,2022-03-25,1,True,PUA,Failed
+AO17162-S002,AO17162,Beta,2022-09-05,2,False,Laser-guided,Failed
+AO17162-S003,AO17162,Beta,2022-09-18,3,False,Artillery Spotting,Successful
+AO17162-S004,AO17162,Beta,2023-03-23,4,False,Training,Successful
+AO17162-S005,AO17162,Beta,2023-04-09,5,False,PUA,Successful
+AO17162-S006,AO17162,Beta,2023-04-13,6,False,Laser-guided,Successful
+AO17162-S007,AO17162,Beta,2023-04-24,7,False,Artillery Spotting,Successful
+AO17162-S008,AO17162,Beta,2023-09-24,8,False,Laser-guided,Failed
+AO17162-S009,AO17162,Beta,2024-03-09,9,False,Artillery Spotting,Successful
+AO17162-S010,AO17162,Beta,2024-06-10,10,False,Laser-guided,Successful
+AO17162-S011,AO17162,Beta,2024-12-18,11,False,PUA,Successful
+AO17162-S012,AO17162,Beta,2025-06-11,12,False,Laser-guided,Successful
+AO17162-S013,AO17162,Beta,2025-08-19,13,False,PUA,Failed
+AO17162-S014,AO17162,Beta,2026-02-08,14,False,Laser-guided,Successful
+AO24225-S001,AO24225,Beta,2025-04-19,1,True,PUA,Successful
+AO24225-S002,AO24225,Beta,2025-06-14,2,False,PUA,Successful
+AO24225-S003,AO24225,Beta,2025-06-29,3,False,Artillery Spotting,Successful
+AO24225-S004,AO24225,Beta,2025-09-29,4,False,Artillery Spotting,Successful
+AO24225-S005,AO24225,Beta,2026-02-19,5,False,PUA,Successful
+AO24225-S006,AO24225,Beta,2026-05-08,6,False,Artillery Spotting,Successful
+AO24225-S007,AO24225,Beta,2026-06-20,7,False,Training,Successful
+AO24481-S001,AO24481,Beta,2025-07-09,1,True,PUA,Failed
+AO24481-S002,AO24481,Beta,2026-01-15,2,False,PUA,Successful
+AO24481-S003,AO24481,Beta,2026-05-27,3,False,Laser-guided,Successful
+AO19316-S001,AO19316,Beta,2022-01-08,1,True,PUA,Successful
+AO19316-S002,AO19316,Beta,2022-02-16,2,False,Artillery Spotting,Successful
+AO19316-S003,AO19316,Beta,2022-05-17,3,False,PUA,Successful
+AO19316-S004,AO19316,Beta,2022-06-02,4,False,Artillery Spotting,Successful
+AO19316-S005,AO19316,Beta,2023-01-11,5,False,PUA,Successful
+AO19316-S006,AO19316,Beta,2023-01-16,6,False,PUA,Successful
+AO19316-S007,AO19316,Beta,2023-01-18,7,False,Laser-guided,Successful
+AO19316-S008,AO19316,Beta,2023-02-05,8,False,Training,Successful
+AO19316-S009,AO19316,Beta,2023-03-16,9,False,PUA,Successful
+AO19316-S010,AO19316,Beta,2023-05-13,10,False,PUA,Successful
+AO19316-S011,AO19316,Beta,2023-05-29,11,False,PUA,Successful
+AO19316-S012,AO19316,Beta,2023-06-20,12,False,Laser-guided,Successful
+AO19316-S013,AO19316,Beta,2024-03-13,13,False,PUA,Successful
+AO19316-S014,AO19316,Beta,2024-04-20,14,False,PUA,Successful
+AO19316-S015,AO19316,Beta,2025-01-01,15,False,Artillery Spotting,Successful
+AO19316-S016,AO19316,Beta,2025-07-17,16,False,PUA,Successful
+AO19316-S017,AO19316,Beta,2025-08-04,17,False,Laser-guided,Successful
+AO19316-S018,AO19316,Beta,2026-01-08,18,False,Artillery Spotting,Successful
+AO20211-S001,AO20211,Beta,2023-01-03,1,True,PUA,Failed
+AO20211-S002,AO20211,Beta,2023-01-18,2,False,PUA,Successful
+AO20211-S003,AO20211,Beta,2023-01-28,3,False,Laser-guided,Successful
+AO20211-S004,AO20211,Beta,2023-07-31,4,False,PUA,Successful
+AO20211-S005,AO20211,Beta,2023-12-07,5,False,Laser-guided,Successful
+AO20211-S006,AO20211,Beta,2024-01-04,6,False,PUA,Successful
+AO20211-S007,AO20211,Beta,2025-01-04,7,False,Laser-guided,Successful
+AO20211-S008,AO20211,Beta,2025-03-01,8,False,Laser-guided,Successful
+AO20211-S009,AO20211,Beta,2026-01-29,9,False,PUA,Successful
+AO20211-S010,AO20211,Beta,2026-05-09,10,False,Training,Successful
+AO20211-S011,AO20211,Beta,2026-06-05,11,False,PUA,Successful
+AO14299-S001,AO14299,Beta,2021-01-28,1,True,PUA,Successful
+AO14299-S002,AO14299,Beta,2021-08-31,2,False,Training,Successful
+AO14299-S003,AO14299,Beta,2021-09-16,3,False,Laser-guided,Successful
+AO14299-S004,AO14299,Beta,2021-10-17,4,False,Artillery Spotting,Successful
+AO14299-S005,AO14299,Beta,2021-10-20,5,False,Laser-guided,Successful
+AO14299-S006,AO14299,Beta,2021-10-22,6,False,Laser-guided,Successful
+AO14299-S007,AO14299,Beta,2022-04-16,7,False,PUA,Successful
+AO14299-S008,AO14299,Beta,2022-08-14,8,False,PUA,Successful
+AO14299-S009,AO14299,Beta,2022-09-20,9,False,PUA,Successful
+AO14299-S010,AO14299,Beta,2022-10-14,10,False,Artillery Spotting,Successful
+AO14299-S011,AO14299,Beta,2023-02-25,11,False,PUA,Successful
+AO14299-S012,AO14299,Beta,2023-05-29,12,False,Artillery Spotting,Failed
+AO14299-S013,AO14299,Beta,2024-07-10,13,False,PUA,Successful
+AO14299-S014,AO14299,Beta,2024-10-01,14,False,Training,Successful
+AO14299-S015,AO14299,Beta,2025-04-10,15,False,PUA,Successful
+AO14299-S016,AO14299,Beta,2025-06-15,16,False,Artillery Spotting,Successful
+AO14299-S017,AO14299,Beta,2025-11-25,17,False,Training,Successful
+AO14299-S018,AO14299,Beta,2025-12-20,18,False,Artillery Spotting,Successful
+AO14299-S019,AO14299,Beta,2026-02-17,19,False,Training,Successful
+AO14299-S020,AO14299,Beta,2026-05-05,20,False,PUA,Successful
+AO23728-S001,AO23728,Beta,2023-11-11,1,True,Laser-guided,Successful
+AO23728-S002,AO23728,Beta,2023-12-08,2,False,PUA,Successful
+AO23728-S003,AO23728,Beta,2024-01-13,3,False,Training,Successful
+AO23728-S004,AO23728,Beta,2024-02-20,4,False,PUA,Successful
+AO23728-S005,AO23728,Beta,2024-03-26,5,False,Training,Successful
+AO23728-S006,AO23728,Beta,2024-04-06,6,False,Training,Successful
+AO23728-S007,AO23728,Beta,2024-05-06,7,False,PUA,Successful
+AO23728-S008,AO23728,Beta,2025-01-12,8,False,PUA,Successful
+AO23728-S009,AO23728,Beta,2025-06-21,9,False,Laser-guided,Successful
+AO23728-S010,AO23728,Beta,2025-10-19,10,False,Training,Successful
+AO23728-S011,AO23728,Beta,2025-12-04,11,False,PUA,Successful
+AO23728-S012,AO23728,Beta,2026-05-31,12,False,PUA,Successful
+AO22709-S001,AO22709,Beta,2024-07-31,1,True,Laser-guided,Failed
+AO22709-S002,AO22709,Beta,2024-08-18,2,False,Laser-guided,Successful
+AO22709-S003,AO22709,Beta,2024-09-18,3,False,Laser-guided,Successful
+AO22709-S004,AO22709,Beta,2024-10-09,4,False,Laser-guided,Successful
+AO22709-S005,AO22709,Beta,2024-12-15,5,False,PUA,Successful
+AO22709-S006,AO22709,Beta,2025-02-01,6,False,Laser-guided,Failed
+AO22709-S007,AO22709,Beta,2025-05-18,7,False,PUA,Successful
+AO22709-S008,AO22709,Beta,2025-08-07,8,False,Training,Successful
+AO22709-S009,AO22709,Beta,2025-11-05,9,False,PUA,Successful
+AO22709-S010,AO22709,Beta,2026-03-22,10,False,Training,Failed
+AO18592-S001,AO18592,Beta,2021-05-10,1,True,PUA,Failed
+AO18592-S002,AO18592,Beta,2021-09-05,2,False,PUA,Successful
+AO18592-S003,AO18592,Beta,2021-09-13,3,False,Laser-guided,Successful
+AO18592-S004,AO18592,Beta,2022-01-15,4,False,PUA,Successful
+AO18592-S005,AO18592,Beta,2022-03-18,5,False,Artillery Spotting,Successful
+AO18592-S006,AO18592,Beta,2022-10-31,6,False,Laser-guided,Successful
+AO18592-S007,AO18592,Beta,2024-02-01,7,False,PUA,Successful
+AO18592-S008,AO18592,Beta,2024-05-18,8,False,Training,Successful
+AO18592-S009,AO18592,Beta,2024-07-26,9,False,PUA,Failed
+AO18592-S010,AO18592,Beta,2024-08-25,10,False,Artillery Spotting,Failed
+AO18592-S011,AO18592,Beta,2024-09-12,11,False,PUA,Successful
+AO18592-S012,AO18592,Beta,2024-10-29,12,False,Artillery Spotting,Successful
+AO18592-S013,AO18592,Beta,2025-07-04,13,False,Artillery Spotting,Failed
+AO18592-S014,AO18592,Beta,2025-11-06,14,False,Training,Successful
+AO18592-S015,AO18592,Beta,2025-12-30,15,False,PUA,Successful
+AO18592-S016,AO18592,Beta,2026-02-06,16,False,PUA,Successful
+AO18592-S017,AO18592,Beta,2026-06-14,17,False,Laser-guided,Successful
+AO18652-S001,AO18652,Beta,2025-01-26,1,True,PUA,Successful
+AO18652-S002,AO18652,Beta,2025-03-06,2,False,PUA,Successful
+AO18652-S003,AO18652,Beta,2025-04-20,3,False,PUA,Failed
+AO18652-S004,AO18652,Beta,2025-08-11,4,False,Laser-guided,Failed
+AO18652-S005,AO18652,Beta,2026-01-08,5,False,PUA,Successful
+AO18652-S006,AO18652,Beta,2026-01-09,6,False,PUA,Successful
+AO18652-S007,AO18652,Beta,2026-06-29,7,False,Artillery Spotting,Successful
+AO24038-S001,AO24038,Beta,2024-10-04,1,True,Laser-guided,Successful
+AO24038-S002,AO24038,Beta,2025-01-02,2,False,PUA,Successful
+AO24038-S003,AO24038,Beta,2025-03-05,3,False,Training,Successful
+AO24038-S004,AO24038,Beta,2025-07-11,4,False,PUA,Successful
+AO24038-S005,AO24038,Beta,2025-08-09,5,False,PUA,Successful
+AO24038-S006,AO24038,Beta,2025-09-08,6,False,PUA,Successful
+AO24038-S007,AO24038,Beta,2025-11-02,7,False,Artillery Spotting,Successful
+AO24038-S008,AO24038,Beta,2025-12-12,8,False,Laser-guided,Successful
+AO24038-S009,AO24038,Beta,2026-04-29,9,False,PUA,Successful
+AO23051-S001,AO23051,Beta,2023-08-08,1,True,Artillery Spotting,Successful
+AO23051-S002,AO23051,Beta,2023-11-27,2,False,Laser-guided,Failed
+AO23051-S003,AO23051,Beta,2024-01-08,3,False,Laser-guided,Successful
+AO23051-S004,AO23051,Beta,2024-02-16,4,False,Training,Successful
+AO23051-S005,AO23051,Beta,2024-03-02,5,False,PUA,Successful
+AO23051-S006,AO23051,Beta,2024-03-05,6,False,PUA,Successful
+AO23051-S007,AO23051,Beta,2024-05-14,7,False,PUA,Failed
+AO23051-S008,AO23051,Beta,2024-05-28,8,False,PUA,Successful
+AO23051-S009,AO23051,Beta,2024-10-29,9,False,Training,Successful
+AO23051-S010,AO23051,Beta,2024-11-29,10,False,PUA,Successful
+AO23051-S011,AO23051,Beta,2024-12-26,11,False,Laser-guided,Successful
+AO23051-S012,AO23051,Beta,2025-01-11,12,False,PUA,Successful
+AO23051-S013,AO23051,Beta,2025-05-03,13,False,Training,Successful
+AO23051-S014,AO23051,Beta,2025-07-20,14,False,PUA,Successful
+AO23051-S015,AO23051,Beta,2025-12-20,15,False,Laser-guided,Successful
+AO23051-S016,AO23051,Beta,2026-03-13,16,False,Training,Successful
+AO23051-S017,AO23051,Beta,2026-04-10,17,False,Training,Successful
+AO23051-S018,AO23051,Beta,2026-04-19,18,False,PUA,Successful
+AO25210-S001,AO25210,Beta,2026-03-02,1,True,Laser-guided,Failed
+AO25210-S002,AO25210,Beta,2026-03-05,2,False,PUA,Failed
+AO25210-S003,AO25210,Beta,2026-04-26,3,False,PUA,Successful
+AO25210-S004,AO25210,Beta,2026-05-09,4,False,Artillery Spotting,Successful
+AO25210-S005,AO25210,Beta,2026-06-12,5,False,Laser-guided,Successful
+AO25210-S006,AO25210,Beta,2026-06-12,6,False,PUA,Successful
+AO25050-S001,AO25050,Beta,2025-03-07,1,True,PUA,Failed
+AO25050-S002,AO25050,Beta,2025-07-08,2,False,Artillery Spotting,Failed
+AO25050-S003,AO25050,Beta,2025-12-21,3,False,PUA,Successful
+AO25050-S004,AO25050,Beta,2025-12-27,4,False,Training,Successful
+AO24602-S001,AO24602,Beta,2024-09-29,1,True,PUA,Successful
+AO24602-S002,AO24602,Beta,2024-10-01,2,False,Training,Successful
+AO24602-S003,AO24602,Beta,2024-11-13,3,False,PUA,Successful
+AO24602-S004,AO24602,Beta,2025-01-25,4,False,PUA,Successful
+AO24602-S005,AO24602,Beta,2025-05-17,5,False,Laser-guided,Successful
+AO24602-S006,AO24602,Beta,2025-09-03,6,False,PUA,Successful
+AO24602-S007,AO24602,Beta,2026-04-25,7,False,Training,Successful
+AO24602-S008,AO24602,Beta,2026-06-06,8,False,Training,Successful
+AO23001-S001,AO23001,Beta,2023-11-23,1,True,Laser-guided,Successful
+AO23001-S002,AO23001,Beta,2024-04-16,2,False,PUA,Successful
+AO23001-S003,AO23001,Beta,2024-04-17,3,False,Artillery Spotting,Successful
+AO23001-S004,AO23001,Beta,2024-04-24,4,False,PUA,Successful
+AO23001-S005,AO23001,Beta,2025-01-08,5,False,Laser-guided,Failed
+AO23001-S006,AO23001,Beta,2025-02-02,6,False,Laser-guided,Successful
+AO23001-S007,AO23001,Beta,2025-09-10,7,False,PUA,Successful
+AO23001-S008,AO23001,Beta,2025-10-12,8,False,Training,Successful
+AO23001-S009,AO23001,Beta,2026-05-20,9,False,Artillery Spotting,Successful
+AO16430-S001,AO16430,Beta,2021-12-01,1,True,PUA,Successful
+AO16430-S002,AO16430,Beta,2022-06-08,2,False,PUA,Successful
+AO16430-S003,AO16430,Beta,2022-07-20,3,False,Training,Successful
+AO16430-S004,AO16430,Beta,2022-07-22,4,False,Training,Successful
+AO16430-S005,AO16430,Beta,2022-09-24,5,False,PUA,Successful
+AO16430-S006,AO16430,Beta,2022-11-24,6,False,Artillery Spotting,Successful
+AO16430-S007,AO16430,Beta,2022-12-08,7,False,Training,Successful
+AO16430-S008,AO16430,Beta,2023-01-06,8,False,PUA,Successful
+AO16430-S009,AO16430,Beta,2023-07-25,9,False,Artillery Spotting,Successful
+AO16430-S010,AO16430,Beta,2023-08-23,10,False,Laser-guided,Successful
+AO16430-S011,AO16430,Beta,2023-11-08,11,False,Training,Successful
+AO16430-S012,AO16430,Beta,2024-05-18,12,False,PUA,Successful
+AO16430-S013,AO16430,Beta,2024-08-09,13,False,Artillery Spotting,Successful
+AO16430-S014,AO16430,Beta,2024-10-06,14,False,Laser-guided,Successful
+AO16430-S015,AO16430,Beta,2025-05-01,15,False,PUA,Successful
+AO16430-S016,AO16430,Beta,2025-08-25,16,False,Laser-guided,Successful
+AO16430-S017,AO16430,Beta,2025-10-05,17,False,Training,Successful
+AO16430-S018,AO16430,Beta,2026-01-22,18,False,PUA,Successful
+AO16430-S019,AO16430,Beta,2026-02-10,19,False,PUA,Successful
+AO16430-S020,AO16430,Beta,2026-04-25,20,False,PUA,Successful
+AO16430-S021,AO16430,Beta,2026-06-24,21,False,Laser-guided,Successful
+AO23143-S001,AO23143,Beta,2024-01-27,1,True,PUA,Successful
+AO23143-S002,AO23143,Beta,2024-02-13,2,False,Laser-guided,Successful
+AO23143-S003,AO23143,Beta,2024-03-05,3,False,Laser-guided,Successful
+AO23143-S004,AO23143,Beta,2024-03-17,4,False,PUA,Successful
+AO23143-S005,AO23143,Beta,2024-07-18,5,False,Laser-guided,Successful
+AO23143-S006,AO23143,Beta,2024-08-18,6,False,Artillery Spotting,Successful
+AO23143-S007,AO23143,Beta,2024-11-04,7,False,PUA,Successful
+AO23143-S008,AO23143,Beta,2024-11-22,8,False,Training,Successful
+AO23143-S009,AO23143,Beta,2026-03-17,9,False,PUA,Successful
+AO23143-S010,AO23143,Beta,2026-03-20,10,False,PUA,Successful
+AO23143-S011,AO23143,Beta,2026-04-24,11,False,Laser-guided,Successful
+AO23143-S012,AO23143,Beta,2026-06-26,12,False,Laser-guided,Successful
+AO24756-S001,AO24756,Beta,2024-12-19,1,True,Training,Successful
+AO24756-S002,AO24756,Beta,2025-06-26,2,False,Training,Successful
+AO24756-S003,AO24756,Beta,2025-07-13,3,False,Training,Successful
+AO24756-S004,AO24756,Beta,2025-10-10,4,False,Artillery Spotting,Successful
+AO24756-S005,AO24756,Beta,2026-02-18,5,False,PUA,Successful
+AO24756-S006,AO24756,Beta,2026-06-30,6,False,PUA,Successful
+AO12366-S001,AO12366,Beta,2021-09-21,1,True,Laser-guided,Failed
+AO12366-S002,AO12366,Beta,2022-02-04,2,False,Artillery Spotting,Successful
+AO12366-S003,AO12366,Beta,2022-12-24,3,False,Artillery Spotting,Failed
+AO12366-S004,AO12366,Beta,2023-07-06,4,False,PUA,Successful
+AO12366-S005,AO12366,Beta,2024-04-07,5,False,Artillery Spotting,Successful
+AO12366-S006,AO12366,Beta,2024-06-19,6,False,Artillery Spotting,Successful
+AO12366-S007,AO12366,Beta,2024-07-13,7,False,PUA,Successful
+AO12366-S008,AO12366,Beta,2024-10-17,8,False,Laser-guided,Successful
+AO12366-S009,AO12366,Beta,2024-11-16,9,False,PUA,Successful
+AO12366-S010,AO12366,Beta,2025-03-02,10,False,Laser-guided,Successful
+AO12366-S011,AO12366,Beta,2025-10-24,11,False,Training,Successful
+AO12366-S012,AO12366,Beta,2025-12-05,12,False,Training,Successful
+AO12366-S013,AO12366,Beta,2026-02-04,13,False,Laser-guided,Successful
+AO12366-S014,AO12366,Beta,2026-02-17,14,False,Artillery Spotting,Successful
+AO24998-S001,AO24998,Beta,2024-12-22,1,True,Laser-guided,Failed
+AO24998-S002,AO24998,Beta,2025-01-29,2,False,PUA,Successful
+AO24998-S003,AO24998,Beta,2025-05-17,3,False,Laser-guided,Successful
+AO24998-S004,AO24998,Beta,2025-08-18,4,False,Training,Successful
+AO24998-S005,AO24998,Beta,2025-10-20,5,False,PUA,Successful
+AO24998-S006,AO24998,Beta,2026-03-14,6,False,PUA,Successful
+G22440-S001,G22440,Beta,2023-04-06,1,True,Laser-guided,Failed
+G22440-S002,G22440,Beta,2023-07-03,2,False,PUA,Failed
+G22440-S003,G22440,Beta,2024-03-24,3,False,Training,Successful
+G22440-S004,G22440,Beta,2024-05-05,4,False,PUA,Successful
+G22440-S005,G22440,Beta,2024-07-11,5,False,PUA,Failed
+G22440-S006,G22440,Beta,2024-08-25,6,False,PUA,Successful
+G22440-S007,G22440,Beta,2025-06-07,7,False,Artillery Spotting,Successful
+G22440-S008,G22440,Beta,2026-02-28,8,False,Artillery Spotting,Successful
+G22440-S009,G22440,Beta,2026-04-05,9,False,PUA,Successful
+G22440-S010,G22440,Beta,2026-05-02,10,False,Training,Successful
+G22440-S011,G22440,Beta,2026-05-02,11,False,Artillery Spotting,Successful
+G23771-S001,G23771,Beta,2023-10-23,1,True,PUA,Failed
+G23771-S002,G23771,Beta,2023-11-24,2,False,Laser-guided,Successful
+G23771-S003,G23771,Beta,2023-12-07,3,False,Training,Failed
+G23771-S004,G23771,Beta,2023-12-07,4,False,Artillery Spotting,Successful
+G23771-S005,G23771,Beta,2024-03-16,5,False,Training,Successful
+G23771-S006,G23771,Beta,2024-03-26,6,False,PUA,Successful
+G23771-S007,G23771,Beta,2024-04-17,7,False,PUA,Successful
+G23771-S008,G23771,Beta,2024-06-14,8,False,PUA,Successful
+G23771-S009,G23771,Beta,2024-08-05,9,False,PUA,Successful
+G23771-S010,G23771,Beta,2024-08-05,10,False,PUA,Successful
+G23771-S011,G23771,Beta,2024-12-01,11,False,PUA,Successful
+G23771-S012,G23771,Beta,2025-03-24,12,False,PUA,Successful
+G23771-S013,G23771,Beta,2025-07-11,13,False,PUA,Successful
+G23771-S014,G23771,Beta,2025-11-17,14,False,Training,Successful
+G23771-S015,G23771,Beta,2026-03-30,15,False,Laser-guided,Successful
+G17117-S001,G17117,Beta,2021-11-13,1,True,Artillery Spotting,Failed
+G17117-S002,G17117,Beta,2022-02-22,2,False,Laser-guided,Successful
+G17117-S003,G17117,Beta,2022-06-27,3,False,PUA,Successful
+G17117-S004,G17117,Beta,2022-09-19,4,False,Laser-guided,Successful
+G17117-S005,G17117,Beta,2024-02-10,5,False,Artillery Spotting,Failed
+G17117-S006,G17117,Beta,2024-03-18,6,False,Training,Successful
+G17117-S007,G17117,Beta,2024-04-03,7,False,PUA,Successful
+G17117-S008,G17117,Beta,2024-07-05,8,False,PUA,Successful
+G17117-S009,G17117,Beta,2024-08-01,9,False,PUA,Successful
+G17117-S010,G17117,Beta,2024-09-15,10,False,Training,Successful
+G17117-S011,G17117,Beta,2024-09-22,11,False,PUA,Successful
+G17117-S012,G17117,Beta,2025-05-24,12,False,Training,Successful
+G17117-S013,G17117,Beta,2025-10-20,13,False,Artillery Spotting,Successful
+G17117-S014,G17117,Beta,2026-03-26,14,False,Laser-guided,Successful
+G17117-S015,G17117,Beta,2026-05-11,15,False,Artillery Spotting,Failed
+G17117-S016,G17117,Beta,2026-06-14,16,False,Artillery Spotting,Successful
+G15417-S001,G15417,Beta,2025-03-15,1,True,Laser-guided,Failed
+G15417-S002,G15417,Beta,2025-06-14,2,False,PUA,Successful
+G15417-S003,G15417,Beta,2025-07-27,3,False,Laser-guided,Failed
+G15417-S004,G15417,Beta,2025-08-20,4,False,PUA,Successful
+G24819-S001,G24819,Beta,2024-10-24,1,True,PUA,Successful
+G24819-S002,G24819,Beta,2025-05-21,2,False,Training,Successful
+G24819-S003,G24819,Beta,2025-06-20,3,False,Laser-guided,Successful
+G24819-S004,G24819,Beta,2026-01-31,4,False,PUA,Successful
+G24819-S005,G24819,Beta,2026-05-16,5,False,Artillery Spotting,Failed
+G22927-S001,G22927,Beta,2022-11-14,1,True,Artillery Spotting,Failed
+G22927-S002,G22927,Beta,2022-12-01,2,False,Training,Successful
+G22927-S003,G22927,Beta,2022-12-23,3,False,Laser-guided,Successful
+G22927-S004,G22927,Beta,2023-05-06,4,False,Artillery Spotting,Successful
+G22927-S005,G22927,Beta,2023-05-18,5,False,PUA,Successful
+G22927-S006,G22927,Beta,2023-05-24,6,False,PUA,Successful
+G22927-S007,G22927,Beta,2023-10-21,7,False,Training,Successful
+G22927-S008,G22927,Beta,2023-12-12,8,False,PUA,Successful
+G22927-S009,G22927,Beta,2024-08-21,9,False,PUA,Successful
+G22927-S010,G22927,Beta,2024-09-07,10,False,Training,Successful
+G22927-S011,G22927,Beta,2024-10-23,11,False,PUA,Failed
+G22927-S012,G22927,Beta,2025-01-08,12,False,PUA,Successful
+G22927-S013,G22927,Beta,2025-03-14,13,False,PUA,Successful
+G22927-S014,G22927,Beta,2025-05-04,14,False,Artillery Spotting,Successful
+G22927-S015,G22927,Beta,2025-07-21,15,False,PUA,Successful
+G22927-S016,G22927,Beta,2025-10-10,16,False,Training,Successful
+G22927-S017,G22927,Beta,2025-12-20,17,False,Training,Successful
+G22927-S018,G22927,Beta,2026-02-15,18,False,PUA,Successful
+G22927-S019,G22927,Beta,2026-02-20,19,False,Artillery Spotting,Successful
+G24599-S001,G24599,Beta,2024-04-29,1,True,Laser-guided,Failed
+G24599-S002,G24599,Beta,2024-06-09,2,False,PUA,Successful
+G24599-S003,G24599,Beta,2024-10-13,3,False,Laser-guided,Successful
+G24599-S004,G24599,Beta,2025-02-26,4,False,PUA,Successful
+G24599-S005,G24599,Beta,2025-06-24,5,False,Laser-guided,Successful
+G24599-S006,G24599,Beta,2025-09-30,6,False,PUA,Successful
+G24599-S007,G24599,Beta,2026-03-05,7,False,Artillery Spotting,Successful
+G24599-S008,G24599,Beta,2026-06-01,8,False,Artillery Spotting,Successful
+G25161-S001,G25161,Beta,2025-05-23,1,True,Laser-guided,Successful
+G25161-S002,G25161,Beta,2025-07-25,2,False,Artillery Spotting,Successful
+G25161-S003,G25161,Beta,2025-09-05,3,False,Laser-guided,Successful
+G25161-S004,G25161,Beta,2025-09-06,4,False,Artillery Spotting,Successful
+G25161-S005,G25161,Beta,2025-12-03,5,False,PUA,Successful
+G25161-S006,G25161,Beta,2026-04-19,6,False,PUA,Successful
+G25161-S007,G25161,Beta,2026-04-19,7,False,Laser-guided,Successful
+G13723-S001,G13723,Beta,2021-03-09,1,True,PUA,Failed
+G13723-S002,G13723,Beta,2021-08-23,2,False,Training,Successful
+G13723-S003,G13723,Beta,2022-01-22,3,False,Training,Successful
+G13723-S004,G13723,Beta,2022-02-08,4,False,Artillery Spotting,Successful
+G13723-S005,G13723,Beta,2022-03-12,5,False,PUA,Successful
+G13723-S006,G13723,Beta,2022-09-22,6,False,Laser-guided,Successful
+G13723-S007,G13723,Beta,2022-11-22,7,False,PUA,Successful
+G13723-S008,G13723,Beta,2023-07-21,8,False,PUA,Successful
+G13723-S009,G13723,Beta,2024-04-02,9,False,PUA,Successful
+G13723-S010,G13723,Beta,2024-11-16,10,False,Laser-guided,Successful
+G13723-S011,G13723,Beta,2025-02-22,11,False,Training,Successful
+G13723-S012,G13723,Beta,2025-10-02,12,False,PUA,Failed
+G13723-S013,G13723,Beta,2025-11-13,13,False,Laser-guided,Successful
+G13723-S014,G13723,Beta,2026-03-26,14,False,Artillery Spotting,Failed
+G13723-S015,G13723,Beta,2026-06-10,15,False,Artillery Spotting,Successful
+G24135-S001,G24135,Beta,2024-07-13,1,True,PUA,Successful
+G24135-S002,G24135,Beta,2024-08-02,2,False,Laser-guided,Successful
+G24135-S003,G24135,Beta,2024-09-27,3,False,Artillery Spotting,Successful
+G24135-S004,G24135,Beta,2024-10-18,4,False,Laser-guided,Successful
+G24135-S005,G24135,Beta,2025-02-21,5,False,Artillery Spotting,Successful
+G24135-S006,G24135,Beta,2025-08-04,6,False,Laser-guided,Successful
+G24135-S007,G24135,Beta,2025-08-17,7,False,Training,Successful
+G24135-S008,G24135,Beta,2025-11-19,8,False,Training,Successful
+G24135-S009,G24135,Beta,2025-11-23,9,False,Laser-guided,Failed
+G24135-S010,G24135,Beta,2025-11-26,10,False,PUA,Successful
+G21624-S001,G21624,Beta,2022-06-12,1,True,Training,Successful
+G21624-S002,G21624,Beta,2022-12-16,2,False,PUA,Successful
+G21624-S003,G21624,Beta,2022-12-19,3,False,Training,Successful
+G21624-S004,G21624,Beta,2023-07-27,4,False,Training,Successful
+G21624-S005,G21624,Beta,2023-08-09,5,False,Laser-guided,Successful
+G21624-S006,G21624,Beta,2023-12-04,6,False,PUA,Successful
+G21624-S007,G21624,Beta,2024-05-08,7,False,PUA,Successful
+G21624-S008,G21624,Beta,2024-08-03,8,False,Laser-guided,Successful
+G21624-S009,G21624,Beta,2024-09-04,9,False,PUA,Failed
+G21624-S010,G21624,Beta,2025-01-08,10,False,Training,Successful
+G21624-S011,G21624,Beta,2025-01-16,11,False,Laser-guided,Successful
+G21624-S012,G21624,Beta,2025-06-25,12,False,PUA,Successful
+G21624-S013,G21624,Beta,2026-05-27,13,False,PUA,Successful
+G08986-S001,G08986,Beta,2025-03-11,1,True,PUA,Failed
+G08986-S002,G08986,Beta,2025-03-23,2,False,PUA,Successful
+G08986-S003,G08986,Beta,2025-04-07,3,False,PUA,Successful
+G08986-S004,G08986,Beta,2025-06-14,4,False,PUA,Successful
+G08986-S005,G08986,Beta,2025-06-24,5,False,Laser-guided,Successful
+G08986-S006,G08986,Beta,2025-07-04,6,False,PUA,Successful
+G08986-S007,G08986,Beta,2025-11-13,7,False,PUA,Successful
+G08986-S008,G08986,Beta,2025-12-14,8,False,Training,Successful
+G08986-S009,G08986,Beta,2026-04-26,9,False,Laser-guided,Successful
+G08986-S010,G08986,Beta,2026-06-08,10,False,Laser-guided,Successful
+G08986-S011,G08986,Beta,2026-06-29,11,False,Artillery Spotting,Successful
+G21223-S001,G21223,Beta,2025-01-28,1,True,PUA,Successful
+G21223-S002,G21223,Beta,2025-04-06,2,False,Training,Successful
+G21223-S003,G21223,Beta,2025-10-01,3,False,PUA,Successful
+G21223-S004,G21223,Beta,2026-01-21,4,False,PUA,Failed
+G23268-S001,G23268,Beta,2024-03-19,1,True,Artillery Spotting,Failed
+G23268-S002,G23268,Beta,2024-04-22,2,False,PUA,Failed
+G23268-S003,G23268,Beta,2024-04-23,3,False,Training,Successful
+G23268-S004,G23268,Beta,2024-07-14,4,False,Artillery Spotting,Successful
+G23268-S005,G23268,Beta,2024-07-27,5,False,Training,Successful
+G23268-S006,G23268,Beta,2024-08-19,6,False,Laser-guided,Failed
+G23268-S007,G23268,Beta,2024-11-21,7,False,Training,Successful
+G23268-S008,G23268,Beta,2025-02-22,8,False,PUA,Successful
+G23268-S009,G23268,Beta,2025-07-28,9,False,PUA,Successful
+G23268-S010,G23268,Beta,2025-11-28,10,False,PUA,Successful
+G23268-S011,G23268,Beta,2026-03-17,11,False,PUA,Successful
+G23268-S012,G23268,Beta,2026-06-04,12,False,PUA,Successful
+G23268-S013,G23268,Beta,2026-06-06,13,False,PUA,Successful
+G25106-S001,G25106,Beta,2025-07-13,1,True,Artillery Spotting,Successful
+G25106-S002,G25106,Beta,2025-08-24,2,False,Training,Successful
+G25106-S003,G25106,Beta,2026-06-22,3,False,PUA,Successful
+G15161-S001,G15161,Beta,2021-05-28,1,True,PUA,Successful
+G15161-S002,G15161,Beta,2021-08-21,2,False,PUA,Successful
+G15161-S003,G15161,Beta,2021-09-25,3,False,PUA,Successful
+G15161-S004,G15161,Beta,2021-09-25,4,False,Artillery Spotting,Successful
+G15161-S005,G15161,Beta,2021-10-29,5,False,PUA,Successful
+G15161-S006,G15161,Beta,2021-11-09,6,False,PUA,Successful
+G15161-S007,G15161,Beta,2021-12-18,7,False,Artillery Spotting,Successful
+G15161-S008,G15161,Beta,2022-02-10,8,False,Artillery Spotting,Successful
+G15161-S009,G15161,Beta,2022-12-22,9,False,Training,Successful
+G15161-S010,G15161,Beta,2023-05-11,10,False,PUA,Successful
+G15161-S011,G15161,Beta,2023-08-16,11,False,PUA,Successful
+G15161-S012,G15161,Beta,2023-12-22,12,False,Laser-guided,Successful
+G15161-S013,G15161,Beta,2024-08-01,13,False,PUA,Failed
+G15161-S014,G15161,Beta,2024-08-13,14,False,Laser-guided,Successful
+G15161-S015,G15161,Beta,2024-10-19,15,False,PUA,Successful
+G15161-S016,G15161,Beta,2025-01-22,16,False,Artillery Spotting,Failed
+G15161-S017,G15161,Beta,2025-03-09,17,False,PUA,Successful
+G15161-S018,G15161,Beta,2025-12-30,18,False,Laser-guided,Successful
+G15161-S019,G15161,Beta,2026-03-24,19,False,PUA,Successful
+G22969-S001,G22969,Beta,2024-04-26,1,True,PUA,Successful
+G22969-S002,G22969,Beta,2024-08-17,2,False,Artillery Spotting,Successful
+G22969-S003,G22969,Beta,2025-02-03,3,False,Artillery Spotting,Successful
+G22969-S004,G22969,Beta,2025-08-12,4,False,PUA,Failed
+G22969-S005,G22969,Beta,2026-02-07,5,False,Laser-guided,Successful
+G22969-S006,G22969,Beta,2026-06-23,6,False,PUA,Successful
+AO16360-S001,AO16360,Delta,2021-03-14,1,True,PUA,Failed
+AO16360-S002,AO16360,Delta,2022-02-05,2,False,PUA,Successful
+AO16360-S003,AO16360,Delta,2023-05-14,3,False,Laser-guided,Successful
+AO16360-S004,AO16360,Delta,2023-06-17,4,False,Artillery Spotting,Failed
+AO16360-S005,AO16360,Delta,2024-01-19,5,False,PUA,Failed
+AO16360-S006,AO16360,Delta,2024-07-22,6,False,PUA,Successful
+AO16360-S007,AO16360,Delta,2024-11-27,7,False,PUA,Failed
+AO16360-S008,AO16360,Delta,2025-02-15,8,False,Laser-guided,Successful
+AO16360-S009,AO16360,Delta,2025-03-06,9,False,Training,Successful
+AO16360-S010,AO16360,Delta,2025-04-10,10,False,PUA,Successful
+AO16360-S011,AO16360,Delta,2025-07-01,11,False,PUA,Successful
+AO16360-S012,AO16360,Delta,2025-08-23,12,False,Training,Successful
+AO16360-S013,AO16360,Delta,2026-04-29,13,False,Laser-guided,Successful
+AO18342-S001,AO18342,Delta,2023-01-15,1,True,Artillery Spotting,Failed
+AO18342-S002,AO18342,Delta,2024-02-15,2,False,Training,Successful
+AO18342-S003,AO18342,Delta,2024-06-23,3,False,PUA,Successful
+AO18342-S004,AO18342,Delta,2024-07-05,4,False,PUA,Failed
+AO18342-S005,AO18342,Delta,2024-07-29,5,False,PUA,Successful
+AO18342-S006,AO18342,Delta,2024-08-12,6,False,Artillery Spotting,Successful
+AO18342-S007,AO18342,Delta,2025-04-17,7,False,Training,Successful
+AO18342-S008,AO18342,Delta,2025-08-25,8,False,Training,Successful
+AO18342-S009,AO18342,Delta,2026-02-16,9,False,PUA,Failed
+AO18342-S010,AO18342,Delta,2026-03-19,10,False,Laser-guided,Successful
+AO18342-S011,AO18342,Delta,2026-05-18,11,False,Artillery Spotting,Failed
+AO23991-S001,AO23991,Delta,2023-11-05,1,True,PUA,Successful
+AO23991-S002,AO23991,Delta,2024-01-17,2,False,PUA,Successful
+AO23991-S003,AO23991,Delta,2024-03-08,3,False,Artillery Spotting,Failed
+AO23991-S004,AO23991,Delta,2024-06-26,4,False,Training,Successful
+AO23991-S005,AO23991,Delta,2024-07-01,5,False,PUA,Failed
+AO23991-S006,AO23991,Delta,2024-11-19,6,False,Artillery Spotting,Failed
+AO23991-S007,AO23991,Delta,2025-02-02,7,False,Artillery Spotting,Successful
+AO23991-S008,AO23991,Delta,2025-02-03,8,False,Laser-guided,Successful
+AO23991-S009,AO23991,Delta,2025-09-30,9,False,Training,Successful
+AO23991-S010,AO23991,Delta,2025-10-01,10,False,Artillery Spotting,Successful
+AO23991-S011,AO23991,Delta,2025-11-28,11,False,Artillery Spotting,Failed
+AO23991-S012,AO23991,Delta,2025-12-27,12,False,PUA,Successful
+AO11296-S001,AO11296,Delta,2023-01-11,1,True,PUA,Failed
+AO11296-S002,AO11296,Delta,2023-06-12,2,False,PUA,Failed
+AO11296-S003,AO11296,Delta,2023-07-02,3,False,PUA,Successful
+AO11296-S004,AO11296,Delta,2023-07-05,4,False,Artillery Spotting,Failed
+AO11296-S005,AO11296,Delta,2023-07-24,5,False,Laser-guided,Failed
+AO11296-S006,AO11296,Delta,2023-09-13,6,False,Laser-guided,Successful
+AO11296-S007,AO11296,Delta,2023-12-10,7,False,Laser-guided,Successful
+AO11296-S008,AO11296,Delta,2023-12-17,8,False,PUA,Successful
+AO11296-S009,AO11296,Delta,2024-02-28,9,False,PUA,Successful
+AO11296-S010,AO11296,Delta,2024-03-28,10,False,PUA,Successful
+AO11296-S011,AO11296,Delta,2024-08-16,11,False,PUA,Failed
+AO11296-S012,AO11296,Delta,2024-09-24,12,False,PUA,Successful
+AO11296-S013,AO11296,Delta,2025-06-05,13,False,PUA,Failed
+AO11296-S014,AO11296,Delta,2025-07-29,14,False,Laser-guided,Successful
+AO11296-S015,AO11296,Delta,2025-11-23,15,False,Artillery Spotting,Successful
+AO11296-S016,AO11296,Delta,2026-05-02,16,False,Artillery Spotting,Successful
+AO24578-S001,AO24578,Delta,2025-03-05,1,True,PUA,Successful
+AO24578-S002,AO24578,Delta,2025-05-24,2,False,Laser-guided,Successful
+AO24578-S003,AO24578,Delta,2025-07-02,3,False,Laser-guided,Successful
+AO24578-S004,AO24578,Delta,2025-07-16,4,False,Artillery Spotting,Failed
+AO24578-S005,AO24578,Delta,2025-11-15,5,False,PUA,Failed
+AO24578-S006,AO24578,Delta,2026-02-05,6,False,PUA,Failed
+AO24578-S007,AO24578,Delta,2026-02-22,7,False,Training,Successful
+AO24578-S008,AO24578,Delta,2026-04-04,8,False,Laser-guided,Successful
+AO24578-S009,AO24578,Delta,2026-05-11,9,False,PUA,Failed
+AO25711-S001,AO25711,Delta,2025-08-26,1,True,Laser-guided,Successful
+AO25711-S002,AO25711,Delta,2025-09-07,2,False,Artillery Spotting,Successful
+AO25711-S003,AO25711,Delta,2026-02-14,3,False,Artillery Spotting,Successful
+AO25711-S004,AO25711,Delta,2026-03-22,4,False,PUA,Successful
+AO25711-S005,AO25711,Delta,2026-04-08,5,False,Training,Successful
+AO25711-S006,AO25711,Delta,2026-04-19,6,False,Training,Successful
+AO25711-S007,AO25711,Delta,2026-04-20,7,False,Artillery Spotting,Successful
+AO25711-S008,AO25711,Delta,2026-04-26,8,False,Laser-guided,Successful
+AO14187-S001,AO14187,Delta,2021-07-16,1,True,Training,Failed
+AO14187-S002,AO14187,Delta,2021-07-30,2,False,PUA,Successful
+AO14187-S003,AO14187,Delta,2021-11-11,3,False,Artillery Spotting,Successful
+AO14187-S004,AO14187,Delta,2022-01-21,4,False,PUA,Failed
+AO14187-S005,AO14187,Delta,2022-02-26,5,False,Laser-guided,Successful
+AO14187-S006,AO14187,Delta,2022-03-12,6,False,PUA,Failed
+AO14187-S007,AO14187,Delta,2022-04-25,7,False,Laser-guided,Successful
+AO14187-S008,AO14187,Delta,2022-07-28,8,False,Training,Failed
+AO14187-S009,AO14187,Delta,2022-07-30,9,False,Training,Successful
+AO14187-S010,AO14187,Delta,2022-10-02,10,False,PUA,Successful
+AO14187-S011,AO14187,Delta,2022-10-05,11,False,PUA,Successful
+AO14187-S012,AO14187,Delta,2022-11-05,12,False,Training,Successful
+AO14187-S013,AO14187,Delta,2023-01-09,13,False,Laser-guided,Successful
+AO14187-S014,AO14187,Delta,2023-09-18,14,False,Laser-guided,Successful
+AO14187-S015,AO14187,Delta,2024-01-09,15,False,Laser-guided,Successful
+AO14187-S016,AO14187,Delta,2024-05-03,16,False,Artillery Spotting,Successful
+AO14187-S017,AO14187,Delta,2024-08-18,17,False,Artillery Spotting,Successful
+AO14187-S018,AO14187,Delta,2024-09-02,18,False,PUA,Successful
+AO14187-S019,AO14187,Delta,2024-12-02,19,False,PUA,Successful
+AO14187-S020,AO14187,Delta,2024-12-05,20,False,PUA,Successful
+AO14187-S021,AO14187,Delta,2024-12-22,21,False,PUA,Successful
+AO14187-S022,AO14187,Delta,2024-12-29,22,False,Artillery Spotting,Failed
+AO14187-S023,AO14187,Delta,2025-02-09,23,False,PUA,Successful
+AO14187-S024,AO14187,Delta,2025-02-09,24,False,PUA,Successful
+AO14187-S025,AO14187,Delta,2025-08-16,25,False,PUA,Successful
+AO14187-S026,AO14187,Delta,2025-10-22,26,False,PUA,Successful
+AO14187-S027,AO14187,Delta,2025-12-08,27,False,PUA,Successful
+AO14187-S028,AO14187,Delta,2025-12-11,28,False,PUA,Successful
+AO22316-S001,AO22316,Delta,2022-08-25,1,True,Artillery Spotting,Successful
+AO22316-S002,AO22316,Delta,2023-05-06,2,False,PUA,Successful
+AO22316-S003,AO22316,Delta,2023-08-15,3,False,PUA,Successful
+AO22316-S004,AO22316,Delta,2023-09-16,4,False,PUA,Successful
+AO22316-S005,AO22316,Delta,2023-11-04,5,False,Training,Successful
+AO22316-S006,AO22316,Delta,2024-01-16,6,False,Laser-guided,Successful
+AO22316-S007,AO22316,Delta,2024-02-11,7,False,Laser-guided,Successful
+AO22316-S008,AO22316,Delta,2024-04-13,8,False,PUA,Successful
+AO22316-S009,AO22316,Delta,2024-05-23,9,False,Laser-guided,Successful
+AO22316-S010,AO22316,Delta,2025-06-22,10,False,Training,Successful
+AO22316-S011,AO22316,Delta,2025-06-28,11,False,PUA,Successful
+AO22316-S012,AO22316,Delta,2025-09-29,12,False,Training,Successful
+AO22316-S013,AO22316,Delta,2025-10-27,13,False,Artillery Spotting,Successful
+AO22316-S014,AO22316,Delta,2025-10-30,14,False,PUA,Successful
+AO22316-S015,AO22316,Delta,2025-12-27,15,False,PUA,Successful
+AO22316-S016,AO22316,Delta,2026-04-02,16,False,Laser-guided,Successful
+AO22316-S017,AO22316,Delta,2026-06-02,17,False,PUA,Successful
+AO18186-S001,AO18186,Delta,2021-08-10,1,True,Artillery Spotting,Successful
+AO18186-S002,AO18186,Delta,2021-10-19,2,False,Laser-guided,Successful
+AO18186-S003,AO18186,Delta,2022-01-15,3,False,PUA,Failed
+AO18186-S004,AO18186,Delta,2022-03-06,4,False,PUA,Successful
+AO18186-S005,AO18186,Delta,2022-07-20,5,False,PUA,Successful
+AO18186-S006,AO18186,Delta,2022-10-11,6,False,Laser-guided,Successful
+AO18186-S007,AO18186,Delta,2023-08-30,7,False,Laser-guided,Successful
+AO18186-S008,AO18186,Delta,2023-10-06,8,False,Artillery Spotting,Successful
+AO18186-S009,AO18186,Delta,2024-01-05,9,False,Laser-guided,Successful
+AO18186-S010,AO18186,Delta,2024-01-11,10,False,Training,Successful
+AO18186-S011,AO18186,Delta,2024-06-29,11,False,Artillery Spotting,Successful
+AO18186-S012,AO18186,Delta,2024-12-05,12,False,Laser-guided,Successful
+AO18186-S013,AO18186,Delta,2024-12-19,13,False,Training,Successful
+AO18186-S014,AO18186,Delta,2025-10-28,14,False,PUA,Successful
+AO18186-S015,AO18186,Delta,2026-04-25,15,False,Artillery Spotting,Successful
+AO18186-S016,AO18186,Delta,2026-05-14,16,False,Artillery Spotting,Successful
+AO18186-S017,AO18186,Delta,2026-06-10,17,False,PUA,Successful
+AO18186-S018,AO18186,Delta,2026-06-18,18,False,Training,Successful
+AO18186-S019,AO18186,Delta,2026-06-29,19,False,PUA,Successful
+AO20436-S001,AO20436,Delta,2022-11-08,1,True,Artillery Spotting,Failed
+AO20436-S002,AO20436,Delta,2022-12-09,2,False,Laser-guided,Successful
+AO20436-S003,AO20436,Delta,2023-02-21,3,False,Artillery Spotting,Successful
+AO20436-S004,AO20436,Delta,2023-05-04,4,False,PUA,Successful
+AO20436-S005,AO20436,Delta,2023-07-19,5,False,Training,Successful
+AO20436-S006,AO20436,Delta,2023-07-24,6,False,Laser-guided,Failed
+AO20436-S007,AO20436,Delta,2023-12-29,7,False,Artillery Spotting,Successful
+AO20436-S008,AO20436,Delta,2024-02-26,8,False,Laser-guided,Successful
+AO20436-S009,AO20436,Delta,2024-03-01,9,False,Laser-guided,Successful
+AO20436-S010,AO20436,Delta,2025-01-20,10,False,Training,Successful
+AO20436-S011,AO20436,Delta,2025-02-26,11,False,Training,Successful
+AO20436-S012,AO20436,Delta,2025-03-05,12,False,Artillery Spotting,Successful
+AO20436-S013,AO20436,Delta,2025-03-12,13,False,Training,Successful
+AO20436-S014,AO20436,Delta,2025-07-11,14,False,Artillery Spotting,Successful
+AO25379-S001,AO25379,Delta,2025-04-13,1,True,PUA,Failed
+AO25379-S002,AO25379,Delta,2025-04-19,2,False,Artillery Spotting,Failed
+AO25379-S003,AO25379,Delta,2025-06-06,3,False,PUA,Successful
+AO25379-S004,AO25379,Delta,2025-06-06,4,False,PUA,Successful
+AO25379-S005,AO25379,Delta,2025-10-30,5,False,Laser-guided,Successful
+AO12189-S001,AO12189,Delta,2023-05-02,1,True,Laser-guided,Successful
+AO12189-S002,AO12189,Delta,2024-05-08,2,False,PUA,Successful
+AO12189-S003,AO12189,Delta,2025-01-16,3,False,Artillery Spotting,Failed
+AO12189-S004,AO12189,Delta,2026-02-19,4,False,PUA,Failed
+AO12189-S005,AO12189,Delta,2026-03-04,5,False,PUA,Successful
+AO12189-S006,AO12189,Delta,2026-04-05,6,False,PUA,Successful
+AO12189-S007,AO12189,Delta,2026-06-16,7,False,Artillery Spotting,Failed
+AO15583-S001,AO15583,Delta,2024-10-01,1,True,Laser-guided,Failed
+AO15583-S002,AO15583,Delta,2025-06-25,2,False,PUA,Successful
+AO15583-S003,AO15583,Delta,2025-06-29,3,False,Laser-guided,Successful
+AO15583-S004,AO15583,Delta,2026-01-23,4,False,PUA,Successful
+AO15583-S005,AO15583,Delta,2026-03-08,5,False,PUA,Successful
+AO24190-S001,AO24190,Delta,2024-10-20,1,True,PUA,Successful
+AO24190-S002,AO24190,Delta,2024-12-13,2,False,Artillery Spotting,Failed
+AO24190-S003,AO24190,Delta,2025-03-11,3,False,PUA,Successful
+AO24190-S004,AO24190,Delta,2025-03-24,4,False,PUA,Successful
+AO24190-S005,AO24190,Delta,2025-08-07,5,False,Training,Successful
+AO24190-S006,AO24190,Delta,2025-09-24,6,False,PUA,Successful
+AO24190-S007,AO24190,Delta,2026-01-09,7,False,Training,Successful
+AO15781-S001,AO15781,Delta,2022-12-18,1,True,Artillery Spotting,Failed
+AO15781-S002,AO15781,Delta,2023-04-16,2,False,Training,Successful
+AO15781-S003,AO15781,Delta,2023-07-20,3,False,PUA,Successful
+AO15781-S004,AO15781,Delta,2023-09-16,4,False,Artillery Spotting,Successful
+AO15781-S005,AO15781,Delta,2023-11-14,5,False,Artillery Spotting,Successful
+AO15781-S006,AO15781,Delta,2024-03-02,6,False,Laser-guided,Successful
+AO15781-S007,AO15781,Delta,2024-05-07,7,False,Artillery Spotting,Successful
+AO15781-S008,AO15781,Delta,2024-11-04,8,False,Laser-guided,Successful
+AO15781-S009,AO15781,Delta,2024-11-29,9,False,Laser-guided,Successful
+AO15781-S010,AO15781,Delta,2024-12-05,10,False,Training,Successful
+AO15781-S011,AO15781,Delta,2025-02-28,11,False,Laser-guided,Failed
+AO15781-S012,AO15781,Delta,2025-03-22,12,False,Artillery Spotting,Failed
+AO15781-S013,AO15781,Delta,2025-04-29,13,False,Laser-guided,Successful
+AO15781-S014,AO15781,Delta,2025-06-24,14,False,Laser-guided,Successful
+AO15781-S015,AO15781,Delta,2025-10-24,15,False,Laser-guided,Successful
+AO15781-S016,AO15781,Delta,2026-02-07,16,False,PUA,Successful
+AO15781-S017,AO15781,Delta,2026-02-20,17,False,Laser-guided,Successful
+AO12061-S001,AO12061,Delta,2025-03-23,1,True,Training,Failed
+AO12061-S002,AO12061,Delta,2025-05-23,2,False,PUA,Successful
+AO12061-S003,AO12061,Delta,2025-07-08,3,False,Artillery Spotting,Successful
+AO12061-S004,AO12061,Delta,2026-05-23,4,False,PUA,Successful
+AO18148-S001,AO18148,Delta,2023-09-30,1,True,Artillery Spotting,Failed
+AO18148-S002,AO18148,Delta,2024-11-13,2,False,Artillery Spotting,Successful
+AO18148-S003,AO18148,Delta,2025-03-03,3,False,Laser-guided,Failed
+AO18148-S004,AO18148,Delta,2025-05-21,4,False,PUA,Successful
+AO18148-S005,AO18148,Delta,2025-06-13,5,False,PUA,Successful
+AO18148-S006,AO18148,Delta,2025-07-13,6,False,PUA,Successful
+AO18148-S007,AO18148,Delta,2026-01-10,7,False,PUA,Successful
+AO18148-S008,AO18148,Delta,2026-01-24,8,False,Artillery Spotting,Successful
+AO13289-S001,AO13289,Delta,2021-02-12,1,True,Laser-guided,Failed
+AO13289-S002,AO13289,Delta,2021-03-01,2,False,PUA,Successful
+AO13289-S003,AO13289,Delta,2021-07-19,3,False,Laser-guided,Successful
+AO13289-S004,AO13289,Delta,2021-09-29,4,False,PUA,Failed
+AO13289-S005,AO13289,Delta,2022-01-06,5,False,PUA,Failed
+AO13289-S006,AO13289,Delta,2022-02-08,6,False,Laser-guided,Successful
+AO13289-S007,AO13289,Delta,2022-02-26,7,False,PUA,Successful
+AO13289-S008,AO13289,Delta,2022-04-25,8,False,Laser-guided,Successful
+AO13289-S009,AO13289,Delta,2022-05-07,9,False,Training,Successful
+AO13289-S010,AO13289,Delta,2022-12-24,10,False,PUA,Successful
+AO13289-S011,AO13289,Delta,2023-03-11,11,False,PUA,Successful
+AO13289-S012,AO13289,Delta,2023-10-09,12,False,PUA,Successful
+AO13289-S013,AO13289,Delta,2024-01-11,13,False,PUA,Successful
+AO13289-S014,AO13289,Delta,2024-01-18,14,False,Training,Successful
+AO13289-S015,AO13289,Delta,2024-06-04,15,False,PUA,Successful
+AO13289-S016,AO13289,Delta,2024-06-16,16,False,PUA,Successful
+AO13289-S017,AO13289,Delta,2024-07-18,17,False,Training,Successful
+AO13289-S018,AO13289,Delta,2024-07-25,18,False,PUA,Successful
+AO13289-S019,AO13289,Delta,2024-08-24,19,False,Artillery Spotting,Successful
+AO13289-S020,AO13289,Delta,2025-01-12,20,False,Laser-guided,Successful
+AO13289-S021,AO13289,Delta,2025-02-11,21,False,Training,Successful
+AO13289-S022,AO13289,Delta,2025-03-14,22,False,Training,Successful
+AO13289-S023,AO13289,Delta,2025-07-18,23,False,Laser-guided,Successful
+AO13289-S024,AO13289,Delta,2025-08-03,24,False,PUA,Successful
+AO13289-S025,AO13289,Delta,2025-09-20,25,False,Artillery Spotting,Successful
+AO13289-S026,AO13289,Delta,2025-10-09,26,False,PUA,Successful
+AO13289-S027,AO13289,Delta,2026-02-12,27,False,Laser-guided,Successful
+AO22207-S001,AO22207,Delta,2023-12-27,1,True,PUA,Successful
+AO22207-S002,AO22207,Delta,2024-03-12,2,False,Artillery Spotting,Successful
+AO22207-S003,AO22207,Delta,2024-08-17,3,False,Training,Successful
+AO22207-S004,AO22207,Delta,2025-10-02,4,False,Laser-guided,Successful
+AO22207-S005,AO22207,Delta,2025-10-22,5,False,Laser-guided,Successful
+AO22207-S006,AO22207,Delta,2026-01-01,6,False,Artillery Spotting,Successful
+AO22207-S007,AO22207,Delta,2026-01-08,7,False,Laser-guided,Successful
+AO22207-S008,AO22207,Delta,2026-04-05,8,False,PUA,Successful
+AO22207-S009,AO22207,Delta,2026-04-21,9,False,PUA,Successful
+AO22207-S010,AO22207,Delta,2026-04-28,10,False,PUA,Successful
+AO17682-S001,AO17682,Delta,2022-11-29,1,True,Laser-guided,Successful
+AO17682-S002,AO17682,Delta,2023-10-10,2,False,Training,Successful
+AO17682-S003,AO17682,Delta,2024-05-03,3,False,Artillery Spotting,Successful
+AO17682-S004,AO17682,Delta,2025-03-31,4,False,PUA,Successful
+AO17682-S005,AO17682,Delta,2026-02-25,5,False,Laser-guided,Successful
+AO17682-S006,AO17682,Delta,2026-04-06,6,False,Training,Successful
+AO17015-S001,AO17015,Delta,2022-12-21,1,True,Artillery Spotting,Successful
+AO17015-S002,AO17015,Delta,2023-08-13,2,False,PUA,Successful
+AO17015-S003,AO17015,Delta,2024-04-01,3,False,Training,Successful
+AO17015-S004,AO17015,Delta,2024-05-04,4,False,Laser-guided,Successful
+AO17015-S005,AO17015,Delta,2024-07-28,5,False,Laser-guided,Successful
+AO17015-S006,AO17015,Delta,2024-09-21,6,False,Laser-guided,Successful
+AO17015-S007,AO17015,Delta,2024-10-08,7,False,Artillery Spotting,Successful
+AO17015-S008,AO17015,Delta,2025-03-09,8,False,PUA,Successful
+AO17015-S009,AO17015,Delta,2025-04-05,9,False,PUA,Successful
+AO17015-S010,AO17015,Delta,2025-06-26,10,False,PUA,Successful
+AO17015-S011,AO17015,Delta,2025-12-06,11,False,PUA,Successful
+AO17015-S012,AO17015,Delta,2026-06-30,12,False,Training,Successful
+AO13576-S001,AO13576,Delta,2023-10-02,1,True,Laser-guided,Successful
+AO13576-S002,AO13576,Delta,2023-12-07,2,False,PUA,Successful
+AO13576-S003,AO13576,Delta,2023-12-12,3,False,PUA,Failed
+AO13576-S004,AO13576,Delta,2024-03-28,4,False,Laser-guided,Successful
+AO13576-S005,AO13576,Delta,2024-04-22,5,False,PUA,Successful
+AO13576-S006,AO13576,Delta,2024-05-14,6,False,Training,Successful
+AO13576-S007,AO13576,Delta,2024-06-18,7,False,Laser-guided,Successful
+AO13576-S008,AO13576,Delta,2025-02-01,8,False,PUA,Successful
+AO13576-S009,AO13576,Delta,2025-05-31,9,False,Training,Successful
+AO13576-S010,AO13576,Delta,2025-06-21,10,False,PUA,Failed
+AO13576-S011,AO13576,Delta,2025-06-25,11,False,PUA,Successful
+AO13576-S012,AO13576,Delta,2025-09-21,12,False,Training,Successful
+AO13576-S013,AO13576,Delta,2025-12-20,13,False,Laser-guided,Successful
+AO13576-S014,AO13576,Delta,2026-01-15,14,False,Artillery Spotting,Successful
+AO13576-S015,AO13576,Delta,2026-02-01,15,False,Laser-guided,Successful
+AO13576-S016,AO13576,Delta,2026-04-05,16,False,Training,Successful
+AO13576-S017,AO13576,Delta,2026-05-26,17,False,Laser-guided,Successful
+AO20306-S001,AO20306,Delta,2024-12-31,1,True,Laser-guided,Failed
+AO20306-S002,AO20306,Delta,2025-05-04,2,False,PUA,Successful
+AO20306-S003,AO20306,Delta,2025-07-05,3,False,PUA,Successful
+AO20306-S004,AO20306,Delta,2025-07-06,4,False,PUA,Successful
+AO20306-S005,AO20306,Delta,2025-07-14,5,False,Laser-guided,Successful
+AO20306-S006,AO20306,Delta,2025-07-31,6,False,PUA,Successful
+AO20306-S007,AO20306,Delta,2025-10-03,7,False,Laser-guided,Successful
+AO20306-S008,AO20306,Delta,2025-10-13,8,False,Artillery Spotting,Failed
+AO20306-S009,AO20306,Delta,2025-11-07,9,False,Laser-guided,Successful
+AO20306-S010,AO20306,Delta,2026-03-14,10,False,Laser-guided,Successful
+AO20306-S011,AO20306,Delta,2026-04-01,11,False,Artillery Spotting,Failed
+AO20306-S012,AO20306,Delta,2026-05-13,12,False,PUA,Successful
+AO14271-S001,AO14271,Delta,2022-07-21,1,True,Training,Successful
+AO14271-S002,AO14271,Delta,2022-08-23,2,False,Artillery Spotting,Successful
+AO14271-S003,AO14271,Delta,2022-09-05,3,False,PUA,Successful
+AO14271-S004,AO14271,Delta,2023-07-02,4,False,Training,Successful
+AO14271-S005,AO14271,Delta,2023-12-21,5,False,Artillery Spotting,Successful
+AO14271-S006,AO14271,Delta,2024-02-10,6,False,Laser-guided,Successful
+AO14271-S007,AO14271,Delta,2024-11-26,7,False,Training,Successful
+AO14271-S008,AO14271,Delta,2024-12-08,8,False,PUA,Successful
+AO14271-S009,AO14271,Delta,2025-05-15,9,False,PUA,Successful
+AO14271-S010,AO14271,Delta,2025-07-06,10,False,PUA,Successful
+AO14271-S011,AO14271,Delta,2026-03-29,11,False,PUA,Failed
+AO14271-S012,AO14271,Delta,2026-06-12,12,False,Training,Successful
+AO14271-S013,AO14271,Delta,2026-06-17,13,False,Laser-guided,Successful
+AO25477-S001,AO25477,Delta,2025-07-30,1,True,PUA,Successful
+AO25477-S002,AO25477,Delta,2025-08-07,2,False,Training,Successful
+AO25477-S003,AO25477,Delta,2025-09-08,3,False,PUA,Successful
+AO25477-S004,AO25477,Delta,2025-11-25,4,False,PUA,Successful
+AO25477-S005,AO25477,Delta,2026-05-01,5,False,Laser-guided,Successful
+AO25477-S006,AO25477,Delta,2026-06-26,6,False,Training,Successful
+AO16242-S001,AO16242,Delta,2021-08-27,1,True,PUA,Successful
+AO16242-S002,AO16242,Delta,2021-09-06,2,False,Training,Successful
+AO16242-S003,AO16242,Delta,2022-03-23,3,False,Laser-guided,Successful
+AO16242-S004,AO16242,Delta,2022-06-14,4,False,Training,Successful
+AO16242-S005,AO16242,Delta,2022-11-10,5,False,Training,Successful
+AO16242-S006,AO16242,Delta,2022-12-04,6,False,PUA,Successful
+AO16242-S007,AO16242,Delta,2023-01-13,7,False,Training,Successful
+AO16242-S008,AO16242,Delta,2023-06-05,8,False,Laser-guided,Successful
+AO16242-S009,AO16242,Delta,2024-04-07,9,False,Laser-guided,Successful
+AO16242-S010,AO16242,Delta,2024-09-17,10,False,Laser-guided,Successful
+AO16242-S011,AO16242,Delta,2024-09-30,11,False,Training,Successful
+AO16242-S012,AO16242,Delta,2025-01-09,12,False,Artillery Spotting,Successful
+AO16242-S013,AO16242,Delta,2025-08-08,13,False,Artillery Spotting,Successful
+AO16242-S014,AO16242,Delta,2025-08-13,14,False,Training,Successful
+AO16242-S015,AO16242,Delta,2025-11-16,15,False,PUA,Successful
+AO16242-S016,AO16242,Delta,2026-03-04,16,False,PUA,Successful
+AO16242-S017,AO16242,Delta,2026-03-24,17,False,PUA,Successful
+AO16242-S018,AO16242,Delta,2026-06-14,18,False,PUA,Failed
+AO23405-S001,AO23405,Delta,2024-05-24,1,True,Laser-guided,Successful
+AO23405-S002,AO23405,Delta,2024-07-14,2,False,Laser-guided,Successful
+AO23405-S003,AO23405,Delta,2024-07-31,3,False,PUA,Failed
+AO23405-S004,AO23405,Delta,2025-02-06,4,False,Laser-guided,Successful
+AO23405-S005,AO23405,Delta,2025-03-04,5,False,PUA,Successful
+AO23405-S006,AO23405,Delta,2025-05-02,6,False,PUA,Successful
+AO23405-S007,AO23405,Delta,2025-05-25,7,False,Training,Successful
+AO23405-S008,AO23405,Delta,2025-07-27,8,False,Training,Successful
+AO23405-S009,AO23405,Delta,2026-04-17,9,False,Artillery Spotting,Successful
+G20303-S001,G20303,Delta,2023-01-11,1,True,PUA,Successful
+G20303-S002,G20303,Delta,2023-03-31,2,False,PUA,Successful
+G20303-S003,G20303,Delta,2023-04-23,3,False,PUA,Failed
+G20303-S004,G20303,Delta,2023-10-10,4,False,PUA,Successful
+G20303-S005,G20303,Delta,2023-12-11,5,False,Laser-guided,Failed
+G20303-S006,G20303,Delta,2023-12-12,6,False,Training,Successful
+G20303-S007,G20303,Delta,2024-06-12,7,False,Artillery Spotting,Successful
+G20303-S008,G20303,Delta,2025-09-24,8,False,Artillery Spotting,Successful
+G20303-S009,G20303,Delta,2025-11-17,9,False,Laser-guided,Successful
+G20303-S010,G20303,Delta,2026-02-12,10,False,Training,Failed
+G12516-S001,G12516,Delta,2021-05-20,1,True,PUA,Failed
+G12516-S002,G12516,Delta,2021-07-07,2,False,PUA,Successful
+G12516-S003,G12516,Delta,2021-09-23,3,False,Laser-guided,Successful
+G12516-S004,G12516,Delta,2021-10-07,4,False,PUA,Successful
+G12516-S005,G12516,Delta,2021-11-03,5,False,Artillery Spotting,Successful
+G12516-S006,G12516,Delta,2021-11-26,6,False,Laser-guided,Successful
+G12516-S007,G12516,Delta,2022-01-27,7,False,PUA,Successful
+G12516-S008,G12516,Delta,2022-07-03,8,False,PUA,Successful
+G12516-S009,G12516,Delta,2023-07-18,9,False,PUA,Successful
+G12516-S010,G12516,Delta,2024-08-17,10,False,Laser-guided,Successful
+G12516-S011,G12516,Delta,2024-10-08,11,False,Laser-guided,Successful
+G12516-S012,G12516,Delta,2025-02-03,12,False,Laser-guided,Successful
+G12516-S013,G12516,Delta,2025-04-21,13,False,PUA,Failed
+G12516-S014,G12516,Delta,2025-05-29,14,False,PUA,Successful
+G12516-S015,G12516,Delta,2026-02-25,15,False,Laser-guided,Successful
+G11545-S001,G11545,Delta,2023-11-05,1,True,Training,Successful
+G11545-S002,G11545,Delta,2024-01-26,2,False,PUA,Successful
+G11545-S003,G11545,Delta,2024-05-06,3,False,Laser-guided,Successful
+G11545-S004,G11545,Delta,2024-07-08,4,False,Training,Successful
+G11545-S005,G11545,Delta,2024-07-21,5,False,PUA,Failed
+G11545-S006,G11545,Delta,2024-08-07,6,False,Training,Successful
+G11545-S007,G11545,Delta,2024-12-05,7,False,PUA,Successful
+G11545-S008,G11545,Delta,2025-01-10,8,False,PUA,Failed
+G11545-S009,G11545,Delta,2025-03-31,9,False,PUA,Successful
+G11545-S010,G11545,Delta,2025-10-24,10,False,Training,Successful
+G11545-S011,G11545,Delta,2025-11-15,11,False,PUA,Failed
+G11545-S012,G11545,Delta,2025-12-25,12,False,PUA,Successful
+G11545-S013,G11545,Delta,2025-12-25,13,False,Training,Successful
+G11545-S014,G11545,Delta,2026-05-05,14,False,PUA,Successful
+G24443-S001,G24443,Delta,2024-07-21,1,True,Laser-guided,Successful
+G24443-S002,G24443,Delta,2024-10-20,2,False,PUA,Failed
+G24443-S003,G24443,Delta,2024-11-13,3,False,Artillery Spotting,Successful
+G24443-S004,G24443,Delta,2024-12-04,4,False,PUA,Successful
+G24443-S005,G24443,Delta,2025-01-16,5,False,PUA,Successful
+G24443-S006,G24443,Delta,2025-01-29,6,False,Artillery Spotting,Successful
+G24443-S007,G24443,Delta,2025-04-17,7,False,PUA,Successful
+G24443-S008,G24443,Delta,2025-05-13,8,False,PUA,Successful
+G24443-S009,G24443,Delta,2025-06-05,9,False,PUA,Successful
+G24443-S010,G24443,Delta,2025-08-10,10,False,Training,Successful
+G24443-S011,G24443,Delta,2025-09-03,11,False,Laser-guided,Successful
+G23314-S001,G23314,Delta,2023-06-11,1,True,Laser-guided,Successful
+G23314-S002,G23314,Delta,2023-07-23,2,False,Training,Successful
+G23314-S003,G23314,Delta,2023-07-26,3,False,Artillery Spotting,Failed
+G23314-S004,G23314,Delta,2023-10-26,4,False,Training,Failed
+G23314-S005,G23314,Delta,2024-05-17,5,False,PUA,Successful
+G23314-S006,G23314,Delta,2024-11-03,6,False,PUA,Successful
+G23314-S007,G23314,Delta,2024-11-19,7,False,Artillery Spotting,Successful
+G23314-S008,G23314,Delta,2025-03-22,8,False,PUA,Failed
+G23314-S009,G23314,Delta,2025-04-02,9,False,Laser-guided,Failed
+G23314-S010,G23314,Delta,2025-09-17,10,False,Training,Failed
+G08440-S001,G08440,Delta,2021-12-23,1,True,PUA,Successful
+G08440-S002,G08440,Delta,2022-02-18,2,False,PUA,Failed
+G08440-S003,G08440,Delta,2022-08-03,3,False,Training,Successful
+G08440-S004,G08440,Delta,2023-01-12,4,False,Laser-guided,Failed
+G08440-S005,G08440,Delta,2023-03-03,5,False,PUA,Successful
+G08440-S006,G08440,Delta,2023-05-06,6,False,Laser-guided,Successful
+G08440-S007,G08440,Delta,2023-12-19,7,False,Artillery Spotting,Successful
+G08440-S008,G08440,Delta,2024-10-30,8,False,Artillery Spotting,Successful
+G08440-S009,G08440,Delta,2024-12-26,9,False,Laser-guided,Successful
+G08440-S010,G08440,Delta,2025-05-26,10,False,PUA,Successful
+G08440-S011,G08440,Delta,2025-08-07,11,False,Training,Successful
+G08440-S012,G08440,Delta,2025-10-14,12,False,PUA,Successful
+G08440-S013,G08440,Delta,2026-01-04,13,False,PUA,Successful
+G08440-S014,G08440,Delta,2026-01-07,14,False,PUA,Failed
+G08440-S015,G08440,Delta,2026-02-15,15,False,Laser-guided,Successful
+G08440-S016,G08440,Delta,2026-03-18,16,False,PUA,Successful
+G23726-S001,G23726,Delta,2024-01-16,1,True,Training,Successful
+G23726-S002,G23726,Delta,2024-06-18,2,False,PUA,Successful
+G23726-S003,G23726,Delta,2024-07-04,3,False,PUA,Successful
+G23726-S004,G23726,Delta,2024-07-26,4,False,PUA,Successful
+G23726-S005,G23726,Delta,2024-11-01,5,False,Training,Successful
+G23726-S006,G23726,Delta,2025-07-09,6,False,PUA,Successful
+G23726-S007,G23726,Delta,2025-10-14,7,False,Laser-guided,Successful
+G23726-S008,G23726,Delta,2025-11-16,8,False,PUA,Successful
+G23726-S009,G23726,Delta,2026-02-19,9,False,Training,Successful
+G23726-S010,G23726,Delta,2026-04-20,10,False,Laser-guided,Successful
+G23726-S011,G23726,Delta,2026-05-23,11,False,Laser-guided,Successful
+G11657-S001,G11657,Delta,2022-03-28,1,True,Laser-guided,Failed
+G11657-S002,G11657,Delta,2022-03-31,2,False,Laser-guided,Successful
+G11657-S003,G11657,Delta,2022-06-09,3,False,PUA,Successful
+G11657-S004,G11657,Delta,2022-10-02,4,False,Artillery Spotting,Failed
+G11657-S005,G11657,Delta,2023-06-18,5,False,PUA,Failed
+G11657-S006,G11657,Delta,2023-07-17,6,False,PUA,Successful
+G11657-S007,G11657,Delta,2023-08-27,7,False,PUA,Successful
+G11657-S008,G11657,Delta,2023-10-05,8,False,PUA,Failed
+G11657-S009,G11657,Delta,2023-12-08,9,False,PUA,Successful
+G11657-S010,G11657,Delta,2023-12-26,10,False,Artillery Spotting,Successful
+G11657-S011,G11657,Delta,2024-04-03,11,False,Laser-guided,Successful
+G11657-S012,G11657,Delta,2024-08-04,12,False,Laser-guided,Successful
+G11657-S013,G11657,Delta,2025-01-20,13,False,Artillery Spotting,Successful
+G11657-S014,G11657,Delta,2026-02-02,14,False,PUA,Successful
+G22580-S001,G22580,Delta,2023-12-14,1,True,Training,Successful
+G22580-S002,G22580,Delta,2023-12-28,2,False,PUA,Successful
+G22580-S003,G22580,Delta,2024-02-27,3,False,Artillery Spotting,Successful
+G22580-S004,G22580,Delta,2024-04-04,4,False,PUA,Successful
+G22580-S005,G22580,Delta,2024-04-22,5,False,PUA,Successful
+G22580-S006,G22580,Delta,2024-04-27,6,False,Artillery Spotting,Successful
+G22580-S007,G22580,Delta,2024-10-21,7,False,Laser-guided,Failed
+G22580-S008,G22580,Delta,2025-01-08,8,False,Laser-guided,Successful
+G22580-S009,G22580,Delta,2025-01-13,9,False,PUA,Successful
+G22580-S010,G22580,Delta,2025-05-13,10,False,PUA,Successful
+G22580-S011,G22580,Delta,2025-06-01,11,False,Training,Successful
+G22580-S012,G22580,Delta,2025-06-13,12,False,Training,Successful
+G22580-S013,G22580,Delta,2026-01-10,13,False,Artillery Spotting,Successful
+G22580-S014,G22580,Delta,2026-04-01,14,False,Laser-guided,Successful
+G22580-S015,G22580,Delta,2026-04-20,15,False,PUA,Failed
+G22580-S016,G22580,Delta,2026-05-05,16,False,Training,Successful
+G22580-S017,G22580,Delta,2026-05-10,17,False,Training,Successful
+G16308-S001,G16308,Delta,2023-10-04,1,True,Laser-guided,Successful
+G16308-S002,G16308,Delta,2024-03-12,2,False,Laser-guided,Successful
+G16308-S003,G16308,Delta,2024-11-15,3,False,PUA,Successful
+G16308-S004,G16308,Delta,2024-11-23,4,False,Training,Successful
+G16308-S005,G16308,Delta,2024-12-01,5,False,PUA,Successful
+G16308-S006,G16308,Delta,2025-02-20,6,False,Laser-guided,Successful
+G16308-S007,G16308,Delta,2025-03-25,7,False,Laser-guided,Successful
+G16308-S008,G16308,Delta,2025-04-05,8,False,Artillery Spotting,Successful
+G16308-S009,G16308,Delta,2025-06-09,9,False,Artillery Spotting,Successful
+G16308-S010,G16308,Delta,2025-07-13,10,False,Training,Successful
+G16308-S011,G16308,Delta,2025-09-03,11,False,Artillery Spotting,Successful
+G16308-S012,G16308,Delta,2025-10-12,12,False,PUA,Successful
+G22662-S001,G22662,Delta,2023-12-17,1,True,Laser-guided,Successful
+G22662-S002,G22662,Delta,2024-01-18,2,False,PUA,Failed
+G22662-S003,G22662,Delta,2024-07-29,3,False,Training,Successful
+G22662-S004,G22662,Delta,2024-11-12,4,False,PUA,Successful
+G22662-S005,G22662,Delta,2025-01-29,5,False,Artillery Spotting,Successful
+G22662-S006,G22662,Delta,2025-02-14,6,False,Laser-guided,Successful
+G22662-S007,G22662,Delta,2025-04-08,7,False,Training,Successful
+G22662-S008,G22662,Delta,2025-05-01,8,False,PUA,Successful
+G22662-S009,G22662,Delta,2025-06-21,9,False,Laser-guided,Successful
+G22662-S010,G22662,Delta,2025-07-15,10,False,Laser-guided,Successful
+G22662-S011,G22662,Delta,2025-08-07,11,False,Artillery Spotting,Successful
+G22662-S012,G22662,Delta,2025-10-10,12,False,PUA,Successful
+G22662-S013,G22662,Delta,2025-12-03,13,False,PUA,Successful
+G20911-S001,G20911,Delta,2024-03-04,1,True,PUA,Failed
+G20911-S002,G20911,Delta,2024-05-29,2,False,PUA,Successful
+G20911-S003,G20911,Delta,2024-06-16,3,False,Laser-guided,Failed
+G20911-S004,G20911,Delta,2024-10-20,4,False,Training,Successful
+G20911-S005,G20911,Delta,2024-12-05,5,False,Laser-guided,Successful
+G20911-S006,G20911,Delta,2024-12-27,6,False,Laser-guided,Successful
+G20911-S007,G20911,Delta,2024-12-30,7,False,PUA,Failed
+G20911-S008,G20911,Delta,2025-01-25,8,False,Artillery Spotting,Failed
+G20911-S009,G20911,Delta,2025-04-26,9,False,Laser-guided,Successful
+G20911-S010,G20911,Delta,2026-02-07,10,False,Laser-guided,Successful
+G20911-S011,G20911,Delta,2026-03-20,11,False,Laser-guided,Successful
+G20911-S012,G20911,Delta,2026-06-13,12,False,PUA,Successful
+G22464-S001,G22464,Delta,2024-12-18,1,True,Artillery Spotting,Successful
+G22464-S002,G22464,Delta,2025-03-01,2,False,PUA,Successful
+G22464-S003,G22464,Delta,2025-06-28,3,False,PUA,Failed
+G22464-S004,G22464,Delta,2025-07-11,4,False,Training,Successful
+G22464-S005,G22464,Delta,2025-09-17,5,False,Laser-guided,Successful
+G22464-S006,G22464,Delta,2025-10-13,6,False,PUA,Successful
+G22464-S007,G22464,Delta,2025-12-16,7,False,Laser-guided,Failed
+G22464-S008,G22464,Delta,2026-01-15,8,False,Laser-guided,Successful
+G22464-S009,G22464,Delta,2026-03-01,9,False,Artillery Spotting,Failed
+G22464-S010,G22464,Delta,2026-04-09,10,False,Artillery Spotting,Successful
+G22464-S011,G22464,Delta,2026-06-16,11,False,Training,Successful
+G21369-S001,G21369,Delta,2024-07-18,1,True,Training,Successful
+G21369-S002,G21369,Delta,2024-10-19,2,False,PUA,Successful
+G21369-S003,G21369,Delta,2024-11-30,3,False,Training,Successful
+G21369-S004,G21369,Delta,2025-03-16,4,False,PUA,Successful
+G21369-S005,G21369,Delta,2025-05-17,5,False,Artillery Spotting,Failed
+G21369-S006,G21369,Delta,2025-11-16,6,False,Artillery Spotting,Successful
+G21369-S007,G21369,Delta,2026-02-04,7,False,Laser-guided,Successful
+G21369-S008,G21369,Delta,2026-06-15,8,False,Training,Successful
+G07690-S001,G07690,Delta,2025-09-22,1,True,Training,Successful
+G07690-S002,G07690,Delta,2026-04-26,2,False,PUA,Successful
+G07690-S003,G07690,Delta,2026-05-09,3,False,PUA,Successful
+G07690-S004,G07690,Delta,2026-05-10,4,False,Training,Successful
+G07690-S005,G07690,Delta,2026-06-24,5,False,Training,Successful
+AO17072-S001,AO17072,Gamma,2022-04-03,1,True,Laser-guided,Failed
+AO17072-S002,AO17072,Gamma,2022-09-07,2,False,PUA,Successful
+AO17072-S003,AO17072,Gamma,2022-10-20,3,False,PUA,Successful
+AO17072-S004,AO17072,Gamma,2022-11-18,4,False,PUA,Successful
+AO17072-S005,AO17072,Gamma,2022-12-31,5,False,PUA,Successful
+AO17072-S006,AO17072,Gamma,2023-09-02,6,False,PUA,Successful
+AO17072-S007,AO17072,Gamma,2024-04-03,7,False,Laser-guided,Successful
+AO17072-S008,AO17072,Gamma,2024-04-27,8,False,PUA,Failed
+AO17072-S009,AO17072,Gamma,2024-10-05,9,False,PUA,Successful
+AO17072-S010,AO17072,Gamma,2025-02-05,10,False,PUA,Successful
+AO17072-S011,AO17072,Gamma,2025-02-17,11,False,Artillery Spotting,Successful
+AO17072-S012,AO17072,Gamma,2025-07-08,12,False,Laser-guided,Successful
+AO17072-S013,AO17072,Gamma,2025-07-12,13,False,Laser-guided,Successful
+AO17072-S014,AO17072,Gamma,2026-02-21,14,False,Laser-guided,Successful
+AO17072-S015,AO17072,Gamma,2026-03-08,15,False,Training,Successful
+AO17072-S016,AO17072,Gamma,2026-05-24,16,False,PUA,Successful
+AO24985-S001,AO24985,Gamma,2024-09-04,1,True,PUA,Failed
+AO24985-S002,AO24985,Gamma,2024-10-06,2,False,Training,Successful
+AO24985-S003,AO24985,Gamma,2024-10-23,3,False,Laser-guided,Successful
+AO24985-S004,AO24985,Gamma,2024-10-27,4,False,Artillery Spotting,Successful
+AO24985-S005,AO24985,Gamma,2024-11-13,5,False,Artillery Spotting,Successful
+AO24985-S006,AO24985,Gamma,2025-01-01,6,False,Laser-guided,Successful
+AO24985-S007,AO24985,Gamma,2025-02-12,7,False,PUA,Failed
+AO24985-S008,AO24985,Gamma,2025-03-09,8,False,Training,Successful
+AO24985-S009,AO24985,Gamma,2025-07-12,9,False,PUA,Successful
+AO24985-S010,AO24985,Gamma,2025-07-26,10,False,PUA,Successful
+AO24985-S011,AO24985,Gamma,2025-09-09,11,False,PUA,Successful
+AO24985-S012,AO24985,Gamma,2025-12-07,12,False,PUA,Successful
+AO21429-S001,AO21429,Gamma,2021-12-06,1,True,Artillery Spotting,Successful
+AO21429-S002,AO21429,Gamma,2022-09-19,2,False,Laser-guided,Successful
+AO21429-S003,AO21429,Gamma,2023-04-04,3,False,Laser-guided,Successful
+AO21429-S004,AO21429,Gamma,2023-04-22,4,False,PUA,Failed
+AO21429-S005,AO21429,Gamma,2023-07-28,5,False,Laser-guided,Successful
+AO21429-S006,AO21429,Gamma,2023-08-01,6,False,PUA,Failed
+AO21429-S007,AO21429,Gamma,2023-08-13,7,False,Training,Successful
+AO21429-S008,AO21429,Gamma,2023-08-17,8,False,PUA,Failed
+AO21429-S009,AO21429,Gamma,2023-11-17,9,False,Artillery Spotting,Successful
+AO21429-S010,AO21429,Gamma,2024-01-24,10,False,PUA,Successful
+AO21429-S011,AO21429,Gamma,2025-04-03,11,False,Training,Successful
+AO21429-S012,AO21429,Gamma,2025-05-19,12,False,Laser-guided,Successful
+AO21429-S013,AO21429,Gamma,2025-07-30,13,False,Artillery Spotting,Successful
+AO21429-S014,AO21429,Gamma,2025-10-13,14,False,Laser-guided,Successful
+AO21429-S015,AO21429,Gamma,2026-03-31,15,False,PUA,Successful
+AO20240-S001,AO20240,Gamma,2022-07-27,1,True,PUA,Failed
+AO20240-S002,AO20240,Gamma,2022-08-29,2,False,Artillery Spotting,Successful
+AO20240-S003,AO20240,Gamma,2023-02-21,3,False,Artillery Spotting,Successful
+AO20240-S004,AO20240,Gamma,2023-05-27,4,False,PUA,Successful
+AO20240-S005,AO20240,Gamma,2023-07-08,5,False,PUA,Successful
+AO20240-S006,AO20240,Gamma,2023-09-16,6,False,PUA,Successful
+AO20240-S007,AO20240,Gamma,2024-03-26,7,False,PUA,Successful
+AO20240-S008,AO20240,Gamma,2024-04-08,8,False,PUA,Successful
+AO20240-S009,AO20240,Gamma,2024-12-26,9,False,Laser-guided,Successful
+AO20240-S010,AO20240,Gamma,2025-02-14,10,False,PUA,Successful
+AO20240-S011,AO20240,Gamma,2025-02-21,11,False,PUA,Successful
+AO20240-S012,AO20240,Gamma,2025-02-27,12,False,Laser-guided,Successful
+AO20240-S013,AO20240,Gamma,2025-06-28,13,False,PUA,Successful
+AO20240-S014,AO20240,Gamma,2026-02-27,14,False,PUA,Successful
+AO20240-S015,AO20240,Gamma,2026-03-01,15,False,PUA,Failed
+AO24475-S001,AO24475,Gamma,2024-06-25,1,True,PUA,Failed
+AO24475-S002,AO24475,Gamma,2024-09-25,2,False,PUA,Successful
+AO24475-S003,AO24475,Gamma,2024-11-05,3,False,PUA,Successful
+AO24475-S004,AO24475,Gamma,2025-06-09,4,False,PUA,Successful
+AO24475-S005,AO24475,Gamma,2025-07-09,5,False,Laser-guided,Successful
+AO24475-S006,AO24475,Gamma,2025-12-06,6,False,PUA,Successful
+AO24475-S007,AO24475,Gamma,2026-01-17,7,False,PUA,Successful
+AO24475-S008,AO24475,Gamma,2026-04-09,8,False,PUA,Successful
+AO24451-S001,AO24451,Gamma,2024-08-14,1,True,Laser-guided,Successful
+AO24451-S002,AO24451,Gamma,2025-01-10,2,False,Training,Successful
+AO24451-S003,AO24451,Gamma,2025-05-29,3,False,Laser-guided,Successful
+AO24451-S004,AO24451,Gamma,2025-08-03,4,False,PUA,Successful
+AO24451-S005,AO24451,Gamma,2026-01-12,5,False,PUA,Failed
+AO24451-S006,AO24451,Gamma,2026-03-01,6,False,Laser-guided,Successful
+AO24451-S007,AO24451,Gamma,2026-06-04,7,False,Laser-guided,Successful
+AO25736-S001,AO25736,Gamma,2025-04-13,1,True,Training,Successful
+AO25736-S002,AO25736,Gamma,2025-07-23,2,False,Training,Successful
+AO25736-S003,AO25736,Gamma,2025-11-23,3,False,PUA,Successful
+AO25736-S004,AO25736,Gamma,2026-03-08,4,False,Laser-guided,Successful
+AO25736-S005,AO25736,Gamma,2026-03-26,5,False,PUA,Successful
+AO25736-S006,AO25736,Gamma,2026-04-12,6,False,Training,Successful
+AO24080-S001,AO24080,Gamma,2024-12-28,1,True,Laser-guided,Successful
+AO24080-S002,AO24080,Gamma,2025-02-09,2,False,Laser-guided,Failed
+AO24080-S003,AO24080,Gamma,2025-03-15,3,False,PUA,Successful
+AO24080-S004,AO24080,Gamma,2025-04-30,4,False,Laser-guided,Successful
+AO24080-S005,AO24080,Gamma,2025-05-12,5,False,Laser-guided,Successful
+AO24080-S006,AO24080,Gamma,2025-07-19,6,False,Laser-guided,Successful
+AO24080-S007,AO24080,Gamma,2025-08-30,7,False,Training,Successful
+AO24080-S008,AO24080,Gamma,2025-10-10,8,False,PUA,Successful
+AO24080-S009,AO24080,Gamma,2025-11-16,9,False,PUA,Successful
+AO24080-S010,AO24080,Gamma,2025-12-10,10,False,PUA,Successful
+AO24080-S011,AO24080,Gamma,2025-12-19,11,False,PUA,Successful
+AO24080-S012,AO24080,Gamma,2026-01-20,12,False,Artillery Spotting,Failed
+AO24080-S013,AO24080,Gamma,2026-03-15,13,False,PUA,Successful
+AO24080-S014,AO24080,Gamma,2026-03-28,14,False,PUA,Successful
+AO24080-S015,AO24080,Gamma,2026-06-20,15,False,PUA,Successful
+AO23313-S001,AO23313,Gamma,2023-12-17,1,True,Laser-guided,Successful
+AO23313-S002,AO23313,Gamma,2024-04-29,2,False,Laser-guided,Successful
+AO23313-S003,AO23313,Gamma,2025-01-05,3,False,Training,Successful
+AO23313-S004,AO23313,Gamma,2025-02-20,4,False,PUA,Successful
+AO23313-S005,AO23313,Gamma,2025-03-08,5,False,Laser-guided,Successful
+AO23313-S006,AO23313,Gamma,2025-03-18,6,False,PUA,Successful
+AO23313-S007,AO23313,Gamma,2025-06-06,7,False,Artillery Spotting,Successful
+AO23313-S008,AO23313,Gamma,2025-08-12,8,False,Training,Successful
+AO23313-S009,AO23313,Gamma,2025-12-19,9,False,PUA,Successful
+AO23313-S010,AO23313,Gamma,2026-02-20,10,False,Training,Successful
+AO23313-S011,AO23313,Gamma,2026-04-21,11,False,PUA,Successful
+AO23313-S012,AO23313,Gamma,2026-05-06,12,False,PUA,Successful
+AO23316-S001,AO23316,Gamma,2024-03-02,1,True,PUA,Successful
+AO23316-S002,AO23316,Gamma,2024-03-13,2,False,Laser-guided,Successful
+AO23316-S003,AO23316,Gamma,2024-06-30,3,False,Artillery Spotting,Successful
+AO23316-S004,AO23316,Gamma,2025-01-01,4,False,PUA,Successful
+AO23316-S005,AO23316,Gamma,2025-06-26,5,False,PUA,Successful
+AO23316-S006,AO23316,Gamma,2025-08-12,6,False,PUA,Successful
+AO23316-S007,AO23316,Gamma,2025-12-28,7,False,Artillery Spotting,Successful
+AO23316-S008,AO23316,Gamma,2026-01-14,8,False,PUA,Successful
+AO23316-S009,AO23316,Gamma,2026-03-10,9,False,Laser-guided,Successful
+AO23316-S010,AO23316,Gamma,2026-04-06,10,False,Artillery Spotting,Successful
+AO23316-S011,AO23316,Gamma,2026-04-16,11,False,Laser-guided,Successful
+AO23316-S012,AO23316,Gamma,2026-05-03,12,False,PUA,Failed
+AO23316-S013,AO23316,Gamma,2026-06-02,13,False,Laser-guided,Successful
+AO17887-S001,AO17887,Gamma,2025-04-04,1,True,PUA,Successful
+AO17887-S002,AO17887,Gamma,2025-04-18,2,False,Artillery Spotting,Successful
+AO17887-S003,AO17887,Gamma,2025-04-28,3,False,Training,Failed
+AO17887-S004,AO17887,Gamma,2025-05-01,4,False,PUA,Successful
+AO17887-S005,AO17887,Gamma,2025-05-20,5,False,Laser-guided,Successful
+AO17887-S006,AO17887,Gamma,2025-05-23,6,False,PUA,Failed
+AO17887-S007,AO17887,Gamma,2025-09-04,7,False,Artillery Spotting,Failed
+AO17887-S008,AO17887,Gamma,2025-11-20,8,False,Artillery Spotting,Successful
+AO17887-S009,AO17887,Gamma,2026-03-31,9,False,PUA,Successful
+AO17887-S010,AO17887,Gamma,2026-05-22,10,False,PUA,Successful
+AO17887-S011,AO17887,Gamma,2026-06-22,11,False,Training,Successful
+AO21206-S001,AO21206,Gamma,2025-01-25,1,True,Artillery Spotting,Failed
+AO21206-S002,AO21206,Gamma,2025-02-19,2,False,Laser-guided,Successful
+AO21206-S003,AO21206,Gamma,2025-04-09,3,False,PUA,Failed
+AO21206-S004,AO21206,Gamma,2025-05-29,4,False,Laser-guided,Successful
+AO21206-S005,AO21206,Gamma,2025-12-03,5,False,PUA,Successful
+AO21206-S006,AO21206,Gamma,2026-04-19,6,False,Laser-guided,Successful
+AO21206-S007,AO21206,Gamma,2026-05-15,7,False,Artillery Spotting,Successful
+AO21206-S008,AO21206,Gamma,2026-06-06,8,False,Training,Successful
+AO15626-S001,AO15626,Gamma,2022-12-27,1,True,PUA,Successful
+AO15626-S002,AO15626,Gamma,2023-05-31,2,False,Laser-guided,Successful
+AO15626-S003,AO15626,Gamma,2023-09-03,3,False,PUA,Successful
+AO15626-S004,AO15626,Gamma,2023-09-22,4,False,Training,Successful
+AO15626-S005,AO15626,Gamma,2024-03-10,5,False,Laser-guided,Successful
+AO15626-S006,AO15626,Gamma,2024-04-01,6,False,PUA,Successful
+AO15626-S007,AO15626,Gamma,2024-06-30,7,False,Laser-guided,Successful
+AO15626-S008,AO15626,Gamma,2024-07-05,8,False,Artillery Spotting,Successful
+AO15626-S009,AO15626,Gamma,2024-07-16,9,False,PUA,Successful
+AO15626-S010,AO15626,Gamma,2024-08-02,10,False,PUA,Successful
+AO15626-S011,AO15626,Gamma,2024-10-30,11,False,Laser-guided,Successful
+AO15626-S012,AO15626,Gamma,2024-11-11,12,False,Laser-guided,Successful
+AO15626-S013,AO15626,Gamma,2024-11-27,13,False,Laser-guided,Successful
+AO15626-S014,AO15626,Gamma,2025-06-06,14,False,Training,Successful
+AO15626-S015,AO15626,Gamma,2025-06-11,15,False,Laser-guided,Successful
+AO15626-S016,AO15626,Gamma,2026-03-06,16,False,Laser-guided,Successful
+AO15626-S017,AO15626,Gamma,2026-03-09,17,False,Laser-guided,Successful
+AO15626-S018,AO15626,Gamma,2026-03-23,18,False,PUA,Successful
+AO15626-S019,AO15626,Gamma,2026-04-17,19,False,Laser-guided,Successful
+AO16652-S001,AO16652,Gamma,2021-09-04,1,True,Training,Successful
+AO16652-S002,AO16652,Gamma,2021-10-13,2,False,Artillery Spotting,Successful
+AO16652-S003,AO16652,Gamma,2021-10-15,3,False,Laser-guided,Successful
+AO16652-S004,AO16652,Gamma,2022-05-30,4,False,Laser-guided,Successful
+AO16652-S005,AO16652,Gamma,2022-10-03,5,False,Laser-guided,Successful
+AO16652-S006,AO16652,Gamma,2022-10-11,6,False,Laser-guided,Successful
+AO16652-S007,AO16652,Gamma,2022-12-18,7,False,PUA,Successful
+AO16652-S008,AO16652,Gamma,2023-03-21,8,False,PUA,Successful
+AO16652-S009,AO16652,Gamma,2023-05-17,9,False,Laser-guided,Successful
+AO16652-S010,AO16652,Gamma,2023-08-10,10,False,Laser-guided,Successful
+AO16652-S011,AO16652,Gamma,2023-09-16,11,False,Laser-guided,Successful
+AO16652-S012,AO16652,Gamma,2023-11-30,12,False,PUA,Successful
+AO16652-S013,AO16652,Gamma,2025-03-13,13,False,PUA,Successful
+AO16652-S014,AO16652,Gamma,2025-04-17,14,False,Training,Successful
+AO16652-S015,AO16652,Gamma,2025-06-20,15,False,Training,Successful
+AO21394-S001,AO21394,Gamma,2022-07-20,1,True,Training,Successful
+AO21394-S002,AO21394,Gamma,2022-09-23,2,False,Artillery Spotting,Successful
+AO21394-S003,AO21394,Gamma,2022-11-13,3,False,PUA,Successful
+AO21394-S004,AO21394,Gamma,2022-11-14,4,False,PUA,Successful
+AO21394-S005,AO21394,Gamma,2022-12-11,5,False,Artillery Spotting,Successful
+AO21394-S006,AO21394,Gamma,2022-12-12,6,False,PUA,Successful
+AO21394-S007,AO21394,Gamma,2023-01-25,7,False,PUA,Successful
+AO21394-S008,AO21394,Gamma,2023-02-08,8,False,Training,Successful
+AO21394-S009,AO21394,Gamma,2023-05-14,9,False,Artillery Spotting,Successful
+AO21394-S010,AO21394,Gamma,2023-06-09,10,False,Laser-guided,Successful
+AO21394-S011,AO21394,Gamma,2023-10-05,11,False,Artillery Spotting,Successful
+AO21394-S012,AO21394,Gamma,2023-11-16,12,False,Laser-guided,Successful
+AO21394-S013,AO21394,Gamma,2023-11-19,13,False,PUA,Successful
+AO21394-S014,AO21394,Gamma,2024-05-26,14,False,Laser-guided,Successful
+AO21394-S015,AO21394,Gamma,2024-05-30,15,False,Laser-guided,Successful
+AO21394-S016,AO21394,Gamma,2024-11-13,16,False,PUA,Successful
+AO21394-S017,AO21394,Gamma,2025-03-12,17,False,Artillery Spotting,Successful
+AO21394-S018,AO21394,Gamma,2026-03-12,18,False,Laser-guided,Successful
+AO17667-S001,AO17667,Gamma,2021-04-05,1,True,PUA,Successful
+AO17667-S002,AO17667,Gamma,2021-04-26,2,False,Laser-guided,Successful
+AO17667-S003,AO17667,Gamma,2021-09-30,3,False,Artillery Spotting,Successful
+AO17667-S004,AO17667,Gamma,2022-01-03,4,False,Artillery Spotting,Successful
+AO17667-S005,AO17667,Gamma,2022-03-08,5,False,Artillery Spotting,Successful
+AO17667-S006,AO17667,Gamma,2022-10-29,6,False,Training,Successful
+AO17667-S007,AO17667,Gamma,2022-12-29,7,False,Artillery Spotting,Successful
+AO17667-S008,AO17667,Gamma,2023-06-20,8,False,Artillery Spotting,Successful
+AO17667-S009,AO17667,Gamma,2023-07-03,9,False,PUA,Successful
+AO17667-S010,AO17667,Gamma,2023-10-07,10,False,PUA,Successful
+AO17667-S011,AO17667,Gamma,2024-02-01,11,False,PUA,Successful
+AO17667-S012,AO17667,Gamma,2024-04-02,12,False,PUA,Successful
+AO17667-S013,AO17667,Gamma,2024-06-13,13,False,Laser-guided,Failed
+AO17667-S014,AO17667,Gamma,2024-11-07,14,False,PUA,Successful
+AO17667-S015,AO17667,Gamma,2025-03-19,15,False,Artillery Spotting,Successful
+AO17667-S016,AO17667,Gamma,2025-10-25,16,False,PUA,Successful
+AO17667-S017,AO17667,Gamma,2025-10-30,17,False,PUA,Successful
+AO17667-S018,AO17667,Gamma,2026-03-26,18,False,PUA,Successful
+AO25008-S001,AO25008,Gamma,2025-08-09,1,True,PUA,Failed
+AO25008-S002,AO25008,Gamma,2025-08-22,2,False,PUA,Successful
+AO25008-S003,AO25008,Gamma,2025-11-20,3,False,Laser-guided,Successful
+AO25008-S004,AO25008,Gamma,2025-12-13,4,False,Laser-guided,Successful
+AO25008-S005,AO25008,Gamma,2026-01-16,5,False,Artillery Spotting,Successful
+AO25008-S006,AO25008,Gamma,2026-02-13,6,False,Training,Successful
+AO25008-S007,AO25008,Gamma,2026-05-31,7,False,PUA,Successful
+AO21911-S001,AO21911,Gamma,2021-08-30,1,True,Laser-guided,Successful
+AO21911-S002,AO21911,Gamma,2021-09-06,2,False,Laser-guided,Successful
+AO21911-S003,AO21911,Gamma,2021-12-23,3,False,Artillery Spotting,Successful
+AO21911-S004,AO21911,Gamma,2022-08-10,4,False,PUA,Successful
+AO21911-S005,AO21911,Gamma,2023-02-21,5,False,Laser-guided,Successful
+AO21911-S006,AO21911,Gamma,2024-06-26,6,False,PUA,Successful
+AO21911-S007,AO21911,Gamma,2024-08-21,7,False,PUA,Successful
+AO21911-S008,AO21911,Gamma,2024-09-29,8,False,PUA,Successful
+AO21911-S009,AO21911,Gamma,2024-11-02,9,False,PUA,Successful
+AO21911-S010,AO21911,Gamma,2024-12-24,10,False,PUA,Successful
+AO21911-S011,AO21911,Gamma,2025-02-08,11,False,Artillery Spotting,Successful
+AO21911-S012,AO21911,Gamma,2025-02-09,12,False,PUA,Successful
+AO21911-S013,AO21911,Gamma,2025-06-27,13,False,Artillery Spotting,Successful
+AO21911-S014,AO21911,Gamma,2025-07-03,14,False,Training,Successful
+AO21911-S015,AO21911,Gamma,2025-07-09,15,False,Training,Successful
+AO21911-S016,AO21911,Gamma,2025-09-25,16,False,PUA,Successful
+AO21911-S017,AO21911,Gamma,2025-11-11,17,False,PUA,Successful
+AO21911-S018,AO21911,Gamma,2026-03-14,18,False,Laser-guided,Successful
+AO21911-S019,AO21911,Gamma,2026-03-24,19,False,PUA,Successful
+AO21911-S020,AO21911,Gamma,2026-05-20,20,False,PUA,Successful
+AO19192-S001,AO19192,Gamma,2022-06-07,1,True,PUA,Successful
+AO19192-S002,AO19192,Gamma,2022-12-10,2,False,Artillery Spotting,Successful
+AO19192-S003,AO19192,Gamma,2023-03-06,3,False,Training,Failed
+AO19192-S004,AO19192,Gamma,2023-03-24,4,False,PUA,Successful
+AO19192-S005,AO19192,Gamma,2023-04-29,5,False,PUA,Successful
+AO19192-S006,AO19192,Gamma,2023-08-12,6,False,PUA,Successful
+AO19192-S007,AO19192,Gamma,2023-08-20,7,False,Laser-guided,Successful
+AO19192-S008,AO19192,Gamma,2023-10-12,8,False,PUA,Successful
+AO19192-S009,AO19192,Gamma,2023-11-12,9,False,PUA,Successful
+AO19192-S010,AO19192,Gamma,2024-03-22,10,False,Training,Successful
+AO19192-S011,AO19192,Gamma,2024-06-02,11,False,PUA,Successful
+AO19192-S012,AO19192,Gamma,2024-11-11,12,False,Laser-guided,Successful
+AO19192-S013,AO19192,Gamma,2025-01-01,13,False,PUA,Successful
+AO19192-S014,AO19192,Gamma,2025-08-28,14,False,Training,Successful
+AO19192-S015,AO19192,Gamma,2025-11-06,15,False,PUA,Successful
+AO19192-S016,AO19192,Gamma,2025-12-03,16,False,Laser-guided,Successful
+AO19192-S017,AO19192,Gamma,2025-12-10,17,False,Laser-guided,Successful
+AO19192-S018,AO19192,Gamma,2026-01-05,18,False,PUA,Successful
+AO19192-S019,AO19192,Gamma,2026-01-17,19,False,Artillery Spotting,Successful
+AO19192-S020,AO19192,Gamma,2026-03-10,20,False,Artillery Spotting,Successful
+AO19192-S021,AO19192,Gamma,2026-04-02,21,False,PUA,Successful
+AO22118-S001,AO22118,Gamma,2024-11-10,1,True,PUA,Failed
+AO22118-S002,AO22118,Gamma,2025-02-03,2,False,PUA,Successful
+AO22118-S003,AO22118,Gamma,2025-02-08,3,False,PUA,Successful
+AO22118-S004,AO22118,Gamma,2025-02-17,4,False,PUA,Successful
+AO22118-S005,AO22118,Gamma,2025-03-06,5,False,Laser-guided,Successful
+AO22118-S006,AO22118,Gamma,2025-03-20,6,False,Training,Successful
+AO22118-S007,AO22118,Gamma,2025-05-04,7,False,Artillery Spotting,Successful
+AO22118-S008,AO22118,Gamma,2025-05-19,8,False,Laser-guided,Successful
+AO22118-S009,AO22118,Gamma,2025-06-29,9,False,PUA,Failed
+AO22118-S010,AO22118,Gamma,2025-07-20,10,False,Laser-guided,Successful
+AO22118-S011,AO22118,Gamma,2025-12-26,11,False,PUA,Successful
+AO22118-S012,AO22118,Gamma,2026-06-29,12,False,Artillery Spotting,Failed
+AO12488-S001,AO12488,Gamma,2024-01-25,1,True,PUA,Failed
+AO12488-S002,AO12488,Gamma,2024-02-25,2,False,Laser-guided,Successful
+AO12488-S003,AO12488,Gamma,2024-03-14,3,False,PUA,Failed
+AO12488-S004,AO12488,Gamma,2024-08-02,4,False,Laser-guided,Successful
+AO12488-S005,AO12488,Gamma,2024-11-14,5,False,PUA,Successful
+AO12488-S006,AO12488,Gamma,2025-10-26,6,False,Laser-guided,Successful
+AO12488-S007,AO12488,Gamma,2025-12-10,7,False,Laser-guided,Successful
+AO12488-S008,AO12488,Gamma,2026-03-07,8,False,PUA,Successful
+AO24665-S001,AO24665,Gamma,2024-09-09,1,True,Laser-guided,Successful
+AO24665-S002,AO24665,Gamma,2024-09-11,2,False,Artillery Spotting,Successful
+AO24665-S003,AO24665,Gamma,2025-01-19,3,False,PUA,Successful
+AO24665-S004,AO24665,Gamma,2025-03-14,4,False,PUA,Successful
+AO24665-S005,AO24665,Gamma,2025-07-05,5,False,PUA,Successful
+AO24665-S006,AO24665,Gamma,2025-08-02,6,False,Training,Successful
+AO24665-S007,AO24665,Gamma,2025-08-12,7,False,Artillery Spotting,Successful
+AO24665-S008,AO24665,Gamma,2026-01-10,8,False,Laser-guided,Successful
+AO24665-S009,AO24665,Gamma,2026-02-06,9,False,Laser-guided,Successful
+AO24665-S010,AO24665,Gamma,2026-05-16,10,False,PUA,Successful
+AO18360-S001,AO18360,Gamma,2021-04-05,1,True,PUA,Successful
+AO18360-S002,AO18360,Gamma,2021-09-07,2,False,PUA,Failed
+AO18360-S003,AO18360,Gamma,2022-09-12,3,False,PUA,Successful
+AO18360-S004,AO18360,Gamma,2022-10-29,4,False,PUA,Successful
+AO18360-S005,AO18360,Gamma,2023-06-03,5,False,Laser-guided,Successful
+AO18360-S006,AO18360,Gamma,2023-06-16,6,False,PUA,Successful
+AO18360-S007,AO18360,Gamma,2024-05-27,7,False,PUA,Successful
+AO18360-S008,AO18360,Gamma,2024-05-27,8,False,PUA,Successful
+AO18360-S009,AO18360,Gamma,2024-05-28,9,False,Training,Failed
+AO18360-S010,AO18360,Gamma,2024-06-22,10,False,PUA,Successful
+AO18360-S011,AO18360,Gamma,2024-12-06,11,False,PUA,Successful
+AO18360-S012,AO18360,Gamma,2025-02-01,12,False,PUA,Successful
+AO18360-S013,AO18360,Gamma,2025-08-29,13,False,PUA,Successful
+AO18360-S014,AO18360,Gamma,2025-09-25,14,False,PUA,Successful
+AO18360-S015,AO18360,Gamma,2025-09-26,15,False,PUA,Failed
+AO18360-S016,AO18360,Gamma,2025-10-18,16,False,Training,Successful
+AO18360-S017,AO18360,Gamma,2026-01-14,17,False,Artillery Spotting,Failed
+AO12822-S001,AO12822,Gamma,2023-02-13,1,True,Artillery Spotting,Successful
+AO12822-S002,AO12822,Gamma,2023-05-28,2,False,PUA,Successful
+AO12822-S003,AO12822,Gamma,2023-08-10,3,False,Artillery Spotting,Successful
+AO12822-S004,AO12822,Gamma,2024-01-31,4,False,Training,Successful
+AO12822-S005,AO12822,Gamma,2024-05-12,5,False,Training,Successful
+AO12822-S006,AO12822,Gamma,2024-09-18,6,False,PUA,Successful
+AO12822-S007,AO12822,Gamma,2024-11-20,7,False,Training,Successful
+AO12822-S008,AO12822,Gamma,2024-11-27,8,False,Laser-guided,Successful
+AO12822-S009,AO12822,Gamma,2024-12-10,9,False,PUA,Successful
+AO12822-S010,AO12822,Gamma,2025-02-16,10,False,Artillery Spotting,Successful
+AO12822-S011,AO12822,Gamma,2025-04-22,11,False,PUA,Successful
+AO12822-S012,AO12822,Gamma,2025-09-10,12,False,PUA,Successful
+AO12822-S013,AO12822,Gamma,2025-11-28,13,False,Laser-guided,Successful
+AO12822-S014,AO12822,Gamma,2025-12-01,14,False,PUA,Successful
+AO12822-S015,AO12822,Gamma,2025-12-18,15,False,Laser-guided,Successful
+AO11938-S001,AO11938,Gamma,2021-02-28,1,True,PUA,Successful
+AO11938-S002,AO11938,Gamma,2021-08-26,2,False,Artillery Spotting,Successful
+AO11938-S003,AO11938,Gamma,2021-10-28,3,False,PUA,Successful
+AO11938-S004,AO11938,Gamma,2021-12-27,4,False,PUA,Successful
+AO11938-S005,AO11938,Gamma,2022-08-06,5,False,Training,Successful
+AO11938-S006,AO11938,Gamma,2022-10-01,6,False,PUA,Successful
+AO11938-S007,AO11938,Gamma,2022-10-29,7,False,Artillery Spotting,Successful
+AO11938-S008,AO11938,Gamma,2023-10-31,8,False,Artillery Spotting,Successful
+AO11938-S009,AO11938,Gamma,2023-12-22,9,False,Laser-guided,Successful
+AO11938-S010,AO11938,Gamma,2024-03-18,10,False,PUA,Successful
+AO11938-S011,AO11938,Gamma,2024-04-22,11,False,PUA,Successful
+AO11938-S012,AO11938,Gamma,2024-10-14,12,False,Artillery Spotting,Successful
+AO11938-S013,AO11938,Gamma,2024-11-29,13,False,Training,Successful
+AO11938-S014,AO11938,Gamma,2025-02-18,14,False,PUA,Successful
+AO11938-S015,AO11938,Gamma,2025-09-27,15,False,Training,Successful
+AO11938-S016,AO11938,Gamma,2025-12-22,16,False,Artillery Spotting,Successful
+AO11938-S017,AO11938,Gamma,2026-04-21,17,False,Laser-guided,Successful
+AO16958-S001,AO16958,Gamma,2021-06-16,1,True,PUA,Failed
+AO16958-S002,AO16958,Gamma,2021-12-06,2,False,PUA,Successful
+AO16958-S003,AO16958,Gamma,2022-04-28,3,False,Artillery Spotting,Failed
+AO16958-S004,AO16958,Gamma,2022-05-13,4,False,PUA,Successful
+AO16958-S005,AO16958,Gamma,2022-07-10,5,False,PUA,Failed
+AO16958-S006,AO16958,Gamma,2022-09-05,6,False,PUA,Successful
+AO16958-S007,AO16958,Gamma,2022-09-16,7,False,PUA,Successful
+AO16958-S008,AO16958,Gamma,2023-03-12,8,False,Training,Successful
+AO16958-S009,AO16958,Gamma,2023-07-16,9,False,Laser-guided,Failed
+AO16958-S010,AO16958,Gamma,2024-02-14,10,False,Laser-guided,Successful
+AO16958-S011,AO16958,Gamma,2024-03-12,11,False,Laser-guided,Successful
+AO16958-S012,AO16958,Gamma,2024-05-09,12,False,Training,Successful
+AO16958-S013,AO16958,Gamma,2024-05-15,13,False,Training,Successful
+AO16958-S014,AO16958,Gamma,2024-11-24,14,False,PUA,Failed
+AO16958-S015,AO16958,Gamma,2025-03-13,15,False,Laser-guided,Failed
+AO16958-S016,AO16958,Gamma,2025-05-17,16,False,Artillery Spotting,Failed
+AO16958-S017,AO16958,Gamma,2025-06-13,17,False,Laser-guided,Successful
+AO16958-S018,AO16958,Gamma,2025-10-18,18,False,Training,Successful
+AO16958-S019,AO16958,Gamma,2026-04-30,19,False,PUA,Successful
+AO16958-S020,AO16958,Gamma,2026-06-20,20,False,PUA,Successful
+AO23557-S001,AO23557,Gamma,2023-11-28,1,True,Laser-guided,Successful
+AO23557-S002,AO23557,Gamma,2024-01-21,2,False,PUA,Successful
+AO23557-S003,AO23557,Gamma,2024-06-09,3,False,PUA,Successful
+AO23557-S004,AO23557,Gamma,2024-07-03,4,False,Laser-guided,Successful
+AO23557-S005,AO23557,Gamma,2024-08-23,5,False,Artillery Spotting,Successful
+AO23557-S006,AO23557,Gamma,2024-10-13,6,False,Artillery Spotting,Successful
+AO23557-S007,AO23557,Gamma,2025-02-25,7,False,Laser-guided,Failed
+AO23557-S008,AO23557,Gamma,2025-03-12,8,False,Laser-guided,Successful
+AO23557-S009,AO23557,Gamma,2025-03-14,9,False,PUA,Successful
+AO23557-S010,AO23557,Gamma,2025-06-21,10,False,PUA,Successful
+AO23557-S011,AO23557,Gamma,2025-07-24,11,False,Artillery Spotting,Successful
+AO23557-S012,AO23557,Gamma,2025-11-21,12,False,Laser-guided,Successful
+AO23557-S013,AO23557,Gamma,2026-02-07,13,False,PUA,Successful
+AO23557-S014,AO23557,Gamma,2026-04-26,14,False,Training,Successful
+AO23557-S015,AO23557,Gamma,2026-05-10,15,False,PUA,Successful
+AO23557-S016,AO23557,Gamma,2026-05-13,16,False,Laser-guided,Successful
+G08994-S001,G08994,Gamma,2022-06-10,1,True,Laser-guided,Successful
+G08994-S002,G08994,Gamma,2022-06-28,2,False,Laser-guided,Successful
+G08994-S003,G08994,Gamma,2023-05-17,3,False,Laser-guided,Successful
+G08994-S004,G08994,Gamma,2023-05-30,4,False,PUA,Successful
+G08994-S005,G08994,Gamma,2024-07-27,5,False,PUA,Successful
+G08994-S006,G08994,Gamma,2024-10-06,6,False,PUA,Successful
+G08994-S007,G08994,Gamma,2025-01-21,7,False,Laser-guided,Successful
+G08994-S008,G08994,Gamma,2025-03-27,8,False,Laser-guided,Failed
+G08994-S009,G08994,Gamma,2025-09-03,9,False,PUA,Successful
+G08994-S010,G08994,Gamma,2025-10-11,10,False,PUA,Successful
+G08994-S011,G08994,Gamma,2025-11-28,11,False,Training,Successful
+G08994-S012,G08994,Gamma,2026-04-19,12,False,PUA,Successful
+G08994-S013,G08994,Gamma,2026-05-02,13,False,PUA,Successful
+G08994-S014,G08994,Gamma,2026-05-19,14,False,Laser-guided,Successful
+G21193-S001,G21193,Gamma,2022-06-28,1,True,Laser-guided,Failed
+G21193-S002,G21193,Gamma,2022-09-03,2,False,Artillery Spotting,Successful
+G21193-S003,G21193,Gamma,2022-11-15,3,False,PUA,Successful
+G21193-S004,G21193,Gamma,2023-02-20,4,False,PUA,Successful
+G21193-S005,G21193,Gamma,2024-03-17,5,False,PUA,Failed
+G21193-S006,G21193,Gamma,2025-01-31,6,False,Laser-guided,Failed
+G21193-S007,G21193,Gamma,2025-02-17,7,False,Laser-guided,Successful
+G21193-S008,G21193,Gamma,2025-05-08,8,False,PUA,Successful
+G21193-S009,G21193,Gamma,2025-11-11,9,False,PUA,Failed
+G21193-S010,G21193,Gamma,2026-02-16,10,False,PUA,Successful
+G21193-S011,G21193,Gamma,2026-02-28,11,False,Training,Successful
+G21193-S012,G21193,Gamma,2026-03-23,12,False,PUA,Failed
+G21193-S013,G21193,Gamma,2026-03-27,13,False,Training,Successful
+G21193-S014,G21193,Gamma,2026-04-06,14,False,Artillery Spotting,Successful
+G21193-S015,G21193,Gamma,2026-04-27,15,False,Training,Successful
+G23583-S001,G23583,Gamma,2024-11-08,1,True,Laser-guided,Failed
+G23583-S002,G23583,Gamma,2024-11-24,2,False,PUA,Successful
+G23583-S003,G23583,Gamma,2024-12-13,3,False,Training,Successful
+G23583-S004,G23583,Gamma,2025-08-09,4,False,Training,Successful
+G23583-S005,G23583,Gamma,2025-09-29,5,False,Laser-guided,Failed
+G23583-S006,G23583,Gamma,2026-04-26,6,False,PUA,Successful
+G16237-S001,G16237,Gamma,2022-01-13,1,True,PUA,Successful
+G16237-S002,G16237,Gamma,2022-10-20,2,False,Artillery Spotting,Failed
+G16237-S003,G16237,Gamma,2022-11-26,3,False,PUA,Failed
+G16237-S004,G16237,Gamma,2023-04-26,4,False,Artillery Spotting,Successful
+G16237-S005,G16237,Gamma,2023-08-18,5,False,PUA,Failed
+G16237-S006,G16237,Gamma,2024-07-10,6,False,PUA,Successful
+G16237-S007,G16237,Gamma,2025-01-25,7,False,PUA,Successful
+G16237-S008,G16237,Gamma,2025-02-17,8,False,Training,Failed
+G16237-S009,G16237,Gamma,2025-03-13,9,False,PUA,Successful
+G16237-S010,G16237,Gamma,2025-03-15,10,False,PUA,Successful
+G16237-S011,G16237,Gamma,2025-05-14,11,False,Laser-guided,Successful
+G16237-S012,G16237,Gamma,2025-06-09,12,False,PUA,Successful
+G16237-S013,G16237,Gamma,2025-06-22,13,False,Training,Successful
+G16237-S014,G16237,Gamma,2025-08-09,14,False,Artillery Spotting,Successful
+G16237-S015,G16237,Gamma,2025-11-19,15,False,Artillery Spotting,Failed
+G16237-S016,G16237,Gamma,2025-12-12,16,False,PUA,Failed
+G16237-S017,G16237,Gamma,2026-04-23,17,False,PUA,Successful
+G12759-S001,G12759,Gamma,2022-12-29,1,True,PUA,Successful
+G12759-S002,G12759,Gamma,2023-01-25,2,False,Laser-guided,Successful
+G12759-S003,G12759,Gamma,2023-02-07,3,False,PUA,Successful
+G12759-S004,G12759,Gamma,2023-04-02,4,False,Training,Successful
+G12759-S005,G12759,Gamma,2024-01-07,5,False,PUA,Successful
+G12759-S006,G12759,Gamma,2024-02-09,6,False,PUA,Successful
+G12759-S007,G12759,Gamma,2024-07-16,7,False,Training,Successful
+G12759-S008,G12759,Gamma,2024-08-01,8,False,PUA,Failed
+G12759-S009,G12759,Gamma,2025-01-27,9,False,PUA,Successful
+G12759-S010,G12759,Gamma,2025-01-30,10,False,Artillery Spotting,Successful
+G12759-S011,G12759,Gamma,2025-06-06,11,False,Laser-guided,Successful
+G12759-S012,G12759,Gamma,2025-08-22,12,False,Training,Successful
+G12759-S013,G12759,Gamma,2025-10-01,13,False,PUA,Successful
+G12759-S014,G12759,Gamma,2025-12-01,14,False,Laser-guided,Successful
+G12759-S015,G12759,Gamma,2026-02-23,15,False,PUA,Successful
+G12759-S016,G12759,Gamma,2026-03-10,16,False,PUA,Successful
+G21712-S001,G21712,Gamma,2023-11-19,1,True,Laser-guided,Failed
+G21712-S002,G21712,Gamma,2024-02-06,2,False,Laser-guided,Successful
+G21712-S003,G21712,Gamma,2024-03-10,3,False,Laser-guided,Successful
+G21712-S004,G21712,Gamma,2024-03-16,4,False,Training,Successful
+G21712-S005,G21712,Gamma,2024-05-27,5,False,PUA,Successful
+G21712-S006,G21712,Gamma,2024-08-12,6,False,Training,Successful
+G21712-S007,G21712,Gamma,2024-09-30,7,False,PUA,Successful
+G21712-S008,G21712,Gamma,2025-01-01,8,False,PUA,Successful
+G21712-S009,G21712,Gamma,2025-03-11,9,False,Laser-guided,Successful
+G21712-S010,G21712,Gamma,2025-05-01,10,False,Laser-guided,Successful
+G21712-S011,G21712,Gamma,2025-05-08,11,False,Artillery Spotting,Successful
+G21712-S012,G21712,Gamma,2025-07-05,12,False,Laser-guided,Successful
+G21712-S013,G21712,Gamma,2025-07-24,13,False,Laser-guided,Successful
+G21712-S014,G21712,Gamma,2025-08-15,14,False,PUA,Successful
+G21712-S015,G21712,Gamma,2025-08-17,15,False,Training,Successful
+G21712-S016,G21712,Gamma,2025-10-12,16,False,Laser-guided,Successful
+G21712-S017,G21712,Gamma,2025-12-19,17,False,Artillery Spotting,Successful
+G21712-S018,G21712,Gamma,2026-05-06,18,False,Laser-guided,Successful
+G11534-S001,G11534,Gamma,2024-04-27,1,True,Laser-guided,Failed
+G11534-S002,G11534,Gamma,2024-06-09,2,False,Training,Failed
+G11534-S003,G11534,Gamma,2024-07-29,3,False,Training,Successful
+G11534-S004,G11534,Gamma,2024-08-05,4,False,PUA,Successful
+G11534-S005,G11534,Gamma,2024-08-10,5,False,Laser-guided,Successful
+G11534-S006,G11534,Gamma,2024-08-16,6,False,PUA,Successful
+G11534-S007,G11534,Gamma,2024-12-27,7,False,Laser-guided,Successful
+G11534-S008,G11534,Gamma,2025-03-04,8,False,Laser-guided,Successful
+G11534-S009,G11534,Gamma,2025-04-25,9,False,PUA,Successful
+G11534-S010,G11534,Gamma,2025-10-18,10,False,PUA,Successful
+G11534-S011,G11534,Gamma,2025-12-15,11,False,Training,Successful
+G11534-S012,G11534,Gamma,2026-02-02,12,False,PUA,Successful
+G11534-S013,G11534,Gamma,2026-02-06,13,False,Training,Successful
+G11534-S014,G11534,Gamma,2026-06-08,14,False,Training,Successful
+G13338-S001,G13338,Gamma,2023-07-01,1,True,PUA,Successful
+G13338-S002,G13338,Gamma,2023-10-20,2,False,PUA,Successful
+G13338-S003,G13338,Gamma,2024-01-27,3,False,Artillery Spotting,Successful
+G13338-S004,G13338,Gamma,2024-04-04,4,False,Artillery Spotting,Successful
+G13338-S005,G13338,Gamma,2024-04-20,5,False,PUA,Failed
+G13338-S006,G13338,Gamma,2024-06-06,6,False,PUA,Failed
+G13338-S007,G13338,Gamma,2024-12-16,7,False,PUA,Successful
+G13338-S008,G13338,Gamma,2026-05-17,8,False,Laser-guided,Successful
+G24740-S001,G24740,Gamma,2024-11-08,1,True,PUA,Failed
+G24740-S002,G24740,Gamma,2024-11-08,2,False,Laser-guided,Successful
+G24740-S003,G24740,Gamma,2024-11-10,3,False,Laser-guided,Successful
+G24740-S004,G24740,Gamma,2024-11-18,4,False,PUA,Successful
+G24740-S005,G24740,Gamma,2025-02-06,5,False,PUA,Failed
+G24740-S006,G24740,Gamma,2025-07-27,6,False,Training,Successful
+G24740-S007,G24740,Gamma,2025-07-31,7,False,PUA,Successful
+G24740-S008,G24740,Gamma,2025-10-30,8,False,PUA,Successful
+G24740-S009,G24740,Gamma,2026-05-09,9,False,Laser-guided,Successful
+G24740-S010,G24740,Gamma,2026-05-19,10,False,Laser-guided,Successful
+G24625-S001,G24625,Gamma,2024-07-03,1,True,Laser-guided,Successful
+G24625-S002,G24625,Gamma,2024-07-14,2,False,Laser-guided,Successful
+G24625-S003,G24625,Gamma,2024-08-06,3,False,PUA,Successful
+G24625-S004,G24625,Gamma,2024-08-15,4,False,Artillery Spotting,Successful
+G24625-S005,G24625,Gamma,2025-01-26,5,False,PUA,Successful
+G24625-S006,G24625,Gamma,2025-08-25,6,False,Training,Successful
+G24625-S007,G24625,Gamma,2025-09-10,7,False,Laser-guided,Successful
+G24625-S008,G24625,Gamma,2025-09-26,8,False,Artillery Spotting,Successful
+G24625-S009,G24625,Gamma,2025-11-18,9,False,Laser-guided,Successful
+G24625-S010,G24625,Gamma,2026-01-18,10,False,PUA,Failed
+G08825-S001,G08825,Gamma,2025-04-11,1,True,Laser-guided,Successful
+G08825-S002,G08825,Gamma,2025-04-21,2,False,Laser-guided,Successful
+G08825-S003,G08825,Gamma,2025-07-21,3,False,PUA,Successful
+G08825-S004,G08825,Gamma,2026-03-10,4,False,PUA,Successful
+G08825-S005,G08825,Gamma,2026-05-02,5,False,Artillery Spotting,Successful
+G08825-S006,G08825,Gamma,2026-06-06,6,False,PUA,Successful
+G22914-S001,G22914,Gamma,2025-07-16,1,True,Laser-guided,Successful
+G22914-S002,G22914,Gamma,2025-10-03,2,False,Training,Successful
+G22914-S003,G22914,Gamma,2025-10-30,3,False,PUA,Failed
+G22914-S004,G22914,Gamma,2025-12-26,4,False,PUA,Successful
+G22914-S005,G22914,Gamma,2025-12-27,5,False,Laser-guided,Failed
+G22914-S006,G22914,Gamma,2026-02-19,6,False,Artillery Spotting,Successful
+G22914-S007,G22914,Gamma,2026-05-21,7,False,PUA,Successful
+G23950-S001,G23950,Gamma,2023-06-22,1,True,PUA,Successful
+G23950-S002,G23950,Gamma,2023-09-16,2,False,PUA,Successful
+G23950-S003,G23950,Gamma,2023-10-04,3,False,Laser-guided,Failed
+G23950-S004,G23950,Gamma,2023-10-13,4,False,Laser-guided,Failed
+G23950-S005,G23950,Gamma,2024-07-28,5,False,Training,Successful
+G23950-S006,G23950,Gamma,2024-07-29,6,False,Artillery Spotting,Successful
+G23950-S007,G23950,Gamma,2024-09-03,7,False,PUA,Failed
+G23950-S008,G23950,Gamma,2024-10-22,8,False,PUA,Successful
+G23950-S009,G23950,Gamma,2025-02-03,9,False,Laser-guided,Successful
+G23950-S010,G23950,Gamma,2025-02-20,10,False,PUA,Successful
+G23950-S011,G23950,Gamma,2025-03-10,11,False,Training,Successful
+G23950-S012,G23950,Gamma,2025-06-12,12,False,Laser-guided,Successful
+G23950-S013,G23950,Gamma,2025-06-21,13,False,Laser-guided,Successful
+G23950-S014,G23950,Gamma,2025-09-10,14,False,PUA,Successful
+G23950-S015,G23950,Gamma,2025-09-14,15,False,PUA,Successful
+G23950-S016,G23950,Gamma,2025-11-23,16,False,PUA,Successful
+G23950-S017,G23950,Gamma,2026-01-16,17,False,PUA,Successful
+G23950-S018,G23950,Gamma,2026-05-06,18,False,Laser-guided,Successful
+G18229-S001,G18229,Gamma,2022-01-20,1,True,Training,Failed
+G18229-S002,G18229,Gamma,2022-02-21,2,False,Laser-guided,Successful
+G18229-S003,G18229,Gamma,2022-06-18,3,False,PUA,Successful
+G18229-S004,G18229,Gamma,2022-09-19,4,False,PUA,Successful
+G18229-S005,G18229,Gamma,2022-10-04,5,False,PUA,Failed
+G18229-S006,G18229,Gamma,2023-01-12,6,False,Artillery Spotting,Successful
+G18229-S007,G18229,Gamma,2023-05-16,7,False,Training,Failed
+G18229-S008,G18229,Gamma,2023-06-17,8,False,PUA,Successful
+G18229-S009,G18229,Gamma,2023-08-22,9,False,Training,Failed
+G18229-S010,G18229,Gamma,2023-10-08,10,False,Artillery Spotting,Successful
+G18229-S011,G18229,Gamma,2024-04-18,11,False,Artillery Spotting,Successful
+G18229-S012,G18229,Gamma,2024-06-30,12,False,Laser-guided,Successful
+G18229-S013,G18229,Gamma,2024-07-29,13,False,PUA,Successful
+G18229-S014,G18229,Gamma,2025-01-10,14,False,Artillery Spotting,Failed
+G18229-S015,G18229,Gamma,2025-01-17,15,False,PUA,Failed
+G18229-S016,G18229,Gamma,2025-04-04,16,False,Laser-guided,Successful
+G18229-S017,G18229,Gamma,2025-05-23,17,False,PUA,Successful
+G18229-S018,G18229,Gamma,2026-01-10,18,False,PUA,Failed
+G18229-S019,G18229,Gamma,2026-02-19,19,False,Artillery Spotting,Successful
+G18229-S020,G18229,Gamma,2026-03-08,20,False,PUA,Successful
+G18229-S021,G18229,Gamma,2026-05-31,21,False,Artillery Spotting,Successful
+G18229-S022,G18229,Gamma,2026-06-30,22,False,Laser-guided,Successful
+G10034-S001,G10034,Gamma,2025-09-11,1,True,PUA,Successful
+G10034-S002,G10034,Gamma,2025-12-30,2,False,PUA,Successful
+G10034-S003,G10034,Gamma,2026-01-11,3,False,Training,Successful
+G10034-S004,G10034,Gamma,2026-01-16,4,False,Laser-guided,Successful
+G10034-S005,G10034,Gamma,2026-02-11,5,False,Artillery Spotting,Successful
+G10034-S006,G10034,Gamma,2026-05-26,6,False,Laser-guided,Successful
+G10034-S007,G10034,Gamma,2026-06-01,7,False,Artillery Spotting,Successful
+G10034-S008,G10034,Gamma,2026-06-22,8,False,Laser-guided,Successful
+G10034-S009,G10034,Gamma,2026-06-27,9,False,PUA,Successful
+G24055-S001,G24055,Gamma,2025-02-02,1,True,Laser-guided,Failed
+G24055-S002,G24055,Gamma,2025-05-04,2,False,Artillery Spotting,Successful
+G24055-S003,G24055,Gamma,2025-07-18,3,False,Training,Successful
+G24055-S004,G24055,Gamma,2025-07-24,4,False,Artillery Spotting,Successful
+G24055-S005,G24055,Gamma,2025-08-14,5,False,Laser-guided,Successful
+G24055-S006,G24055,Gamma,2025-08-21,6,False,PUA,Successful
+G24055-S007,G24055,Gamma,2025-12-28,7,False,PUA,Successful
+G24055-S008,G24055,Gamma,2026-02-06,8,False,Laser-guided,Successful
+G17751-S001,G17751,Gamma,2021-12-14,1,True,Artillery Spotting,Failed
+G17751-S002,G17751,Gamma,2022-08-08,2,False,Artillery Spotting,Failed
+G17751-S003,G17751,Gamma,2022-09-29,3,False,Training,Successful
+G17751-S004,G17751,Gamma,2022-10-14,4,False,Artillery Spotting,Failed
+G17751-S005,G17751,Gamma,2023-06-03,5,False,Artillery Spotting,Successful
+G17751-S006,G17751,Gamma,2023-08-30,6,False,PUA,Successful
+G17751-S007,G17751,Gamma,2023-11-11,7,False,PUA,Successful
+G17751-S008,G17751,Gamma,2023-12-04,8,False,Laser-guided,Successful
+G17751-S009,G17751,Gamma,2024-03-09,9,False,Training,Failed
+G17751-S010,G17751,Gamma,2024-04-21,10,False,PUA,Failed
+G17751-S011,G17751,Gamma,2024-09-29,11,False,PUA,Successful
+G17751-S012,G17751,Gamma,2024-12-24,12,False,PUA,Successful
+G17751-S013,G17751,Gamma,2025-02-01,13,False,PUA,Successful
+G17751-S014,G17751,Gamma,2025-06-04,14,False,PUA,Successful
+G17751-S015,G17751,Gamma,2026-03-24,15,False,PUA,Failed
+AO97468-S001,AO97468,Sigma,2024-10-27,1,True,Laser-guided,Successful
+AO97468-S002,AO97468,Sigma,2025-08-14,2,False,Laser-guided,Successful
+AO97468-S003,AO97468,Sigma,2026-02-07,3,False,Laser-guided,Successful
+AO97468-S004,AO97468,Sigma,2026-03-04,4,False,Artillery Spotting,Successful
+AO97468-S005,AO97468,Sigma,2026-06-01,5,False,Laser-guided,Failed
+AO13467-S001,AO13467,Sigma,2021-10-07,1,True,PUA,Failed
+AO13467-S002,AO13467,Sigma,2022-05-13,2,False,Laser-guided,Successful
+AO13467-S003,AO13467,Sigma,2022-10-07,3,False,PUA,Successful
+AO13467-S004,AO13467,Sigma,2023-01-21,4,False,Artillery Spotting,Failed
+AO13467-S005,AO13467,Sigma,2023-04-05,5,False,Artillery Spotting,Successful
+AO13467-S006,AO13467,Sigma,2023-04-09,6,False,Laser-guided,Successful
+AO13467-S007,AO13467,Sigma,2023-04-12,7,False,Artillery Spotting,Successful
+AO13467-S008,AO13467,Sigma,2023-08-04,8,False,Artillery Spotting,Successful
+AO13467-S009,AO13467,Sigma,2023-10-21,9,False,Laser-guided,Successful
+AO13467-S010,AO13467,Sigma,2024-01-20,10,False,Laser-guided,Successful
+AO13467-S011,AO13467,Sigma,2024-05-31,11,False,PUA,Failed
+AO13467-S012,AO13467,Sigma,2024-08-10,12,False,PUA,Successful
+AO13467-S013,AO13467,Sigma,2025-10-21,13,False,PUA,Successful
+AO13467-S014,AO13467,Sigma,2026-01-13,14,False,PUA,Successful
+AO13467-S015,AO13467,Sigma,2026-04-24,15,False,Laser-guided,Successful
+AO13467-S016,AO13467,Sigma,2026-06-22,16,False,Laser-guided,Successful
+AO22617-S001,AO22617,Sigma,2022-10-28,1,True,PUA,Successful
+AO22617-S002,AO22617,Sigma,2022-11-02,2,False,Artillery Spotting,Successful
+AO22617-S003,AO22617,Sigma,2022-12-27,3,False,Laser-guided,Successful
+AO22617-S004,AO22617,Sigma,2023-02-18,4,False,Training,Successful
+AO22617-S005,AO22617,Sigma,2023-09-13,5,False,PUA,Successful
+AO22617-S006,AO22617,Sigma,2023-12-01,6,False,PUA,Successful
+AO22617-S007,AO22617,Sigma,2024-03-28,7,False,Laser-guided,Successful
+AO22617-S008,AO22617,Sigma,2024-07-10,8,False,Laser-guided,Successful
+AO22617-S009,AO22617,Sigma,2024-07-22,9,False,PUA,Successful
+AO22617-S010,AO22617,Sigma,2024-09-17,10,False,PUA,Successful
+AO22617-S011,AO22617,Sigma,2025-08-29,11,False,Laser-guided,Successful
+AO22617-S012,AO22617,Sigma,2025-09-11,12,False,PUA,Successful
+AO22617-S013,AO22617,Sigma,2026-02-08,13,False,PUA,Failed
+AO22617-S014,AO22617,Sigma,2026-02-17,14,False,Artillery Spotting,Successful
+AO22617-S015,AO22617,Sigma,2026-03-29,15,False,PUA,Successful
+AO22617-S016,AO22617,Sigma,2026-05-24,16,False,Laser-guided,Successful
+AO25183-S001,AO25183,Sigma,2025-10-01,1,True,PUA,Successful
+AO25183-S002,AO25183,Sigma,2025-10-20,2,False,Training,Successful
+AO25183-S003,AO25183,Sigma,2025-11-24,3,False,PUA,Successful
+AO25183-S004,AO25183,Sigma,2025-11-29,4,False,Training,Successful
+AO25183-S005,AO25183,Sigma,2026-02-01,5,False,PUA,Successful
+AO25183-S006,AO25183,Sigma,2026-04-22,6,False,PUA,Failed
+AO25183-S007,AO25183,Sigma,2026-04-26,7,False,Laser-guided,Successful
+AO21436-S001,AO21436,Sigma,2021-07-07,1,True,PUA,Failed
+AO21436-S002,AO21436,Sigma,2021-07-25,2,False,Laser-guided,Successful
+AO21436-S003,AO21436,Sigma,2021-09-29,3,False,Laser-guided,Failed
+AO21436-S004,AO21436,Sigma,2022-04-05,4,False,Laser-guided,Failed
+AO21436-S005,AO21436,Sigma,2022-06-05,5,False,PUA,Successful
+AO21436-S006,AO21436,Sigma,2022-09-24,6,False,PUA,Failed
+AO21436-S007,AO21436,Sigma,2022-10-20,7,False,PUA,Successful
+AO21436-S008,AO21436,Sigma,2023-04-20,8,False,PUA,Failed
+AO21436-S009,AO21436,Sigma,2023-06-29,9,False,Artillery Spotting,Failed
+AO21436-S010,AO21436,Sigma,2023-07-16,10,False,PUA,Successful
+AO21436-S011,AO21436,Sigma,2023-07-25,11,False,PUA,Successful
+AO21436-S012,AO21436,Sigma,2023-07-31,12,False,PUA,Successful
+AO21436-S013,AO21436,Sigma,2023-12-05,13,False,Training,Successful
+AO21436-S014,AO21436,Sigma,2023-12-27,14,False,Training,Successful
+AO21436-S015,AO21436,Sigma,2024-01-05,15,False,Laser-guided,Successful
+AO21436-S016,AO21436,Sigma,2024-07-01,16,False,Artillery Spotting,Successful
+AO21436-S017,AO21436,Sigma,2024-10-12,17,False,Laser-guided,Successful
+AO21436-S018,AO21436,Sigma,2025-07-05,18,False,PUA,Successful
+AO21436-S019,AO21436,Sigma,2026-05-04,19,False,PUA,Successful
+AO23681-S001,AO23681,Sigma,2023-08-01,1,True,Artillery Spotting,Successful
+AO23681-S002,AO23681,Sigma,2024-01-29,2,False,PUA,Successful
+AO23681-S003,AO23681,Sigma,2024-04-12,3,False,Training,Successful
+AO23681-S004,AO23681,Sigma,2024-05-25,4,False,Laser-guided,Successful
+AO23681-S005,AO23681,Sigma,2024-06-27,5,False,PUA,Successful
+AO23681-S006,AO23681,Sigma,2024-06-27,6,False,PUA,Successful
+AO23681-S007,AO23681,Sigma,2025-01-24,7,False,Training,Successful
+AO23681-S008,AO23681,Sigma,2025-03-04,8,False,PUA,Successful
+AO23681-S009,AO23681,Sigma,2025-04-09,9,False,PUA,Successful
+AO23681-S010,AO23681,Sigma,2025-11-07,10,False,Artillery Spotting,Failed
+AO23681-S011,AO23681,Sigma,2026-06-15,11,False,Training,Successful
+AO25376-S001,AO25376,Sigma,2025-12-11,1,True,PUA,Failed
+AO25376-S002,AO25376,Sigma,2025-12-14,2,False,PUA,Successful
+AO23780-S001,AO23780,Sigma,2024-04-07,1,True,PUA,Failed
+AO23780-S002,AO23780,Sigma,2024-04-11,2,False,PUA,Failed
+AO23780-S003,AO23780,Sigma,2024-09-27,3,False,PUA,Successful
+AO23780-S004,AO23780,Sigma,2025-03-30,4,False,Laser-guided,Failed
+AO23780-S005,AO23780,Sigma,2025-06-12,5,False,PUA,Successful
+AO23780-S006,AO23780,Sigma,2025-09-04,6,False,Laser-guided,Failed
+AO23780-S007,AO23780,Sigma,2025-09-14,7,False,Artillery Spotting,Successful
+AO23780-S008,AO23780,Sigma,2026-01-12,8,False,Laser-guided,Successful
+AO23780-S009,AO23780,Sigma,2026-03-15,9,False,PUA,Successful
+AO23780-S010,AO23780,Sigma,2026-03-16,10,False,PUA,Failed
+AO23780-S011,AO23780,Sigma,2026-04-09,11,False,Laser-guided,Successful
+AO14671-S001,AO14671,Sigma,2023-09-03,1,True,Training,Successful
+AO14671-S002,AO14671,Sigma,2023-09-05,2,False,PUA,Successful
+AO14671-S003,AO14671,Sigma,2024-01-25,3,False,Artillery Spotting,Successful
+AO14671-S004,AO14671,Sigma,2024-03-21,4,False,Laser-guided,Successful
+AO14671-S005,AO14671,Sigma,2025-01-02,5,False,PUA,Successful
+AO14671-S006,AO14671,Sigma,2025-01-24,6,False,Laser-guided,Successful
+AO14671-S007,AO14671,Sigma,2025-03-29,7,False,PUA,Successful
+AO14671-S008,AO14671,Sigma,2025-06-01,8,False,PUA,Failed
+AO14671-S009,AO14671,Sigma,2025-08-09,9,False,PUA,Successful
+AO14671-S010,AO14671,Sigma,2025-08-10,10,False,PUA,Successful
+AO14671-S011,AO14671,Sigma,2025-09-11,11,False,PUA,Failed
+AO14671-S012,AO14671,Sigma,2025-09-25,12,False,PUA,Successful
+AO14671-S013,AO14671,Sigma,2026-02-03,13,False,Laser-guided,Successful
+AO14671-S014,AO14671,Sigma,2026-05-04,14,False,PUA,Successful
+AO14671-S015,AO14671,Sigma,2026-06-22,15,False,Artillery Spotting,Successful
+AO12140-S001,AO12140,Sigma,2021-08-10,1,True,PUA,Successful
+AO12140-S002,AO12140,Sigma,2021-08-18,2,False,PUA,Successful
+AO12140-S003,AO12140,Sigma,2021-09-06,3,False,Artillery Spotting,Successful
+AO12140-S004,AO12140,Sigma,2021-10-04,4,False,Laser-guided,Successful
+AO12140-S005,AO12140,Sigma,2022-04-30,5,False,PUA,Successful
+AO12140-S006,AO12140,Sigma,2023-06-16,6,False,Artillery Spotting,Failed
+AO12140-S007,AO12140,Sigma,2023-06-21,7,False,PUA,Failed
+AO12140-S008,AO12140,Sigma,2023-06-25,8,False,PUA,Successful
+AO12140-S009,AO12140,Sigma,2023-08-27,9,False,Laser-guided,Successful
+AO12140-S010,AO12140,Sigma,2023-08-29,10,False,PUA,Successful
+AO12140-S011,AO12140,Sigma,2023-12-20,11,False,Training,Failed
+AO12140-S012,AO12140,Sigma,2024-01-08,12,False,PUA,Successful
+AO12140-S013,AO12140,Sigma,2024-03-19,13,False,PUA,Successful
+AO12140-S014,AO12140,Sigma,2024-04-16,14,False,Training,Failed
+AO12140-S015,AO12140,Sigma,2024-05-03,15,False,Laser-guided,Successful
+AO12140-S016,AO12140,Sigma,2025-04-17,16,False,Training,Successful
+AO12140-S017,AO12140,Sigma,2025-10-26,17,False,PUA,Failed
+AO12140-S018,AO12140,Sigma,2025-11-22,18,False,Artillery Spotting,Successful
+AO12140-S019,AO12140,Sigma,2025-12-22,19,False,Laser-guided,Successful
+AO12140-S020,AO12140,Sigma,2026-01-01,20,False,Laser-guided,Successful
+AO12140-S021,AO12140,Sigma,2026-06-10,21,False,PUA,Failed
+AO12140-S022,AO12140,Sigma,2026-06-13,22,False,Artillery Spotting,Successful
+AO20080-S001,AO20080,Sigma,2021-02-12,1,True,PUA,Successful
+AO20080-S002,AO20080,Sigma,2021-04-23,2,False,Artillery Spotting,Successful
+AO20080-S003,AO20080,Sigma,2021-10-06,3,False,Training,Successful
+AO20080-S004,AO20080,Sigma,2021-12-11,4,False,PUA,Successful
+AO20080-S005,AO20080,Sigma,2021-12-28,5,False,PUA,Successful
+AO20080-S006,AO20080,Sigma,2022-10-14,6,False,PUA,Successful
+AO20080-S007,AO20080,Sigma,2023-09-10,7,False,PUA,Successful
+AO20080-S008,AO20080,Sigma,2023-10-09,8,False,PUA,Successful
+AO20080-S009,AO20080,Sigma,2024-04-17,9,False,Laser-guided,Successful
+AO20080-S010,AO20080,Sigma,2024-06-08,10,False,Training,Successful
+AO20080-S011,AO20080,Sigma,2024-07-29,11,False,PUA,Successful
+AO20080-S012,AO20080,Sigma,2024-12-01,12,False,Laser-guided,Successful
+AO20080-S013,AO20080,Sigma,2024-12-19,13,False,Training,Successful
+AO20080-S014,AO20080,Sigma,2025-09-22,14,False,Artillery Spotting,Failed
+AO20080-S015,AO20080,Sigma,2025-11-20,15,False,PUA,Successful
+AO20080-S016,AO20080,Sigma,2026-06-08,16,False,Artillery Spotting,Successful
+AO19031-S001,AO19031,Sigma,2021-06-16,1,True,PUA,Failed
+AO19031-S002,AO19031,Sigma,2021-06-30,2,False,PUA,Successful
+AO19031-S003,AO19031,Sigma,2021-08-13,3,False,PUA,Successful
+AO19031-S004,AO19031,Sigma,2021-08-23,4,False,PUA,Successful
+AO19031-S005,AO19031,Sigma,2021-12-26,5,False,PUA,Successful
+AO19031-S006,AO19031,Sigma,2022-09-25,6,False,PUA,Successful
+AO19031-S007,AO19031,Sigma,2023-03-04,7,False,PUA,Successful
+AO19031-S008,AO19031,Sigma,2023-06-14,8,False,Laser-guided,Successful
+AO19031-S009,AO19031,Sigma,2023-12-17,9,False,Training,Successful
+AO19031-S010,AO19031,Sigma,2024-06-21,10,False,PUA,Successful
+AO19031-S011,AO19031,Sigma,2024-07-12,11,False,PUA,Failed
+AO19031-S012,AO19031,Sigma,2024-07-17,12,False,Training,Successful
+AO19031-S013,AO19031,Sigma,2024-09-13,13,False,Laser-guided,Successful
+AO19031-S014,AO19031,Sigma,2025-06-16,14,False,PUA,Successful
+AO19031-S015,AO19031,Sigma,2025-07-01,15,False,PUA,Successful
+AO19031-S016,AO19031,Sigma,2025-12-04,16,False,PUA,Successful
+AO19031-S017,AO19031,Sigma,2026-01-09,17,False,Artillery Spotting,Failed
+AO19031-S018,AO19031,Sigma,2026-02-25,18,False,PUA,Successful
+AO19031-S019,AO19031,Sigma,2026-03-12,19,False,Artillery Spotting,Successful
+AO14110-S001,AO14110,Sigma,2021-08-22,1,True,PUA,Successful
+AO14110-S002,AO14110,Sigma,2021-12-20,2,False,PUA,Successful
+AO14110-S003,AO14110,Sigma,2022-01-01,3,False,Laser-guided,Successful
+AO14110-S004,AO14110,Sigma,2022-04-27,4,False,Laser-guided,Successful
+AO14110-S005,AO14110,Sigma,2022-06-14,5,False,PUA,Successful
+AO14110-S006,AO14110,Sigma,2022-10-23,6,False,Artillery Spotting,Successful
+AO14110-S007,AO14110,Sigma,2022-10-30,7,False,Laser-guided,Successful
+AO14110-S008,AO14110,Sigma,2022-11-06,8,False,Training,Successful
+AO14110-S009,AO14110,Sigma,2022-11-10,9,False,Artillery Spotting,Failed
+AO14110-S010,AO14110,Sigma,2023-01-09,10,False,PUA,Failed
+AO14110-S011,AO14110,Sigma,2023-01-18,11,False,Laser-guided,Successful
+AO14110-S012,AO14110,Sigma,2023-01-26,12,False,Training,Successful
+AO14110-S013,AO14110,Sigma,2023-03-13,13,False,PUA,Successful
+AO14110-S014,AO14110,Sigma,2023-07-10,14,False,Training,Failed
+AO14110-S015,AO14110,Sigma,2024-01-31,15,False,PUA,Successful
+AO14110-S016,AO14110,Sigma,2024-05-26,16,False,PUA,Successful
+AO14110-S017,AO14110,Sigma,2024-05-26,17,False,Training,Successful
+AO14110-S018,AO14110,Sigma,2025-04-01,18,False,PUA,Successful
+AO14110-S019,AO14110,Sigma,2025-05-08,19,False,Laser-guided,Successful
+AO14110-S020,AO14110,Sigma,2025-08-07,20,False,PUA,Successful
+AO14110-S021,AO14110,Sigma,2025-12-27,21,False,PUA,Successful
+AO14110-S022,AO14110,Sigma,2026-04-20,22,False,PUA,Successful
+AO16212-S001,AO16212,Sigma,2022-02-18,1,True,PUA,Successful
+AO16212-S002,AO16212,Sigma,2022-06-10,2,False,PUA,Successful
+AO16212-S003,AO16212,Sigma,2023-04-08,3,False,Training,Successful
+AO16212-S004,AO16212,Sigma,2023-07-14,4,False,Training,Successful
+AO16212-S005,AO16212,Sigma,2023-12-02,5,False,Training,Successful
+AO16212-S006,AO16212,Sigma,2024-11-10,6,False,PUA,Successful
+AO16212-S007,AO16212,Sigma,2025-11-10,7,False,Laser-guided,Successful
+AO16212-S008,AO16212,Sigma,2025-11-28,8,False,PUA,Successful
+AO16212-S009,AO16212,Sigma,2026-01-08,9,False,PUA,Successful
+AO16212-S010,AO16212,Sigma,2026-02-27,10,False,PUA,Successful
+AO16212-S011,AO16212,Sigma,2026-05-16,11,False,Training,Successful
+AO16212-S012,AO16212,Sigma,2026-06-20,12,False,Artillery Spotting,Successful
+AO21707-S001,AO21707,Sigma,2025-05-20,1,True,Laser-guided,Successful
+AO21707-S002,AO21707,Sigma,2025-06-25,2,False,Laser-guided,Failed
+AO21707-S003,AO21707,Sigma,2025-08-22,3,False,PUA,Successful
+AO21707-S004,AO21707,Sigma,2025-09-06,4,False,PUA,Successful
+AO21707-S005,AO21707,Sigma,2025-09-09,5,False,PUA,Successful
+AO21707-S006,AO21707,Sigma,2025-10-24,6,False,PUA,Successful
+AO21707-S007,AO21707,Sigma,2025-10-31,7,False,Artillery Spotting,Failed
+AO21707-S008,AO21707,Sigma,2026-02-21,8,False,PUA,Successful
+AO21707-S009,AO21707,Sigma,2026-03-17,9,False,Training,Successful
+AO21034-S001,AO21034,Sigma,2022-12-01,1,True,PUA,Successful
+AO21034-S002,AO21034,Sigma,2022-12-29,2,False,Laser-guided,Successful
+AO21034-S003,AO21034,Sigma,2023-04-13,3,False,Laser-guided,Failed
+AO21034-S004,AO21034,Sigma,2023-09-14,4,False,PUA,Successful
+AO21034-S005,AO21034,Sigma,2025-03-07,5,False,PUA,Successful
+AO21034-S006,AO21034,Sigma,2026-02-16,6,False,Training,Successful
+AO21034-S007,AO21034,Sigma,2026-03-09,7,False,Training,Failed
+AO21034-S008,AO21034,Sigma,2026-04-02,8,False,PUA,Successful
+AO21034-S009,AO21034,Sigma,2026-04-03,9,False,PUA,Successful
+AO21034-S010,AO21034,Sigma,2026-05-14,10,False,Laser-guided,Successful
+AO21034-S011,AO21034,Sigma,2026-05-22,11,False,Artillery Spotting,Successful
+AO22645-S001,AO22645,Sigma,2022-07-05,1,True,PUA,Successful
+AO22645-S002,AO22645,Sigma,2022-10-18,2,False,Laser-guided,Successful
+AO22645-S003,AO22645,Sigma,2022-12-04,3,False,Laser-guided,Successful
+AO22645-S004,AO22645,Sigma,2023-09-18,4,False,Laser-guided,Successful
+AO22645-S005,AO22645,Sigma,2023-12-28,5,False,PUA,Successful
+AO22645-S006,AO22645,Sigma,2024-04-12,6,False,Laser-guided,Successful
+AO22645-S007,AO22645,Sigma,2024-05-03,7,False,Artillery Spotting,Successful
+AO22645-S008,AO22645,Sigma,2024-10-27,8,False,PUA,Successful
+AO22645-S009,AO22645,Sigma,2025-02-01,9,False,PUA,Successful
+AO22645-S010,AO22645,Sigma,2025-12-05,10,False,Laser-guided,Successful
+AO22645-S011,AO22645,Sigma,2026-02-23,11,False,Laser-guided,Successful
+AO21263-S001,AO21263,Sigma,2022-01-10,1,True,Laser-guided,Failed
+AO21263-S002,AO21263,Sigma,2022-02-06,2,False,PUA,Successful
+AO21263-S003,AO21263,Sigma,2023-02-28,3,False,Laser-guided,Successful
+AO21263-S004,AO21263,Sigma,2023-03-26,4,False,Laser-guided,Successful
+AO21263-S005,AO21263,Sigma,2023-05-01,5,False,Laser-guided,Successful
+AO21263-S006,AO21263,Sigma,2023-07-05,6,False,Laser-guided,Successful
+AO21263-S007,AO21263,Sigma,2024-05-12,7,False,Training,Successful
+AO21263-S008,AO21263,Sigma,2024-10-26,8,False,PUA,Failed
+AO21263-S009,AO21263,Sigma,2024-12-13,9,False,Artillery Spotting,Successful
+AO21263-S010,AO21263,Sigma,2025-01-06,10,False,Artillery Spotting,Successful
+AO21263-S011,AO21263,Sigma,2025-03-07,11,False,PUA,Successful
+AO21263-S012,AO21263,Sigma,2025-03-17,12,False,Training,Successful
+AO21263-S013,AO21263,Sigma,2025-05-24,13,False,Laser-guided,Successful
+AO21263-S014,AO21263,Sigma,2025-05-29,14,False,Artillery Spotting,Successful
+AO21263-S015,AO21263,Sigma,2025-06-16,15,False,PUA,Successful
+AO21263-S016,AO21263,Sigma,2025-07-23,16,False,PUA,Successful
+AO21263-S017,AO21263,Sigma,2025-11-05,17,False,PUA,Successful
+AO21263-S018,AO21263,Sigma,2026-01-16,18,False,PUA,Successful
+AO21263-S019,AO21263,Sigma,2026-03-08,19,False,Training,Successful
+AO21263-S020,AO21263,Sigma,2026-03-14,20,False,PUA,Successful
+AO21263-S021,AO21263,Sigma,2026-03-17,21,False,PUA,Successful
+AO21263-S022,AO21263,Sigma,2026-03-20,22,False,Laser-guided,Successful
+AO25112-S001,AO25112,Sigma,2025-04-10,1,True,Training,Successful
+AO25112-S002,AO25112,Sigma,2025-06-28,2,False,Laser-guided,Successful
+AO25112-S003,AO25112,Sigma,2025-08-13,3,False,Training,Successful
+AO20873-S001,AO20873,Sigma,2023-06-06,1,True,PUA,Successful
+AO20873-S002,AO20873,Sigma,2023-06-09,2,False,PUA,Successful
+AO20873-S003,AO20873,Sigma,2023-08-09,3,False,PUA,Successful
+AO20873-S004,AO20873,Sigma,2023-09-13,4,False,PUA,Successful
+AO20873-S005,AO20873,Sigma,2024-01-20,5,False,PUA,Successful
+AO20873-S006,AO20873,Sigma,2024-07-04,6,False,PUA,Successful
+AO20873-S007,AO20873,Sigma,2025-06-15,7,False,Artillery Spotting,Successful
+AO20873-S008,AO20873,Sigma,2025-06-20,8,False,PUA,Successful
+AO20873-S009,AO20873,Sigma,2025-08-31,9,False,PUA,Successful
+AO20873-S010,AO20873,Sigma,2026-01-19,10,False,Training,Successful
+AO24366-S001,AO24366,Sigma,2024-04-26,1,True,PUA,Successful
+AO24366-S002,AO24366,Sigma,2025-06-13,2,False,Artillery Spotting,Successful
+AO24366-S003,AO24366,Sigma,2025-11-22,3,False,Laser-guided,Successful
+AO24366-S004,AO24366,Sigma,2025-12-19,4,False,Artillery Spotting,Successful
+AO24140-S001,AO24140,Sigma,2024-11-12,1,True,Laser-guided,Successful
+AO24140-S002,AO24140,Sigma,2025-03-08,2,False,PUA,Successful
+AO24140-S003,AO24140,Sigma,2025-03-13,3,False,Laser-guided,Successful
+AO24140-S004,AO24140,Sigma,2025-04-02,4,False,Laser-guided,Successful
+AO24140-S005,AO24140,Sigma,2025-04-18,5,False,PUA,Successful
+AO24140-S006,AO24140,Sigma,2025-06-08,6,False,Artillery Spotting,Successful
+AO24140-S007,AO24140,Sigma,2025-11-05,7,False,Laser-guided,Successful
+AO24140-S008,AO24140,Sigma,2026-03-11,8,False,PUA,Successful
+AO24140-S009,AO24140,Sigma,2026-03-26,9,False,Laser-guided,Successful
+AO24140-S010,AO24140,Sigma,2026-04-06,10,False,PUA,Successful
+AO17508-S001,AO17508,Sigma,2021-04-14,1,True,Laser-guided,Successful
+AO17508-S002,AO17508,Sigma,2021-07-31,2,False,Training,Successful
+AO17508-S003,AO17508,Sigma,2021-10-07,3,False,PUA,Successful
+AO17508-S004,AO17508,Sigma,2021-11-14,4,False,Laser-guided,Successful
+AO17508-S005,AO17508,Sigma,2022-06-13,5,False,PUA,Successful
+AO17508-S006,AO17508,Sigma,2022-07-02,6,False,PUA,Successful
+AO17508-S007,AO17508,Sigma,2022-09-02,7,False,Artillery Spotting,Failed
+AO17508-S008,AO17508,Sigma,2022-09-04,8,False,Training,Successful
+AO17508-S009,AO17508,Sigma,2022-12-19,9,False,PUA,Successful
+AO17508-S010,AO17508,Sigma,2022-12-30,10,False,Laser-guided,Successful
+AO17508-S011,AO17508,Sigma,2023-08-04,11,False,Artillery Spotting,Successful
+AO17508-S012,AO17508,Sigma,2023-09-24,12,False,Training,Successful
+AO17508-S013,AO17508,Sigma,2023-11-02,13,False,Laser-guided,Successful
+AO17508-S014,AO17508,Sigma,2023-11-30,14,False,PUA,Successful
+AO17508-S015,AO17508,Sigma,2024-02-07,15,False,PUA,Successful
+AO17508-S016,AO17508,Sigma,2024-05-14,16,False,Laser-guided,Successful
+AO17508-S017,AO17508,Sigma,2024-08-17,17,False,PUA,Successful
+AO17508-S018,AO17508,Sigma,2024-11-10,18,False,PUA,Successful
+AO17508-S019,AO17508,Sigma,2025-09-08,19,False,Laser-guided,Successful
+AO17508-S020,AO17508,Sigma,2025-10-04,20,False,PUA,Successful
+AO17508-S021,AO17508,Sigma,2026-03-21,21,False,Artillery Spotting,Successful
+AO17508-S022,AO17508,Sigma,2026-04-05,22,False,Training,Successful
+AO17508-S023,AO17508,Sigma,2026-04-25,23,False,Laser-guided,Successful
+AO20321-S001,AO20321,Sigma,2024-06-29,1,True,Laser-guided,Failed
+AO20321-S002,AO20321,Sigma,2024-08-10,2,False,PUA,Successful
+AO20321-S003,AO20321,Sigma,2024-10-15,3,False,Laser-guided,Successful
+AO20321-S004,AO20321,Sigma,2025-04-10,4,False,Laser-guided,Successful
+AO20321-S005,AO20321,Sigma,2025-04-17,5,False,Training,Successful
+AO20321-S006,AO20321,Sigma,2025-05-25,6,False,Laser-guided,Failed
+AO20321-S007,AO20321,Sigma,2025-07-07,7,False,PUA,Successful
+AO18793-S001,AO18793,Sigma,2023-05-06,1,True,Laser-guided,Successful
+AO18793-S002,AO18793,Sigma,2023-06-22,2,False,PUA,Successful
+AO18793-S003,AO18793,Sigma,2023-08-19,3,False,Training,Successful
+AO18793-S004,AO18793,Sigma,2024-01-18,4,False,Laser-guided,Successful
+AO18793-S005,AO18793,Sigma,2024-02-22,5,False,PUA,Successful
+AO18793-S006,AO18793,Sigma,2024-04-19,6,False,PUA,Failed
+AO18793-S007,AO18793,Sigma,2024-10-04,7,False,PUA,Successful
+AO18793-S008,AO18793,Sigma,2024-10-16,8,False,Laser-guided,Successful
+AO18793-S009,AO18793,Sigma,2024-10-19,9,False,PUA,Successful
+AO18793-S010,AO18793,Sigma,2025-05-03,10,False,Training,Successful
+AO18793-S011,AO18793,Sigma,2025-05-04,11,False,Laser-guided,Successful
+AO18793-S012,AO18793,Sigma,2025-06-18,12,False,PUA,Successful
+AO18793-S013,AO18793,Sigma,2025-07-02,13,False,PUA,Successful
+AO18793-S014,AO18793,Sigma,2025-07-22,14,False,PUA,Successful
+AO18793-S015,AO18793,Sigma,2025-08-26,15,False,PUA,Successful
+AO18793-S016,AO18793,Sigma,2026-04-07,16,False,Laser-guided,Successful
+AO25165-S001,AO25165,Sigma,2025-06-10,1,True,PUA,Failed
+AO25165-S002,AO25165,Sigma,2025-07-30,2,False,Laser-guided,Successful
+AO25165-S003,AO25165,Sigma,2025-10-19,3,False,Laser-guided,Successful
+AO25165-S004,AO25165,Sigma,2025-10-27,4,False,Training,Successful
+AO25165-S005,AO25165,Sigma,2025-11-22,5,False,Laser-guided,Successful
+AO25165-S006,AO25165,Sigma,2025-11-28,6,False,PUA,Successful
+AO25165-S007,AO25165,Sigma,2026-04-27,7,False,Laser-guided,Successful
+AO25165-S008,AO25165,Sigma,2026-05-30,8,False,Artillery Spotting,Successful
+AO25165-S009,AO25165,Sigma,2026-06-01,9,False,Artillery Spotting,Failed
+AO25165-S010,AO25165,Sigma,2026-06-09,10,False,PUA,Failed
+AO25165-S011,AO25165,Sigma,2026-06-20,11,False,Artillery Spotting,Successful
+AO13943-S001,AO13943,Sigma,2021-02-17,1,True,Laser-guided,Successful
+AO13943-S002,AO13943,Sigma,2021-03-25,2,False,PUA,Successful
+AO13943-S003,AO13943,Sigma,2021-05-15,3,False,PUA,Successful
+AO13943-S004,AO13943,Sigma,2022-05-28,4,False,PUA,Successful
+AO13943-S005,AO13943,Sigma,2022-06-22,5,False,Training,Successful
+AO13943-S006,AO13943,Sigma,2022-09-06,6,False,PUA,Successful
+AO13943-S007,AO13943,Sigma,2023-10-10,7,False,PUA,Failed
+AO13943-S008,AO13943,Sigma,2024-03-19,8,False,Artillery Spotting,Successful
+AO13943-S009,AO13943,Sigma,2024-06-15,9,False,Laser-guided,Successful
+AO13943-S010,AO13943,Sigma,2025-03-27,10,False,Laser-guided,Failed
+AO13943-S011,AO13943,Sigma,2025-07-17,11,False,PUA,Successful
+AO13943-S012,AO13943,Sigma,2025-10-04,12,False,PUA,Successful
+AO13943-S013,AO13943,Sigma,2025-10-30,13,False,Laser-guided,Successful
+AO25541-S001,AO25541,Sigma,2025-03-31,1,True,Laser-guided,Failed
+AO25541-S002,AO25541,Sigma,2025-03-31,2,False,Laser-guided,Successful
+AO25541-S003,AO25541,Sigma,2025-04-22,3,False,PUA,Successful
+AO25541-S004,AO25541,Sigma,2025-06-25,4,False,PUA,Successful
+AO25541-S005,AO25541,Sigma,2026-04-16,5,False,PUA,Successful
+AO17098-S001,AO17098,Sigma,2024-10-30,1,True,PUA,Failed
+AO17098-S002,AO17098,Sigma,2025-04-09,2,False,Training,Successful
+AO17098-S003,AO17098,Sigma,2025-10-10,3,False,Training,Successful
+AO17098-S004,AO17098,Sigma,2025-11-08,4,False,PUA,Successful
+AO17098-S005,AO17098,Sigma,2026-03-04,5,False,Laser-guided,Successful
+AO17098-S006,AO17098,Sigma,2026-04-29,6,False,PUA,Successful
+AO17098-S007,AO17098,Sigma,2026-05-02,7,False,PUA,Successful
+AO17098-S008,AO17098,Sigma,2026-05-17,8,False,Artillery Spotting,Successful
+AO22788-S001,AO22788,Sigma,2024-01-20,1,True,Artillery Spotting,Successful
+AO22788-S002,AO22788,Sigma,2024-01-27,2,False,PUA,Successful
+AO22788-S003,AO22788,Sigma,2024-02-12,3,False,PUA,Successful
+AO22788-S004,AO22788,Sigma,2024-03-18,4,False,Laser-guided,Successful
+AO22788-S005,AO22788,Sigma,2024-10-23,5,False,Laser-guided,Successful
+AO22788-S006,AO22788,Sigma,2025-05-07,6,False,PUA,Successful
+AO22788-S007,AO22788,Sigma,2025-07-07,7,False,Artillery Spotting,Successful
+AO22788-S008,AO22788,Sigma,2025-09-09,8,False,Training,Successful
+AO22788-S009,AO22788,Sigma,2025-09-20,9,False,Laser-guided,Failed
+AO22788-S010,AO22788,Sigma,2025-12-01,10,False,Laser-guided,Successful
+AO22788-S011,AO22788,Sigma,2026-01-14,11,False,PUA,Failed
+AO22788-S012,AO22788,Sigma,2026-03-17,12,False,Laser-guided,Successful
+AO22788-S013,AO22788,Sigma,2026-05-06,13,False,PUA,Successful
+AO22788-S014,AO22788,Sigma,2026-05-28,14,False,Laser-guided,Successful
+AO22788-S015,AO22788,Sigma,2026-06-28,15,False,PUA,Successful
+AO24582-S001,AO24582,Sigma,2024-12-21,1,True,PUA,Failed
+AO24582-S002,AO24582,Sigma,2025-01-06,2,False,Laser-guided,Successful
+AO24582-S003,AO24582,Sigma,2025-09-16,3,False,Artillery Spotting,Successful
+AO24582-S004,AO24582,Sigma,2025-09-18,4,False,Laser-guided,Successful
+AO24582-S005,AO24582,Sigma,2025-12-07,5,False,PUA,Successful
+AO24582-S006,AO24582,Sigma,2026-06-09,6,False,Training,Successful
+AO21338-S001,AO21338,Sigma,2024-12-07,1,True,PUA,Successful
+AO21338-S002,AO21338,Sigma,2024-12-27,2,False,PUA,Successful
+AO21338-S003,AO21338,Sigma,2024-12-30,3,False,Laser-guided,Successful
+AO21338-S004,AO21338,Sigma,2025-01-15,4,False,Laser-guided,Successful
+AO21338-S005,AO21338,Sigma,2025-03-04,5,False,PUA,Successful
+AO21338-S006,AO21338,Sigma,2025-06-27,6,False,Laser-guided,Successful
+AO21338-S007,AO21338,Sigma,2025-12-01,7,False,Training,Successful
+AO21338-S008,AO21338,Sigma,2025-12-19,8,False,Laser-guided,Successful
+AO21338-S009,AO21338,Sigma,2026-01-07,9,False,PUA,Successful
+AO21338-S010,AO21338,Sigma,2026-01-10,10,False,PUA,Successful
+G21228-S001,G21228,Sigma,2023-01-04,1,True,PUA,Failed
+G21228-S002,G21228,Sigma,2023-02-24,2,False,PUA,Successful
+G21228-S003,G21228,Sigma,2023-07-03,3,False,PUA,Successful
+G21228-S004,G21228,Sigma,2024-04-09,4,False,PUA,Successful
+G21228-S005,G21228,Sigma,2024-11-29,5,False,PUA,Successful
+G21228-S006,G21228,Sigma,2024-12-13,6,False,PUA,Successful
+G21228-S007,G21228,Sigma,2025-03-23,7,False,Laser-guided,Successful
+G21228-S008,G21228,Sigma,2025-04-04,8,False,PUA,Successful
+G21228-S009,G21228,Sigma,2025-09-28,9,False,PUA,Successful
+G21228-S010,G21228,Sigma,2026-02-26,10,False,Laser-guided,Successful
+G21228-S011,G21228,Sigma,2026-05-22,11,False,PUA,Successful
+G23248-S001,G23248,Sigma,2023-02-25,1,True,Training,Successful
+G23248-S002,G23248,Sigma,2023-03-17,2,False,PUA,Successful
+G23248-S003,G23248,Sigma,2023-04-25,3,False,PUA,Successful
+G23248-S004,G23248,Sigma,2023-06-20,4,False,PUA,Failed
+G23248-S005,G23248,Sigma,2023-08-14,5,False,Laser-guided,Successful
+G23248-S006,G23248,Sigma,2023-09-26,6,False,Laser-guided,Successful
+G23248-S007,G23248,Sigma,2023-12-07,7,False,Training,Failed
+G23248-S008,G23248,Sigma,2024-02-19,8,False,PUA,Failed
+G23248-S009,G23248,Sigma,2024-03-04,9,False,Training,Failed
+G23248-S010,G23248,Sigma,2024-05-17,10,False,PUA,Successful
+G23248-S011,G23248,Sigma,2024-06-09,11,False,Laser-guided,Successful
+G23248-S012,G23248,Sigma,2025-02-23,12,False,Training,Successful
+G23248-S013,G23248,Sigma,2025-10-19,13,False,Artillery Spotting,Successful
+G23248-S014,G23248,Sigma,2026-02-22,14,False,Training,Successful
+G17472-S001,G17472,Sigma,2021-09-23,1,True,PUA,Failed
+G17472-S002,G17472,Sigma,2021-10-27,2,False,Laser-guided,Successful
+G17472-S003,G17472,Sigma,2021-11-29,3,False,Laser-guided,Successful
+G17472-S004,G17472,Sigma,2022-04-25,4,False,PUA,Failed
+G17472-S005,G17472,Sigma,2022-08-06,5,False,Artillery Spotting,Successful
+G17472-S006,G17472,Sigma,2022-08-23,6,False,PUA,Failed
+G17472-S007,G17472,Sigma,2022-10-03,7,False,PUA,Successful
+G17472-S008,G17472,Sigma,2023-02-02,8,False,Laser-guided,Successful
+G17472-S009,G17472,Sigma,2023-04-23,9,False,Laser-guided,Successful
+G17472-S010,G17472,Sigma,2023-07-01,10,False,PUA,Failed
+G17472-S011,G17472,Sigma,2023-11-25,11,False,PUA,Failed
+G17472-S012,G17472,Sigma,2024-02-23,12,False,PUA,Successful
+G17472-S013,G17472,Sigma,2024-05-30,13,False,Artillery Spotting,Successful
+G17472-S014,G17472,Sigma,2024-08-23,14,False,PUA,Successful
+G17472-S015,G17472,Sigma,2024-09-17,15,False,Laser-guided,Successful
+G17472-S016,G17472,Sigma,2024-10-10,16,False,PUA,Successful
+G17472-S017,G17472,Sigma,2024-10-26,17,False,PUA,Successful
+G17472-S018,G17472,Sigma,2024-11-02,18,False,Laser-guided,Failed
+G17472-S019,G17472,Sigma,2025-04-01,19,False,PUA,Successful
+G17472-S020,G17472,Sigma,2025-08-15,20,False,PUA,Successful
+G25334-S001,G25334,Sigma,2025-07-04,1,True,PUA,Successful
+G25334-S002,G25334,Sigma,2025-08-04,2,False,Laser-guided,Successful
+G25334-S003,G25334,Sigma,2025-08-19,3,False,PUA,Successful
+G25334-S004,G25334,Sigma,2025-12-04,4,False,PUA,Successful
+G25334-S005,G25334,Sigma,2025-12-29,5,False,Artillery Spotting,Successful
+G25334-S006,G25334,Sigma,2026-02-16,6,False,Training,Failed
+G25334-S007,G25334,Sigma,2026-03-21,7,False,Laser-guided,Successful
+G25334-S008,G25334,Sigma,2026-06-30,8,False,Artillery Spotting,Failed
+G23853-S001,G23853,Sigma,2023-05-30,1,True,Training,Successful
+G23853-S002,G23853,Sigma,2023-07-07,2,False,PUA,Successful
+G23853-S003,G23853,Sigma,2023-07-23,3,False,PUA,Failed
+G23853-S004,G23853,Sigma,2023-08-13,4,False,PUA,Successful
+G23853-S005,G23853,Sigma,2023-08-18,5,False,PUA,Successful
+G23853-S006,G23853,Sigma,2023-11-11,6,False,Artillery Spotting,Successful
+G23853-S007,G23853,Sigma,2023-12-19,7,False,Laser-guided,Successful
+G23853-S008,G23853,Sigma,2024-02-14,8,False,Laser-guided,Successful
+G23853-S009,G23853,Sigma,2024-05-16,9,False,PUA,Failed
+G23853-S010,G23853,Sigma,2024-06-05,10,False,Artillery Spotting,Failed
+G23853-S011,G23853,Sigma,2024-11-15,11,False,PUA,Successful
+G23853-S012,G23853,Sigma,2025-03-22,12,False,Laser-guided,Successful
+G23853-S013,G23853,Sigma,2025-07-27,13,False,PUA,Successful
+G23853-S014,G23853,Sigma,2025-08-09,14,False,Training,Successful
+G23853-S015,G23853,Sigma,2026-01-12,15,False,Laser-guided,Successful
+G23853-S016,G23853,Sigma,2026-01-30,16,False,Laser-guided,Successful
+G23853-S017,G23853,Sigma,2026-02-27,17,False,PUA,Successful
+G21956-S001,G21956,Sigma,2023-11-18,1,True,Laser-guided,Failed
+G21956-S002,G21956,Sigma,2024-03-22,2,False,Training,Successful
+G21956-S003,G21956,Sigma,2024-05-18,3,False,PUA,Successful
+G21956-S004,G21956,Sigma,2024-08-27,4,False,PUA,Successful
+G21956-S005,G21956,Sigma,2024-10-24,5,False,Artillery Spotting,Successful
+G21956-S006,G21956,Sigma,2024-11-21,6,False,PUA,Successful
+G21956-S007,G21956,Sigma,2025-03-13,7,False,Laser-guided,Failed
+G21956-S008,G21956,Sigma,2025-08-23,8,False,PUA,Successful
+G21956-S009,G21956,Sigma,2026-01-19,9,False,Laser-guided,Successful
+G21956-S010,G21956,Sigma,2026-02-20,10,False,Laser-guided,Successful
+G24754-S001,G24754,Sigma,2024-08-29,1,True,Training,Successful
+G24754-S002,G24754,Sigma,2024-10-04,2,False,PUA,Successful
+G24754-S003,G24754,Sigma,2024-10-10,3,False,Training,Successful
+G24754-S004,G24754,Sigma,2024-12-18,4,False,PUA,Successful
+G24754-S005,G24754,Sigma,2025-01-09,5,False,Artillery Spotting,Successful
+G24754-S006,G24754,Sigma,2025-01-19,6,False,Artillery Spotting,Successful
+G24754-S007,G24754,Sigma,2025-04-19,7,False,Artillery Spotting,Successful
+G24754-S008,G24754,Sigma,2025-05-12,8,False,Laser-guided,Successful
+G24754-S009,G24754,Sigma,2025-06-13,9,False,Laser-guided,Successful
+G24754-S010,G24754,Sigma,2025-09-08,10,False,Laser-guided,Successful
+G24754-S011,G24754,Sigma,2026-01-21,11,False,Laser-guided,Successful
+G24754-S012,G24754,Sigma,2026-04-22,12,False,Laser-guided,Successful
+G24754-S013,G24754,Sigma,2026-06-07,13,False,PUA,Successful
+G13596-S001,G13596,Sigma,2024-05-02,1,True,Training,Successful
+G13596-S002,G13596,Sigma,2024-05-09,2,False,PUA,Successful
+G13596-S003,G13596,Sigma,2024-05-10,3,False,Artillery Spotting,Successful
+G13596-S004,G13596,Sigma,2024-06-29,4,False,Artillery Spotting,Successful
+G13596-S005,G13596,Sigma,2024-07-29,5,False,PUA,Successful
+G13596-S006,G13596,Sigma,2025-01-15,6,False,Training,Successful
+G13596-S007,G13596,Sigma,2025-02-05,7,False,PUA,Successful
+G13596-S008,G13596,Sigma,2025-08-04,8,False,Artillery Spotting,Failed
+G13596-S009,G13596,Sigma,2025-10-14,9,False,PUA,Successful
+G13596-S010,G13596,Sigma,2025-11-04,10,False,Training,Successful
+G13596-S011,G13596,Sigma,2026-01-06,11,False,Laser-guided,Successful
+G13596-S012,G13596,Sigma,2026-01-09,12,False,PUA,Successful
+G13596-S013,G13596,Sigma,2026-03-15,13,False,PUA,Successful
+G13596-S014,G13596,Sigma,2026-04-13,14,False,Training,Successful
+G13596-S015,G13596,Sigma,2026-05-16,15,False,Artillery Spotting,Successful
+G22667-S001,G22667,Sigma,2022-07-09,1,True,Artillery Spotting,Failed
+G22667-S002,G22667,Sigma,2022-08-28,2,False,Training,Successful
+G22667-S003,G22667,Sigma,2023-03-21,3,False,Laser-guided,Successful
+G22667-S004,G22667,Sigma,2023-04-26,4,False,Laser-guided,Successful
+G22667-S005,G22667,Sigma,2023-06-03,5,False,Laser-guided,Successful
+G22667-S006,G22667,Sigma,2023-06-20,6,False,Training,Successful
+G22667-S007,G22667,Sigma,2023-06-25,7,False,Artillery Spotting,Failed
+G22667-S008,G22667,Sigma,2023-07-30,8,False,PUA,Successful
+G22667-S009,G22667,Sigma,2023-08-04,9,False,Laser-guided,Successful
+G22667-S010,G22667,Sigma,2024-02-20,10,False,Training,Successful
+G22667-S011,G22667,Sigma,2024-02-25,11,False,PUA,Successful
+G22667-S012,G22667,Sigma,2024-03-07,12,False,PUA,Failed
+G22667-S013,G22667,Sigma,2024-03-26,13,False,PUA,Successful
+G22667-S014,G22667,Sigma,2024-03-30,14,False,Laser-guided,Successful
+G22667-S015,G22667,Sigma,2024-05-20,15,False,PUA,Successful
+G22667-S016,G22667,Sigma,2024-08-31,16,False,Training,Successful
+G22667-S017,G22667,Sigma,2025-02-16,17,False,PUA,Successful
+G22667-S018,G22667,Sigma,2025-06-01,18,False,Artillery Spotting,Successful
+G22667-S019,G22667,Sigma,2025-09-23,19,False,Laser-guided,Successful
+G22667-S020,G22667,Sigma,2025-12-25,20,False,Training,Successful
+G22667-S021,G22667,Sigma,2026-05-06,21,False,Artillery Spotting,Successful
+G22398-S001,G22398,Sigma,2023-08-09,1,True,Laser-guided,Successful
+G22398-S002,G22398,Sigma,2023-08-25,2,False,PUA,Successful
+G22398-S003,G22398,Sigma,2023-09-16,3,False,PUA,Successful
+G22398-S004,G22398,Sigma,2023-10-28,4,False,Artillery Spotting,Successful
+G22398-S005,G22398,Sigma,2024-02-24,5,False,PUA,Successful
+G22398-S006,G22398,Sigma,2024-05-29,6,False,Laser-guided,Successful
+G22398-S007,G22398,Sigma,2025-04-10,7,False,Laser-guided,Successful
+G22398-S008,G22398,Sigma,2026-01-03,8,False,PUA,Successful
+G22398-S009,G22398,Sigma,2026-02-04,9,False,Laser-guided,Successful
+G22398-S010,G22398,Sigma,2026-02-27,10,False,Artillery Spotting,Successful
+G23722-S001,G23722,Sigma,2023-06-08,1,True,Laser-guided,Successful
+G23722-S002,G23722,Sigma,2023-12-01,2,False,Training,Successful
+G23722-S003,G23722,Sigma,2024-03-04,3,False,Training,Successful
+G23722-S004,G23722,Sigma,2024-05-15,4,False,Artillery Spotting,Successful
+G23722-S005,G23722,Sigma,2024-05-21,5,False,PUA,Successful
+G23722-S006,G23722,Sigma,2024-06-24,6,False,PUA,Successful
+G23722-S007,G23722,Sigma,2024-08-30,7,False,Laser-guided,Successful
+G23722-S008,G23722,Sigma,2024-12-26,8,False,Laser-guided,Failed
+G23722-S009,G23722,Sigma,2025-01-05,9,False,PUA,Successful
+G23722-S010,G23722,Sigma,2025-11-09,10,False,PUA,Successful
+G23722-S011,G23722,Sigma,2025-12-05,11,False,Artillery Spotting,Successful
+G23722-S012,G23722,Sigma,2026-02-14,12,False,PUA,Successful
+G23722-S013,G23722,Sigma,2026-06-09,13,False,Training,Successful
+G23722-S014,G23722,Sigma,2026-06-09,14,False,PUA,Successful
+G21563-S001,G21563,Sigma,2021-12-17,1,True,PUA,Successful
+G21563-S002,G21563,Sigma,2021-12-22,2,False,Laser-guided,Successful
+G21563-S003,G21563,Sigma,2022-01-30,3,False,PUA,Successful
+G21563-S004,G21563,Sigma,2022-02-06,4,False,Laser-guided,Successful
+G21563-S005,G21563,Sigma,2022-05-26,5,False,Laser-guided,Successful
+G21563-S006,G21563,Sigma,2022-06-11,6,False,PUA,Successful
+G21563-S007,G21563,Sigma,2022-10-02,7,False,Laser-guided,Successful
+G21563-S008,G21563,Sigma,2023-01-22,8,False,PUA,Successful
+G21563-S009,G21563,Sigma,2023-04-01,9,False,Artillery Spotting,Failed
+G21563-S010,G21563,Sigma,2023-07-14,10,False,Artillery Spotting,Failed
+G21563-S011,G21563,Sigma,2023-12-19,11,False,Training,Successful
+G21563-S012,G21563,Sigma,2024-04-05,12,False,PUA,Successful
+G21563-S013,G21563,Sigma,2024-11-01,13,False,Laser-guided,Failed
+G21563-S014,G21563,Sigma,2025-04-25,14,False,PUA,Successful
+G21563-S015,G21563,Sigma,2025-12-27,15,False,Laser-guided,Successful
+G13345-S001,G13345,Sigma,2024-08-08,1,True,PUA,Successful
+G13345-S002,G13345,Sigma,2024-12-27,2,False,Training,Successful
+G13345-S003,G13345,Sigma,2025-01-01,3,False,PUA,Successful
+G13345-S004,G13345,Sigma,2025-02-20,4,False,PUA,Successful
+G13345-S005,G13345,Sigma,2025-04-08,5,False,Training,Successful
+G13345-S006,G13345,Sigma,2025-07-21,6,False,PUA,Successful
+G13345-S007,G13345,Sigma,2025-10-14,7,False,Laser-guided,Successful
+G13345-S008,G13345,Sigma,2025-12-05,8,False,Training,Successful
+G13345-S009,G13345,Sigma,2026-01-10,9,False,Laser-guided,Failed
+G13345-S010,G13345,Sigma,2026-04-03,10,False,Training,Successful
+G13345-S011,G13345,Sigma,2026-04-12,11,False,PUA,Successful
+G24895-S001,G24895,Sigma,2025-03-22,1,True,PUA,Failed
+G24895-S002,G24895,Sigma,2025-08-16,2,False,Laser-guided,Failed
+G24895-S003,G24895,Sigma,2025-09-14,3,False,Laser-guided,Successful
+G24895-S004,G24895,Sigma,2025-09-25,4,False,PUA,Successful
+G24895-S005,G24895,Sigma,2025-10-16,5,False,Laser-guided,Successful
+G24895-S006,G24895,Sigma,2025-11-24,6,False,Artillery Spotting,Failed
+G24895-S007,G24895,Sigma,2025-12-03,7,False,Training,Successful
+G24895-S008,G24895,Sigma,2026-01-19,8,False,PUA,Successful
+G24895-S009,G24895,Sigma,2026-03-20,9,False,Training,Successful
+G24895-S010,G24895,Sigma,2026-04-14,10,False,PUA,Successful
+G24895-S011,G24895,Sigma,2026-04-20,11,False,PUA,Successful
+G24895-S012,G24895,Sigma,2026-05-08,12,False,PUA,Successful
+G17341-S001,G17341,Sigma,2021-12-12,1,True,Laser-guided,Successful
+G17341-S002,G17341,Sigma,2022-03-31,2,False,Laser-guided,Successful
+G17341-S003,G17341,Sigma,2022-12-29,3,False,Training,Successful
+G17341-S004,G17341,Sigma,2023-01-03,4,False,PUA,Successful
+G17341-S005,G17341,Sigma,2023-01-08,5,False,Laser-guided,Successful
+G17341-S006,G17341,Sigma,2023-02-16,6,False,Artillery Spotting,Successful
+G17341-S007,G17341,Sigma,2023-06-24,7,False,Laser-guided,Successful
+G17341-S008,G17341,Sigma,2023-07-14,8,False,PUA,Successful
+G17341-S009,G17341,Sigma,2023-07-25,9,False,Training,Successful
+G17341-S010,G17341,Sigma,2023-08-06,10,False,Training,Successful
+G17341-S011,G17341,Sigma,2023-08-23,11,False,Laser-guided,Successful
+G17341-S012,G17341,Sigma,2024-03-07,12,False,PUA,Successful
+G17341-S013,G17341,Sigma,2024-03-23,13,False,PUA,Successful
+G17341-S014,G17341,Sigma,2024-05-14,14,False,Training,Successful
+G17341-S015,G17341,Sigma,2024-06-01,15,False,PUA,Successful
+G17341-S016,G17341,Sigma,2024-12-25,16,False,Laser-guided,Successful
+G17341-S017,G17341,Sigma,2025-02-10,17,False,PUA,Successful
+G17341-S018,G17341,Sigma,2025-06-12,18,False,PUA,Successful
+G17341-S019,G17341,Sigma,2025-07-04,19,False,PUA,Successful
+G17341-S020,G17341,Sigma,2025-11-06,20,False,Laser-guided,Successful
+G17341-S021,G17341,Sigma,2026-03-15,21,False,PUA,Successful
+G17341-S022,G17341,Sigma,2026-05-03,22,False,Laser-guided,Successful
+G17341-S023,G17341,Sigma,2026-05-19,23,False,Artillery Spotting,Successful
+G17341-S024,G17341,Sigma,2026-06-19,24,False,Artillery Spotting,Successful
+G10878-S001,G10878,Sigma,2023-02-09,1,True,Laser-guided,Successful
+G10878-S002,G10878,Sigma,2023-04-10,2,False,PUA,Successful
+G10878-S003,G10878,Sigma,2023-05-08,3,False,PUA,Successful
+G10878-S004,G10878,Sigma,2023-05-10,4,False,PUA,Successful
+G10878-S005,G10878,Sigma,2024-07-01,5,False,PUA,Successful
+G10878-S006,G10878,Sigma,2024-10-17,6,False,PUA,Successful
+G10878-S007,G10878,Sigma,2024-10-18,7,False,PUA,Failed
+G10878-S008,G10878,Sigma,2024-12-30,8,False,PUA,Failed
+G10878-S009,G10878,Sigma,2025-01-05,9,False,PUA,Failed
+G10878-S010,G10878,Sigma,2025-03-30,10,False,PUA,Successful
+G10878-S011,G10878,Sigma,2025-05-07,11,False,PUA,Successful
+G10878-S012,G10878,Sigma,2026-01-09,12,False,Training,Failed
+G10878-S013,G10878,Sigma,2026-03-29,13,False,PUA,Successful
+G10878-S014,G10878,Sigma,2026-04-08,14,False,PUA,Successful

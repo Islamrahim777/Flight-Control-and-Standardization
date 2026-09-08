@@ -1,0 +1,61 @@
+incident_id,mission_id,person_id,department,incident_date,incident_type,cause,severity_score,investigation_outcome
+INC0001,MSN00069,AO12461,Alpha,2021-05-11,Technical Fault (no loss),Mechanical Failure,3,Corrective Action Taken
+INC0002,MSN00105,AO20164,Alpha,2021-07-25,Technical Fault (no loss),Mechanical Failure,3,Corrective Action Taken
+INC0003,MSN00129,AO19336,Alpha,2021-08-06,Technical Fault (no loss),Mechanical Failure,1,Corrective Action Taken
+INC0004,MSN00258,AO22921,Alpha,2022-05-11,Technical Fault (no loss),Unknown,3,Under Investigation
+INC0005,MSN00433,AO15635,Alpha,2023-03-27,Technical Fault (no loss),Mechanical Failure,1,Corrective Action Taken
+INC0006,MSN00534,AO22921,Alpha,2023-08-05,Minor Incident,Weather,3,No Fault Found
+INC0007,MSN00604,AO22646,Alpha,2023-12-23,Technical Fault (no loss),Mechanical Failure,2,Corrective Action Taken
+INC0008,MSN00638,AO15635,Alpha,2024-04-25,Technical Fault (no loss),Mechanical Failure,1,Corrective Action Taken
+INC0009,MSN00823,AO17445,Alpha,2025-03-17,UAV Loss,Enemy Action,10,No Fault Found
+INC0010,MSN00826,AO15635,Alpha,2025-03-02,Technical Fault (no loss),Mechanical Failure,2,Corrective Action Taken
+INC0011,MSN00853,AO23491,Alpha,2025-05-21,Technical Fault (no loss),Mechanical Failure,2,Corrective Action Taken
+INC0012,MSN00873,AO24361,Alpha,2025-06-27,Minor Incident,Mechanical Failure,4,Corrective Action Taken
+INC0013,MSN01013,AO22646,Alpha,2026-01-13,Minor Incident,Human Error,5,Pilot Error
+INC0014,MSN01115,AO18592,Beta,2021-02-19,Technical Fault (no loss),Mechanical Failure,3,Corrective Action Taken
+INC0015,MSN01167,AO18592,Beta,2021-05-02,Technical Fault (no loss),Mechanical Failure,2,Corrective Action Taken
+INC0016,MSN01246,AO18592,Beta,2021-09-13,Minor Incident,Weather,2,No Fault Found
+INC0017,MSN01363,AO19316,Beta,2022-06-20,Minor Incident,Human Error,4,Pilot Error
+INC0018,MSN01383,AO14299,Beta,2022-07-28,Technical Fault (no loss),Mechanical Failure,2,Corrective Action Taken
+INC0019,MSN01649,AO19316,Beta,2023-11-06,Technical Fault (no loss),Mechanical Failure,2,Corrective Action Taken
+INC0020,MSN01747,AO23051,Beta,2024-06-24,Technical Fault (no loss),Unknown,1,Under Investigation
+INC0021,MSN01856,AO14299,Beta,2025-01-06,Minor Incident,Mechanical Failure,5,Corrective Action Taken
+INC0022,MSN02145,AO24602,Beta,2026-06-16,Technical Fault (no loss),Mechanical Failure,1,Corrective Action Taken
+INC0023,MSN02164,AO16360,Delta,2021-04-16,Technical Fault (no loss),Mechanical Failure,3,Corrective Action Taken
+INC0024,MSN02242,AO16242,Delta,2021-07-07,Technical Fault (no loss),Mechanical Failure,3,Corrective Action Taken
+INC0025,MSN02272,AO16242,Delta,2021-08-20,Technical Fault (no loss),Mechanical Failure,2,Corrective Action Taken
+INC0026,MSN02361,AO16360,Delta,2022-03-18,UAV Loss,Weather,10,No Fault Found
+INC0027,MSN02450,AO21091,Delta,2022-08-15,Minor Incident,Weather,5,No Fault Found
+INC0028,MSN02494,AO16360,Delta,2022-10-17,Minor Incident,Weather,2,No Fault Found
+INC0029,MSN02600,AO17682,Delta,2023-05-08,Major Accident,Mechanical Failure,6,Corrective Action Taken
+INC0030,MSN02612,AO16360,Delta,2023-06-14,Minor Incident,Human Error,2,Pilot Error
+INC0031,MSN02677,AO18046,Delta,2023-08-05,Minor Incident,Human Error,2,Pilot Error
+INC0032,MSN02827,AO18148,Delta,2024-06-24,Minor Incident,Mechanical Failure,5,Corrective Action Taken
+INC0033,MSN02849,AO18148,Delta,2024-07-26,Technical Fault (no loss),Unknown,1,Under Investigation
+INC0034,MSN03022,AO16242,Delta,2025-05-17,UAV Loss,Human Error,8,Pilot Error
+INC0035,MSN03057,AO23475,Delta,2025-07-23,Technical Fault (no loss),Mechanical Failure,1,Corrective Action Taken
+INC0036,MSN03097,AO24631,Delta,2025-09-22,Major Accident,Enemy Action,7,No Fault Found
+INC0037,MSN03212,AO15781,Delta,2026-05-08,Major Accident,Mechanical Failure,9,Corrective Action Taken
+INC0038,MSN03450,AO18360,Gamma,2022-05-05,Technical Fault (no loss),Mechanical Failure,1,Corrective Action Taken
+INC0039,MSN03486,AO16652,Gamma,2022-07-17,Minor Incident,Mechanical Failure,5,Corrective Action Taken
+INC0040,MSN03507,AO17667,Gamma,2022-08-12,Minor Incident,Human Error,3,Pilot Error
+INC0041,MSN03574,AO21911,Gamma,2022-12-28,UAV Loss,Mechanical Failure,8,Corrective Action Taken
+INC0042,MSN03845,AO12822,Gamma,2024-06-18,Minor Incident,Human Error,3,Pilot Error
+INC0043,MSN03851,AO21394,Gamma,2024-06-05,Major Accident,Enemy Action,6,No Fault Found
+INC0044,MSN03960,AO22118,Gamma,2025-01-21,Technical Fault (no loss),Mechanical Failure,1,Corrective Action Taken
+INC0045,MSN03965,AO21911,Gamma,2025-01-06,Major Accident,Mechanical Failure,9,Corrective Action Taken
+INC0046,MSN04004,AO24665,Gamma,2025-04-09,Minor Incident,Human Error,2,Pilot Error
+INC0047,MSN04121,AO21394,Gamma,2025-08-19,Technical Fault (no loss),Mechanical Failure,3,Corrective Action Taken
+INC0048,MSN04266,AO24650,Gamma,2026-05-26,Technical Fault (no loss),Mechanical Failure,1,Under Investigation
+INC0049,MSN04277,AO11938,Gamma,2026-06-01,Technical Fault (no loss),Mechanical Failure,3,Corrective Action Taken
+INC0050,MSN04281,AO23557,Gamma,2026-06-11,Technical Fault (no loss),Mechanical Failure,2,Under Investigation
+INC0051,MSN04337,AO13943,Sigma,2021-04-27,Technical Fault (no loss),Mechanical Failure,1,Corrective Action Taken
+INC0052,MSN04351,AO17508,Sigma,2021-04-05,Technical Fault (no loss),Mechanical Failure,2,Corrective Action Taken
+INC0053,MSN04418,AO17508,Sigma,2021-07-22,Technical Fault (no loss),Mechanical Failure,1,Corrective Action Taken
+INC0054,MSN04442,AO17508,Sigma,2021-09-21,Technical Fault (no loss),Mechanical Failure,1,Corrective Action Taken
+INC0055,MSN04738,AO20873,Sigma,2023-06-14,Technical Fault (no loss),Unknown,1,Under Investigation
+INC0056,MSN04938,AO13467,Sigma,2024-05-28,Technical Fault (no loss),Mechanical Failure,3,Corrective Action Taken
+INC0057,MSN04976,AO22645,Sigma,2024-07-03,Technical Fault (no loss),Unknown,2,Under Investigation
+INC0058,MSN04987,AO21878,Sigma,2024-07-03,Technical Fault (no loss),Mechanical Failure,3,Corrective Action Taken
+INC0059,MSN04989,AO22645,Sigma,2024-07-22,Technical Fault (no loss),Unknown,1,Under Investigation
+INC0060,MSN05089,AO22788,Sigma,2025-02-21,Technical Fault (no loss),Unknown,3,Under Investigation

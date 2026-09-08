@@ -1,0 +1,526 @@
+person_id,transferred_from_other_branch,rank_delayed,delay_years,department,rank
+AO07216,True,True,2.0,Alpha,Lieutenant Colonel
+AO12605,False,,,Alpha,Major
+AO17018,True,True,2.6,Alpha,Captain
+G22139,False,,,Alpha,Warrant Officer
+AO16543,True,True,2.1,Alpha,Captain
+AO22963,False,,,Alpha,Senior Lieutenant
+AO19391,True,False,0.0,Alpha,Captain
+AO18976,True,False,0.0,Alpha,Captain
+AO13357,True,False,0.0,Alpha,Major
+AO23290,False,,,Alpha,Lieutenant
+AO16547,True,False,0.0,Alpha,Captain
+AO13497,True,False,0.0,Alpha,Major
+AO17259,True,False,0.0,Alpha,Captain
+AO21304,False,,,Alpha,Senior Lieutenant
+AO24033,False,,,Alpha,Lieutenant
+AO25712,False,,,Alpha,Lieutenant
+AO21586,False,,,Alpha,Senior Lieutenant
+AO24023,False,,,Alpha,Lieutenant
+AO21458,True,False,0.0,Alpha,Senior Lieutenant
+AO18524,True,False,0.0,Alpha,Captain
+AO12328,True,False,0.0,Alpha,Major
+AO16636,True,False,0.0,Alpha,Captain
+AO25389,False,,,Alpha,Lieutenant
+AO25228,False,,,Alpha,Lieutenant
+AO18688,True,False,0.0,Alpha,Captain
+AO20164,False,,,Alpha,Senior Lieutenant
+AO25328,False,,,Alpha,Lieutenant
+AO24416,False,,,Alpha,Lieutenant
+AO22646,False,,,Alpha,Senior Lieutenant
+AO22701,True,False,0.0,Alpha,Senior Lieutenant
+AO24250,False,,,Alpha,Lieutenant
+AO22585,False,,,Alpha,Senior Lieutenant
+AO12461,False,,,Alpha,Major
+AO19336,True,True,1.5,Alpha,Captain
+AO17172,True,False,0.0,Alpha,Captain
+AO22921,False,,,Alpha,Senior Lieutenant
+AO20473,True,False,0.0,Alpha,Senior Lieutenant
+AO24361,False,,,Alpha,Lieutenant
+AO11628,True,True,2.2,Alpha,Major
+AO21607,True,False,0.0,Alpha,Senior Lieutenant
+AO17445,True,False,0.0,Alpha,Captain
+AO22937,True,False,0.0,Alpha,Senior Lieutenant
+AO23491,False,,,Alpha,Lieutenant
+AO18742,True,False,0.0,Alpha,Captain
+AO15635,True,True,2.5,Alpha,Captain
+G23402,True,False,0.0,Alpha,Warrant Officer
+G19017,True,False,0.0,Alpha,Senior Warrant Officer
+G22746,True,False,0.0,Alpha,Warrant Officer
+G23357,False,,,Alpha,Warrant Officer
+G18673,True,False,0.0,Alpha,Senior Warrant Officer
+G11740,True,False,0.0,Alpha,Senior Warrant Officer
+G23944,False,,,Alpha,Warrant Officer
+G22677,True,False,0.0,Alpha,Warrant Officer
+G25596,False,,,Alpha,Junior Warrant Officer
+G23288,False,,,Alpha,Junior Warrant Officer
+G25878,False,,,Alpha,Junior Warrant Officer
+G25956,False,,,Alpha,Junior Warrant Officer
+G22091,True,False,0.0,Alpha,Warrant Officer
+G18716,True,False,0.0,Alpha,Senior Warrant Officer
+G22153,False,,,Alpha,Warrant Officer
+G11488,True,False,0.0,Alpha,Senior Warrant Officer
+G24197,False,,,Alpha,Junior Warrant Officer
+G17139,True,True,3.0,Alpha,Senior Warrant Officer
+G22314,False,,,Alpha,Warrant Officer
+G23423,False,,,Alpha,Junior Warrant Officer
+G13885,True,False,0.0,Alpha,Senior Warrant Officer
+G08643,True,True,1.9,Alpha,Senior Warrant Officer
+G08693,True,False,0.0,Alpha,Senior Warrant Officer
+G23673,True,True,2.9,Alpha,Warrant Officer
+G24293,False,,,Alpha,Junior Warrant Officer
+G23445,False,,,Alpha,Junior Warrant Officer
+G21944,False,,,Alpha,Warrant Officer
+G22075,False,,,Alpha,Warrant Officer
+G23253,False,,,Alpha,Junior Warrant Officer
+G22963,False,,,Alpha,Warrant Officer
+G22206,False,,,Alpha,Warrant Officer
+G23305,False,,,Alpha,Junior Warrant Officer
+G24645,False,,,Alpha,Junior Warrant Officer
+G25276,False,,,Alpha,Junior Warrant Officer
+G24726,True,True,2.8,Alpha,Junior Warrant Officer
+G22585,False,,,Alpha,Warrant Officer
+G18574,True,False,0.0,Alpha,Senior Warrant Officer
+G24803,False,,,Alpha,Junior Warrant Officer
+G24422,False,,,Alpha,Junior Warrant Officer
+G24379,False,,,Alpha,Junior Warrant Officer
+G20209,False,,,Alpha,Senior Warrant Officer
+G23995,True,True,1.7,Alpha,Junior Warrant Officer
+G15195,True,False,0.0,Alpha,Senior Warrant Officer
+G10686,True,True,2.5,Alpha,Senior Warrant Officer
+G11957,True,False,0.0,Alpha,Senior Warrant Officer
+G17797,True,False,0.0,Alpha,Senior Warrant Officer
+G19538,True,False,0.0,Alpha,Senior Warrant Officer
+G24344,False,,,Alpha,Junior Warrant Officer
+G22249,True,False,0.0,Alpha,Warrant Officer
+G22769,True,False,0.0,Alpha,Warrant Officer
+G08859,True,False,0.0,Alpha,Senior Warrant Officer
+G22733,True,False,0.0,Alpha,Warrant Officer
+G11223,True,False,0.0,Alpha,Senior Warrant Officer
+G13364,True,False,0.0,Alpha,Senior Warrant Officer
+G25102,False,,,Alpha,Junior Warrant Officer
+G13541,True,False,0.0,Alpha,Senior Warrant Officer
+G23338,False,,,Alpha,Warrant Officer
+G21587,False,,,Alpha,Warrant Officer
+G08482,True,False,0.0,Alpha,Senior Warrant Officer
+G25255,False,,,Alpha,Junior Warrant Officer
+AO97199,True,False,0.0,Beta,Lieutenant Colonel
+AO16486,True,False,0.0,Beta,Captain
+AO12560,True,True,1.8,Beta,Major
+G15848,True,True,2.2,Beta,Senior Warrant Officer
+AO13826,True,False,0.0,Beta,Major
+AO21460,True,False,0.0,Beta,Senior Lieutenant
+AO18804,True,False,0.0,Beta,Captain
+AO17999,True,True,2.5,Beta,Captain
+AO21945,True,False,0.0,Beta,Senior Lieutenant
+AO22715,False,,,Beta,Senior Lieutenant
+AO16664,True,True,3.0,Beta,Captain
+AO24322,False,,,Beta,Lieutenant
+AO24715,False,,,Beta,Lieutenant
+AO16557,False,,,Beta,Captain
+AO20423,True,True,1.9,Beta,Senior Lieutenant
+AO15870,True,False,0.0,Beta,Captain
+AO17162,True,False,0.0,Beta,Captain
+AO24225,False,,,Beta,Lieutenant
+AO24481,False,,,Beta,Lieutenant
+AO12508,True,False,0.0,Beta,Major
+AO23007,False,,,Beta,Lieutenant
+AO21316,True,False,0.0,Beta,Senior Lieutenant
+AO21906,False,,,Beta,Senior Lieutenant
+AO24203,False,,,Beta,Lieutenant
+AO20690,False,,,Beta,Senior Lieutenant
+AO19316,False,,,Beta,Captain
+AO20211,False,,,Beta,Senior Lieutenant
+AO14299,True,False,0.0,Beta,Major
+AO23728,False,,,Beta,Lieutenant
+AO22709,True,True,2.0,Beta,Senior Lieutenant
+AO18592,True,True,2.3,Beta,Captain
+AO18652,True,False,0.0,Beta,Captain
+AO24038,False,,,Beta,Lieutenant
+AO23051,False,,,Beta,Lieutenant
+AO25210,False,,,Beta,Lieutenant
+AO25050,False,,,Beta,Lieutenant
+AO24602,False,,,Beta,Lieutenant
+AO23001,False,,,Beta,Lieutenant
+AO16430,False,,,Beta,Captain
+AO23143,False,,,Beta,Lieutenant
+AO24756,False,,,Beta,Lieutenant
+AO12366,True,False,0.0,Beta,Major
+AO24395,False,,,Beta,Lieutenant
+AO23430,False,,,Beta,Lieutenant
+AO24998,False,,,Beta,Lieutenant
+G22440,False,,,Beta,Warrant Officer
+G11589,True,True,1.9,Beta,Senior Warrant Officer
+G23771,False,,,Beta,Warrant Officer
+G17117,True,False,0.0,Beta,Senior Warrant Officer
+G15417,True,True,2.3,Beta,Senior Warrant Officer
+G24483,False,,,Beta,Junior Warrant Officer
+G24819,False,,,Beta,Junior Warrant Officer
+G22927,False,,,Beta,Warrant Officer
+G24599,False,,,Beta,Junior Warrant Officer
+G25161,False,,,Beta,Junior Warrant Officer
+G13723,True,False,0.0,Beta,Senior Warrant Officer
+G24135,False,,,Beta,Junior Warrant Officer
+G21624,False,,,Beta,Warrant Officer
+G08986,True,False,0.0,Beta,Senior Warrant Officer
+G21223,True,False,0.0,Beta,Warrant Officer
+G23268,True,False,0.0,Beta,Warrant Officer
+G25106,False,,,Beta,Junior Warrant Officer
+G25990,False,,,Beta,Junior Warrant Officer
+G15161,True,False,0.0,Beta,Senior Warrant Officer
+G22969,True,True,2.4,Beta,Warrant Officer
+G25008,False,,,Beta,Junior Warrant Officer
+G24879,False,,,Beta,Junior Warrant Officer
+G16019,True,False,0.0,Beta,Senior Warrant Officer
+G24796,False,,,Beta,Junior Warrant Officer
+G23895,False,,,Beta,Junior Warrant Officer
+G21967,True,False,0.0,Beta,Senior Warrant Officer
+G24128,False,,,Beta,Junior Warrant Officer
+G17208,True,False,0.0,Beta,Senior Warrant Officer
+G23922,False,,,Beta,Junior Warrant Officer
+G11685,True,True,2.6,Beta,Senior Warrant Officer
+G23964,True,True,2.6,Beta,Junior Warrant Officer
+G24038,False,,,Beta,Junior Warrant Officer
+G23945,False,,,Beta,Warrant Officer
+G10758,True,False,0.0,Beta,Senior Warrant Officer
+G08002,True,False,0.0,Beta,Senior Warrant Officer
+G24250,False,,,Beta,Junior Warrant Officer
+G24010,False,,,Beta,Junior Warrant Officer
+G24043,False,,,Beta,Junior Warrant Officer
+G22635,True,False,0.0,Beta,Warrant Officer
+G22413,False,,,Beta,Warrant Officer
+G21070,True,False,0.0,Beta,Warrant Officer
+G23299,False,,,Beta,Warrant Officer
+G25915,False,,,Beta,Junior Warrant Officer
+G22473,False,,,Beta,Warrant Officer
+G24309,False,,,Beta,Junior Warrant Officer
+G18175,True,False,0.0,Beta,Senior Warrant Officer
+G10138,True,True,2.1,Beta,Senior Warrant Officer
+G24284,False,,,Beta,Junior Warrant Officer
+G22544,False,,,Beta,Warrant Officer
+G14731,True,False,0.0,Beta,Senior Warrant Officer
+G23763,False,,,Beta,Warrant Officer
+G08568,True,False,0.0,Beta,Senior Warrant Officer
+G12593,True,False,0.0,Beta,Senior Warrant Officer
+G08962,True,False,0.0,Beta,Senior Warrant Officer
+G12425,True,False,0.0,Beta,Senior Warrant Officer
+G25778,False,,,Beta,Junior Warrant Officer
+G13609,True,True,2.2,Beta,Senior Warrant Officer
+G24580,False,,,Beta,Junior Warrant Officer
+G21267,True,True,1.3,Beta,Warrant Officer
+G23226,False,,,Beta,Warrant Officer
+AO05709,True,False,0.0,Delta,Lieutenant Colonel
+AO12824,True,True,1.8,Delta,Major
+AO16360,True,True,2.5,Delta,Captain
+G11837,True,True,1.1,Delta,Senior Warrant Officer
+AO13387,True,True,2.9,Delta,Major
+AO18342,True,False,0.0,Delta,Captain
+AO23991,False,,,Delta,Lieutenant
+AO11296,True,True,2.9,Delta,Major
+AO24278,False,,,Delta,Lieutenant
+AO21963,True,True,2.0,Delta,Senior Lieutenant
+AO24578,False,,,Delta,Lieutenant
+AO25711,False,,,Delta,Lieutenant
+AO14187,False,,,Delta,Major
+AO22316,False,,,Delta,Senior Lieutenant
+AO18186,False,,,Delta,Captain
+AO20436,False,,,Delta,Senior Lieutenant
+AO18238,True,False,0.0,Delta,Captain
+AO25379,False,,,Delta,Lieutenant
+AO12189,False,,,Delta,Major
+AO15573,True,False,0.0,Delta,Captain
+AO18127,True,True,2.6,Delta,Captain
+AO13278,True,True,2.5,Delta,Major
+AO15860,True,False,0.0,Delta,Captain
+AO23574,False,,,Delta,Lieutenant
+AO24436,False,,,Delta,Lieutenant
+AO24631,True,False,0.0,Delta,Lieutenant
+AO15583,True,True,2.3,Delta,Captain
+AO24190,False,,,Delta,Lieutenant
+AO15781,True,False,0.0,Delta,Captain
+AO12061,True,False,0.0,Delta,Major
+AO18148,True,False,0.0,Delta,Captain
+AO13289,False,,,Delta,Major
+AO23475,False,,,Delta,Lieutenant
+AO25607,False,,,Delta,Lieutenant
+AO21091,False,,,Delta,Senior Lieutenant
+AO22207,True,True,2.1,Delta,Senior Lieutenant
+AO17682,False,,,Delta,Captain
+AO17015,False,,,Delta,Captain
+AO13576,True,False,0.0,Delta,Major
+AO20306,True,False,0.0,Delta,Senior Lieutenant
+AO14271,True,False,0.0,Delta,Major
+AO25477,False,,,Delta,Lieutenant
+AO16242,True,False,0.0,Delta,Captain
+AO23405,True,False,0.0,Delta,Lieutenant
+AO18046,True,True,2.7,Delta,Captain
+G20303,True,False,0.0,Delta,Senior Warrant Officer
+G12516,True,False,0.0,Delta,Senior Warrant Officer
+G11545,True,True,2.0,Delta,Senior Warrant Officer
+G24443,False,,,Delta,Junior Warrant Officer
+G24868,False,,,Delta,Junior Warrant Officer
+G23314,False,,,Delta,Warrant Officer
+G19777,True,False,0.0,Delta,Senior Warrant Officer
+G08440,True,True,2.9,Delta,Senior Warrant Officer
+G23726,False,,,Delta,Junior Warrant Officer
+G11657,True,False,0.0,Delta,Senior Warrant Officer
+G21722,True,False,0.0,Delta,Warrant Officer
+G22580,True,True,3.0,Delta,Warrant Officer
+G16308,True,True,2.0,Delta,Senior Warrant Officer
+G23263,True,False,0.0,Delta,Warrant Officer
+G22662,True,False,0.0,Delta,Warrant Officer
+G20911,True,False,0.0,Delta,Senior Warrant Officer
+G22464,True,False,0.0,Delta,Warrant Officer
+G21369,True,False,0.0,Delta,Warrant Officer
+G18149,True,False,0.0,Delta,Senior Warrant Officer
+G07690,True,False,0.0,Delta,Senior Warrant Officer
+G23804,True,False,0.0,Delta,Warrant Officer
+G24311,True,False,0.0,Delta,Junior Warrant Officer
+G07820,True,False,0.0,Delta,Senior Warrant Officer
+G24390,False,,,Delta,Junior Warrant Officer
+G09841,True,False,0.0,Delta,Senior Warrant Officer
+G25584,False,,,Delta,Junior Warrant Officer
+G23074,False,,,Delta,Warrant Officer
+G23810,False,,,Delta,Junior Warrant Officer
+G21565,True,True,1.1,Delta,Warrant Officer
+G20187,True,False,0.0,Delta,Senior Warrant Officer
+G24951,True,True,2.6,Delta,Junior Warrant Officer
+G25456,False,,,Delta,Junior Warrant Officer
+G15955,True,True,1.4,Delta,Senior Warrant Officer
+G21305,True,True,2.6,Delta,Warrant Officer
+G22415,False,,,Delta,Warrant Officer
+G22037,True,True,1.9,Delta,Warrant Officer
+G22579,False,,,Delta,Warrant Officer
+G22977,True,False,0.0,Delta,Warrant Officer
+G24065,False,,,Delta,Junior Warrant Officer
+G07673,True,False,0.0,Delta,Senior Warrant Officer
+G22535,False,,,Delta,Warrant Officer
+G23918,False,,,Delta,Warrant Officer
+G25132,False,,,Delta,Junior Warrant Officer
+G22485,True,True,1.0,Delta,Warrant Officer
+G22220,True,False,0.0,Delta,Warrant Officer
+G22168,True,True,1.2,Delta,Warrant Officer
+G13401,True,False,0.0,Delta,Senior Warrant Officer
+G25062,False,,,Delta,Junior Warrant Officer
+G23312,False,,,Delta,Warrant Officer
+G11789,True,False,0.0,Delta,Senior Warrant Officer
+G25707,False,,,Delta,Junior Warrant Officer
+G22436,False,,,Delta,Warrant Officer
+G13194,True,True,1.3,Delta,Senior Warrant Officer
+G24151,False,,,Delta,Junior Warrant Officer
+G07405,True,True,1.9,Delta,Senior Warrant Officer
+G11903,True,False,0.0,Delta,Senior Warrant Officer
+G23626,True,True,2.5,Delta,Warrant Officer
+G09553,True,False,0.0,Delta,Senior Warrant Officer
+G22502,True,False,0.0,Delta,Warrant Officer
+G25177,False,,,Delta,Junior Warrant Officer
+AO97317,True,False,0.0,Gamma,Lieutenant Colonel
+AO14416,False,,,Gamma,Major
+AO14212,True,True,2.0,Gamma,Major
+G23124,False,,,Gamma,Warrant Officer
+AO18162,True,False,0.0,Gamma,Captain
+AO17072,False,,,Gamma,Captain
+AO24985,False,,,Gamma,Lieutenant
+AO21429,False,,,Gamma,Senior Lieutenant
+AO20240,False,,,Gamma,Senior Lieutenant
+AO16860,True,False,0.0,Gamma,Captain
+AO24475,False,,,Gamma,Lieutenant
+AO24451,False,,,Gamma,Lieutenant
+AO25736,False,,,Gamma,Lieutenant
+AO24080,False,,,Gamma,Lieutenant
+AO17637,True,True,1.3,Gamma,Captain
+AO23313,False,,,Gamma,Lieutenant
+AO23316,False,,,Gamma,Lieutenant
+AO17887,True,True,2.0,Gamma,Captain
+AO15343,True,True,2.1,Gamma,Captain
+AO18123,False,,,Gamma,Captain
+AO18600,False,,,Gamma,Captain
+AO24112,False,,,Gamma,Lieutenant
+AO18070,True,False,0.0,Gamma,Captain
+AO24903,False,,,Gamma,Lieutenant
+AO21835,True,True,1.4,Gamma,Senior Lieutenant
+AO21206,True,False,0.0,Gamma,Senior Lieutenant
+AO15626,False,,,Gamma,Captain
+AO16652,False,,,Gamma,Captain
+AO21394,False,,,Gamma,Senior Lieutenant
+AO17667,False,,,Gamma,Captain
+AO25008,False,,,Gamma,Lieutenant
+AO21911,False,,,Gamma,Senior Lieutenant
+AO24650,False,,,Gamma,Lieutenant
+AO13655,True,False,0.0,Gamma,Major
+AO19192,False,,,Gamma,Captain
+AO22118,True,True,2.2,Gamma,Senior Lieutenant
+AO24579,False,,,Gamma,Lieutenant
+AO12488,False,,,Gamma,Major
+AO24665,False,,,Gamma,Lieutenant
+AO18360,True,False,0.0,Gamma,Captain
+AO12822,False,,,Gamma,Major
+AO11938,True,False,0.0,Gamma,Major
+AO21355,True,False,0.0,Gamma,Senior Lieutenant
+AO16958,True,False,0.0,Gamma,Captain
+AO23557,False,,,Gamma,Lieutenant
+G08994,True,False,0.0,Gamma,Senior Warrant Officer
+G21193,True,True,1.8,Gamma,Warrant Officer
+G23405,False,,,Gamma,Warrant Officer
+G21265,True,False,0.0,Gamma,Warrant Officer
+G23583,True,True,2.0,Gamma,Warrant Officer
+G16237,True,False,0.0,Gamma,Senior Warrant Officer
+G12759,True,False,0.0,Gamma,Senior Warrant Officer
+G21712,True,False,0.0,Gamma,Warrant Officer
+G11534,True,False,0.0,Gamma,Senior Warrant Officer
+G13338,True,True,2.2,Gamma,Senior Warrant Officer
+G24740,False,,,Gamma,Junior Warrant Officer
+G24625,False,,,Gamma,Junior Warrant Officer
+G08825,True,False,0.0,Gamma,Senior Warrant Officer
+G24228,False,,,Gamma,Junior Warrant Officer
+G22914,True,False,0.0,Gamma,Warrant Officer
+G23950,False,,,Gamma,Warrant Officer
+G18229,True,True,1.4,Gamma,Senior Warrant Officer
+G10034,True,False,0.0,Gamma,Senior Warrant Officer
+G24055,False,,,Gamma,Junior Warrant Officer
+G17751,True,False,0.0,Gamma,Senior Warrant Officer
+G21335,True,True,2.5,Gamma,Warrant Officer
+G19692,True,False,0.0,Gamma,Senior Warrant Officer
+G18048,True,False,0.0,Gamma,Senior Warrant Officer
+G23617,True,False,0.0,Gamma,Warrant Officer
+G18607,True,True,1.5,Gamma,Senior Warrant Officer
+G22495,True,False,0.0,Gamma,Warrant Officer
+G22236,False,,,Gamma,Warrant Officer
+G22081,False,,,Gamma,Warrant Officer
+G23603,False,,,Gamma,Junior Warrant Officer
+G23250,False,,,Gamma,Warrant Officer
+G21406,False,,,Gamma,Warrant Officer
+G24842,False,,,Gamma,Junior Warrant Officer
+G09851,True,False,0.0,Gamma,Senior Warrant Officer
+G17884,True,True,1.1,Gamma,Senior Warrant Officer
+G25117,False,,,Gamma,Junior Warrant Officer
+G25881,False,,,Gamma,Junior Warrant Officer
+G22817,False,,,Gamma,Warrant Officer
+G24028,False,,,Gamma,Junior Warrant Officer
+G21397,True,True,2.9,Gamma,Senior Warrant Officer
+G22616,False,,,Gamma,Warrant Officer
+G16679,True,True,2.9,Gamma,Senior Warrant Officer
+G25490,False,,,Gamma,Junior Warrant Officer
+G22788,True,False,0.0,Gamma,Warrant Officer
+G21226,True,False,0.0,Gamma,Warrant Officer
+G22189,False,,,Gamma,Warrant Officer
+G21086,True,False,0.0,Gamma,Warrant Officer
+G07800,True,False,0.0,Gamma,Senior Warrant Officer
+G21074,True,True,1.9,Gamma,Warrant Officer
+G23622,False,,,Gamma,Warrant Officer
+G08080,True,False,0.0,Gamma,Senior Warrant Officer
+G18336,True,False,0.0,Gamma,Senior Warrant Officer
+G19856,True,False,0.0,Gamma,Senior Warrant Officer
+G06810,True,False,0.0,Gamma,Senior Warrant Officer
+G09028,True,True,1.4,Gamma,Senior Warrant Officer
+G25779,False,,,Gamma,Junior Warrant Officer
+G16461,True,True,1.3,Gamma,Senior Warrant Officer
+G25044,False,,,Gamma,Junior Warrant Officer
+G24144,False,,,Gamma,Junior Warrant Officer
+G22135,False,,,Gamma,Warrant Officer
+G22448,False,,,Gamma,Warrant Officer
+AO97468,True,False,0.0,Sigma,Lieutenant Colonel
+AO12000,True,False,0.0,Sigma,Major
+AO13467,True,True,2.0,Sigma,Major
+G06923,True,True,1.5,Sigma,Senior Warrant Officer
+AO12830,True,True,2.4,Sigma,Major
+AO22617,False,,,Sigma,Senior Lieutenant
+AO25183,False,,,Sigma,Lieutenant
+AO21436,False,,,Sigma,Senior Lieutenant
+AO23681,False,,,Sigma,Lieutenant
+AO25376,False,,,Sigma,Lieutenant
+AO22093,False,,,Sigma,Senior Lieutenant
+AO23780,False,,,Sigma,Lieutenant
+AO14671,True,False,0.0,Sigma,Major
+AO11537,True,False,0.0,Sigma,Major
+AO12140,True,True,1.8,Sigma,Major
+AO20080,False,,,Sigma,Senior Lieutenant
+AO19031,False,,,Sigma,Captain
+AO18862,True,True,2.3,Sigma,Captain
+AO14110,True,True,2.5,Sigma,Major
+AO23445,True,False,0.0,Sigma,Lieutenant
+AO25358,False,,,Sigma,Lieutenant
+AO13818,True,False,0.0,Sigma,Major
+AO23508,True,False,0.0,Sigma,Lieutenant
+AO23410,False,,,Sigma,Lieutenant
+AO18024,True,False,0.0,Sigma,Captain
+AO16212,False,,,Sigma,Captain
+AO21707,True,True,2.5,Sigma,Senior Lieutenant
+AO21034,True,True,1.0,Sigma,Senior Lieutenant
+AO22645,False,,,Sigma,Senior Lieutenant
+AO21263,False,,,Sigma,Senior Lieutenant
+AO25112,False,,,Sigma,Lieutenant
+AO21878,True,False,0.0,Sigma,Senior Lieutenant
+AO20873,False,,,Sigma,Senior Lieutenant
+AO24366,False,,,Sigma,Lieutenant
+AO24140,False,,,Sigma,Lieutenant
+AO17508,False,,,Sigma,Captain
+AO20321,True,True,1.6,Sigma,Senior Lieutenant
+AO18793,False,,,Sigma,Captain
+AO25165,False,,,Sigma,Lieutenant
+AO13943,True,False,0.0,Sigma,Major
+AO25541,False,,,Sigma,Lieutenant
+AO17098,True,False,0.0,Sigma,Captain
+AO22788,True,False,0.0,Sigma,Senior Lieutenant
+AO24582,False,,,Sigma,Lieutenant
+AO21338,True,False,0.0,Sigma,Senior Lieutenant
+G21228,True,False,0.0,Sigma,Warrant Officer
+G23248,False,,,Sigma,Warrant Officer
+G17472,True,True,2.1,Sigma,Senior Warrant Officer
+G25334,False,,,Sigma,Junior Warrant Officer
+G23853,False,,,Sigma,Warrant Officer
+G24918,False,,,Sigma,Junior Warrant Officer
+G21956,True,True,1.4,Sigma,Warrant Officer
+G24754,False,,,Sigma,Junior Warrant Officer
+G13596,True,False,0.0,Sigma,Senior Warrant Officer
+G22667,False,,,Sigma,Warrant Officer
+G22398,False,,,Sigma,Warrant Officer
+G23722,False,,,Sigma,Warrant Officer
+G21555,True,False,0.0,Sigma,Senior Warrant Officer
+G23967,True,True,1.4,Sigma,Warrant Officer
+G21563,False,,,Sigma,Warrant Officer
+G13345,True,False,0.0,Sigma,Senior Warrant Officer
+G24895,True,True,2.1,Sigma,Junior Warrant Officer
+G21379,False,,,Sigma,Senior Warrant Officer
+G17341,True,False,0.0,Sigma,Senior Warrant Officer
+G10878,True,True,2.8,Sigma,Senior Warrant Officer
+G22691,True,False,0.0,Sigma,Warrant Officer
+G23878,False,,,Sigma,Warrant Officer
+G23264,False,,,Sigma,Warrant Officer
+G09033,True,True,1.1,Sigma,Senior Warrant Officer
+G22782,False,,,Sigma,Warrant Officer
+G10254,True,True,2.0,Sigma,Senior Warrant Officer
+G22028,True,True,2.5,Sigma,Warrant Officer
+G21049,True,False,0.0,Sigma,Warrant Officer
+G23282,True,False,0.0,Sigma,Warrant Officer
+G25308,False,,,Sigma,Junior Warrant Officer
+G22471,False,,,Sigma,Warrant Officer
+G23592,False,,,Sigma,Warrant Officer
+G25920,False,,,Sigma,Junior Warrant Officer
+G24364,False,,,Sigma,Junior Warrant Officer
+G22982,False,,,Sigma,Warrant Officer
+G23461,False,,,Sigma,Junior Warrant Officer
+G18512,True,True,1.4,Sigma,Senior Warrant Officer
+G23291,False,,,Sigma,Warrant Officer
+G23231,False,,,Sigma,Warrant Officer
+G22347,False,,,Sigma,Warrant Officer
+G23588,False,,,Sigma,Warrant Officer
+G09565,True,False,0.0,Sigma,Senior Warrant Officer
+G21906,True,False,0.0,Sigma,Warrant Officer
+G22712,True,False,0.0,Sigma,Warrant Officer
+G23902,True,False,0.0,Sigma,Warrant Officer
+G18430,True,False,0.0,Sigma,Senior Warrant Officer
+G23276,False,,,Sigma,Warrant Officer
+G17879,True,False,0.0,Sigma,Senior Warrant Officer
+G22590,False,,,Sigma,Warrant Officer
+G23898,False,,,Sigma,Warrant Officer
+G23419,False,,,Sigma,Warrant Officer
+G25872,False,,,Sigma,Junior Warrant Officer
+G18131,True,True,1.3,Sigma,Senior Warrant Officer
+G24109,False,,,Sigma,Junior Warrant Officer
+G25531,False,,,Sigma,Junior Warrant Officer
+G18619,True,False,0.0,Sigma,Senior Warrant Officer
+G17402,True,False,0.0,Sigma,Senior Warrant Officer
+G25356,False,,,Sigma,Junior Warrant Officer
+G23270,False,,,Sigma,Warrant Officer
+G22986,True,False,0.0,Sigma,Warrant Officer
