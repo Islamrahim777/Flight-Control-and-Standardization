@@ -1,0 +1,261 @@
+department,specialization,year,planned_headcount,new_hires_needed_this_year,cumulative_growth_from_2026_pct
+Alpha,Chief of Operations,2027,1,0,0.0
+Alpha,Chief of Operations,2028,1,0,0.0
+Alpha,Chief of Operations,2029,1,0,0.0
+Alpha,Chief of Operations,2030,1,0,0.0
+Alpha,Department Commander,2027,1,0,0.0
+Alpha,Department Commander,2028,1,0,0.0
+Alpha,Department Commander,2029,1,0,0.0
+Alpha,Department Commander,2030,1,0,0.0
+Alpha,Flight Control Officer,2027,4,0,0.0
+Alpha,Flight Control Officer,2028,4,0,0.0
+Alpha,Flight Control Officer,2029,4,0,0.0
+Alpha,Flight Control Officer,2030,4,0,0.0
+Alpha,Operations Officer,2027,17,1,6.2
+Alpha,Operations Officer,2028,19,2,18.8
+Alpha,Operations Officer,2029,21,2,31.2
+Alpha,Operations Officer,2030,23,2,43.8
+Alpha,Pilot-Operator,2027,29,3,11.5
+Alpha,Pilot-Operator,2028,32,3,23.1
+Alpha,Pilot-Operator,2029,35,3,34.6
+Alpha,Pilot-Operator,2030,39,4,50.0
+Alpha,Pilot-Operator Lead,2027,1,0,0.0
+Alpha,Pilot-Operator Lead,2028,1,0,0.0
+Alpha,Pilot-Operator Lead,2029,1,0,0.0
+Alpha,Pilot-Operator Lead,2030,1,0,0.0
+Alpha,Repair Specialist,2027,11,1,10.0
+Alpha,Repair Specialist,2028,12,1,20.0
+Alpha,Repair Specialist,2029,13,1,30.0
+Alpha,Repair Specialist,2030,14,1,40.0
+Alpha,Technical Service,2027,15,1,7.1
+Alpha,Technical Service,2028,17,2,21.4
+Alpha,Technical Service,2029,19,2,35.7
+Alpha,Technical Service,2030,21,2,50.0
+Alpha,Technical Service Lead,2027,1,0,0.0
+Alpha,Technical Service Lead,2028,1,0,0.0
+Alpha,Technical Service Lead,2029,1,0,0.0
+Alpha,Technical Service Lead,2030,1,0,0.0
+Alpha,Technical Staff,2027,26,2,8.3
+Alpha,Technical Staff,2028,28,2,16.7
+Alpha,Technical Staff,2029,30,2,25.0
+Alpha,Technical Staff,2030,32,2,33.3
+Alpha,Training & Standardization Lead,2027,1,0,0.0
+Alpha,Training & Standardization Lead,2028,1,0,0.0
+Alpha,Training & Standardization Lead,2029,1,0,0.0
+Alpha,Training & Standardization Lead,2030,1,0,0.0
+Alpha,Training & Standardization Officer,2027,3,0,0.0
+Alpha,Training & Standardization Officer,2028,3,0,0.0
+Alpha,Training & Standardization Officer,2029,3,0,0.0
+Alpha,Training & Standardization Officer,2030,3,0,0.0
+Alpha,UAV Operator,2027,28,2,7.7
+Alpha,UAV Operator,2028,30,2,15.4
+Alpha,UAV Operator,2029,32,2,23.1
+Alpha,UAV Operator,2030,34,2,30.8
+Beta,Chief of Operations,2027,1,0,0.0
+Beta,Chief of Operations,2028,1,0,0.0
+Beta,Chief of Operations,2029,1,0,0.0
+Beta,Chief of Operations,2030,1,0,0.0
+Beta,Department Commander,2027,1,0,0.0
+Beta,Department Commander,2028,1,0,0.0
+Beta,Department Commander,2029,1,0,0.0
+Beta,Department Commander,2030,1,0,0.0
+Beta,Flight Control Officer,2027,3,0,0.0
+Beta,Flight Control Officer,2028,3,0,0.0
+Beta,Flight Control Officer,2029,3,0,0.0
+Beta,Flight Control Officer,2030,3,0,0.0
+Beta,Operations Officer,2027,18,1,5.9
+Beta,Operations Officer,2028,19,1,11.8
+Beta,Operations Officer,2029,20,1,17.6
+Beta,Operations Officer,2030,22,2,29.4
+Beta,Pilot-Operator,2027,25,2,8.7
+Beta,Pilot-Operator,2028,28,3,21.7
+Beta,Pilot-Operator,2029,31,3,34.8
+Beta,Pilot-Operator,2030,34,3,47.8
+Beta,Pilot-Operator Lead,2027,1,0,0.0
+Beta,Pilot-Operator Lead,2028,1,0,0.0
+Beta,Pilot-Operator Lead,2029,1,0,0.0
+Beta,Pilot-Operator Lead,2030,1,0,0.0
+Beta,Repair Specialist,2027,11,1,10.0
+Beta,Repair Specialist,2028,12,1,20.0
+Beta,Repair Specialist,2029,13,1,30.0
+Beta,Repair Specialist,2030,14,1,40.0
+Beta,Technical Service,2027,17,1,6.2
+Beta,Technical Service,2028,18,1,12.5
+Beta,Technical Service,2029,20,2,25.0
+Beta,Technical Service,2030,22,2,37.5
+Beta,Technical Service Lead,2027,1,0,0.0
+Beta,Technical Service Lead,2028,1,0,0.0
+Beta,Technical Service Lead,2029,1,0,0.0
+Beta,Technical Service Lead,2030,1,0,0.0
+Beta,Technical Staff,2027,26,2,8.3
+Beta,Technical Staff,2028,28,2,16.7
+Beta,Technical Staff,2029,31,3,29.2
+Beta,Technical Staff,2030,34,3,41.7
+Beta,Training & Standardization Lead,2027,1,0,0.0
+Beta,Training & Standardization Lead,2028,1,0,0.0
+Beta,Training & Standardization Lead,2029,1,0,0.0
+Beta,Training & Standardization Lead,2030,1,0,0.0
+Beta,Training & Standardization Officer,2027,4,0,0.0
+Beta,Training & Standardization Officer,2028,4,0,0.0
+Beta,Training & Standardization Officer,2029,4,0,0.0
+Beta,Training & Standardization Officer,2030,4,0,0.0
+Beta,UAV Operator,2027,28,2,7.7
+Beta,UAV Operator,2028,30,2,15.4
+Beta,UAV Operator,2029,32,2,23.1
+Beta,UAV Operator,2030,34,2,30.8
+Delta,Chief of Operations,2027,1,0,0.0
+Delta,Chief of Operations,2028,1,0,0.0
+Delta,Chief of Operations,2029,1,0,0.0
+Delta,Chief of Operations,2030,1,0,0.0
+Delta,Department Commander,2027,1,0,0.0
+Delta,Department Commander,2028,1,0,0.0
+Delta,Department Commander,2029,1,0,0.0
+Delta,Department Commander,2030,1,0,0.0
+Delta,Flight Control Officer,2027,4,0,0.0
+Delta,Flight Control Officer,2028,4,0,0.0
+Delta,Flight Control Officer,2029,4,0,0.0
+Delta,Flight Control Officer,2030,4,0,0.0
+Delta,Operations Officer,2027,17,1,6.2
+Delta,Operations Officer,2028,18,1,12.5
+Delta,Operations Officer,2029,20,2,25.0
+Delta,Operations Officer,2030,22,2,37.5
+Delta,Pilot-Operator,2027,28,2,7.7
+Delta,Pilot-Operator,2028,31,3,19.2
+Delta,Pilot-Operator,2029,34,3,30.8
+Delta,Pilot-Operator,2030,37,3,42.3
+Delta,Pilot-Operator Lead,2027,1,0,0.0
+Delta,Pilot-Operator Lead,2028,1,0,0.0
+Delta,Pilot-Operator Lead,2029,1,0,0.0
+Delta,Pilot-Operator Lead,2030,1,0,0.0
+Delta,Repair Specialist,2027,10,1,11.1
+Delta,Repair Specialist,2028,11,1,22.2
+Delta,Repair Specialist,2029,12,1,33.3
+Delta,Repair Specialist,2030,13,1,44.4
+Delta,Technical Service,2027,15,1,7.1
+Delta,Technical Service,2028,16,1,14.3
+Delta,Technical Service,2029,17,1,21.4
+Delta,Technical Service,2030,19,2,35.7
+Delta,Technical Service Lead,2027,1,0,0.0
+Delta,Technical Service Lead,2028,1,0,0.0
+Delta,Technical Service Lead,2029,1,0,0.0
+Delta,Technical Service Lead,2030,1,0,0.0
+Delta,Technical Staff,2027,25,2,8.7
+Delta,Technical Staff,2028,28,3,21.7
+Delta,Technical Staff,2029,31,3,34.8
+Delta,Technical Staff,2030,34,3,47.8
+Delta,Training & Standardization Lead,2027,1,0,0.0
+Delta,Training & Standardization Lead,2028,1,0,0.0
+Delta,Training & Standardization Lead,2029,1,0,0.0
+Delta,Training & Standardization Lead,2030,1,0,0.0
+Delta,Training & Standardization Officer,2027,4,0,0.0
+Delta,Training & Standardization Officer,2028,4,0,0.0
+Delta,Training & Standardization Officer,2029,4,0,0.0
+Delta,Training & Standardization Officer,2030,4,0,0.0
+Delta,UAV Operator,2027,28,2,7.7
+Delta,UAV Operator,2028,30,2,15.4
+Delta,UAV Operator,2029,32,2,23.1
+Delta,UAV Operator,2030,34,2,30.8
+Gamma,Chief of Operations,2027,1,0,0.0
+Gamma,Chief of Operations,2028,1,0,0.0
+Gamma,Chief of Operations,2029,1,0,0.0
+Gamma,Chief of Operations,2030,1,0,0.0
+Gamma,Department Commander,2027,1,0,0.0
+Gamma,Department Commander,2028,1,0,0.0
+Gamma,Department Commander,2029,1,0,0.0
+Gamma,Department Commander,2030,1,0,0.0
+Gamma,Flight Control Officer,2027,4,0,0.0
+Gamma,Flight Control Officer,2028,4,0,0.0
+Gamma,Flight Control Officer,2029,4,0,0.0
+Gamma,Flight Control Officer,2030,4,0,0.0
+Gamma,Operations Officer,2027,18,1,5.9
+Gamma,Operations Officer,2028,19,1,11.8
+Gamma,Operations Officer,2029,20,1,17.6
+Gamma,Operations Officer,2030,22,2,29.4
+Gamma,Pilot-Operator,2027,25,2,8.7
+Gamma,Pilot-Operator,2028,28,3,21.7
+Gamma,Pilot-Operator,2029,31,3,34.8
+Gamma,Pilot-Operator,2030,34,3,47.8
+Gamma,Pilot-Operator Lead,2027,1,0,0.0
+Gamma,Pilot-Operator Lead,2028,1,0,0.0
+Gamma,Pilot-Operator Lead,2029,1,0,0.0
+Gamma,Pilot-Operator Lead,2030,1,0,0.0
+Gamma,Repair Specialist,2027,11,1,10.0
+Gamma,Repair Specialist,2028,12,1,20.0
+Gamma,Repair Specialist,2029,13,1,30.0
+Gamma,Repair Specialist,2030,14,1,40.0
+Gamma,Technical Service,2027,14,1,7.7
+Gamma,Technical Service,2028,15,1,15.4
+Gamma,Technical Service,2029,16,1,23.1
+Gamma,Technical Service,2030,17,1,30.8
+Gamma,Technical Service Lead,2027,1,0,0.0
+Gamma,Technical Service Lead,2028,1,0,0.0
+Gamma,Technical Service Lead,2029,1,0,0.0
+Gamma,Technical Service Lead,2030,1,0,0.0
+Gamma,Technical Staff,2027,25,2,8.7
+Gamma,Technical Staff,2028,27,2,17.4
+Gamma,Technical Staff,2029,30,3,30.4
+Gamma,Technical Staff,2030,33,3,43.5
+Gamma,Training & Standardization Lead,2027,1,0,0.0
+Gamma,Training & Standardization Lead,2028,1,0,0.0
+Gamma,Training & Standardization Lead,2029,1,0,0.0
+Gamma,Training & Standardization Lead,2030,1,0,0.0
+Gamma,Training & Standardization Officer,2027,3,0,0.0
+Gamma,Training & Standardization Officer,2028,3,0,0.0
+Gamma,Training & Standardization Officer,2029,3,0,0.0
+Gamma,Training & Standardization Officer,2030,3,0,0.0
+Gamma,UAV Operator,2027,24,2,9.1
+Gamma,UAV Operator,2028,26,2,18.2
+Gamma,UAV Operator,2029,28,2,27.3
+Gamma,UAV Operator,2030,31,3,40.9
+Sigma,Chief of Operations,2027,1,0,0.0
+Sigma,Chief of Operations,2028,1,0,0.0
+Sigma,Chief of Operations,2029,1,0,0.0
+Sigma,Chief of Operations,2030,1,0,0.0
+Sigma,Department Commander,2027,1,0,0.0
+Sigma,Department Commander,2028,1,0,0.0
+Sigma,Department Commander,2029,1,0,0.0
+Sigma,Department Commander,2030,1,0,0.0
+Sigma,Flight Control Officer,2027,4,0,0.0
+Sigma,Flight Control Officer,2028,4,0,0.0
+Sigma,Flight Control Officer,2029,4,0,0.0
+Sigma,Flight Control Officer,2030,4,0,0.0
+Sigma,Operations Officer,2027,18,2,12.5
+Sigma,Operations Officer,2028,21,3,31.2
+Sigma,Operations Officer,2029,24,3,50.0
+Sigma,Operations Officer,2030,27,3,68.8
+Sigma,Pilot-Operator,2027,27,4,17.4
+Sigma,Pilot-Operator,2028,31,4,34.8
+Sigma,Pilot-Operator,2029,36,5,56.5
+Sigma,Pilot-Operator,2030,42,6,82.6
+Sigma,Pilot-Operator Lead,2027,1,0,0.0
+Sigma,Pilot-Operator Lead,2028,1,0,0.0
+Sigma,Pilot-Operator Lead,2029,1,0,0.0
+Sigma,Pilot-Operator Lead,2030,1,0,0.0
+Sigma,Repair Specialist,2027,13,2,18.2
+Sigma,Repair Specialist,2028,15,2,36.4
+Sigma,Repair Specialist,2029,17,2,54.5
+Sigma,Repair Specialist,2030,19,2,72.7
+Sigma,Technical Service,2027,21,3,16.7
+Sigma,Technical Service,2028,24,3,33.3
+Sigma,Technical Service,2029,28,4,55.6
+Sigma,Technical Service,2030,33,5,83.3
+Sigma,Technical Service Lead,2027,1,0,0.0
+Sigma,Technical Service Lead,2028,1,0,0.0
+Sigma,Technical Service Lead,2029,1,0,0.0
+Sigma,Technical Service Lead,2030,1,0,0.0
+Sigma,Technical Staff,2027,35,5,16.7
+Sigma,Technical Staff,2028,41,6,36.7
+Sigma,Technical Staff,2029,48,7,60.0
+Sigma,Technical Staff,2030,56,8,86.7
+Sigma,Training & Standardization Lead,2027,1,0,0.0
+Sigma,Training & Standardization Lead,2028,1,0,0.0
+Sigma,Training & Standardization Lead,2029,1,0,0.0
+Sigma,Training & Standardization Lead,2030,1,0,0.0
+Sigma,Training & Standardization Officer,2027,3,0,0.0
+Sigma,Training & Standardization Officer,2028,3,0,0.0
+Sigma,Training & Standardization Officer,2029,3,0,0.0
+Sigma,Training & Standardization Officer,2030,3,0,0.0
+Sigma,UAV Operator,2027,30,4,15.4
+Sigma,UAV Operator,2028,34,4,30.8
+Sigma,UAV Operator,2029,39,5,50.0
+Sigma,UAV Operator,2030,45,6,73.1

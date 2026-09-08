@@ -1,0 +1,9 @@
+rank,rank_group,overall_seniority_order
+Junior Warrant Officer,Warrant Officer,0
+Warrant Officer,Warrant Officer,1
+Senior Warrant Officer,Warrant Officer,2
+Lieutenant,Officer,3
+Senior Lieutenant,Officer,4
+Captain,Officer,5
+Major,Officer,6
+Lieutenant Colonel,Officer,7

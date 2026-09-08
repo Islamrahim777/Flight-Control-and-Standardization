@@ -1,0 +1,66 @@
+department,specialization,filled_positions,authorized_positions,vacancy_count,fill_rate_pct
+Alpha,Chief of Operations,1,1,0,100.0
+Alpha,Department Commander,1,1,0,100.0
+Alpha,Flight Control Officer,3,4,1,75.0
+Alpha,Operations Officer,14,16,2,87.5
+Alpha,Pilot-Operator,20,26,6,76.9
+Alpha,Pilot-Operator Lead,1,1,0,100.0
+Alpha,Repair Specialist,8,10,2,80.0
+Alpha,Technical Service,12,14,2,85.7
+Alpha,Technical Service Lead,1,1,0,100.0
+Alpha,Technical Staff,20,24,4,83.3
+Alpha,Training & Standardization Lead,1,1,0,100.0
+Alpha,Training & Standardization Officer,3,3,0,100.0
+Alpha,UAV Operator,20,26,6,76.9
+Beta,Chief of Operations,1,1,0,100.0
+Beta,Department Commander,1,1,0,100.0
+Beta,Flight Control Officer,3,3,0,100.0
+Beta,Operations Officer,14,17,3,82.4
+Beta,Pilot-Operator,20,23,3,87.0
+Beta,Pilot-Operator Lead,1,1,0,100.0
+Beta,Repair Specialist,8,10,2,80.0
+Beta,Technical Service,12,16,4,75.0
+Beta,Technical Service Lead,1,1,0,100.0
+Beta,Technical Staff,20,24,4,83.3
+Beta,Training & Standardization Lead,1,1,0,100.0
+Beta,Training & Standardization Officer,3,4,1,75.0
+Beta,UAV Operator,20,26,6,76.9
+Delta,Chief of Operations,1,1,0,100.0
+Delta,Department Commander,1,1,0,100.0
+Delta,Flight Control Officer,3,4,1,75.0
+Delta,Operations Officer,14,16,2,87.5
+Delta,Pilot-Operator,20,26,6,76.9
+Delta,Pilot-Operator Lead,1,1,0,100.0
+Delta,Repair Specialist,8,9,1,88.9
+Delta,Technical Service,12,14,2,85.7
+Delta,Technical Service Lead,1,1,0,100.0
+Delta,Technical Staff,20,23,3,87.0
+Delta,Training & Standardization Lead,1,1,0,100.0
+Delta,Training & Standardization Officer,3,4,1,75.0
+Delta,UAV Operator,20,26,6,76.9
+Gamma,Chief of Operations,1,1,0,100.0
+Gamma,Department Commander,1,1,0,100.0
+Gamma,Flight Control Officer,3,4,1,75.0
+Gamma,Operations Officer,14,17,3,82.4
+Gamma,Pilot-Operator,20,23,3,87.0
+Gamma,Pilot-Operator Lead,1,1,0,100.0
+Gamma,Repair Specialist,8,10,2,80.0
+Gamma,Technical Service,12,13,1,92.3
+Gamma,Technical Service Lead,1,1,0,100.0
+Gamma,Technical Staff,20,23,3,87.0
+Gamma,Training & Standardization Lead,1,1,0,100.0
+Gamma,Training & Standardization Officer,3,3,0,100.0
+Gamma,UAV Operator,20,22,2,90.9
+Sigma,Chief of Operations,1,1,0,100.0
+Sigma,Department Commander,1,1,0,100.0
+Sigma,Flight Control Officer,3,4,1,75.0
+Sigma,Operations Officer,14,16,2,87.5
+Sigma,Pilot-Operator,20,23,3,87.0
+Sigma,Pilot-Operator Lead,1,1,0,100.0
+Sigma,Repair Specialist,8,11,3,72.7
+Sigma,Technical Service,12,18,6,66.7
+Sigma,Technical Service Lead,1,1,0,100.0
+Sigma,Technical Staff,20,30,10,66.7
+Sigma,Training & Standardization Lead,1,1,0,100.0
+Sigma,Training & Standardization Officer,3,3,0,100.0
+Sigma,UAV Operator,20,26,6,76.9
