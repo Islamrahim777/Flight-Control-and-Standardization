@@ -4,18 +4,19 @@ An end-to-end data analytics portfolio project: a synthetic dataset modeling 525
 
 All data is 100% synthetic. Names, IDs, ranks, and records are generated for demonstration purposes only and do not represent real people, units, or events.
 
-📊 Interactive Dashboards (Tableau Public)
-#	Dashboard	Focus
-1	Sigma Paradox: Low Risk, Low Recognition	Department-level reward system inequity — Sigma has the lowest risk score yet the most under-recognized top performers
-2	Flight Hours for per Rank	Methodology lesson: cumulative vs. last-12-month measurement changes the story
-3	Training Investment Pays Off	Aviation School training advantage + first-shot learning curve effect
-4	Aircraft Reliability Declines With Age	Fleet aging and in-flight technical problem rates
-5	Simpson's Paradox: When Aggregation Lies	A real statistical paradox: the maintenance-reliability relationship reverses depending on aggregation level
-6	Annual Flight Hour Compliance Tracker	Interactive — adjustable minimum-hours threshold parameter + dynamic department filtering
-7	Monthly Operations Dashboard	Interactive — 4 synchronized charts (flight hours, fuel, shooting, technical problems), filterable by year/month
-8	Regional Performance Profile	Recruitment region vs. shooting success, discipline rate, and rank composition
-9	Commissioning Source Effect by Role	Officer commissioning path performance varies by role — an actionable recruitment recommendation
-Why this project
+## 📊 Interactive Dashboards (Tableau Public)
+
+| # | Dashboard | Focus |
+|---|---|---|
+| 1 | [Sigma Paradox: Low Risk, Low Recognition](https://public.tableau.com/app/profile/islam.rahimov/viz/UAVUnitAnalytics-SigmaDepartmentDeepDive/SigmaParadoxLowRiskLowRecognition) | Department-level reward system inequity — Sigma has the lowest risk score yet the most under-recognized top performers |
+| 2 | [Flight Hours for per Rank](https://public.tableau.com/app/profile/islam.rahimov/viz/FlightHoursforperrank/Dashboard3) | Methodology lesson: cumulative vs. last-12-month measurement changes the story |
+| 3 | [Training Investment Pays Off](https://public.tableau.com/app/profile/islam.rahimov/viz/TrainingInvestmentPaysOff_17893185486170/TrainingInvestmentPaysOff) | Aviation School training advantage + first-shot learning curve effect |
+| 4 | [Aircraft Reliability Declines With Age](https://public.tableau.com/app/profile/islam.rahimov/viz/AircraftReliabilityDeclinesWithAge_17893185902610/AircraftReliabilityDeclinesWithAge) | Fleet aging and in-flight technical problem rates |
+| 5 | [Simpson's Paradox: When Aggregation Lies](https://public.tableau.com/app/profile/islam.rahimov/viz/SimpsonsParadoxWhenAggregationLies_17893186472610/SimpsonsParadoxWhenAggregationLies) | A real statistical paradox: the maintenance-reliability relationship reverses depending on aggregation level |
+| 6 | [Annual Flight Hour Compliance Tracker](https://public.tableau.com/app/profile/islam.rahimov/viz/AnnualFlightHourComplianceTracker_2025/AnnualFlightHour_ComplianceTracker_2025) | **Interactive** — adjustable minimum-hours threshold parameter + dynamic department filtering |
+| 7 | [Monthly Operations Dashboard](https://public.tableau.com/app/profile/islam.rahimov/viz/MonthlyOperationsDashboardFlightHoursFuelShootingTechnicalProblems/MonthlyOperationsDashboardFlightHoursFuelShootingTechnicalProblems) | **Interactive** — 4 synchronized charts (flight hours, fuel, shooting, technical problems), filterable by year/month |
+| 8 | [Regional Performance Profile](https://public.tableau.com/app/profile/islam.rahimov/viz/RegionalPerformanceProfile/RegionalPerformanceProfile) | Recruitment region vs. shooting success, discipline rate, and rank composition |
+| 9 | [Commissioning Source Effect by Role](https://public.tableau.com/app/profile/islam.rahimov/viz/CommissioningSourceEffectbyRole/Dashboard7) | Officer commissioning path performance varies by role — an actionable recruitment recommendation |
 
 Most portfolio datasets are either too clean (no real analytical story) or too random (no findings to surface). This one is engineered the opposite way: every relationship in the data is intentional — some strong, some deliberately weak or noisy — so the analysis surfaces real, non-obvious findings, not just charts of random numbers.
 
