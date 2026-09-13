@@ -106,4 +106,49 @@ SELECT education_level, COUNT(*) AS person_count
 FROM personal
 GROUP BY education_level
 ORDER BY person_count DESC;
- 
+
+-- 13. Recruitment distribution by home region
+SELECT 
+    home_region,
+    COUNT(*) AS num_people
+FROM personal
+GROUP BY home_region
+ORDER BY num_people DESC;
+
+-- 14. Region-level performance profile: success rate, per-capita discipline
+-- rate, and officer/warrant officer composition, by home_region.
+WITH success_rates AS (
+    SELECT 
+        personal.home_region,
+        ROUND(COUNT(*) FILTER (WHERE outcome = 'Successful') * 100.0 / COUNT(*), 1) AS success_rate_pct
+    FROM shooting_performance
+    JOIN personal ON shooting_performance.person_id = personal.person_id
+    GROUP BY personal.home_region
+),
+rank_composition AS (
+    SELECT
+        home_region,
+        COUNT(*) AS total_headcount,
+        COUNT(*) FILTER (WHERE rank_group = 'Officer') AS num_officers,
+        COUNT(*) FILTER (WHERE rank_group = 'Warrant Officer') AS num_warrant_officers
+    FROM personal
+    GROUP BY home_region
+),
+discipline AS (
+    SELECT 
+        personal.home_region,
+        COUNT(*) FILTER (WHERE record_type IN ('Reprimand', 'Warning')) AS negative_discipline_records
+    FROM discipline_records
+    JOIN personal ON discipline_records.person_id = personal.person_id
+    GROUP BY personal.home_region
+)
+SELECT
+    rank_composition.home_region,
+    success_rates.success_rate_pct,
+    ROUND(COALESCE(discipline.negative_discipline_records, 0) * 100.0 / rank_composition.total_headcount, 1) AS discipline_rate_pct,
+    rank_composition.num_officers,
+    rank_composition.num_warrant_officers
+FROM rank_composition
+LEFT JOIN success_rates ON success_rates.home_region = rank_composition.home_region
+LEFT JOIN discipline ON discipline.home_region = rank_composition.home_region
+ORDER BY success_rates.success_rate_pct DESC;

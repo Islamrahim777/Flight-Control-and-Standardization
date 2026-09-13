@@ -178,3 +178,21 @@ JOIN mission_technical_log
     AND aircraft_monthly_maintenance.month = mission_technical_log.month
 GROUP BY maintenance_bucket
 ORDER BY maintenance_bucket;
+
+
+
+-- 16. Success rate by commissioning source AND specialization —
+-- reveals whether a commissioning path's strength depends on role type
+-- (e.g. Civilian-commissioned officers may excel as pilots but
+-- underperform as operations officers).
+SELECT 
+    personal.officer_commissioning_source,
+    personal.specialization,
+    COUNT(*) AS total_shots,
+    ROUND(COUNT(*) FILTER (WHERE outcome = 'Successful') * 100.0 / COUNT(*), 1) AS success_rate_pct
+FROM shooting_performance
+JOIN personal ON shooting_performance.person_id = personal.person_id
+WHERE personal.officer_commissioning_source IS NOT NULL
+GROUP BY personal.officer_commissioning_source, personal.specialization
+HAVING COUNT(*) >= 10
+ORDER BY personal.officer_commissioning_source, success_rate_pct DESC;
