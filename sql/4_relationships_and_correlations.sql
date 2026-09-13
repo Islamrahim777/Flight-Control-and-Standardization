@@ -156,3 +156,25 @@ ORDER BY MIN(person_hours.total_flight_hours);
    individual aptitude) — a useful finding for training-budget allocation
    decisions. */
  
+
+-- Query 6: Individual aircraft-month level correlation (for Simpson's Paradox comparison)
+-- This is the "ground truth" granular data behind Query 4's department-year
+-- aggregation. At THIS level, maintenance and problems correlate negatively
+-- (more maintenance -> fewer problems) -- the opposite of what Query 4 showed
+-- at the aggregated level, because Query 4's positive correlation was an
+-- artifact of both metrics rising together as the whole fleet aged over time.
+SELECT 
+    CASE 
+        WHEN aircraft_monthly_maintenance.maintenance_hours < 12 THEN '0-12h'
+        WHEN aircraft_monthly_maintenance.maintenance_hours < 16 THEN '12-16h'
+        WHEN aircraft_monthly_maintenance.maintenance_hours < 20 THEN '16-20h'
+        ELSE '20h+'
+    END AS maintenance_bucket,
+    ROUND(COUNT(*) FILTER (WHERE mission_technical_log.had_inflight_technical_problem) * 100.0 / COUNT(*), 1) AS problem_rate_pct
+FROM aircraft_monthly_maintenance
+JOIN mission_technical_log 
+    ON aircraft_monthly_maintenance.aircraft_id = mission_technical_log.aircraft_id 
+    AND aircraft_monthly_maintenance.year = mission_technical_log.year 
+    AND aircraft_monthly_maintenance.month = mission_technical_log.month
+GROUP BY maintenance_bucket
+ORDER BY maintenance_bucket;

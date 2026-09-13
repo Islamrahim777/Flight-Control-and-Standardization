@@ -1,24 +1,5 @@
-
-/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1 basic queries · SQL
--- ============================================================
--- 1_basic_queries.sql
 -- Basic descriptive statistics on the UAV unit personnel
--- ============================================================
+
  
 -- 1. How many people are in each department?
 SELECT department, COUNT(*) AS num_people
