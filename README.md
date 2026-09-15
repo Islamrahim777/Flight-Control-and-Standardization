@@ -26,6 +26,8 @@ Python (generation + cleaning) → SQLite / PostgreSQL / MySQL (relational model
                                 → Excel (formulas / QA)
                                 → Tableau (9 dashboards, 2 fully interactive)
 Python (scripts/) generates 21 interconnected tables with realistic constraints (rank-tenure consistency, crew rotation logic, seasonal flight patterns, aircraft aging) — see Data model below. scripts/data_cleaning/ demonstrates a full pandas cleaning pipeline (deduplication, text normalization, cross-table imputation) on a deliberately "dirtied" version of the personnel table.
+
+**Python analysis notebook**: [`scripts/uav_python_analysis.ipynb`](scripts/uav_python_analysis.ipynb) recreates all key findings below using pandas, matplotlib, and seaborn — charts render directly on GitHub, no setup needed.
 SQLite (database/uav_analytics.db) hosts all 21 tables with full foreign-key enforcement. PostgreSQL and MySQL setup scripts (sql/postgres_setup/) provide an alternative production-style setup, including course-style step-by-step schema/load scripts.
 SQL (sql/portfolio_analysis/) — 6 organized files covering the full range of SQL techniques: aggregations and CASE logic, CTEs, window functions (ROW_NUMBER, LAG, NTILE, AVG() OVER), HAVING, NOT EXISTS, native CORR(), UNION/INTERSECT/EXCEPT, ROLLUP/GROUPING SETS, and a reusable CREATE VIEW.
 Excel (excel/) — a formula-driven workbook (AVERAGEIF, INDEX/MATCH, conditional formatting) plus a readable monthly flight log report.
